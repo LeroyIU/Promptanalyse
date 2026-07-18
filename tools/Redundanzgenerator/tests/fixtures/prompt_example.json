@@ -1,0 +1,26 @@
+{
+  "instruction": "Answer the following question with a short factual answer.",
+  "demonstrations": [
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo",
+      "meta": {
+        "id": 102,
+        "prop": "capital"
+      }
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "Ottawa",
+      "meta": {
+        "id": 103,
+        "prop": "capital"
+      }
+    }
+  ],
+  "query": "What is the capital of France?",
+  "meta": {
+    "id": 101,
+    "prop": "capital"
+  }
+}

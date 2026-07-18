@@ -1,0 +1,14 @@
+{
+  "wrappers": [
+    "{instruction}",
+    "To repeat the instruction: {instruction}",
+    "Remember: {instruction}",
+    "As a reminder: {instruction}",
+    "Once again: {instruction}",
+    "Note the task: {instruction}",
+    "Keep in mind: {instruction}",
+    "The instruction, restated: {instruction}",
+    "Again, your task is as follows: {instruction}",
+    "Do not forget: {instruction}"
+  ]
+}
