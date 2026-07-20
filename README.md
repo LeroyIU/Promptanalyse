@@ -5,7 +5,10 @@ Dieses Repository dokumentiert die im Rahmen meiner Abschlussarbeit durchgeführ
 ## Inhalt
 
 - **Tools** – Skripte und Werkzeuge zur Durchführung und Auswertung der Promptanalyse
+  - *Redundanzgenerator* – erzeugt kontrollierte Redundanzen in Few-Shot-Prompts
+  - *PipelineStore* – strukturierte Ablage der Pipeline-Prompts + auswertbares Manifest
 - **Datasets** – die verwendeten Datengrundlagen
+- **Experiments** – Ablage der Pipeline-Läufe (`raw → redundanztyp → kompressionsrate → inferenz`) samt Manifest für die statistische Auswertung; siehe [`experiments/README.md`](experiments/README.md)
 - **Ergebnisse** – aus der Analyse hervorgegangene Auswertungen und Erkenntnisse
 
 ## Kontext

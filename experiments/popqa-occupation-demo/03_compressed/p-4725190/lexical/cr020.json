@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-4725190",
+  "redundancy_type": "lexical",
+  "target_ratio": 0.2,
+  "compressate_id": "p-4725190__lexical__cr020",
+  "text": "Answer the following question with a short factual answer. Q: What is Darrell Hammond's",
+  "n_tokens": 14,
+  "n_tokens_source": 71,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

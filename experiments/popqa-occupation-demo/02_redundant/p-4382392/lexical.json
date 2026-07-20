@@ -1,0 +1,25 @@
+{
+  "prompt_id": "p-4382392",
+  "redundancy_type": "lexical",
+  "variant_id": "p-4382392__lexical",
+  "text": "Answer the following question with a short factual answer.\n\nQ: What is Darrell Hammond's occupation?\nA: actor\n\nQ: What is Natasha Leggero's occupation?\nA: actor\n\nQ: What is Gunnar Uldall's occupation?\nA: politician\n\nQ: What is Arkady Chernetsky's occupation?\nA: politician\n\nQ: What is Henry Feilden's occupation?\nQ: What is the occupation of Henry Feilden?\nQ: What is Henry Feilden's job?\nQ: What does Henry Feilden earn a living as?\nA:",
+  "n_tokens": 71,
+  "redundancy_report": [
+    {
+      "strategy": "lexical",
+      "inserted": [
+        {
+          "target": "query",
+          "paraphrases": [
+            "What is the occupation of Henry Feilden?",
+            "What is Henry Feilden's job?",
+            "What does Henry Feilden earn a living as?"
+          ]
+        }
+      ]
+    }
+  ],
+  "generator": "redundanzgenerator@0.1.0",
+  "seed": 42,
+  "meta": {}
+}

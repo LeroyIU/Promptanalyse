@@ -1,0 +1,11 @@
+{
+  "prompt_id": "p-4222362",
+  "redundancy_type": "baseline",
+  "variant_id": "p-4222362__baseline",
+  "text": "Answer the following question with a short factual answer.\n\nQ: What is Darrell Hammond's occupation?\nA: actor\n\nQ: What is Natasha Leggero's occupation?\nA: actor\n\nQ: What is Gunnar Uldall's occupation?\nA: politician\n\nQ: What is Arkady Chernetsky's occupation?\nA: politician\n\nQ: What is George Rankin's occupation?\nA:",
+  "n_tokens": 48,
+  "redundancy_report": [],
+  "generator": "redundanzgenerator@0.1.0",
+  "seed": 42,
+  "meta": {}
+}

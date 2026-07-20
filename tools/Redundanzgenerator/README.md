@@ -60,7 +60,7 @@ Basis-Few-Shot-Prompt direkt aus PopQA bauen:
 redundanzgen build --popqa akariasai/PopQA --query-id 12345 --n-demos 4 --output prompt.json
 ```
 
-Als Datenquelle (`--popqa`, `--popqa-tp`) funktioniert jeweils eine Hugging-Face-Dataset-ID (benötigt Extra `[hf]`) **oder** eine lokale CSV-/JSON-/JSONL-Datei mit denselben Spalten.
+Als Datenquelle (`--popqa`, `--popqa-tp`) funktioniert jeweils eine Hugging-Face-Dataset-ID (benötigt Extra `[hf]`) **oder** eine lokale CSV-/TSV-/JSON-/JSONL-Datei mit denselben Spalten (das mitgelieferte `datasets/popQA/test.tsv` lädt direkt).
 
 ## Bibliotheks-API
 

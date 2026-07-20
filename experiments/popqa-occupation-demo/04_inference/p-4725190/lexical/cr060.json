@@ -1,0 +1,12 @@
+{
+  "compressate_id": "p-4725190__lexical__cr060",
+  "model": "offline-gold-containment",
+  "output": "",
+  "gold_answer": "journalist",
+  "is_correct": false,
+  "metrics": {
+    "gold_retained": 0.0
+  },
+  "seed": 42,
+  "meta": {}
+}

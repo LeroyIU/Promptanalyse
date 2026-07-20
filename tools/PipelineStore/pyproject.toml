@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pipelinestore"
+version = "0.1.0"
+description = "Structured storage + tidy manifest for the redundancy/compression experiment pipeline (raw -> redundancy type -> compression rate -> inference)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+# NOTE: the end-to-end integration (pipelinestore.redundancy_pipeline) also needs
+# the sibling `redundanzgenerator` package. It is not on PyPI, so install it
+# editable from this repo rather than as a resolved dependency:
+#     pip install -e tools/Redundanzgenerator
+# The core storage package has no such dependency and imports it only lazily.
+
+[project.scripts]
+pipelinestore = "pipelinestore.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
