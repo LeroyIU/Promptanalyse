@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "combined",
+  "target_ratio": 0.6,
+  "compressate_id": "p-205__combined__cr060",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A: Please answer shortly. Q: Capital",
+  "n_tokens": 12,
+  "n_tokens_source": 20,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

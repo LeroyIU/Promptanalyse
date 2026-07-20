@@ -1,0 +1,13 @@
+{
+  "compressate_id": "p-205__instructions__cr080",
+  "model": "demo-echo",
+  "output": "(unknown)",
+  "gold_answer": "Shakespeare",
+  "is_correct": false,
+  "metrics": {
+    "exact_match": 0.0,
+    "latency_ms": 24.0
+  },
+  "seed": 42,
+  "meta": {}
+}

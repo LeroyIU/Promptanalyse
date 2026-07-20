@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "instructions",
+  "target_ratio": 0.4,
+  "compressate_id": "p-205__instructions__cr040",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A:",
+  "n_tokens": 7,
+  "n_tokens_source": 18,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

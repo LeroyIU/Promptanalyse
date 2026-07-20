@@ -1,0 +1,9 @@
+{
+  "prompt_id": "p-377",
+  "text": "Answer shortly. Q: What is the capital of Japan? A:",
+  "n_tokens": 10,
+  "source": "popqa",
+  "source_id": "377",
+  "source_prop": "capital",
+  "meta": {}
+}

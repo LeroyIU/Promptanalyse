@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-101",
+  "redundancy_type": "lexical",
+  "target_ratio": 0.8,
+  "compressate_id": "p-101__lexical__cr080",
+  "text": "Answer shortly. Q: What is the capital of France? A: Rephrased: state the answer.",
+  "n_tokens": 14,
+  "n_tokens_source": 18,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

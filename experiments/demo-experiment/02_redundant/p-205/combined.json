@@ -1,0 +1,10 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "combined",
+  "variant_id": "p-205__combined",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A:  Please answer shortly. Q: Capital of Italy? A: Rome. Rephrased: give the answer.",
+  "n_tokens": 20,
+  "generator": "redundanzgenerator@0.1.0 (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

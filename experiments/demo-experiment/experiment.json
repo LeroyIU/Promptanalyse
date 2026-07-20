@@ -1,0 +1,19 @@
+{
+  "experiment_id": "demo-experiment",
+  "description": "Worked example of the redundancy/compression storage layout.",
+  "redundancy_types": [
+    "lexical",
+    "demonstrations",
+    "instructions",
+    "combined"
+  ],
+  "compression_rates": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "inference_model": "demo-echo",
+  "token_counter": "whitespace (placeholder -- replace with a real tokenizer)",
+  "seed": 42
+}

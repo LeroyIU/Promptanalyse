@@ -1,0 +1,10 @@
+{
+  "prompt_id": "p-101",
+  "redundancy_type": "lexical",
+  "variant_id": "p-101__lexical",
+  "text": "Answer shortly. Q: What is the capital of France? A:  Rephrased: state the answer. Again: give the answer.",
+  "n_tokens": 18,
+  "generator": "redundanzgenerator@0.1.0 (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

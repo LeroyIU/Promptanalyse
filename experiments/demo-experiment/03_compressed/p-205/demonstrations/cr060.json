@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.6,
+  "compressate_id": "p-205__demonstrations__cr060",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A: Q: Capital of Egypt?",
+  "n_tokens": 11,
+  "n_tokens_source": 19,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-377",
+  "redundancy_type": "combined",
+  "target_ratio": 0.4,
+  "compressate_id": "p-377__combined__cr040",
+  "text": "Answer shortly. Q: What is the capital of Japan?",
+  "n_tokens": 9,
+  "n_tokens_source": 23,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

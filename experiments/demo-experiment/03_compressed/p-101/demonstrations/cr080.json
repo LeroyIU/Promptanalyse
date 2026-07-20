@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-101",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.8,
+  "compressate_id": "p-101__demonstrations__cr080",
+  "text": "Answer shortly. Q: What is the capital of France? A: Q: Capital of Egypt? A: Cairo. Q: Capital",
+  "n_tokens": 18,
+  "n_tokens_source": 22,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

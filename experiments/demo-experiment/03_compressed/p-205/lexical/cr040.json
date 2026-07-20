@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "lexical",
+  "target_ratio": 0.4,
+  "compressate_id": "p-205__lexical__cr040",
+  "text": "Answer shortly. Q: Who wrote Hamlet?",
+  "n_tokens": 6,
+  "n_tokens_source": 15,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

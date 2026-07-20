@@ -1,0 +1,10 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "instructions",
+  "variant_id": "p-205__instructions",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A:  Answer shortly. Please answer shortly. Reply with a short factual answer.",
+  "n_tokens": 18,
+  "generator": "redundanzgenerator@0.1.0 (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

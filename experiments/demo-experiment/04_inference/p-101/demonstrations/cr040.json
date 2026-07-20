@@ -1,0 +1,13 @@
+{
+  "compressate_id": "p-101__demonstrations__cr040",
+  "model": "demo-echo",
+  "output": "(unknown)",
+  "gold_answer": "Paris",
+  "is_correct": false,
+  "metrics": {
+    "exact_match": 0.0,
+    "latency_ms": 19.0
+  },
+  "seed": 42,
+  "meta": {}
+}

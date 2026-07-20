@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "combined",
+  "target_ratio": 0.2,
+  "compressate_id": "p-205__combined__cr020",
+  "text": "Answer shortly. Q: Who",
+  "n_tokens": 4,
+  "n_tokens_source": 20,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

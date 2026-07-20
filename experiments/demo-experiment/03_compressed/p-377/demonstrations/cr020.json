@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-377",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.2,
+  "compressate_id": "p-377__demonstrations__cr020",
+  "text": "Answer shortly. Q: What",
+  "n_tokens": 4,
+  "n_tokens_source": 22,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}
