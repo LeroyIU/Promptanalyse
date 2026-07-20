@@ -2,10 +2,10 @@
   "experiment_id": "demo-experiment",
   "description": "Worked example of the redundancy/compression storage layout.",
   "redundancy_types": [
+    "baseline",
     "lexical",
     "demonstrations",
-    "instructions",
-    "combined"
+    "instructions"
   ],
   "compression_rates": [
     0.2,

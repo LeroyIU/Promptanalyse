@@ -11,7 +11,7 @@ from pipelinestore import (
     whitespace_tokens,
 )
 
-REDUNDANCY_TYPES = ["lexical", "demonstrations", "instructions", "combined"]
+REDUNDANCY_TYPES = ["baseline", "lexical", "demonstrations", "instructions"]
 RATES = [0.2, 0.4, 0.6, 0.8]
 
 

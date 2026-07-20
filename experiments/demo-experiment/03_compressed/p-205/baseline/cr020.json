@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.2,
+  "compressate_id": "p-205__baseline__cr020",
+  "text": "Answer",
+  "n_tokens": 1,
+  "n_tokens_source": 7,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

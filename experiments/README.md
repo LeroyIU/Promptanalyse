@@ -4,12 +4,19 @@ Ablagesystem für die Prompts entlang der Experiment-Pipeline. Die Pipeline hat
 vier Stages, mit fester Verzweigung pro Raw-Prompt:
 
 ```
-raw prompt  ─▶  redundanztyp  ─▶  kompressionsrate  ─▶  inferenz
-   1 Raw   =   4 Redundanztypen  ×   4 Kompressionsraten  =  16 Kompressate
+raw prompt  ─▶  variante  ─▶  kompressionsrate  ─▶  inferenz
+   1 Raw   =   4 Varianten  ×   4 Kompressionsraten  =  16 Kompressate
 ```
 
-Jedes **Kompressat** (= 1 Redundanztyp bei 1 Kompressionsrate) ist die
-statistische **Beobachtungseinheit**. Es gibt genau 16 davon pro Raw-Prompt.
+Die **4 Varianten** pro Raw-Prompt sind die **Basis** (Kontrolle: der
+Raw-Prompt ohne hinzugefügte Redundanz) plus die **3 Redundanztypen**
+(`lexical`, `demonstrations`, `instructions`). Alle vier werden bei denselben
+4 Kompressionsraten komprimiert.
+
+Jedes **Kompressat** (= 1 Variante bei 1 Kompressionsrate) ist die statistische
+**Beobachtungseinheit**. Es gibt genau 16 davon pro Raw-Prompt. In der
+Auswertung ist `baseline` das **Referenzlevel** des Faktors `redundancy_type` —
+so misst du den Effekt jedes Redundanztyps gegen die redundanzfreie Kontrolle.
 
 ## Warum diese Struktur (die eigentliche Design-Entscheidung)
 

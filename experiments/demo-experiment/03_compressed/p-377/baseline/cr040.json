@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-377",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.4,
+  "compressate_id": "p-377__baseline__cr040",
+  "text": "Answer shortly. Q: What",
+  "n_tokens": 4,
+  "n_tokens_source": 10,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

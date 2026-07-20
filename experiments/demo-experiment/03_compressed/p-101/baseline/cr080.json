@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-101",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.8,
+  "compressate_id": "p-101__baseline__cr080",
+  "text": "Answer shortly. Q: What is the capital of",
+  "n_tokens": 8,
+  "n_tokens_source": 10,
+  "compressor": "truncate@demo (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

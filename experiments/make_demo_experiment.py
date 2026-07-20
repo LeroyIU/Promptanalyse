@@ -24,8 +24,10 @@ from pipelinestore import (
     whitespace_tokens,
 )
 
-# 4 redundancy types x 4 compression rates = 16 compressates per raw prompt.
-REDUNDANCY_TYPES = ["lexical", "demonstrations", "instructions", "combined"]
+# 4 variant conditions x 4 compression rates = 16 compressates per raw prompt.
+# "baseline" is the control: the raw prompt with NO added redundancy, compressed
+# at the same rates. The other three are the redundancy types of the generator.
+REDUNDANCY_TYPES = ["baseline", "lexical", "demonstrations", "instructions"]
 COMPRESSION_RATES = [0.2, 0.4, 0.6, 0.8]
 
 RAW_PROMPTS = [
@@ -35,10 +37,10 @@ RAW_PROMPTS = [
 ]
 
 FILLER = {
+    "baseline": "",  # control: no redundancy added, variant == raw prompt
     "lexical": "Rephrased: state the answer. Again: give the answer.",
     "demonstrations": "Q: Capital of Egypt? A: Cairo. Q: Capital of Italy? A: Rome.",
     "instructions": "Answer shortly. Please answer shortly. Reply with a short factual answer.",
-    "combined": "Please answer shortly. Q: Capital of Italy? A: Rome. Rephrased: give the answer.",
 }
 
 
@@ -69,7 +71,8 @@ def main() -> None:
         store.store_raw(raw)
 
         for rtype in REDUNDANCY_TYPES:
-            vtext = raw.text + "  " + FILLER[rtype]
+            filler = FILLER[rtype]
+            vtext = raw.text + ("  " + filler if filler else "")
             variant = RedundantVariant(
                 prompt_id=pid,
                 redundancy_type=rtype,

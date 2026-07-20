@@ -1,0 +1,10 @@
+{
+  "prompt_id": "p-205",
+  "redundancy_type": "baseline",
+  "variant_id": "p-205__baseline",
+  "text": "Answer shortly. Q: Who wrote Hamlet? A:",
+  "n_tokens": 7,
+  "generator": "redundanzgenerator@0.1.0 (placeholder)",
+  "seed": 42,
+  "meta": {}
+}

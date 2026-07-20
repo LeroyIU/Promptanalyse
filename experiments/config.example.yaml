@@ -8,14 +8,14 @@ inference_model: claude-...        # das für Stage 4 verwendete Modell
 seed: 42                           # globaler Seed für Reproduzierbarkeit
 token_counter: whitespace          # oder z. B. tiktoken/cl100k_base
 
-# 4 Redundanztypen. Die ersten drei entsprechen dem Redundanzgenerator dieses
-# Repos; der vierte ist hier "combined" (alle drei zusammen) als Platzhalter --
-# bei Bedarf durch den tatsächlich geplanten vierten Typ ersetzen.
+# 4 Varianten-Bedingungen pro Raw-Prompt: die Basis (Kontrolle, ohne
+# hinzugefügte Redundanz) plus die drei Redundanztypen des Redundanzgenerators.
+# "baseline" dient in der Auswertung als Referenzlevel des Faktors.
 redundancy_types:
+  - baseline         # Kontrolle: Raw-Prompt ohne Redundanz, gleich komprimiert
   - lexical          # Paraphrasen (PopQA-TP)
   - demonstrations   # zusätzliche redundante Demonstrationen (PopQA)
   - instructions     # wiederholte/umformulierte Instruktionen
-  - combined         # Kombination der drei -> anpassen falls anders geplant
 
 # 4 Kompressionsraten = Anteil behaltener Tokens (0..1).
 compression_rates: [0.2, 0.4, 0.6, 0.8]
