@@ -43,6 +43,36 @@ store.build_manifest()      # -> manifest.jsonl + manifest.csv
   `InferenceResult`) plus `TidyRow` (flache Auswertungszeile).
 - `store` – Pfade, Schreiben der Artefakte, Neubau des Manifests aus dem Baum.
 
+## End-to-End mit dem Redundanzgenerator
+
+`pipelinestore.redundancy_pipeline` verdrahtet den echten `redundanzgenerator`
+(Stages 1–2) mit dem Store und fährt die volle Verzweigung (Basis + 3
+Redundanztypen × 4 Raten). Kompression und Inferenz sind einsteckbare Callables
+mit offline Baselines als Default. Der `redundanzgenerator` wird **lazy**
+importiert — das Kern-Package bleibt abhängigkeitsfrei; separat editable
+installieren:
+
+```bash
+pip install -e ../Redundanzgenerator
+```
+
+```python
+from pipelinestore import PipelineStore
+from pipelinestore.redundancy_pipeline import run_pipeline, RedundancyCounts
+
+run_pipeline(
+    PipelineStore("experiments", "run-2026-07"),
+    popqa_source="datasets/popQA/test.tsv",
+    popqa_tp_source="datasets/popQA/popQA_template_paraphrases.csv",
+    query_ids=["4222362", "4725190"],
+    compression_rates=[0.2, 0.4, 0.6, 0.8],
+    counts=RedundancyCounts(lexical=3, demonstrations=3, instructions=2),
+    # compress=..., infer=...  <- echte Methoden hier einsetzen
+)
+```
+
+Runnable driver: [`../../experiments/run_pipeline.py`](../../experiments/run_pipeline.py).
+
 ## CLI
 
 ```bash

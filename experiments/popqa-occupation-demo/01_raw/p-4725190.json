@@ -1,0 +1,59 @@
+{
+  "prompt_id": "p-4725190",
+  "text": "Answer the following question with a short factual answer.\n\nQ: What is Darrell Hammond's occupation?\nA: actor\n\nQ: What is Natasha Leggero's occupation?\nA: actor\n\nQ: What is Gunnar Uldall's occupation?\nA: politician\n\nQ: What is Arkady Chernetsky's occupation?\nA: politician\n\nQ: What is John Mayne's occupation?\nA:",
+  "n_tokens": 48,
+  "source": "popqa",
+  "source_id": "4725190",
+  "source_prop": "occupation",
+  "structured": {
+    "instructions": [
+      "Answer the following question with a short factual answer."
+    ],
+    "demonstrations": [
+      {
+        "question": "What is Darrell Hammond's occupation?",
+        "answer": "actor",
+        "meta": {
+          "id": "2120061",
+          "prop": "occupation"
+        }
+      },
+      {
+        "question": "What is Natasha Leggero's occupation?",
+        "answer": "actor",
+        "meta": {
+          "id": "1541610",
+          "prop": "occupation"
+        }
+      },
+      {
+        "question": "What is Gunnar Uldall's occupation?",
+        "answer": "politician",
+        "meta": {
+          "id": "115067",
+          "prop": "occupation"
+        }
+      },
+      {
+        "question": "What is Arkady Chernetsky's occupation?",
+        "answer": "politician",
+        "meta": {
+          "id": "1713701",
+          "prop": "occupation"
+        }
+      }
+    ],
+    "query": "What is John Mayne's occupation?",
+    "meta": {
+      "id": "4725190",
+      "prop": "occupation"
+    }
+  },
+  "meta": {
+    "gold_answers": [
+      "journalist",
+      "journo",
+      "journalists"
+    ]
+  }
+}

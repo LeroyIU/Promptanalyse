@@ -14,6 +14,12 @@ dependencies = []
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
 
+# NOTE: the end-to-end integration (pipelinestore.redundancy_pipeline) also needs
+# the sibling `redundanzgenerator` package. It is not on PyPI, so install it
+# editable from this repo rather than as a resolved dependency:
+#     pip install -e tools/Redundanzgenerator
+# The core storage package has no such dependency and imports it only lazily.
+
 [project.scripts]
 pipelinestore = "pipelinestore.cli:main"
 

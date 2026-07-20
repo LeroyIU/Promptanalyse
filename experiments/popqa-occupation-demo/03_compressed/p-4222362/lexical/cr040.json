@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-4222362",
+  "redundancy_type": "lexical",
+  "target_ratio": 0.4,
+  "compressate_id": "p-4222362__lexical__cr040",
+  "text": "Answer the following question with a short factual answer. Q: What is Darrell Hammond's occupation? A: actor Q: What is Natasha Leggero's occupation? A: actor Q: What is",
+  "n_tokens": 28,
+  "n_tokens_source": 71,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

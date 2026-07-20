@@ -1,4 +1,18 @@
+from pathlib import Path
+
+from redundanzgenerator import PopQALoader
 from redundanzgenerator.data.popqa import parse_possible_answers
+
+FIXTURES = Path(__file__).parent / "fixtures"
+
+
+def test_popqa_loads_tsv():
+    """The repo ships PopQA as .tsv, so the loader must read tab-separated files."""
+    loader = PopQALoader(FIXTURES / "popqa_sample.tsv")
+    row = loader.by_id(101)
+    assert row is not None and row["subj"] == "France"
+    assert loader.answer_of(row) == "Paris"
+    assert "capital" in loader.categories
 
 
 def test_popqa_categories(popqa):

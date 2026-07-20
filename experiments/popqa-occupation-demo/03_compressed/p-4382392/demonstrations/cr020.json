@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-4382392",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.2,
+  "compressate_id": "p-4382392__demonstrations__cr020",
+  "text": "Answer the following question with a short factual answer. Q: What is Darrell Hammond's occupation?",
+  "n_tokens": 15,
+  "n_tokens_source": 76,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

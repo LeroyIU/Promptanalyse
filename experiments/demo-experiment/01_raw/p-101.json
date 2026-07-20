@@ -1,9 +1,0 @@
-{
-  "prompt_id": "p-101",
-  "text": "Answer shortly. Q: What is the capital of France? A:",
-  "n_tokens": 10,
-  "source": "popqa",
-  "source_id": "101",
-  "source_prop": "capital",
-  "meta": {}
-}

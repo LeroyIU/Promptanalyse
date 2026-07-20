@@ -12,6 +12,10 @@ Two-layer storage model:
 """
 
 from . import ids
+
+# The redundancy_pipeline integration is intentionally NOT imported here: it
+# depends on the sibling `redundanzgenerator` package. Import it explicitly
+# (``from pipelinestore.redundancy_pipeline import run_pipeline``) when needed.
 from .models import (
     Compressate,
     InferenceResult,

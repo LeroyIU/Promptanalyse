@@ -1,9 +1,0 @@
-{
-  "prompt_id": "p-205",
-  "text": "Answer shortly. Q: Who wrote Hamlet? A:",
-  "n_tokens": 7,
-  "source": "popqa",
-  "source_id": "205",
-  "source_prop": "author",
-  "meta": {}
-}

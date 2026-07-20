@@ -1,0 +1,45 @@
+{
+  "prompt_id": "p-4725190",
+  "redundancy_type": "demonstrations",
+  "variant_id": "p-4725190__demonstrations",
+  "text": "Answer the following question with a short factual answer.\n\nQ: What is Darrell Hammond's occupation?\nA: actor\n\nQ: What is Natasha Leggero's occupation?\nA: actor\n\nQ: What is Gunnar Uldall's occupation?\nA: politician\n\nQ: What is Arkady Chernetsky's occupation?\nA: politician\n\nQ: What is Petru Vlah's occupation?\nA: politician\n\nQ: What is Alfredo Narciso's occupation?\nA: actor\n\nQ: What is Harold Lever, Baron Lever of Manchester's occupation?\nA: politician\n\nQ: What is John Mayne's occupation?\nA:",
+  "n_tokens": 76,
+  "redundancy_report": [
+    {
+      "strategy": "demonstrations",
+      "category": "occupation",
+      "inserted": [
+        {
+          "question": "What is Petru Vlah's occupation?",
+          "answer": "politician",
+          "meta": {
+            "id": "5436371",
+            "prop": "occupation",
+            "source": "popqa-redundant"
+          }
+        },
+        {
+          "question": "What is Alfredo Narciso's occupation?",
+          "answer": "actor",
+          "meta": {
+            "id": "3287643",
+            "prop": "occupation",
+            "source": "popqa-redundant"
+          }
+        },
+        {
+          "question": "What is Harold Lever, Baron Lever of Manchester's occupation?",
+          "answer": "politician",
+          "meta": {
+            "id": "2533751",
+            "prop": "occupation",
+            "source": "popqa-redundant"
+          }
+        }
+      ]
+    }
+  ],
+  "generator": "redundanzgenerator@0.1.0",
+  "seed": 42,
+  "meta": {}
+}

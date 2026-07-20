@@ -61,15 +61,49 @@ selben Pfad statt Duplikate anzuhäufen.
 - `rate_label` – feste Breite, lexikalisch sortierbar: `cr020, cr040, cr060, cr080` (= 20/40/60/80 % behaltene Tokens)
 - `compressate_id` – `p-101__lexical__cr040` → lässt sich zurück in Pfad und Koordinaten zerlegen
 
-## Nutzung
+## End-to-End-Lauf (echter Redundanzgenerator)
+
+`run_pipeline.py` verdrahtet den echten `redundanzgenerator` dieses Repos mit dem
+Store: es baut Raw-Prompts aus PopQA, erzeugt die 4 Varianten (Basis + 3
+Redundanztypen), komprimiert jede bei 4 Raten, bewertet sie und schreibt den
+gesamten Stage-Baum plus Manifest.
 
 ```bash
-pip install -e tools/PipelineStore          # einmalig
-python experiments/make_demo_experiment.py  # erzeugt das Beispiel unten neu
+pip install -e tools/PipelineStore          # Speicherung
+pip install -e tools/Redundanzgenerator     # Redundanzgenerator (Stages 1–2)
+python experiments/run_pipeline.py --experiment popqa-occupation-demo
 ```
 
-Im Pipeline-Code (schematisch — die realen Generatoren/Kompressoren einsetzen,
-die Store-Aufrufe bleiben gleich):
+Die beiden Stages, die keine Prompt-Konstruktion sind — **Kompression** und
+**Inferenz** — sind als Callables **einsteckbar**. Standard sind offline
+Baselines (deterministisches Token-Kürzen bzw. Gold-Containment-Scoring), damit
+der Lauf ohne Modelle/Netz durchläuft; die echten Methoden (z. B. LLMLingua,
+Claude API) setzt man mit gleicher Signatur ein:
+
+```python
+from pipelinestore import PipelineStore
+from pipelinestore.redundancy_pipeline import run_pipeline, RedundancyCounts
+
+def my_compress(text: str, target_ratio: float) -> str: ...      # z. B. LLMLingua-2
+def my_infer(text: str, gold: list[str]): ...                    # z. B. Claude API
+
+run_pipeline(
+    PipelineStore("experiments", "run-2026-07"),
+    popqa_source="datasets/popQA/test.tsv",
+    popqa_tp_source="datasets/popQA/popQA_template_paraphrases.csv",
+    query_ids=["4222362", "4725190", "4382392"],
+    compression_rates=[0.2, 0.4, 0.6, 0.8],
+    counts=RedundancyCounts(lexical=3, demonstrations=3, instructions=2),
+    compress=my_compress, infer=my_infer,
+)
+```
+
+`popqa-occupation-demo/` ist ein vollständig durchgerechneter echter Lauf (3
+Raw-Prompts → 48 Kompressate) mit realen Paraphrasen/Demonstrationen aus PopQA.
+
+## Nutzung direkt über die Store-API
+
+Falls du die Prompts anderweitig erzeugst — die Store-Aufrufe bleiben gleich:
 
 ```python
 from pipelinestore import (
@@ -105,7 +139,7 @@ Zielgrößen `is_correct` / `metric_*`.
 
 ```python
 import pandas as pd
-df = pd.read_csv("experiments/demo-experiment/manifest.csv")
+df = pd.read_csv("experiments/popqa-occupation-demo/manifest.csv")
 
 # Genauigkeit je Redundanztyp × Kompressionsrate
 pivot = df.pivot_table(index="redundancy_type", columns="target_ratio",
@@ -118,13 +152,18 @@ df.groupby("target_ratio")["achieved_ratio"].mean()
 `prompt_id` bleibt in jeder Zeile erhalten und dient in gemischten Modellen als
 Zufallseffekt (dieselben 16 Kompressate stammen aus einem Prompt).
 
-## Beispiel
+## Beispiele im Repo
 
-`demo-experiment/` ist ein vollständig durchgerechnetes Beispiel (3 Raw-Prompts
-→ 48 Kompressate), erzeugt von `make_demo_experiment.py`. Die dortige
-„Kompression" ist ein triviales Token-Abschneiden als Platzhalter, damit das
-Beispiel offline ohne Modelle läuft — im echten Lauf den Redundanzgenerator und
-den echten Kompressor einsetzen.
+- **`popqa-occupation-demo/`** — echter End-to-End-Lauf über `run_pipeline.py`
+  (3 Raw-Prompts → 48 Kompressate) mit realen Paraphrasen und Demonstrationen aus
+  PopQA. Kompression/Inferenz sind die offline Baselines.
+- **`make_demo_experiment.py`** — erzeugt zusätzlich ein rein illustratives
+  `demo-experiment/` **ohne** Abhängigkeit vom Redundanzgenerator (nur um das
+  Speicher-Layout zu zeigen). Nicht eingecheckt, bei Bedarf lokal ausführen.
+
+In beiden Fällen ist die „Kompression" ein deterministisches Token-Kürzen als
+reproduzierbare Baseline — im echten Experiment den tatsächlichen Kompressor und
+ein echtes Inferenzmodell über die `compress`/`infer`-Parameter einsetzen.
 
 ## Spalten des Manifests
 

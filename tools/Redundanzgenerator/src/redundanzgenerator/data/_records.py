@@ -11,16 +11,17 @@ from typing import Any
 def load_records(source: str | Path, split: str = "test") -> list[dict[str, Any]]:
     """Load rows from a local file or a Hugging Face dataset id.
 
-    A ``source`` that exists on disk is parsed by extension (.csv, .json,
-    .jsonl/.ndjson). Anything else is treated as a Hugging Face hub id and
-    loaded via the optional ``datasets`` dependency.
+    A ``source`` that exists on disk is parsed by extension (.csv, .tsv,
+    .json, .jsonl/.ndjson). Anything else is treated as a Hugging Face hub id
+    and loaded via the optional ``datasets`` dependency.
     """
     path = Path(source)
     if path.exists():
         suffix = path.suffix.lower()
-        if suffix == ".csv":
+        if suffix in (".csv", ".tsv"):
+            delimiter = "\t" if suffix == ".tsv" else ","
             with open(path, encoding="utf-8", newline="") as f:
-                return list(csv.DictReader(f))
+                return list(csv.DictReader(f, delimiter=delimiter))
         if suffix in (".jsonl", ".ndjson"):
             with open(path, encoding="utf-8") as f:
                 return [json.loads(line) for line in f if line.strip()]

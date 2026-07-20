@@ -1,0 +1,8 @@
+id,subj,prop,obj,question,possible_answers
+101,France,capital,Paris,What is the capital of France?,"[""Paris""]"
+101,France,capital,Paris,What city is the capital of France?,"[""Paris""]"
+101,France,capital,Paris,Which city serves as France's capital?,"[""Paris""]"
+101,France,capital,Paris,Name the capital city of France.,"[""Paris""]"
+102,Japan,capital,Tokyo,What is the capital of Japan?,"[""Tokyo""]"
+102,Japan,capital,Tokyo,What city is the capital of Japan?,"[""Tokyo""]"
+102,Japan,capital,Tokyo,Which city serves as Japan's capital?,"[""Tokyo""]"
