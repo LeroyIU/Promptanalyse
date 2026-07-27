@@ -18,9 +18,11 @@ MuSiQue is the sole data basis of the experiment. It replaced PopQA, which is
 *closed-book*: a question-only prompt leaves little to compress and yields no
 ground truth about what compression removed.
 
-- **Long, realistic prompts.** 20 paragraphs are ~2.5–3k tokens per prompt
-  (~11k words in the LongBench packaging), which is the regime prompt
-  compression is actually used in.
+- **Long, realistic prompts.** Gemessen an den fertig gerenderten Prompts
+  dieses Repos: Median 1.681 Whitespace-Tokens (Spanne 1.059–2.079). In der
+  LongBench-Verpackung, die zusätzlich Distraktoren aus anderen Fragen
+  hinzuzieht, sind es ~11k Wörter. Beides ist das Regime, in dem
+  Prompt-Kompression tatsächlich eingesetzt wird.
 - **Gold-evidence labels.** `is_supporting` per paragraph and
   `paragraph_support_idx` per hop mean a compressed prompt can be scored on
   *what it kept*, not just on whether the final answer was still correct.
@@ -39,10 +41,14 @@ English only.
 
 ## Dataset Structure
 ### Data Instances
-- MuSiQue-Ans: ~25k questions (19,938 train, ~2.4k dev, ~2.4k test)
+- MuSiQue-Ans: ~25k questions (19,938 train, 2,417 dev, ~2.4k test)
 - MuSiQue-Full: roughly double that — each answerable question is paired with
   an unanswerable twin
 - 20 paragraphs per question, 2–4 of them supporting
+
+Verified against the committed dev split: 2,417 records, hop distribution
+2/3/4 = 1252/760/405, the number of supporting paragraphs equals the hop count
+in every record, and 2,401 of 2,417 carry the full 20 paragraphs (the rest 17–19).
 
 The `test` splits are released without answers or supporting labels (leaderboard
 evaluation) and are therefore not usable here — **use the `dev` split**.
@@ -61,16 +67,27 @@ evaluation) and are therefore not usable here — **use the `dev` split**.
   (always `true` in MuSiQue-Ans)
 
 ## Download
-The data is not committed to this repository. Fetch it into this directory:
+`musique_ans_v1.0_dev.jsonl` (30 MB) and `musique_ans_v1.0_train.jsonl` (241 MB)
+are committed to this repository via **Git LFS**. After cloning:
+
+```bash
+git lfs install
+git lfs pull
+```
+
+Without Git LFS the files contain only pointer text (~130 bytes) instead of the
+data, and the loader will fail on the first line.
+
+To fetch the data from its source instead — e.g. to get MuSiQue-Full or the
+`dev_test_singlehop_questions_v1.0.json` id list:
 
 ```bash
 python datasets/musique/fetch_musique.py            # official release via gdown
 python datasets/musique/fetch_musique.py --via hf   # Hugging Face mirror
 ```
 
-This writes `musique_ans_v1.0_dev.jsonl` (and `musique_full_v1.0_dev.jsonl`)
-here. The `train`/`test` files are gitignored — they are large and, for `test`,
-unlabelled.
+The `test` split is gitignored: it ships without answers or supporting labels
+(leaderboard evaluation) and is unusable here.
 
 ## Stand der Integration
 Die Pipeline läuft vollständig auf MuSiQue:

@@ -75,7 +75,7 @@ gesamten Stage-Baum plus Manifest.
 ```bash
 pip install -e tools/PipelineStore          # Speicherung
 pip install -e tools/Redundanzgenerator     # Redundanzgenerator (Stages 1–2)
-python datasets/musique/fetch_musique.py    # Datensatz holen (nicht eingecheckt)
+git lfs pull                                # Datensatz aus Git LFS auschecken
 python experiments/run_pipeline.py --experiment run-2026-07 --n-prompts 20
 ```
 
@@ -143,7 +143,7 @@ Zielgrößen `is_correct` / `metric_*`.
 
 ```python
 import pandas as pd
-df = pd.read_csv("experiments/musique-fixture-demo/manifest.csv")
+df = pd.read_csv("experiments/musique-dev-demo/manifest.csv")
 
 # Genauigkeit je Redundanztyp × Kompressionsrate
 pivot = df.pivot_table(index="redundancy_type", columns="target_ratio",
@@ -181,11 +181,11 @@ Bedingung nicht gegen einen größeren Nenner gemessen wird als die anderen drei
 
 ## Beispiele im Repo
 
-- **`musique-fixture-demo/`** — echter End-to-End-Lauf über `run_pipeline.py`
-  (3 Raw-Prompts → 48 Kompressate) durch den vollständigen Code. **Achtung:** er
-  läuft auf dem handgeschriebenen 8-Datensatz-Sample im MuSiQue-Format aus
-  `tests/fixtures/`, nicht auf dem echten Dev-Set — er zeigt das Ablagelayout,
-  er ist kein Ergebnis.
+- **`musique-dev-demo/`** — echter End-to-End-Lauf über `run_pipeline.py` auf
+  den ersten 3 Datensätzen von `musique_ans_v1.0_dev.jsonl` (3 Raw-Prompts →
+  48 Kompressate). Kompression und Inferenz sind die offline Baselines, also
+  weder LLMLingua noch ein echtes Modell — die Zahlen zeigen das Ablagelayout
+  und die Metrik-Mechanik, sie sind kein inhaltliches Ergebnis.
 - **`make_demo_experiment.py`** — erzeugt zusätzlich ein rein illustratives
   `demo-experiment/` **ohne** Abhängigkeit vom Redundanzgenerator (nur um das
   Speicher-Layout zu zeigen). Nicht eingecheckt, bei Bedarf lokal ausführen.

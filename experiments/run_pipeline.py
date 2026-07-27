@@ -9,7 +9,7 @@ Prerequisites (both editable, from the repo root)::
 
     pip install -e tools/PipelineStore
     pip install -e tools/Redundanzgenerator
-    python datasets/musique/fetch_musique.py
+    git lfs pull                 # datasets/ lives in Git LFS
 
 Example::
 
@@ -72,7 +72,7 @@ def main(argv: list[str] | None = None) -> int:
     if not Path(args.musique).exists():
         parser.error(
             f"MuSiQue data not found at {args.musique}. "
-            "Fetch it with: python datasets/musique/fetch_musique.py"
+            "The datasets/ files live in Git LFS -- run: git lfs pull"
         )
     query_ids = args.query_ids or _first_ids(args.musique, args.n_prompts)
 

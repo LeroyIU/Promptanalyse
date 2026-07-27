@@ -12,6 +12,23 @@ Dieses Repository dokumentiert die im Rahmen meiner Abschlussarbeit durchgeführ
 - **Experiments** – Ablage der Pipeline-Läufe (`raw → redundanztyp → kompressionsrate → inferenz`) samt Manifest für die statistische Auswertung; siehe [`experiments/README.md`](experiments/README.md)
 - **Ergebnisse** – aus der Analyse hervorgegangene Auswertungen und Erkenntnisse
 
+## Setup
+
+Die Datendateien unter `datasets/` liegen in [Git LFS](https://git-lfs.com) (siehe [`.gitattributes`](.gitattributes)). Nach dem Klonen einmalig:
+
+```bash
+git lfs install    # macOS: brew install git-lfs, Ubuntu/Debian: sudo apt install git-lfs
+git lfs pull
+```
+
+Ohne Git LFS enthalten die betroffenen Dateien nur Pointer-Text statt der Daten.
+
+```bash
+pip install -e tools/PipelineStore
+pip install -e tools/Redundanzgenerator
+python experiments/run_pipeline.py --experiment run-2026-07 --n-prompts 20
+```
+
 ## Kontext
 
 Dieses Projekt entstand im Rahmen einer Bachelor-/Masterarbeit und dient der wissenschaftlichen Auseinandersetzung mit Prompt-Engineering bzw. der Analyse von Prompts.

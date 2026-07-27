@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-460946-294723__instructions__cr060",
+  "model": "offline-gold-containment",
+  "output": "Miquette Giraudy",
+  "gold_answer": "Miquette Giraudy",
+  "is_correct": true,
+  "metrics": {
+    "gold_retained": 1.0,
+    "supporting_retained": 1.0,
+    "distractor_retained": 0.541,
+    "evidence_selectivity": 0.459
+  },
+  "seed": 42,
+  "meta": {}
+}
