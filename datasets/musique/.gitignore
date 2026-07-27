@@ -1,0 +1,4 @@
+# The train/test splits are large (train) or unlabelled (test) and are not
+# used in this project; only the dev splits belong in version control.
+musique_*_train.jsonl
+musique_*_test.jsonl

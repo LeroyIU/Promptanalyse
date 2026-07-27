@@ -1,4 +1,4 @@
-"""Command line interface: redundanzgen generate | build."""
+"""Command line interface: redundanzgen generate | build | build-context."""
 
 from __future__ import annotations
 
@@ -8,6 +8,8 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from .data.musique import DEFAULT_INSTRUCTION as MUSIQUE_INSTRUCTION
+from .data.musique import MuSiQueLoader
 from .data.popqa import PopQALoader
 from .generator import RedundancyGenerator
 from .models import Demonstration, FewShotPrompt, RedundancyConfig
@@ -89,6 +91,22 @@ def _cmd_build(args: argparse.Namespace) -> None:
     _write_output(prompt, [], args.output, args.text)
 
 
+def _cmd_build_context(args: argparse.Namespace) -> None:
+    musique = MuSiQueLoader(args.musique)
+    try:
+        prompt = musique.build_prompt(
+            args.query_id,
+            instruction=args.instruction,
+            n_demos=args.n_demos,
+            include_distractors=not args.no_distractors,
+            demo_context=args.demo_context,
+            seed=args.seed,
+        )
+    except KeyError:
+        raise SystemExit(f"No MuSiQue record with id {args.query_id!r}") from None
+    _write_output(prompt, [], args.output, args.text)
+
+
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(
         prog="redundanzgen",
@@ -151,6 +169,35 @@ def main(argv: list[str] | None = None) -> None:
     build.add_argument("--output")
     build.add_argument("--text")
     build.set_defaults(func=_cmd_build)
+
+    ctx = sub.add_parser(
+        "build-context",
+        help="Build a context-based prompt from MuSiQue (20 passages per question)",
+    )
+    ctx.add_argument(
+        "--musique", required=True,
+        help="MuSiQue source: local JSONL/JSON file or HF dataset id",
+    )
+    ctx.add_argument(
+        "--query-id", required=True, help="MuSiQue id, e.g. 2hop__128801_205185"
+    )
+    ctx.add_argument(
+        "--n-demos", type=int, default=0,
+        help="Demonstrations with the same hop count (default: 0, i.e. zero-shot)",
+    )
+    ctx.add_argument(
+        "--demo-context", action="store_true",
+        help="Give each demonstration its own passages (multiplies prompt length)",
+    )
+    ctx.add_argument(
+        "--no-distractors", action="store_true",
+        help="Keep only the supporting passages (oracle context)",
+    )
+    ctx.add_argument("--instruction", default=MUSIQUE_INSTRUCTION)
+    ctx.add_argument("--seed", type=int, default=None)
+    ctx.add_argument("--output")
+    ctx.add_argument("--text")
+    ctx.set_defaults(func=_cmd_build_context)
 
     args = parser.parse_args(argv)
     args.func(args)

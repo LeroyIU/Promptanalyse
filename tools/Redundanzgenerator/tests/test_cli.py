@@ -1,5 +1,7 @@
 import json
 
+import pytest
+
 from redundanzgenerator.cli import main
 
 from tests.conftest import FIXTURES
@@ -63,3 +65,48 @@ def test_cli_build(tmp_path):
     assert len(prompt["demonstrations"]) == 3
     assert all(d["meta"]["prop"] == "author" for d in prompt["demonstrations"])
     assert prompt["query"] not in [d["question"] for d in prompt["demonstrations"]]
+
+
+def test_cli_build_context(tmp_path):
+    out_json = tmp_path / "out.json"
+    out_text = tmp_path / "out.txt"
+    main(
+        [
+            "build-context",
+            "--musique", str(FIXTURES / "musique_sample.jsonl"),
+            "--query-id", "2hop__101_201",
+            "--output", str(out_json),
+            "--text", str(out_text),
+        ]
+    )
+    prompt = json.loads(out_json.read_text(encoding="utf-8"))["prompt"]
+    assert len(prompt["context"]) == 5
+    assert prompt["context"][0]["is_supporting"] is True
+    assert prompt["meta"]["n_hops"] == 2
+    assert "[1] Eiffel Tower" in out_text.read_text(encoding="utf-8")
+
+
+def test_cli_build_context_oracle(tmp_path):
+    out_json = tmp_path / "out.json"
+    main(
+        [
+            "build-context",
+            "--musique", str(FIXTURES / "musique_sample.jsonl"),
+            "--query-id", "3hop1__103_203_303",
+            "--no-distractors",
+            "--output", str(out_json),
+        ]
+    )
+    prompt = json.loads(out_json.read_text(encoding="utf-8"))["prompt"]
+    assert [c["is_supporting"] for c in prompt["context"]] == [True, True, True]
+
+
+def test_cli_build_context_unknown_id():
+    with pytest.raises(SystemExit):
+        main(
+            [
+                "build-context",
+                "--musique", str(FIXTURES / "musique_sample.jsonl"),
+                "--query-id", "9hop__nope",
+            ]
+        )
