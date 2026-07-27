@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-102-202",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.2,
+  "compressate_id": "p-2hop-102-202__baseline__cr020",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Blade Runner",
+  "n_tokens": 18,
+  "n_tokens_source": 89,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

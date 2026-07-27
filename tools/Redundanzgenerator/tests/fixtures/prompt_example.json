@@ -1,26 +1,46 @@
 {
-  "instruction": "Answer the following question with a short factual answer.",
+  "instruction": "Answer the question using only the passages provided. Respond with a short factual answer.",
   "demonstrations": [
     {
-      "question": "What is the capital of Japan?",
-      "answer": "Tokyo",
+      "question": "Who wrote the novel that the film Blade Runner is based on?",
+      "answer": "Philip K. Dick",
       "meta": {
-        "id": 102,
-        "prop": "capital"
-      }
-    },
-    {
-      "question": "What is the capital of Canada?",
-      "answer": "Ottawa",
-      "meta": {
-        "id": 103,
-        "prop": "capital"
+        "id": "2hop__102_202",
+        "n_hops": 2
       }
     }
   ],
-  "query": "What is the capital of France?",
+  "query": "In which country is the city where the Eiffel Tower stands?",
+  "context": [
+    {
+      "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris.",
+      "title": "Eiffel Tower",
+      "is_supporting": true,
+      "meta": {"idx": 0}
+    },
+    {
+      "text": "Gustave Eiffel was a civil engineer known for iron structures and bridges.",
+      "title": "Gustave Eiffel",
+      "is_supporting": false,
+      "meta": {"idx": 1}
+    },
+    {
+      "text": "Paris is the capital and most populous city of France.",
+      "title": "Paris",
+      "is_supporting": true,
+      "meta": {"idx": 2}
+    },
+    {
+      "text": "Blackpool Tower is a tourist attraction in Blackpool, England, opened in 1894.",
+      "title": "Blackpool Tower",
+      "is_supporting": false,
+      "meta": {"idx": 3}
+    }
+  ],
   "meta": {
-    "id": 101,
-    "prop": "capital"
+    "id": "2hop__101_201",
+    "n_hops": 2,
+    "n_supporting": 2,
+    "n_distractors": 2
   }
 }

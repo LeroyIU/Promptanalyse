@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-101-201__baseline__cr020",
+  "model": "offline-gold-containment",
+  "output": "",
+  "gold_answer": "France",
+  "is_correct": false,
+  "metrics": {
+    "gold_retained": 0.0,
+    "supporting_retained": 0.2692,
+    "distractor_retained": 0.1667,
+    "evidence_selectivity": 0.1025
+  },
+  "seed": 42,
+  "meta": {}
+}

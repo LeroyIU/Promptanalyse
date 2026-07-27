@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-102-202",
+  "redundancy_type": "instructions",
+  "target_ratio": 0.4,
+  "compressate_id": "p-2hop-102-202__instructions__cr040",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Blade Runner Blade Runner is a 1982 science fiction film loosely based on the novel Do Androids",
+  "n_tokens": 49,
+  "n_tokens_source": 122,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

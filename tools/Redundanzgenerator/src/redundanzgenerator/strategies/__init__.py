@@ -1,11 +1,11 @@
 from .base import RedundancyStrategy
 from .demonstrations import DemonstrationRedundancy
 from .instructions import InstructionRedundancy
-from .lexical import ParaphraseRedundancy
+from .passages import PassageRedundancy
 
 __all__ = [
     "RedundancyStrategy",
-    "ParaphraseRedundancy",
+    "PassageRedundancy",
     "DemonstrationRedundancy",
     "InstructionRedundancy",
 ]

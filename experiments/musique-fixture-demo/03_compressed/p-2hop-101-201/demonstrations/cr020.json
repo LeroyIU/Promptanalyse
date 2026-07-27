@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-101-201",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.2,
+  "compressate_id": "p-2hop-101-201__demonstrations__cr020",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado Museum is located? A:",
+  "n_tokens": 28,
+  "n_tokens_source": 139,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

@@ -1,6 +1,0 @@
-id,subj,prop,obj,question,possible_answers
-101,France,capital,Paris,What is the capital of France?,"[""Paris""]"
-102,Japan,capital,Tokyo,What is the capital of Japan?,"[""Tokyo"", ""Tokio""]"
-103,Canada,capital,Ottawa,What is the capital of Canada?,"[""Ottawa""]"
-104,Egypt,capital,Cairo,What is the capital of Egypt?,"[""Cairo""]"
-105,Australia,capital,Canberra,What is the capital of Australia?,"[""Canberra""]"

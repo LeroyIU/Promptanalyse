@@ -32,13 +32,13 @@ from pipelinestore import (
 )
 
 store = PipelineStore("experiments", "run-2026-07")
-store.store_raw(RawPrompt(prompt_id=ids.prompt_id(101), text=t,
-                          n_tokens=whitespace_tokens(t), source="popqa"))
+store.store_raw(RawPrompt(prompt_id=ids.prompt_id("2hop__101_201"), text=t,
+                          n_tokens=whitespace_tokens(t), source="musique"))
 # store_redundant / store_compressate / store_inference ...
 store.build_manifest()      # -> manifest.jsonl + manifest.csv
 ```
 
-- `ids` – deterministisches ID-/Pfadschema (`p-101__lexical__cr040`), idempotent.
+- `ids` – deterministisches ID-/Pfadschema (`p-2hop-101-201__passages__cr040`), idempotent.
 - `models` – Datensätze je Stage (`RawPrompt`, `RedundantVariant`, `Compressate`,
   `InferenceResult`) plus `TidyRow` (flache Auswertungszeile).
 - `store` – Pfade, Schreiben der Artefakte, Neubau des Manifests aus dem Baum.
@@ -62,14 +62,18 @@ from pipelinestore.redundancy_pipeline import run_pipeline, RedundancyCounts
 
 run_pipeline(
     PipelineStore("experiments", "run-2026-07"),
-    popqa_source="datasets/popQA/test.tsv",
-    popqa_tp_source="datasets/popQA/popQA_template_paraphrases.csv",
-    query_ids=["4222362", "4725190"],
+    musique_source="datasets/musique/musique_ans_v1.0_dev.jsonl",
+    query_ids=["2hop__128801_205185", "3hop1__..."],
     compression_rates=[0.2, 0.4, 0.6, 0.8],
-    counts=RedundancyCounts(lexical=3, demonstrations=3, instructions=2),
+    counts=RedundancyCounts(passages=3, demonstrations=3, instructions=2),
     # compress=..., infer=...  <- echte Methoden hier einsetzen
 )
 ```
+
+Neben `is_correct` schreibt jeder Lauf `evidence_retention`-Metriken ins Manifest
+(`metric_supporting_retained`, `metric_distractor_retained`,
+`metric_evidence_selectivity`): Sie nutzen die Gold-Labels von MuSiQue, um zu
+messen, *was* die Kompression behalten hat — nicht nur, ob die Antwort überlebt hat.
 
 Runnable driver: [`../../experiments/run_pipeline.py`](../../experiments/run_pipeline.py).
 

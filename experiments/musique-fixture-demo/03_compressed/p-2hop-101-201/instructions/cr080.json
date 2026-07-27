@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-101-201",
+  "redundancy_type": "instructions",
+  "target_ratio": 0.8,
+  "compressate_id": "p-2hop-101-201__instructions__cr080",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [2] Gustave Eiffel Gustave Eiffel was a civil engineer known for iron structures and bridges. [3] Paris Paris is the capital and most populous city of France. [4] Champ de Mars The Champ de Mars is a large public greenspace used for exhibitions. Q: In which country is the",
+  "n_tokens": 98,
+  "n_tokens_source": 122,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

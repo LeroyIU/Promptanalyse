@@ -10,5 +10,13 @@
     "The instruction, restated: {instruction}",
     "Again, your task is as follows: {instruction}",
     "Do not forget: {instruction}"
+  ],
+  "passage_wrappers": [
+    "Restated: {passage}",
+    "In other words: {passage}",
+    "Put differently: {passage}",
+    "The same point again: {passage}",
+    "To say it once more: {passage}",
+    "Repeated for emphasis: {passage}"
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "experiment_id": "musique-fixture-demo",
+  "description": "Durchgerechnetes Beispiel des Ablagelayouts. Läuft auf dem handgeschriebenen 8-Datensatz-Sample im MuSiQue-Format aus tests/fixtures, NICHT auf dem echten Dev-Set - die Zahlen sind eine Layout-Demonstration, kein Ergebnis.",
+  "musique_source": "tools/PipelineStore/tests/fixtures/musique.jsonl",
+  "query_ids": [
+    "2hop__101_201",
+    "2hop__102_202",
+    "2hop__104_204"
+  ],
+  "redundancy_types": [
+    "baseline",
+    "passages",
+    "demonstrations",
+    "instructions"
+  ],
+  "redundancy_counts": {
+    "passages": 3,
+    "demonstrations": 3,
+    "instructions": 2,
+    "passage_mode": "duplicate",
+    "passage_target": "supporting",
+    "passage_position": "interleave",
+    "demonstration_context": false,
+    "instruction_position": "both"
+  },
+  "compression_rates": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "compressor": "head_ratio_compressor",
+  "inference_model": "offline-gold-containment",
+  "n_demos": 0,
+  "include_distractors": true,
+  "demo_context": false,
+  "instruction": "Answer the question using only the passages provided. Respond with a short factual answer.",
+  "seed": 42
+}

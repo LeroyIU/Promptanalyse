@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "instructions",
+  "target_ratio": 0.2,
+  "compressate_id": "p-2hop-104-204__instructions__cr020",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only",
+  "n_tokens": 21,
+  "n_tokens_source": 106,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

@@ -7,13 +7,12 @@ import random
 from pathlib import Path
 from typing import Any
 
-from .data.popqa import PopQALoader
-from .data.popqa_tp import PopQATPLoader
+from .data.musique import MuSiQueLoader
 from .models import FewShotPrompt, RedundancyConfig
 from .strategies import (
     DemonstrationRedundancy,
     InstructionRedundancy,
-    ParaphraseRedundancy,
+    PassageRedundancy,
     RedundancyStrategy,
 )
 
@@ -37,30 +36,32 @@ class RedundancyGenerator:
     def from_config(
         cls,
         config: RedundancyConfig,
-        popqa: PopQALoader | str | Path | None = None,
-        popqa_tp: PopQATPLoader | str | Path | None = None,
+        musique: MuSiQueLoader | str | Path | None = None,
         use_llm: bool = False,
         llm_model: str = "claude-sonnet-5",
     ) -> "RedundancyGenerator":
         strategies: list[RedundancyStrategy] = []
-        if config.n_paraphrases > 0:
-            if popqa_tp is None:
-                raise ValueError("Paraphrase redundancy requires a PopQA-TP source")
-            if not isinstance(popqa_tp, PopQATPLoader):
-                popqa_tp = PopQATPLoader(popqa_tp)
+        if config.n_passages > 0:
             strategies.append(
-                ParaphraseRedundancy(
-                    popqa_tp,
-                    n=config.n_paraphrases,
-                    include_demonstrations=config.paraphrase_demonstrations,
+                PassageRedundancy(
+                    n=config.n_passages,
+                    mode=config.passage_mode,
+                    target=config.passage_target,
+                    position=config.passage_position,
                 )
             )
         if config.n_demonstrations > 0:
-            if popqa is None:
-                raise ValueError("Demonstration redundancy requires a PopQA source")
-            if not isinstance(popqa, PopQALoader):
-                popqa = PopQALoader(popqa)
-            strategies.append(DemonstrationRedundancy(popqa, n=config.n_demonstrations))
+            if musique is None:
+                raise ValueError("Demonstration redundancy requires a MuSiQue source")
+            if not isinstance(musique, MuSiQueLoader):
+                musique = MuSiQueLoader(musique)
+            strategies.append(
+                DemonstrationRedundancy(
+                    musique,
+                    n=config.n_demonstrations,
+                    with_context=config.demonstration_context,
+                )
+            )
         if config.n_instructions > 0:
             strategies.append(
                 InstructionRedundancy(

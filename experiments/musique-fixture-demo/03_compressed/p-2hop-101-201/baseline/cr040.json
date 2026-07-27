@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-101-201",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.4,
+  "compressate_id": "p-2hop-101-201__baseline__cr040",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [2] Gustave Eiffel",
+  "n_tokens": 36,
+  "n_tokens_source": 89,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

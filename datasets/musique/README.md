@@ -14,9 +14,9 @@ paragraphs) and **MuSiQue-Full**, which pairs each answerable question with a
 minimally-changed unanswerable twin.
 
 ## Why this dataset in this project
-PopQA is *closed-book*: the prompt is question-only, so there is little to
-compress and no ground truth about what compression removed. MuSiQue supplies
-the with-context condition:
+MuSiQue is the sole data basis of the experiment. It replaced PopQA, which is
+*closed-book*: a question-only prompt leaves little to compress and yields no
+ground truth about what compression removed.
 
 - **Long, realistic prompts.** 20 paragraphs are ~2.5–3k tokens per prompt
   (~11k words in the LongBench packaging), which is the regime prompt
@@ -73,23 +73,25 @@ here. The `train`/`test` files are gitignored — they are large and, for `test`
 unlabelled.
 
 ## Stand der Integration
-Fertig und getestet:
+Die Pipeline läuft vollständig auf MuSiQue:
 - `MuSiQueLoader` im Redundanzgenerator (Indizierung nach Hop-Zahl, Gold-/
   Distraktor-Trennung, Antworten inkl. Aliase, Prompt-Bau)
 - `ContextPassage` in `FewShotPrompt`/`Demonstration` plus Rendering als
   nummerierter `Context:`-Block
-- CLI: `redundanzgen build-context`
+- Redundanztypen `passages` / `demonstrations` / `instructions` — je einer pro
+  Bestandteil eines Kontext-Prompts
+- `PipelineStore.run_pipeline` baut Roh-Prompts aus MuSiQue und schreibt neben
+  `is_correct` die Evidenz-Metriken `supporting_retained`,
+  `distractor_retained` und `evidence_selectivity` ins Manifest
+- CLI: `redundanzgen build` / `redundanzgen generate`
 
-Noch offen (bewusst nicht mitentschieden):
-- **Pipeline-Anbindung.** `PipelineStore.run_pipeline` baut Roh-Prompts bislang
-  fest aus PopQA; für einen MuSiQue-Lauf braucht es einen zweiten
-  `build_raw_prompt`-Pfad.
-- **Lexikalische Redundanz.** Für MuSiQue gibt es kein Paraphrasen-Pendant zu
-  PopQA-TP. Optionen: Query-Paraphrasen per LLM erzeugen (wie bereits bei den
-  Instruktionen), oder die lexikalische Bedingung im Kontext-Setting durch
-  Passagen-Redundanz ersetzen (Duplikate/Umformulierungen der Supporting-
-  Passagen) — das wäre allerdings eine Änderung am Faktordesign und keine
-  reine Implementierungsfrage.
+Zum Faktordesign: Die frühere Bedingung `lexical` (Query-Paraphrasen aus
+PopQA-TP) ist durch `passages` ersetzt. MuSiQue hat kein Paraphrasen-Pendant zu
+PopQA-TP, und im Kontext-Setting ist die Passagenebene ohnehin der Ort, an dem
+Redundanz für die Kompression eine Rolle spielt: Der Kontext ist der weitaus
+größte Teil des Prompts. `passage_mode="restate"` behält dabei den lexikalischen
+Charakter (dieselbe Information, andere Formulierung), `"duplicate"` ist der
+wörtliche Grenzfall.
 
 ## Licensing Information
 MuSiQue is distributed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-104-204__baseline__cr040",
+  "model": "offline-gold-containment",
+  "output": "",
+  "gold_answer": "Mediterranean Sea",
+  "is_correct": false,
+  "metrics": {
+    "gold_retained": 0.0,
+    "supporting_retained": 0.7083,
+    "distractor_retained": 0.1818,
+    "evidence_selectivity": 0.5265
+  },
+  "seed": 42,
+  "meta": {}
+}

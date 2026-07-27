@@ -1,16 +1,15 @@
 """Loader for MuSiQue (StonyBrookNLP/musique or a local file).
 
-MuSiQue is the context-based counterpart to PopQA in this project: instead of
-asking a model to answer from parametric memory, every question ships **20
-Wikipedia paragraphs** it is to be answered from, each flagged
-``is_supporting`` -- 2-4 of them carry the reasoning chain, the rest are
-distractors. Questions are composed from single-hop questions (2-4 hops) and
-filtered so that no hop can be skipped, which is exactly the property that
-makes them sensitive to compression: drop one supporting paragraph and the
-answer becomes underivable rather than merely harder.
+MuSiQue is the data basis of this project. Every question ships **20 Wikipedia
+paragraphs** it is to be answered from, each flagged ``is_supporting`` -- 2-4
+of them carry the reasoning chain, the rest are distractors. Questions are
+composed from single-hop questions (2-4 hops) and filtered so that no hop can
+be skipped, which is exactly the property that makes them sensitive to
+compression: drop one supporting paragraph and the answer becomes underivable
+rather than merely harder.
 
-Rows are indexed by hop count, which plays the role ``prop`` plays for PopQA:
-a category to draw comparable demonstrations from.
+Rows are indexed by hop count -- the dataset's own measure of comparable
+difficulty, and thus the category to draw comparable demonstrations from.
 
 Official record format (``musique_ans_v1.0_dev.jsonl``)::
 

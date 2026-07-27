@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "passages",
+  "target_ratio": 0.4,
+  "compressate_id": "p-2hop-104-204__passages__cr040",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Crete Crete is the largest Greek island, lying in the Mediterranean Sea. [2] Arthur Evans Arthur Evans was the archaeologist who excavated Knossos from 1900 onwards. [3] Knossos Knossos is",
+  "n_tokens": 46,
+  "n_tokens_source": 115,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

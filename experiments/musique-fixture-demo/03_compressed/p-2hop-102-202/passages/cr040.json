@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-102-202",
+  "redundancy_type": "passages",
+  "target_ratio": 0.4,
+  "compressate_id": "p-2hop-102-202__passages__cr040",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Do Androids Dream of Electric Sheep? Do Androids Dream of Electric Sheep? is a 1968 novel by American writer Philip K. Dick. [2] Ridley Scott Ridley Scott is an English film director known for Alien and Gladiator. [3] Blade Runner Blade Runner is a",
+  "n_tokens": 60,
+  "n_tokens_source": 149,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

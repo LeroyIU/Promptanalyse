@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.6,
+  "compressate_id": "p-2hop-104-204__demonstrations__cr060",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado Museum is located? A: Manzanares Q: Who wrote the novel that the film Blade Runner is based on? A: Philip K. Dick Q: What is the currency of the country that borders Norway to the east? A: Swedish krona Context: [1] Knossos Knossos is the largest Bronze Age archaeological",
+  "n_tokens": 73,
+  "n_tokens_source": 122,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

@@ -1,0 +1,49 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "passages",
+  "variant_id": "p-2hop-104-204__passages",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer.\n\nContext:\n[1] Crete\nCrete is the largest Greek island, lying in the Mediterranean Sea.\n[2] Arthur Evans\nArthur Evans was the archaeologist who excavated Knossos from 1900 onwards.\n[3] Knossos\nKnossos is the largest Bronze Age archaeological site on the island of Crete.\n[4] Knossos\nKnossos is the largest Bronze Age archaeological site on the island of Crete.\n[5] Crete\nCrete is the largest Greek island, lying in the Mediterranean Sea.\n[6] Arthur Evans\nArthur Evans was the archaeologist who excavated Knossos from 1900 onwards.\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
+  "n_tokens": 115,
+  "redundancy_report": [
+    {
+      "strategy": "passages",
+      "mode": "duplicate",
+      "target": "supporting",
+      "inserted": [
+        {
+          "text": "Crete is the largest Greek island, lying in the Mediterranean Sea.",
+          "title": "Crete",
+          "is_supporting": true,
+          "meta": {
+            "idx": 1,
+            "redundant_copy_of": 1,
+            "redundancy_mode": "duplicate"
+          }
+        },
+        {
+          "text": "Knossos is the largest Bronze Age archaeological site on the island of Crete.",
+          "title": "Knossos",
+          "is_supporting": true,
+          "meta": {
+            "idx": 0,
+            "redundant_copy_of": 0,
+            "redundancy_mode": "duplicate"
+          }
+        },
+        {
+          "text": "Arthur Evans was the archaeologist who excavated Knossos from 1900 onwards.",
+          "title": "Arthur Evans",
+          "is_supporting": false,
+          "meta": {
+            "idx": 2,
+            "redundant_copy_of": 2,
+            "redundancy_mode": "duplicate"
+          }
+        }
+      ]
+    }
+  ],
+  "generator": "redundanzgenerator@0.2.0",
+  "seed": 42,
+  "meta": {}
+}

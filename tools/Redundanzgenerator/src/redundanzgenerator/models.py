@@ -90,8 +90,7 @@ class FewShotPrompt:
     rephrased instructions) can be represented explicitly; a plain prompt has
     exactly one entry. ``query_paraphrases`` holds redundant phrasings of the
     final query. ``context`` holds the passages the query is to be answered
-    from; it is empty for closed-book prompts (PopQA) and populated for
-    context-based datasets (MuSiQue).
+    from; it stays empty for a prompt that carries no context.
     """
 
     instructions: list[str]
@@ -148,19 +147,28 @@ class FewShotPrompt:
 class RedundancyConfig:
     """How much redundancy of each type to inject.
 
-    - ``n_paraphrases``: paraphrases (from PopQA-TP) added to the query.
-    - ``paraphrase_demonstrations``: also paraphrase each demonstration question.
-    - ``n_demonstrations``: extra demonstrations drawn from PopQA, preferring
-      the same relationship category (``prop``) as the query.
+    The three types target the three parts of a context-based prompt: the
+    context passages, the demonstrations, and the instructions.
+
+    - ``n_passages``: redundant copies of context passages.
+    - ``passage_mode``: "duplicate" (verbatim) or "restate" (template-wrapped).
+    - ``passage_target``: "supporting" (gold passages first) or "any".
+    - ``passage_position``: "interleave" (scattered) or "append".
+    - ``n_demonstrations``: extra demonstrations drawn from MuSiQue, preferring
+      the same hop count as the query.
+    - ``demonstration_context``: give those demonstrations their own passages.
     - ``n_instructions``: extra instruction rephrasings (rule-based templates
       or LLM-generated).
     - ``instruction_position``: where extra instructions go ("start", "end",
       or "both", alternating).
     """
 
-    n_paraphrases: int = 0
-    paraphrase_demonstrations: bool = False
+    n_passages: int = 0
+    passage_mode: str = "duplicate"
+    passage_target: str = "supporting"
+    passage_position: str = "interleave"
     n_demonstrations: int = 0
+    demonstration_context: bool = False
     n_instructions: int = 0
     instruction_position: str = "start"
     seed: int | None = None

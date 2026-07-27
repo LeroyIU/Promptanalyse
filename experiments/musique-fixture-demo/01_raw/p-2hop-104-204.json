@@ -1,0 +1,55 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer.\n\nContext:\n[1] Knossos\nKnossos is the largest Bronze Age archaeological site on the island of Crete.\n[2] Crete\nCrete is the largest Greek island, lying in the Mediterranean Sea.\n[3] Arthur Evans\nArthur Evans was the archaeologist who excavated Knossos from 1900 onwards.\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
+  "n_tokens": 73,
+  "source": "musique",
+  "source_id": "2hop__104_204",
+  "source_category": "2",
+  "structured": {
+    "instructions": [
+      "Answer the question using only the passages provided. Respond with a short factual answer."
+    ],
+    "demonstrations": [],
+    "query": "In which sea is the island where the Minoan palace of Knossos was built?",
+    "context": [
+      {
+        "text": "Knossos is the largest Bronze Age archaeological site on the island of Crete.",
+        "title": "Knossos",
+        "is_supporting": true,
+        "meta": {
+          "idx": 0
+        }
+      },
+      {
+        "text": "Crete is the largest Greek island, lying in the Mediterranean Sea.",
+        "title": "Crete",
+        "is_supporting": true,
+        "meta": {
+          "idx": 1
+        }
+      },
+      {
+        "text": "Arthur Evans was the archaeologist who excavated Knossos from 1900 onwards.",
+        "title": "Arthur Evans",
+        "is_supporting": false,
+        "meta": {
+          "idx": 2
+        }
+      }
+    ],
+    "meta": {
+      "id": "2hop__104_204",
+      "n_hops": 2,
+      "n_supporting": 2,
+      "n_distractors": 1
+    }
+  },
+  "meta": {
+    "gold_answers": [
+      "Mediterranean Sea",
+      "the Mediterranean"
+    ],
+    "n_supporting": 2,
+    "n_distractors": 1
+  }
+}

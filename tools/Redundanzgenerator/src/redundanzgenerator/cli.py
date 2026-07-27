@@ -1,4 +1,4 @@
-"""Command line interface: redundanzgen generate | build | build-context."""
+"""Command line interface: redundanzgen generate | build."""
 
 from __future__ import annotations
 
@@ -8,11 +8,9 @@ import sys
 from pathlib import Path
 from typing import Any
 
-from .data.musique import DEFAULT_INSTRUCTION as MUSIQUE_INSTRUCTION
-from .data.musique import MuSiQueLoader
-from .data.popqa import PopQALoader
+from .data.musique import DEFAULT_INSTRUCTION, MuSiQueLoader
 from .generator import RedundancyGenerator
-from .models import Demonstration, FewShotPrompt, RedundancyConfig
+from .models import FewShotPrompt, RedundancyConfig
 from .render import render_prompt
 
 
@@ -38,17 +36,19 @@ def _write_output(
 def _cmd_generate(args: argparse.Namespace) -> None:
     prompt = FewShotPrompt.from_json(args.input)
     config = RedundancyConfig(
-        n_paraphrases=args.lexical,
-        paraphrase_demonstrations=args.paraphrase_demos,
+        n_passages=args.passages,
+        passage_mode=args.passage_mode,
+        passage_target=args.passage_target,
+        passage_position=args.passage_position,
         n_demonstrations=args.demos,
+        demonstration_context=args.demo_context,
         n_instructions=args.instructions,
         instruction_position=args.instruction_position,
         seed=args.seed,
     )
     generator = RedundancyGenerator.from_config(
         config,
-        popqa=args.popqa,
-        popqa_tp=args.popqa_tp,
+        musique=args.musique,
         use_llm=args.llm,
         llm_model=args.llm_model,
     )
@@ -57,41 +57,6 @@ def _cmd_generate(args: argparse.Namespace) -> None:
 
 
 def _cmd_build(args: argparse.Namespace) -> None:
-    popqa = PopQALoader(args.popqa)
-    if args.query_id is not None:
-        query_row = popqa.by_id(args.query_id)
-        if query_row is None:
-            raise SystemExit(f"No PopQA record with id {args.query_id}")
-    else:
-        query_row = popqa.by_question(args.query)
-        if query_row is None:
-            raise SystemExit(f"No PopQA record with question {args.query!r}")
-
-    import random
-
-    rng = random.Random(args.seed)
-    demo_rows = popqa.by_category(
-        str(query_row.get("prop", "")), exclude_questions={str(query_row["question"])}
-    )
-    rng.shuffle(demo_rows)
-    demos = [
-        Demonstration(
-            question=str(row["question"]),
-            answer=popqa.answer_of(row),
-            meta={"id": row.get("id"), "prop": row.get("prop")},
-        )
-        for row in demo_rows[: args.n_demos]
-    ]
-    prompt = FewShotPrompt(
-        instructions=[args.instruction],
-        demonstrations=demos,
-        query=str(query_row["question"]),
-        meta={"id": query_row.get("id"), "prop": query_row.get("prop")},
-    )
-    _write_output(prompt, [], args.output, args.text)
-
-
-def _cmd_build_context(args: argparse.Namespace) -> None:
     musique = MuSiQueLoader(args.musique)
     try:
         prompt = musique.build_prompt(
@@ -111,25 +76,37 @@ def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(
         prog="redundanzgen",
         description=(
-            "Inject controlled redundancy (paraphrases, demonstrations, "
-            "instructions) into few-shot prompts, based on PopQA/PopQA-TP."
+            "Inject controlled redundancy (context passages, demonstrations, "
+            "instructions) into context-based prompts built from MuSiQue."
         ),
     )
     sub = parser.add_subparsers(dest="command", required=True)
 
     gen = sub.add_parser("generate", help="Add redundancy to an existing prompt JSON")
-    gen.add_argument("--input", required=True, help="Few-shot prompt JSON file")
+    gen.add_argument("--input", required=True, help="Prompt JSON file")
     gen.add_argument(
-        "--lexical", type=int, default=0, metavar="N",
-        help="Paraphrases from PopQA-TP added to the query (default: 0)",
+        "--passages", type=int, default=0, metavar="N",
+        help="Redundant copies of context passages (default: 0)",
     )
     gen.add_argument(
-        "--paraphrase-demos", action="store_true",
-        help="Also paraphrase every demonstration question",
+        "--passage-mode", choices=("duplicate", "restate"), default="duplicate",
+        help="Verbatim copy, or wrapped in a restating template (default: duplicate)",
+    )
+    gen.add_argument(
+        "--passage-target", choices=("supporting", "any"), default="supporting",
+        help="Which passages get duplicated (default: supporting, i.e. gold first)",
+    )
+    gen.add_argument(
+        "--passage-position", choices=("interleave", "append"), default="interleave",
+        help="Where the copies go (default: interleave)",
     )
     gen.add_argument(
         "--demos", type=int, default=0, metavar="N",
-        help="Redundant same-category demonstrations from PopQA (default: 0)",
+        help="Redundant demonstrations with the same hop count (default: 0)",
+    )
+    gen.add_argument(
+        "--demo-context", action="store_true",
+        help="Give redundant demonstrations their own passages",
     )
     gen.add_argument(
         "--instructions", type=int, default=0, metavar="N",
@@ -140,10 +117,7 @@ def main(argv: list[str] | None = None) -> None:
         help="Where redundant instructions are placed (default: start)",
     )
     gen.add_argument(
-        "--popqa", help="PopQA source: local CSV/JSON file or HF dataset id"
-    )
-    gen.add_argument(
-        "--popqa-tp", help="PopQA-TP source: local CSV/JSON file or HF dataset id"
+        "--musique", help="MuSiQue source: local JSONL/JSON file or HF dataset id"
     )
     gen.add_argument(
         "--llm", action="store_true",
@@ -155,49 +129,33 @@ def main(argv: list[str] | None = None) -> None:
     gen.add_argument("--text", help="Also write the rendered prompt text here")
     gen.set_defaults(func=_cmd_generate)
 
-    build = sub.add_parser("build", help="Build a base few-shot prompt from PopQA")
-    build.add_argument("--popqa", required=True)
-    query_group = build.add_mutually_exclusive_group(required=True)
-    query_group.add_argument("--query-id", help="PopQA id of the query question")
-    query_group.add_argument("--query", help="Exact question text of the query")
-    build.add_argument("--n-demos", type=int, default=4)
-    build.add_argument(
-        "--instruction",
-        default="Answer the following question with a short factual answer.",
+    build = sub.add_parser(
+        "build", help="Build a context-based prompt from MuSiQue (20 passages per question)"
     )
+    build.add_argument(
+        "--musique", required=True,
+        help="MuSiQue source: local JSONL/JSON file or HF dataset id",
+    )
+    build.add_argument(
+        "--query-id", required=True, help="MuSiQue id, e.g. 2hop__128801_205185"
+    )
+    build.add_argument(
+        "--n-demos", type=int, default=0,
+        help="Demonstrations with the same hop count (default: 0, i.e. zero-shot)",
+    )
+    build.add_argument(
+        "--demo-context", action="store_true",
+        help="Give each demonstration its own passages (multiplies prompt length)",
+    )
+    build.add_argument(
+        "--no-distractors", action="store_true",
+        help="Keep only the supporting passages (oracle context)",
+    )
+    build.add_argument("--instruction", default=DEFAULT_INSTRUCTION)
     build.add_argument("--seed", type=int, default=None)
     build.add_argument("--output")
     build.add_argument("--text")
     build.set_defaults(func=_cmd_build)
-
-    ctx = sub.add_parser(
-        "build-context",
-        help="Build a context-based prompt from MuSiQue (20 passages per question)",
-    )
-    ctx.add_argument(
-        "--musique", required=True,
-        help="MuSiQue source: local JSONL/JSON file or HF dataset id",
-    )
-    ctx.add_argument(
-        "--query-id", required=True, help="MuSiQue id, e.g. 2hop__128801_205185"
-    )
-    ctx.add_argument(
-        "--n-demos", type=int, default=0,
-        help="Demonstrations with the same hop count (default: 0, i.e. zero-shot)",
-    )
-    ctx.add_argument(
-        "--demo-context", action="store_true",
-        help="Give each demonstration its own passages (multiplies prompt length)",
-    )
-    ctx.add_argument(
-        "--no-distractors", action="store_true",
-        help="Keep only the supporting passages (oracle context)",
-    )
-    ctx.add_argument("--instruction", default=MUSIQUE_INSTRUCTION)
-    ctx.add_argument("--seed", type=int, default=None)
-    ctx.add_argument("--output")
-    ctx.add_argument("--text")
-    ctx.set_defaults(func=_cmd_build_context)
 
     args = parser.parse_args(argv)
     args.func(args)

@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "baseline",
+  "target_ratio": 0.6,
+  "compressate_id": "p-2hop-104-204__baseline__cr060",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Knossos Knossos is the largest Bronze Age archaeological site on the island of Crete. [2] Crete Crete is the largest Greek island, lying in the Mediterranean Sea. [3]",
+  "n_tokens": 44,
+  "n_tokens_source": 73,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

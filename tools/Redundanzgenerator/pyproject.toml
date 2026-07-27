@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "redundanzgenerator"
-version = "0.1.0"
-description = "Generator for controlled redundancy (paraphrases, demonstrations, instructions) in few-shot prompts, based on PopQA and PopQA-TP"
+version = "0.2.0"
+description = "Generator for controlled redundancy (context passages, demonstrations, instructions) in context-based prompts, built on MuSiQue"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }

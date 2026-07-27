@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-101-201",
+  "redundancy_type": "demonstrations",
+  "target_ratio": 0.4,
+  "compressate_id": "p-2hop-101-201__demonstrations__cr040",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado Museum is located? A: Manzanares Q: In which sea is the island where the Minoan palace of Knossos was built? A: Mediterranean Sea Q: What is the currency of the country that",
+  "n_tokens": 56,
+  "n_tokens_source": 139,
+  "compressor": "head_ratio_compressor",
+  "seed": 42,
+  "meta": {}
+}

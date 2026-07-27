@@ -1,4 +1,4 @@
-"""Demonstration redundancy: extra same-category examples from PopQA."""
+"""Demonstration redundancy: extra examples with the same hop count."""
 
 from __future__ import annotations
 
@@ -6,52 +6,64 @@ import random
 import warnings
 from typing import Any
 
-from ..data.popqa import PopQALoader
+from ..data.musique import MuSiQueLoader
 from ..models import Demonstration, FewShotPrompt
 from .base import RedundancyStrategy
 
 
 class DemonstrationRedundancy(RedundancyStrategy):
-    """Appends ``n`` additional demonstrations drawn from PopQA.
+    """Appends ``n`` additional demonstrations drawn from MuSiQue.
 
-    Candidates share the query's relationship category (``prop``); if the
-    query's category is unknown or exhausted, the remaining slots are filled
-    from other categories. The query itself and questions already present in
-    the prompt are never used. ``position`` is "append" (after the existing
-    demonstrations) or "interleave" (shuffled in between them).
+    Candidates share the query's hop count, which is the dataset's own measure
+    of comparable difficulty; if it is unknown or exhausted, the remaining
+    slots are filled from the other hop counts. The query itself and questions
+    already present in the prompt are never used.
+
+    ``with_context`` decides whether the extra demonstrations bring their own
+    passages along. It is off by default: one demonstration with full context
+    roughly doubles the prompt, which would confound "more demonstrations"
+    with "much more context".
+
+    ``position`` is "append" (after the existing demonstrations) or
+    "interleave" (shuffled in between them).
     """
 
     name = "demonstrations"
 
     def __init__(
-        self, popqa: PopQALoader, n: int = 1, position: str = "append"
+        self,
+        musique: MuSiQueLoader,
+        n: int = 1,
+        position: str = "append",
+        with_context: bool = False,
     ) -> None:
         if position not in ("append", "interleave"):
             raise ValueError(f"position must be 'append' or 'interleave', got {position!r}")
-        self.popqa = popqa
+        self.musique = musique
         self.n = n
         self.position = position
+        self.with_context = with_context
 
-    def _query_category(self, prompt: FewShotPrompt) -> str | None:
-        prop = prompt.meta.get("prop")
-        if prop:
-            return str(prop)
-        row = self.popqa.by_question(prompt.query)
+    def _query_hops(self, prompt: FewShotPrompt) -> int | None:
+        hops = prompt.meta.get("n_hops")
+        if hops not in (None, ""):
+            return int(hops)
+        row = self.musique.by_question(prompt.query)
         if row is None and prompt.meta.get("id") is not None:
-            row = self.popqa.by_id(prompt.meta["id"])
-        return str(row["prop"]) if row and row.get("prop") else None
+            row = self.musique.by_id(prompt.meta["id"])
+        return self.musique.n_hops_of(row) if row else None
 
     def apply(self, prompt: FewShotPrompt, rng: random.Random) -> dict[str, Any]:
         used_questions = {prompt.query, *(d.question for d in prompt.demonstrations)}
-        category = self._query_category(prompt)
+        hops = self._query_hops(prompt)
 
         candidates: list[dict[str, Any]] = []
-        if category is not None:
-            candidates = self.popqa.by_category(category, exclude_questions=used_questions)
+        if hops is not None:
+            candidates = self.musique.by_hops(hops, exclude_questions=used_questions)
         else:
             warnings.warn(
-                f"Could not determine PopQA category for query {prompt.query!r}; "
-                "sampling redundant demonstrations from all categories.",
+                f"Could not determine the hop count for query {prompt.query!r}; "
+                "sampling redundant demonstrations from all hop counts.",
                 stacklevel=2,
             )
 
@@ -60,9 +72,9 @@ class DemonstrationRedundancy(RedundancyStrategy):
         if len(picked) < self.n:
             fallback = [
                 row
-                for cat in self.popqa.categories
-                if cat != category
-                for row in self.popqa.by_category(cat, exclude_questions=used_questions)
+                for other in self.musique.hop_counts
+                if other != hops
+                for row in self.musique.by_hops(other, exclude_questions=used_questions)
             ]
             rng.shuffle(fallback)
             picked.extend(fallback[: self.n - len(picked)])
@@ -70,11 +82,12 @@ class DemonstrationRedundancy(RedundancyStrategy):
         new_demos = [
             Demonstration(
                 question=str(row["question"]),
-                answer=self.popqa.answer_of(row),
+                answer=self.musique.answer_of(row),
+                context=self.musique.context_of(row) if self.with_context else [],
                 meta={
                     "id": row.get("id"),
-                    "prop": row.get("prop"),
-                    "source": "popqa-redundant",
+                    "n_hops": self.musique.n_hops_of(row),
+                    "source": "musique-redundant",
                 },
             )
             for row in picked
@@ -89,6 +102,7 @@ class DemonstrationRedundancy(RedundancyStrategy):
 
         return {
             "strategy": self.name,
-            "category": category,
+            "n_hops": hops,
+            "with_context": self.with_context,
             "inserted": [d.to_dict() for d in new_demos],
         }

@@ -1,0 +1,46 @@
+{
+  "prompt_id": "p-2hop-101-201",
+  "redundancy_type": "demonstrations",
+  "variant_id": "p-2hop-101-201__demonstrations",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer.\n\nQ: Which river flows through the city where the Prado Museum is located?\nA: Manzanares\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA: Mediterranean Sea\n\nQ: What is the currency of the country that borders Norway to the east?\nA: Swedish krona\n\nContext:\n[1] Eiffel Tower\nThe Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris.\n[2] Gustave Eiffel\nGustave Eiffel was a civil engineer known for iron structures and bridges.\n[3] Paris\nParis is the capital and most populous city of France.\n[4] Champ de Mars\nThe Champ de Mars is a large public greenspace used for exhibitions.\n\nQ: In which country is the city where the Eiffel Tower stands?\nA:",
+  "n_tokens": 139,
+  "redundancy_report": [
+    {
+      "strategy": "demonstrations",
+      "n_hops": 2,
+      "with_context": false,
+      "inserted": [
+        {
+          "question": "Which river flows through the city where the Prado Museum is located?",
+          "answer": "Manzanares",
+          "meta": {
+            "id": "2hop__105_205",
+            "n_hops": 2,
+            "source": "musique-redundant"
+          }
+        },
+        {
+          "question": "In which sea is the island where the Minoan palace of Knossos was built?",
+          "answer": "Mediterranean Sea",
+          "meta": {
+            "id": "2hop__104_204",
+            "n_hops": 2,
+            "source": "musique-redundant"
+          }
+        },
+        {
+          "question": "What is the currency of the country that borders Norway to the east?",
+          "answer": "Swedish krona",
+          "meta": {
+            "id": "2hop__106_206",
+            "n_hops": 2,
+            "source": "musique-redundant"
+          }
+        }
+      ]
+    }
+  ],
+  "generator": "redundanzgenerator@0.2.0",
+  "seed": 42,
+  "meta": {}
+}

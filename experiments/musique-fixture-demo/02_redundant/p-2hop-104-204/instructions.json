@@ -1,0 +1,26 @@
+{
+  "prompt_id": "p-2hop-104-204",
+  "redundancy_type": "instructions",
+  "variant_id": "p-2hop-104-204__instructions",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer.\nOnce again: Answer the question using only the passages provided. Respond with a short factual answer.\n\nContext:\n[1] Knossos\nKnossos is the largest Bronze Age archaeological site on the island of Crete.\n[2] Crete\nCrete is the largest Greek island, lying in the Mediterranean Sea.\n[3] Arthur Evans\nArthur Evans was the archaeologist who excavated Knossos from 1900 onwards.\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nThe instruction, restated: Answer the question using only the passages provided. Respond with a short factual answer.\nA:",
+  "n_tokens": 106,
+  "redundancy_report": [
+    {
+      "strategy": "instructions",
+      "mode": "rule-based",
+      "inserted": [
+        {
+          "text": "Once again: Answer the question using only the passages provided. Respond with a short factual answer.",
+          "position": "start"
+        },
+        {
+          "text": "The instruction, restated: Answer the question using only the passages provided. Respond with a short factual answer.",
+          "position": "end"
+        }
+      ]
+    }
+  ],
+  "generator": "redundanzgenerator@0.2.0",
+  "seed": 42,
+  "meta": {}
+}

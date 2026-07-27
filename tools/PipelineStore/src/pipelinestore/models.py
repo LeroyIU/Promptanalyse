@@ -36,9 +36,9 @@ class RawPrompt:
     prompt_id: str
     text: str
     n_tokens: int
-    source: str = ""          # dataset / provenance, e.g. "popqa"
-    source_id: str | None = None      # e.g. PopQA id
-    source_prop: str | None = None    # e.g. relation category
+    source: str = ""          # dataset / provenance, e.g. "musique"
+    source_id: str | None = None      # e.g. MuSiQue id
+    source_category: str | None = None    # dataset-side stratum, e.g. hop count
     structured: dict[str, Any] | None = None
     meta: dict[str, Any] = field(default_factory=dict)
 
@@ -138,7 +138,7 @@ TIDY_COLUMNS: list[str] = [
     "prompt_id",
     "source",
     "source_id",
-    "source_prop",
+    "source_category",
     "redundancy_type",
     "rate_label",
     "target_ratio",
@@ -179,7 +179,7 @@ class TidyRow:
     target_ratio: float
     source: str = ""
     source_id: str | None = None
-    source_prop: str | None = None
+    source_category: str | None = None
     achieved_ratio: float | None = None
     n_tokens_raw: int | None = None
     n_tokens_redundant: int | None = None

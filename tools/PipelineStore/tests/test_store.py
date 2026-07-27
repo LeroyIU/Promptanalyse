@@ -11,7 +11,7 @@ from pipelinestore import (
     whitespace_tokens,
 )
 
-REDUNDANCY_TYPES = ["baseline", "lexical", "demonstrations", "instructions"]
+REDUNDANCY_TYPES = ["baseline", "passages", "demonstrations", "instructions"]
 RATES = [0.2, 0.4, 0.6, 0.8]
 
 
@@ -20,9 +20,9 @@ def _populate(store: PipelineStore) -> None:
         prompt_id=ids.prompt_id(101),
         text="What is the capital of France ?",
         n_tokens=whitespace_tokens("What is the capital of France ?"),
-        source="popqa",
-        source_id="101",
-        source_prop="capital",
+        source="musique",
+        source_id="2hop__101_201",
+        source_category="2",
     )
     store.store_raw(raw)
     for rtype in REDUNDANCY_TYPES:

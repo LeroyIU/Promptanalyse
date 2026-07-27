@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-104-204__passages__cr040",
+  "model": "offline-gold-containment",
+  "output": "Mediterranean Sea",
+  "gold_answer": "Mediterranean Sea",
+  "is_correct": true,
+  "metrics": {
+    "gold_retained": 1.0,
+    "supporting_retained": 0.75,
+    "distractor_retained": 1.0,
+    "evidence_selectivity": -0.25
+  },
+  "seed": 42,
+  "meta": {}
+}

@@ -5,11 +5,10 @@ Dieses Repository dokumentiert die im Rahmen meiner Abschlussarbeit durchgeführ
 ## Inhalt
 
 - **Tools** – Skripte und Werkzeuge zur Durchführung und Auswertung der Promptanalyse
-  - *Redundanzgenerator* – erzeugt kontrollierte Redundanzen in Few-Shot-Prompts
+  - *Redundanzgenerator* – erzeugt kontrollierte Redundanzen in Kontext-Prompts (Passagen, Demonstrationen, Instruktionen)
   - *PipelineStore* – strukturierte Ablage der Pipeline-Prompts + auswertbares Manifest
 - **Datasets** – die verwendeten Datengrundlagen
-  - *PopQA / PopQA-TP* – Closed-Book-Bedingung: Frage ohne Kontext, plus manuell erstellte Paraphrasen
-  - *[MuSiQue](datasets/musique/README.md)* – Kontext-Bedingung: 20 Wikipedia-Passagen pro Frage, davon 2–4 mit Gold-Evidence-Label (`is_supporting`)
+  - *[MuSiQue](datasets/musique/README.md)* – Multi-Hop-QA mit Kontext: 20 Wikipedia-Passagen pro Frage, davon 2–4 mit Gold-Evidence-Label (`is_supporting`)
 - **Experiments** – Ablage der Pipeline-Läufe (`raw → redundanztyp → kompressionsrate → inferenz`) samt Manifest für die statistische Auswertung; siehe [`experiments/README.md`](experiments/README.md)
 - **Ergebnisse** – aus der Analyse hervorgegangene Auswertungen und Erkenntnisse
 
