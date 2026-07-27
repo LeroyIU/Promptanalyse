@@ -3,10 +3,10 @@
   "redundancy_type": "instructions",
   "target_ratio": 0.2,
   "compressate_id": "p-2hop-102-202__instructions__cr020",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only the passages provided.",
-  "n_tokens": 24,
+  "text": "Q: Who wrote the novel that the film Blade Runner is based on?\nThe instruction, restated: Answer the question using only the passages provided. Respond with a short factual answer.\nA:",
+  "n_tokens": 31,
   "n_tokens_source": 122,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

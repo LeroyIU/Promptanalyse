@@ -3,10 +3,10 @@
   "redundancy_type": "demonstrations",
   "target_ratio": 0.2,
   "compressate_id": "p-2hop-104-204__demonstrations__cr020",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado",
+  "text": "Answer the question using only the passages provided.\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
   "n_tokens": 24,
   "n_tokens_source": 122,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

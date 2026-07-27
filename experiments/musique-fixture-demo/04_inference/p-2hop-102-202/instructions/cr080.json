@@ -1,14 +1,14 @@
 {
   "compressate_id": "p-2hop-102-202__instructions__cr080",
   "model": "offline-gold-containment",
-  "output": "Philip K. Dick",
+  "output": "",
   "gold_answer": "Philip K. Dick",
-  "is_correct": true,
+  "is_correct": false,
   "metrics": {
-    "gold_retained": 1.0,
-    "supporting_retained": 1.0,
-    "distractor_retained": 1.0,
-    "evidence_selectivity": 0.0
+    "gold_retained": 0.0,
+    "supporting_retained": 0.7714,
+    "distractor_retained": 0.0,
+    "evidence_selectivity": 0.7714
   },
   "seed": 42,
   "meta": {}

@@ -29,7 +29,7 @@
     0.6,
     0.8
   ],
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "inference_model": "offline-gold-containment",
   "n_demos": 0,
   "include_distractors": true,

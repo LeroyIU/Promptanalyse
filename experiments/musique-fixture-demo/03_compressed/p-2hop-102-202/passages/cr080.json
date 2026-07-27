@@ -3,10 +3,10 @@
   "redundancy_type": "passages",
   "target_ratio": 0.8,
   "compressate_id": "p-2hop-102-202__passages__cr080",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Do Androids Dream of Electric Sheep? Do Androids Dream of Electric Sheep? is a 1968 novel by American writer Philip K. Dick. [2] Ridley Scott Ridley Scott is an English film director known for Alien and Gladiator. [3] Blade Runner Blade Runner is a 1982 science fiction film loosely based on the novel Do Androids Dream of Electric Sheep? [4] Blade Runner Blade Runner is a 1982 science fiction film loosely based on the novel Do Androids Dream of Electric Sheep? [5] Do Androids Dream of Electric Sheep? Do Androids Dream of Electric Sheep? is a 1968 novel by American writer Philip K.",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Do Androids Dream of Electric Sheep? Do Androids Dream of Electric Sheep? is a 1968 novel by American writer Philip K. Dick. [2] Ridley Scott Ridley Scott is an English film director known for Alien and Gladiator. [3] Blade Runner Blade Runner is a 1982 science fiction film loosely based on the novel Do Androids Dream of Electric Sheep? [4] Blade Runner Blade Runner is a 1982 science fiction film loosely based on the novel Do Androids Dream of Electric Sheep? [5] Do Androids Dream of Electric Sheep? Do\n\nQ: Who wrote the novel that the film Blade Runner is based on?\nA:",
   "n_tokens": 119,
   "n_tokens_source": 149,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

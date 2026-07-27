@@ -3,10 +3,10 @@
   "redundancy_type": "instructions",
   "target_ratio": 0.4,
   "compressate_id": "p-2hop-104-204__instructions__cr040",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Knossos Knossos is the largest Bronze Age archaeological site on",
+  "text": "Answer the question using only the passages provided. Respond\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nThe instruction, restated: Answer the question using only the passages provided. Respond with a short factual answer.\nA:",
   "n_tokens": 42,
   "n_tokens_source": 106,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

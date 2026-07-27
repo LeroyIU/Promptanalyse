@@ -1,14 +1,14 @@
 {
   "compressate_id": "p-2hop-101-201__instructions__cr080",
   "model": "offline-gold-containment",
-  "output": "France",
+  "output": "",
   "gold_answer": "France",
-  "is_correct": true,
+  "is_correct": false,
   "metrics": {
-    "gold_retained": 1.0,
-    "supporting_retained": 1.0,
-    "distractor_retained": 1.0,
-    "evidence_selectivity": 0.0
+    "gold_retained": 0.0,
+    "supporting_retained": 0.7692,
+    "distractor_retained": 0.5833,
+    "evidence_selectivity": 0.1859
   },
   "seed": 42,
   "meta": {}

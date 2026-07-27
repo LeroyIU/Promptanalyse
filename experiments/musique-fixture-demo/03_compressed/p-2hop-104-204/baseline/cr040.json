@@ -3,10 +3,10 @@
   "redundancy_type": "baseline",
   "target_ratio": 0.4,
   "compressate_id": "p-2hop-104-204__baseline__cr040",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Knossos Knossos is the largest Bronze Age archaeological site on the island of",
+  "text": "Answer the question using only the passages provided. Respond with a short factual\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
   "n_tokens": 29,
   "n_tokens_source": 73,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

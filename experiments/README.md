@@ -84,7 +84,7 @@ braucht also keine vorher bekannten IDs.
 
 Die beiden Stages, die keine Prompt-Konstruktion sind — **Kompression** und
 **Inferenz** — sind als Callables **einsteckbar**. Standard sind offline
-Baselines (deterministisches Token-Kürzen bzw. Gold-Containment-Scoring), damit
+Baselines (kontextschonendes Token-Kürzen bzw. Gold-Containment-Scoring), damit
 der Lauf ohne Modelle/Netz durchläuft; die echten Methoden (z. B. LLMLingua,
 Claude API) setzt man mit gleicher Signatur ein:
 
@@ -163,13 +163,21 @@ Kompression behalten hat — messbar nur, weil MuSiQue Gold-Passagen auszeichnet
 
 | Spalte | Bedeutung |
 |---|---|
-| `metric_supporting_retained` | Anteil der Tokens aus den Supporting-Passagen, die die Kompression überlebt haben |
+| `metric_supporting_retained` | Anteil der Supporting-Passagen, der die Kompression als **geordnete Teilfolge** überlebt hat |
 | `metric_distractor_retained` | dasselbe für die Distraktoren |
 | `metric_evidence_selectivity` | Differenz der beiden. `> 0` heißt: der Kompressor bevorzugt Evidenz gegenüber Rauschen; `≈ 0` heißt, er kürzt nur, statt auszuwählen |
 
 Damit lässt sich der interessante Fall vom uninteressanten trennen: Ein Abfall
 der Genauigkeit bei niedriger Rate ist erst dann ein Kompressions*fehler*, wenn
 die Selektivität dabei nicht steigt.
+
+Zur Messung: Die Reihenfolge zählt mit, jedes Token wird höchstens einmal
+verbraucht. Reine Mengenzugehörigkeit („kommt dieses Wort irgendwo im
+komprimierten Prompt vor?") beantwortet jedes Funktionswort mit ja und meldet
+bei 20 Passagen Kontext ~95 % Retention bei 20 % behaltenen Tokens — sie misst
+Vokabularüberlappung, nicht Überleben. Redundante Kopien werden auf ihr Original
+zurückgefaltet (Wertung: die bestüberlebende Kopie), damit die `passages`-
+Bedingung nicht gegen einen größeren Nenner gemessen wird als die anderen drei.
 
 ## Beispiele im Repo
 

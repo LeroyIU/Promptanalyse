@@ -3,10 +3,10 @@
   "redundancy_type": "passages",
   "target_ratio": 0.2,
   "compressate_id": "p-2hop-102-202__passages__cr020",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Do Androids Dream of Electric Sheep? Do Androids Dream of Electric Sheep? is a",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1]\n\nQ: Who wrote the novel that the film Blade Runner is based on?\nA:",
   "n_tokens": 30,
   "n_tokens_source": 149,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

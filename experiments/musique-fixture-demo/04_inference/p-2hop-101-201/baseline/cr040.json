@@ -6,9 +6,9 @@
   "is_correct": false,
   "metrics": {
     "gold_retained": 0.0,
-    "supporting_retained": 0.7308,
-    "distractor_retained": 0.4167,
-    "evidence_selectivity": 0.3141
+    "supporting_retained": 0.2308,
+    "distractor_retained": 0.0417,
+    "evidence_selectivity": 0.1891
   },
   "seed": 42,
   "meta": {}

@@ -70,6 +70,12 @@ run_pipeline(
 )
 ```
 
+Der Default-Kompressor ist `query_preserving_compressor`: Er verteilt das
+Token-Budget auf den Kontext und lässt den Frageblock stehen — wie es echte
+Prompt-Kompressoren tun. Reines Kürzen von vorn (`head_ratio_compressor`)
+schneidet bei Kontext-Prompts die Frage ab, die ganz am Ende steht, und liefert
+dann in jeder Bedingung 0 % Genauigkeit aus demselben nichtssagenden Grund.
+
 Neben `is_correct` schreibt jeder Lauf `evidence_retention`-Metriken ins Manifest
 (`metric_supporting_retained`, `metric_distractor_retained`,
 `metric_evidence_selectivity`): Sie nutzen die Gold-Labels von MuSiQue, um zu

@@ -16,6 +16,7 @@ from pipelinestore.redundancy_pipeline import (  # noqa: E402
     RedundancyCounts,
     evidence_retention,
     head_ratio_compressor,
+    query_preserving_compressor,
     run_pipeline,
 )
 
@@ -141,3 +142,97 @@ def test_head_ratio_compressor_hits_target():
     text = " ".join(str(i) for i in range(100))
     assert len(head_ratio_compressor(text, 0.2).split()) == 20
     assert len(head_ratio_compressor(text, 0.5).split()) == 50
+
+
+def _prompt_text(context_tokens: int) -> str:
+    context = " ".join(f"w{i}" for i in range(context_tokens))
+    return f"Instruction here.\n\nContext:\n[1] Title\n{context}\n\nQ: The question?\nA:"
+
+
+def test_query_preserving_compressor_keeps_the_question():
+    """The naive baseline cuts the question off; this one must not."""
+    text = _prompt_text(500)
+    assert "Q: The question?" not in head_ratio_compressor(text, 0.2)
+    compressed = query_preserving_compressor(text, 0.2)
+    assert compressed.endswith("Q: The question?\nA:")
+    assert "Instruction here." in compressed
+
+
+def test_query_preserving_compressor_hits_target_overall():
+    text = _prompt_text(500)
+    total = len(text.split())
+    for rate in (0.2, 0.5, 0.8):
+        kept = len(query_preserving_compressor(text, rate).split())
+        assert abs(kept - round(total * rate)) <= 1
+
+
+def test_query_preserving_compressor_keeps_query_even_over_budget():
+    """A prompt is not a prompt without its question, whatever the budget."""
+    text = _prompt_text(4)
+    compressed = query_preserving_compressor(text, 0.05)
+    assert compressed.startswith("Q: The question?")
+
+
+def test_query_preserving_compressor_falls_back_without_marker():
+    text = " ".join(str(i) for i in range(100))
+    assert len(query_preserving_compressor(text, 0.3).split()) == 30
+
+
+def test_retention_is_order_aware_not_vocabulary_overlap():
+    """Set membership would score a truncated context as almost fully retained."""
+    from redundanzgenerator import ContextPassage, FewShotPrompt
+
+    # Same six words in both passages, different order: a set-based measure
+    # cannot tell them apart, an order-aware one can.
+    prompt = FewShotPrompt(
+        instructions=[],
+        demonstrations=[],
+        query="Q?",
+        context=[
+            ContextPassage(text="alpha beta gamma", is_supporting=True, meta={"idx": 0}),
+            ContextPassage(text="gamma beta alpha", is_supporting=False, meta={"idx": 1}),
+        ],
+    )
+    metrics = evidence_retention(prompt, "alpha beta gamma")
+    assert metrics["supporting_retained"] == 1.0
+    assert metrics["distractor_retained"] < 1.0
+
+
+def test_retention_falls_when_evidence_is_cut():
+    from redundanzgenerator import ContextPassage, FewShotPrompt
+
+    prompt = FewShotPrompt(
+        instructions=[],
+        demonstrations=[],
+        query="Q?",
+        context=[ContextPassage(text="one two three four", is_supporting=True, meta={"idx": 0})],
+    )
+    assert evidence_retention(prompt, "one two three four")["supporting_retained"] == 1.0
+    assert evidence_retention(prompt, "one two")["supporting_retained"] == 0.5
+    assert evidence_retention(prompt, "")["supporting_retained"] == 0.0
+
+
+def test_redundant_copies_are_folded_onto_their_original():
+    """Each piece of evidence counts once, so conditions stay comparable."""
+    from redundanzgenerator import ContextPassage, FewShotPrompt
+
+    original = ContextPassage(text="one two three four", is_supporting=True, meta={"idx": 0})
+    copy = ContextPassage(
+        text="one two three four",
+        is_supporting=True,
+        meta={"idx": 0, "redundant_copy_of": 0},
+    )
+    with_copy = FewShotPrompt(
+        instructions=[], demonstrations=[], query="Q?", context=[original, copy]
+    )
+    without = FewShotPrompt(
+        instructions=[], demonstrations=[], query="Q?", context=[original]
+    )
+    # The surviving copy carries the evidence, so the score matches the
+    # single-passage prompt instead of being halved by the larger denominator.
+    text = "one two three four"
+    assert (
+        evidence_retention(with_copy, text)["supporting_retained"]
+        == evidence_retention(without, text)["supporting_retained"]
+        == 1.0
+    )

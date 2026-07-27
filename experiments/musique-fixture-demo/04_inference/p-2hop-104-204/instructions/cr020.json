@@ -7,8 +7,8 @@
   "metrics": {
     "gold_retained": 0.0,
     "supporting_retained": 0.1667,
-    "distractor_retained": 0.0909,
-    "evidence_selectivity": 0.0758
+    "distractor_retained": 0.0,
+    "evidence_selectivity": 0.1667
   },
   "seed": 42,
   "meta": {}

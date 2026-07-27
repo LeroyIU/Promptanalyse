@@ -3,10 +3,10 @@
   "redundancy_type": "passages",
   "target_ratio": 0.8,
   "compressate_id": "p-2hop-101-201__passages__cr080",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [2] Champ de Mars The Champ de Mars is a large public greenspace used for exhibitions. [3] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [4] Gustave Eiffel Gustave Eiffel was a civil engineer known for iron structures and bridges. [5] Paris Paris is the capital and most populous city of France. [6] Paris Paris is the capital and most populous city of France. [7] Champ",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [2] Champ de Mars The Champ de Mars is a large public greenspace used for exhibitions. [3] Eiffel Tower The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris. [4] Gustave Eiffel Gustave Eiffel was a civil engineer known for iron structures and bridges. [5] Paris Paris is the capital and most populous city of France. [6]\n\nQ: In which country is the city where the Eiffel Tower stands?\nA:",
   "n_tokens": 108,
   "n_tokens_source": 135,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

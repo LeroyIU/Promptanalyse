@@ -3,10 +3,10 @@
   "redundancy_type": "demonstrations",
   "target_ratio": 0.4,
   "compressate_id": "p-2hop-104-204__demonstrations__cr040",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado Museum is located? A: Manzanares Q: Who wrote the novel that the film Blade Runner is based on? A: Philip K. Dick Q: What is",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Q: Which river flows through the city where the Prado Museum is located? A: Manzanares Q: Who wrote the\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
   "n_tokens": 49,
   "n_tokens_source": 122,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }

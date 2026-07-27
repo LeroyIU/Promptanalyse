@@ -16,14 +16,15 @@ dependency-free; install it via the ``redundancy`` extra to use this module.
 The two stages that are *not* prompt construction -- compression and inference
 -- are injected as callables so real methods (e.g. LLMLingua, the Claude API)
 drop straight in. Honest, offline defaults are provided
-(:func:`head_ratio_compressor`, :func:`gold_containment_inference`) so a full
-run works with no models and no network; both are explicitly named as baselines,
-not neural methods.
+(:func:`query_preserving_compressor`, :func:`gold_containment_inference`) so a
+full run works with no models and no network; both are explicitly named as
+baselines, not neural methods.
 """
 
 from __future__ import annotations
 
 import re
+from bisect import bisect_left
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any, Callable, Protocol
@@ -65,15 +66,48 @@ class Inference(Protocol):
 
 # --- offline default backends --------------------------------------------
 def head_ratio_compressor(text: str, target_ratio: float) -> str:
-    """Deterministic truncation baseline: keep the first ``ratio`` of tokens.
+    """Naive truncation: keep the first ``ratio`` of tokens, whatever they are.
 
-    A reproducible, model-free stand-in. Replace with the real compressor in a
-    production run -- the storage calls do not change.
+    Kept for reference, but **not** the default: on a context prompt the
+    question sits at the very end, so at low rates this throws the question
+    away and every condition scores zero for the same uninformative reason.
+    Use :func:`query_preserving_compressor` unless you specifically want the
+    unguarded baseline.
     """
 
     tokens = text.split()
     keep = max(1, round(len(tokens) * target_ratio))
     return " ".join(tokens[:keep])
+
+
+QUERY_MARKER = "\n\nQ: "
+
+
+def query_preserving_compressor(text: str, target_ratio: float) -> str:
+    """Truncation baseline that spends its budget on the context only.
+
+    Real prompt compressors (LLMLingua and successors) compress the context and
+    leave the question standing -- a prompt without its question is not a
+    shorter prompt, it is a different task. This baseline does the same: the
+    final query block survives whole, and the token budget is applied to
+    everything before it.
+
+    The split relies on the rendering of ``redundanzgenerator.render_prompt``
+    (the query block starts at the last ``\\n\\nQ: ``). Text without that marker
+    falls back to plain truncation. When the query alone already exceeds the
+    budget the query still wins, so the achieved ratio can exceed the target --
+    that is visible in ``achieved_ratio`` rather than silently hidden.
+    """
+
+    head, sep, tail = text.rpartition(QUERY_MARKER)
+    if not sep:
+        return head_ratio_compressor(text, target_ratio)
+
+    query_block = sep + tail
+    budget = round(len(text.split()) * target_ratio) - len(query_block.split())
+    if budget <= 0:
+        return query_block.lstrip("\n")
+    return " ".join(head.split()[:budget]) + query_block
 
 
 def gold_containment_inference(
@@ -104,29 +138,83 @@ def _tokens(text: str) -> list[str]:
     return re.findall(r"[a-z0-9]+", text.lower())
 
 
+def _positions(tokens: list[str]) -> dict[str, list[int]]:
+    index: dict[str, list[int]] = {}
+    for i, token in enumerate(tokens):
+        index.setdefault(token, []).append(i)
+    return index
+
+
+def _match_in_order(
+    passage_tokens: list[str], index: dict[str, list[int]], cursor: int
+) -> tuple[float, int]:
+    """Share of a passage that survives *as an ordered subsequence*.
+
+    Order matters. Set membership would ask "does this word appear anywhere in
+    the compressed prompt", which every function word answers yes to -- on a
+    20-passage context that reports ~95 % retention at a 20 % keep rate, i.e.
+    it measures vocabulary overlap, not survival. Matching in order, each token
+    consumed at most once, tracks what compression actually did: it deletes
+    tokens and preserves the order of the rest.
+    """
+
+    matched = 0
+    for token in passage_tokens:
+        places = index.get(token)
+        if not places:
+            continue
+        i = bisect_left(places, cursor)
+        if i < len(places):
+            matched += 1
+            cursor = places[i] + 1
+    return matched / len(passage_tokens), cursor
+
+
 def evidence_retention(prompt: Any, compressed_text: str) -> dict[str, float]:
     """How much of the gold evidence a compressed prompt still contains.
 
     This is what the MuSiQue labels buy. Whether the answer survived is a
-    coarse signal; the share of *supporting* passage tokens that survived says
-    whether a compressor preserved the right material. The distractor share is
-    reported next to it -- a compressor that keeps evidence and noise at the
-    same rate is not selecting, only shortening.
+    coarse signal; the share of *supporting* passage material that survived
+    says whether a compressor preserved the right thing. The distractor share
+    sits next to it -- a compressor that keeps evidence and noise at the same
+    rate is not selecting, only shortening.
 
-    Measured as bag-of-token containment, because compression deletes tokens
-    inside passages rather than dropping passages whole.
+    Redundant copies are folded back onto their original: each piece of
+    evidence counts once, scored by its best-surviving copy. Otherwise the
+    ``passages`` condition would be measured against a larger denominator than
+    the other three and the numbers would not be comparable across conditions.
+
+    Assumes the compressed text is a subsequence of the prompt (true for
+    truncation and for token-dropping compressors such as LLMLingua). An
+    abstractive compressor that rewrites text would be understated here.
     """
 
-    kept = set(_tokens(compressed_text))
+    index = _positions(_tokens(compressed_text))
+    cursor = 0
+    supporting: dict[Any, tuple[float, int]] = {}
+    distractors: dict[Any, tuple[float, int]] = {}
 
-    def share(passages: list[Any]) -> float | None:
-        wanted = [t for p in passages for t in _tokens(p.text)]
-        if not wanted:
+    for position, passage in enumerate(prompt.context):
+        tokens = _tokens(passage.text)
+        if not tokens:
+            continue
+        share, cursor = _match_in_order(tokens, index, cursor)
+        if passage.is_supporting is None:
+            continue
+        bucket = supporting if passage.is_supporting else distractors
+        key = passage.meta.get("redundant_copy_of", passage.meta.get("idx", position))
+        best = bucket.get(key)
+        if best is None or share > best[0]:
+            bucket[key] = (share, len(tokens))
+
+    def weighted(bucket: dict[Any, tuple[float, int]]) -> float | None:
+        if not bucket:
             return None
-        return round(sum(t in kept for t in wanted) / len(wanted), 4)
+        total = sum(n for _, n in bucket.values())
+        return round(sum(s * n for s, n in bucket.values()) / total, 4)
 
-    supporting_share = share([p for p in prompt.context if p.is_supporting])
-    distractor_share = share([p for p in prompt.context if p.is_supporting is False])
+    supporting_share = weighted(supporting)
+    distractor_share = weighted(distractors)
 
     metrics: dict[str, float] = {}
     if supporting_share is not None:
@@ -202,7 +290,7 @@ def run_pipeline(
     musique_source: str | Path,
     query_ids: list[str],
     compression_rates: list[float],
-    compress: Compressor = head_ratio_compressor,
+    compress: Compressor = query_preserving_compressor,
     infer: Inference | None = None,
     counts: RedundancyCounts | None = None,
     n_demos: int = 0,

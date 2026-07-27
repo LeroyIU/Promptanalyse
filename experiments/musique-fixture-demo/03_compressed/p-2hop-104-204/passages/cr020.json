@@ -3,10 +3,10 @@
   "redundancy_type": "passages",
   "target_ratio": 0.2,
   "compressate_id": "p-2hop-104-204__passages__cr020",
-  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] Crete Crete is the largest Greek island,",
+  "text": "Answer the question using only the passages\n\nQ: In which sea is the island where the Minoan palace of Knossos was built?\nA:",
   "n_tokens": 23,
   "n_tokens_source": 115,
-  "compressor": "head_ratio_compressor",
+  "compressor": "query_preserving_compressor",
   "seed": 42,
   "meta": {}
 }
