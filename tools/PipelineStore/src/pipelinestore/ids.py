@@ -36,7 +36,7 @@ def slug(value: str | int) -> str:
 
 
 def prompt_id(raw_id: str | int) -> str:
-    """Id of a raw prompt, e.g. a PopQA id or a running counter."""
+    """Id of a raw prompt, e.g. a MuSiQue id or a running counter."""
 
     return f"p-{slug(raw_id)}"
 

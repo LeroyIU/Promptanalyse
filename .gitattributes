@@ -1,2 +1,14 @@
-*.jsonl filter=lfs diff=lfs merge=lfs -text
-datasets/ filter=lfs diff=lfs merge=lfs -text
+# Git LFS nur für die großen Rohdaten unter datasets/.
+#
+# Bewusst NICHT global `*.jsonl`: das erfasst auch die Test-Fixtures
+# (tools/*/tests/fixtures/*.jsonl) und die Experiment-Manifeste
+# (experiments/*/manifest.jsonl). Beide sind klein, gehören ins normale
+# Repository und kämen ohne `git lfs pull` nur als Pointer-Text an — die
+# Testsuite bräche dann mit einem Parse-Fehler, und Manifest-Diffs wären
+# durch `diff=lfs` nicht mehr lesbar.
+datasets/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
+datasets/**/*.csv filter=lfs diff=lfs merge=lfs -text
+datasets/**/*.tsv filter=lfs diff=lfs merge=lfs -text
+datasets/**/*.parquet filter=lfs diff=lfs merge=lfs -text
+datasets/**/*.zip filter=lfs diff=lfs merge=lfs -text
+datasets/**/*.gz filter=lfs diff=lfs merge=lfs -text

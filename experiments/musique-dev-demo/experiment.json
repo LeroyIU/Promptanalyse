@@ -1,0 +1,39 @@
+{
+  "experiment_id": "musique-dev-demo",
+  "description": "Echter End-to-End-Lauf auf den ersten 3 Datensaetzen von musique_ans_v1.0_dev.jsonl. Kompression und Inferenz sind die offline Baselines (kontextschonendes Kuerzen + Gold-Containment), nicht LLMLingua und kein echtes Modell.",
+  "musique_source": "/home/user/Promptanalyse/datasets/musique/musique_ans_v1.0_dev.jsonl",
+  "query_ids": [
+    "2hop__460946_294723",
+    "2hop__252311_366220",
+    "2hop__701895_752697"
+  ],
+  "redundancy_types": [
+    "baseline",
+    "passages",
+    "demonstrations",
+    "instructions"
+  ],
+  "redundancy_counts": {
+    "passages": 3,
+    "demonstrations": 3,
+    "instructions": 2,
+    "passage_mode": "duplicate",
+    "passage_target": "supporting",
+    "passage_position": "interleave",
+    "demonstration_context": false,
+    "instruction_position": "both"
+  },
+  "compression_rates": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "compressor": "query_preserving_compressor",
+  "inference_model": "offline-gold-containment",
+  "n_demos": 0,
+  "include_distractors": true,
+  "demo_context": false,
+  "instruction": "Answer the question using only the passages provided. Respond with a short factual answer.",
+  "seed": 42
+}

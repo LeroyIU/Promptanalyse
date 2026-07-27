@@ -27,20 +27,51 @@ from pipelinestore import (
 # 4 variant conditions x 4 compression rates = 16 compressates per raw prompt.
 # "baseline" is the control: the raw prompt with NO added redundancy, compressed
 # at the same rates. The other three are the redundancy types of the generator.
-REDUNDANCY_TYPES = ["baseline", "lexical", "demonstrations", "instructions"]
+REDUNDANCY_TYPES = ["baseline", "passages", "demonstrations", "instructions"]
 COMPRESSION_RATES = [0.2, 0.4, 0.6, 0.8]
 
+# Shaped like a MuSiQue prompt (instruction + context block + question) but
+# written by hand, so this example needs no dataset download.
 RAW_PROMPTS = [
-    {"id": 101, "prop": "capital", "text": "Answer shortly. Q: What is the capital of France? A:", "gold": "Paris"},
-    {"id": 205, "prop": "author", "text": "Answer shortly. Q: Who wrote Hamlet? A:", "gold": "Shakespeare"},
-    {"id": 377, "prop": "capital", "text": "Answer shortly. Q: What is the capital of Japan? A:", "gold": "Tokyo"},
+    {
+        "id": "2hop__101_201",
+        "hops": "2",
+        "text": (
+            "Answer using only the passages. Context: [1] Eiffel Tower The Eiffel Tower "
+            "stands on the Champ de Mars in Paris. [2] Paris Paris is the capital of "
+            "France. Q: In which country is the city where the Eiffel Tower stands? A:"
+        ),
+        "gold": "France",
+    },
+    {
+        "id": "2hop__102_202",
+        "hops": "2",
+        "text": (
+            "Answer using only the passages. Context: [1] Blade Runner Blade Runner is "
+            "based on the novel Do Androids Dream of Electric Sheep? [2] Do Androids "
+            "Dream of Electric Sheep? The novel was written by Philip K. Dick. "
+            "Q: Who wrote the novel that Blade Runner is based on? A:"
+        ),
+        "gold": "Philip K. Dick",
+    },
+    {
+        "id": "3hop1__103_203_303",
+        "hops": "3",
+        "text": (
+            "Answer using only the passages. Context: [1] Ninth Symphony Composed by "
+            "Ludwig van Beethoven. [2] Beethoven He died in Vienna in 1827. [3] Vienna "
+            "Vienna is the capital of Austria. Q: What is the capital of the country "
+            "where the composer of the Ninth Symphony died? A:"
+        ),
+        "gold": "Vienna",
+    },
 ]
 
 FILLER = {
     "baseline": "",  # control: no redundancy added, variant == raw prompt
-    "lexical": "Rephrased: state the answer. Again: give the answer.",
-    "demonstrations": "Q: Capital of Egypt? A: Cairo. Q: Capital of Italy? A: Rome.",
-    "instructions": "Answer shortly. Please answer shortly. Reply with a short factual answer.",
+    "passages": "[3] Paris Paris is the capital of France. [4] Eiffel Tower The Eiffel Tower stands on the Champ de Mars in Paris.",
+    "demonstrations": "Q: In which sea is the island of Crete? A: Mediterranean Sea. Q: Which river flows through Madrid? A: Manzanares.",
+    "instructions": "Answer using only the passages. Remember: answer using only the passages. Reply with a short factual answer.",
 }
 
 
@@ -64,9 +95,9 @@ def main() -> None:
             prompt_id=pid,
             text=spec["text"],
             n_tokens=whitespace_tokens(spec["text"]),
-            source="popqa",
+            source="musique",
             source_id=str(spec["id"]),
-            source_prop=spec["prop"],
+            source_category=spec["hops"],
         )
         store.store_raw(raw)
 
@@ -79,7 +110,7 @@ def main() -> None:
                 variant_id=ids.variant_id(pid, rtype),
                 text=vtext,
                 n_tokens=whitespace_tokens(vtext),
-                generator="redundanzgenerator@0.1.0 (placeholder)",
+                generator="redundanzgenerator@0.2.0 (placeholder)",
                 seed=42,
             )
             store.store_redundant(variant)

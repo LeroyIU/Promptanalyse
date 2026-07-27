@@ -1,29 +1,29 @@
-"""Redundanzgenerator: controlled redundancy for few-shot prompts."""
+"""Redundanzgenerator: controlled redundancy for context-based prompts."""
 
-from .data.popqa import PopQALoader
-from .data.popqa_tp import PopQATPLoader
+from .data.musique import MuSiQueLoader
 from .generator import RedundancyGenerator
-from .models import Demonstration, FewShotPrompt, RedundancyConfig
-from .render import render_prompt
+from .models import ContextPassage, Demonstration, FewShotPrompt, RedundancyConfig
+from .render import render_context, render_prompt
 from .strategies import (
     DemonstrationRedundancy,
     InstructionRedundancy,
-    ParaphraseRedundancy,
+    PassageRedundancy,
     RedundancyStrategy,
 )
 
 __all__ = [
+    "ContextPassage",
     "Demonstration",
     "FewShotPrompt",
     "RedundancyConfig",
     "RedundancyGenerator",
-    "PopQALoader",
-    "PopQATPLoader",
+    "MuSiQueLoader",
     "RedundancyStrategy",
-    "ParaphraseRedundancy",
+    "PassageRedundancy",
     "DemonstrationRedundancy",
     "InstructionRedundancy",
+    "render_context",
     "render_prompt",
 ]
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"

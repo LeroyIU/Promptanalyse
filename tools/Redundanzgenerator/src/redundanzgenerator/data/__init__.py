@@ -1,4 +1,3 @@
-from .popqa import PopQALoader
-from .popqa_tp import PopQATPLoader
+from .musique import MuSiQueLoader
 
-__all__ = ["PopQALoader", "PopQATPLoader"]
+__all__ = ["MuSiQueLoader"]

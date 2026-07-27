@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-701895-752697__instructions__cr060",
+  "model": "offline-gold-containment",
+  "output": "Tamaulipas",
+  "gold_answer": "Tamaulipas",
+  "is_correct": true,
+  "metrics": {
+    "gold_retained": 1.0,
+    "supporting_retained": 0.5979,
+    "distractor_retained": 0.5913,
+    "evidence_selectivity": 0.0066
+  },
+  "seed": 42,
+  "meta": {}
+}

@@ -1,0 +1,3 @@
+# The test split ships without answers or supporting labels (leaderboard
+# evaluation) and is unusable here; dev and train are committed via Git LFS.
+musique_*_test.jsonl

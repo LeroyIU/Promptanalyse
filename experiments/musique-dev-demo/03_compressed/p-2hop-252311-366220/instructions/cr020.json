@@ -1,0 +1,12 @@
+{
+  "prompt_id": "p-2hop-252311-366220",
+  "redundancy_type": "instructions",
+  "target_ratio": 0.2,
+  "compressate_id": "p-2hop-252311-366220__instructions__cr020",
+  "text": "Answer the question using only the passages provided. Respond with a short factual answer. Once again: Answer the question using only the passages provided. Respond with a short factual answer. Context: [1] SICRAL 1B SICRAL 1B is a military communications satellite built by Thales Alenia Space for Italian Armed Forces. It is a dual-use spacecraft: Telespazio will use some of the satellite's transmission capacity and some will be used by the Italian defense ministry and NATO. The spacecraft is based on the Italsat 3000 bus and includes one EHF/Ka band, three UHF-band and five active SHF-band transponders. It is designed to be operable for 13 years. [2] Salix arbuscula Salix arbuscula, the mountain willow, is a low, much branched shrub (to 0.7 metres) having a limited distribution in Northern Europe, occurring from north Scandinavia eastwards to Siberia. In Scotland it can be found on damp rocky mountain slopes and ledges, generally at altitudes above 600 metres, rarely outside Perthshire and Argyll. [3] GeminiJets GeminiJets is a diecast model airplane manufacturer based in Las Vegas, Nevada, United States founded in 1998 under the name of SkyJets. The product line is named GeminiJets, but ADI (Airliners Distributing Inc.) is the founding company holding the production licenses from airlines and aircraft manufacturers, including but not limited to Boeing, Airbus, McDonnell Douglas, and Embraer. ADI makes and markets aircraft in several different scales. [4] DeSoto Records DeSoto Records is an American record label based in Washington, D.C. Founded in 1989, it is run\n\nQ: Who founded the company that distributed the film UHF?\nThe instruction, restated: Answer the question using only the passages provided. Respond with a short factual answer.\nA:",
+  "n_tokens": 277,
+  "n_tokens_source": 1383,
+  "compressor": "query_preserving_compressor",
+  "seed": 42,
+  "meta": {}
+}

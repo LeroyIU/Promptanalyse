@@ -232,7 +232,7 @@ def _join_row(
         target_ratio=comp.target_ratio,
         source=raw.source,
         source_id=raw.source_id,
-        source_prop=raw.source_prop,
+        source_category=raw.source_category,
         achieved_ratio=comp.achieved_ratio,
         n_tokens_raw=raw.n_tokens,
         n_tokens_redundant=var_tokens,

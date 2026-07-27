@@ -1,0 +1,15 @@
+{
+  "compressate_id": "p-2hop-252311-366220__passages__cr060",
+  "model": "offline-gold-containment",
+  "output": "Mike Medavoy",
+  "gold_answer": "Mike Medavoy",
+  "is_correct": true,
+  "metrics": {
+    "gold_retained": 1.0,
+    "supporting_retained": 1.0,
+    "distractor_retained": 0.5929,
+    "evidence_selectivity": 0.4071
+  },
+  "seed": 42,
+  "meta": {}
+}
