@@ -69,6 +69,49 @@ always `"en"`):
   mean ≈ 15455
 - No duplicate `_id`, no empty `answers`
 
+## Injected redundancy for compression experiments
+`inject_redundancy.py` takes the 8k+ subset above and produces five JSONL
+variants for controlled prompt-compression experiments:
+
+- `triviaqa_baseline.jsonl` — unmodified passthrough of the 100 samples
+- `triviaqa_redundancy_lexical.jsonl` — paraphrases of selected passage
+  sentences inserted right after the original sentence
+- `triviaqa_redundancy_demonstration.jsonl` — whole few-shot demonstrations
+  duplicated (verbatim, or paraphrased with `--near-duplicate`) and
+  reinserted at a randomized, non-adjacent position
+- `triviaqa_redundancy_instruction.jsonl` — the task instruction (LongBench's
+  own `triviaqa` template from `dataset2prompt.json`, which appears nowhere
+  in `context`/`input` themselves) repeated at several positions, verbatim
+  and/or paraphrased
+- `triviaqa_redundancy_combined.jsonl` — all three stacked
+
+Every non-baseline row adds `redundancy_spans` (per category: exact
+character span in the new `context` that was injected, plus the source text
+it duplicates/paraphrases — `{start, end, type, original_text,
+inserted_text}`), `original_length`/`augmented_length` (tiktoken
+`cl100k_base` token counts) and `redundancy_ratio`, so a compressor's output
+can later be checked against exactly what should be removable without
+losing the answer.
+
+```bash
+python datasets/longbench_trivia_qa_e/inject_redundancy.py
+```
+
+Paraphrasing (lexical redundancy, the combined variant, `--near-duplicate`
+demonstrations, and paraphrased instruction copies) calls the Anthropic API;
+set `ANTHROPIC_API_KEY` in the environment (never hardcoded — see
+`AnthropicParaphraser` in the script). Variants that don't need paraphrasing
+(verbatim demonstration duplication, verbatim instruction repetition) run
+without a key. When no key is configured the script prints a warning,
+downgrades `--instruction-mode` to `verbatim`, and skips the `lexical` and
+`combined` variants rather than failing outright.
+
+Configurable via CLI: `--lexical-ratio` (0.15), `--include-answer-sentences`,
+`--demo-duplicate-ratio` (0.2), `--near-duplicate`, `--instruction-repeats`
+(2), `--instruction-mode` (`verbatim`/`paraphrased`/`both`, default `both`),
+`--seed` (42), `--conditions` (subset of `lexical demonstration instruction
+combined` to regenerate), `--paraphrase-model`.
+
 ## Licensing Information
 LongBench is released under the [MIT License](https://github.com/THUDM/LongBench/blob/main/LICENSE).
 The underlying TriviaQA passages/questions retain their original licensing
