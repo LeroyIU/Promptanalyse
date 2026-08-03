@@ -9,6 +9,7 @@ Dieses Repository dokumentiert die im Rahmen meiner Abschlussarbeit durchgeführ
   - *PipelineStore* – strukturierte Ablage der Pipeline-Prompts + auswertbares Manifest
 - **Datasets** – die verwendeten Datengrundlagen
   - *[MuSiQue](datasets/musique/README.md)* – Multi-Hop-QA mit Kontext: 20 Wikipedia-Passagen pro Frage, davon 2–4 mit Gold-Evidence-Label (`is_supporting`)
+  - *[LongBench-E TriviaQA (8k+)](datasets/longbench_trivia_qa_e/README.md)* – Few-Shot Open-Domain-QA-Subset (100 Beispiele) aus dem 8k+-Token-Bucket von LongBench-E, für Prompt-Kompressionsexperimente im Long-Context-Regime
 - **Experiments** – Ablage der Pipeline-Läufe (`raw → redundanztyp → kompressionsrate → inferenz`) samt Manifest für die statistische Auswertung; siehe [`experiments/README.md`](experiments/README.md)
 - **Ergebnisse** – aus der Analyse hervorgegangene Auswertungen und Erkenntnisse
 
