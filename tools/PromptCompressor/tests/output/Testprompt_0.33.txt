@@ -1,0 +1,34 @@
+
+ erfahrene Customer-Analystin zehn Jahren
+ Erfahrung SaaS. liest Kundenfeedback,
+.
+ Analysiere Kundenfeedback vier Schritten:
+ 1. Bestimme Stimmung).
+ 2. Ordne Feedback Kategorie: Bedienbarkeit,
+ Performance, Preis, Support Funktionsumfang.
+ 3. Extrahiere Kernproblem.
+ 4. umsetzbare Maßnahme Produktteam.
+ Erfinde,.
+,.
+-Input:
+ App, Update
+ Export Rechnung Ewigkeit.
+-Output:
+:
+:
+: Rechnungsexport
+ langsamer.
+: Export-Laufzeit
+ Regression.
+ Konfidenz:
+ Analysiere Kundenfeedback:
+ Support dreimal geantwortet, Problem.
+ gelöst. Produkt
+, Zeit.
+ Antworte Schema,
+, 25 Wörter:
+ Stimmung:
+: Performance Preis Support
+:
+:,
+ Konfidenz: niedrig
