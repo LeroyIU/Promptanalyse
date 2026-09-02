@@ -28,11 +28,11 @@ from pathlib import Path
 # KONFIGURATION
 # ----------------------------------------------------------------------
 
-INPUT_DIR = Path("./tests/input")
-OUTPUT_DIR = Path("./tests/output")
+INPUT_DIR = Path("/Users/leroy/Library/CloudStorage/OneDrive-IUInternationalUniversityofAppliedSciences/0_Bachelorarbeit/Promptanalyse/experiments/Study A/2_redundancy/semantic")
+OUTPUT_DIR = Path("/Users/leroy/Library/CloudStorage/OneDrive-IUInternationalUniversityofAppliedSciences/0_Bachelorarbeit/Promptanalyse/experiments/Study A/3_compressed/semantic")
 
 # Raten, falls keine auf der Kommandozeile übergeben werden
-RATES = [0.8, 0.5, 0.33]
+RATES = [0.75, 0.5, 0.25]
 
 PATTERN = "*.txt"       # z.B. "*.md", "**/*.txt" für Unterordner
 OVERWRITE = False       # False = vorhandene Ausgaben überspringen

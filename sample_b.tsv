@@ -1,0 +1,31 @@
+id	prop	prop_id	pop_tercile	s_pop	subj	obj	question	possible_answers	n_paraphrases	in_subset_b
+3295029	author	484	1	204	All Over	Edward Albee	Who is the author of All Over?	"[""Edward Albee"", ""Edward Franklin Albee III"", ""Edward Albee""]"	5	1
+198683	author	484	3	3071	Emma	Kaoru Mori	Who is the author of Emma?	"[""Kaoru Mori"", ""Fumio Agata""]"	5	1
+3493816	capital	422	1	852	Montgomery County	Montgomery City	What is the capital of Montgomery County?	"[""Montgomery City"", ""Montgomery City, Missouri""]"	6	1
+1165631	capital	422	2	38642	Mayotte	Mamoudzou	What is the capital of Mayotte?	"[""Mamoudzou""]"	6	1
+6311585	color	472	2	64693	milk	white	What color is milk?	"[""white"", ""W"", ""color white"", ""#FFFFFF""]"	5	1
+6502612	color	472	3	319409	Arsenal F.C.	red	What color is Arsenal F.C.?	"[""red"", ""red color""]"	5	1
+3559919	composer	639	1	406	Brand New Day	Van Morrison	Who was the composer of Brand New Day?	"[""Van Morrison"", ""George Morrison"", ""George Ivan Morrison"", ""Sir George Morrison"", ""Sir George Ivan Morrison"", ""Van the Man""]"	5	1
+291990	composer	639	2	2764	The Little Prince	Frederick Loewe	Who was the composer of The Little Prince?	"[""Frederick Loewe"", ""Friedrich Löwe""]"	5	1
+1832922	country	182	2	137	Re	Italy	In what country is Re?	"[""Italy"", ""Italia"", ""Italian Republic"", ""IT"", ""🇮🇹"", ""ITA""]"	9	1
+3367439	country	182	3	7577	Jam Filled Entertainment	Canada	In what country is Jam Filled Entertainment?	"[""Canada"", ""Dominion of Canada"", ""British North America"", ""CAN"", ""CA"", ""ca"", ""can"", ""Can.""]"	9	1
+6454644	director	526	2	454	Together Again	Charles Vidor	Who was the director of Together Again?	"[""Charles Vidor"", ""Károly Vidor""]"	10	1
+5547527	director	526	3	8843	Ready	Srinu Vaitla	Who was the director of Ready?	"[""Srinu Vaitla""]"	10	1
+3114331	father	257	3	7633	Ine	Cenred of Wessex	Who is the father of Ine?	"[""Cenred of Wessex"", ""Cenred""]"	4	1
+4117727	father	257	3	12953	Sydney Chaplin	Charlie Chaplin	Who is the father of Sydney Chaplin?	"[""Charlie Chaplin"", ""Charles Spencer Chaplin"", ""Charles Chaplin"", ""Sir Charles Spencer Chaplin""]"	4	1
+1679714	genre	91	3	4816	Dragon	martial arts film	What genre is Dragon?	"[""martial arts film""]"	6	1
+6399551	genre	91	3	79535	The Thing	science fiction film	What genre is The Thing?	"[""horror film"", ""horror movie"", ""science fiction film"", ""sci-fi film"", ""science fiction movie"", ""sci-fi movie"", ""scifi film"", ""scifi movie"", ""sci fi film"", ""sci fi movie"", ""scifi-film"", ""scifi""]"	6	1
+214233	mother	292	1	1432	Senhime	Oeyo	Who is the mother of Senhime?	"[""Oeyo"", ""Gō"", ""Ogō"", ""Satoko"", ""Sugen-in"", ""Sūgen-in""]"	5	1
+1800655	mother	292	2	9012	Matilda of Scotland	Saint Margaret of Scotland	Who is the mother of Matilda of Scotland?	"[""Saint Margaret of Scotland"", ""Margaret of Scotland"", ""St. Margaret""]"	5	1
+836769	occupation	22	1	72	Jean Gabriel Marie	composer	What is Jean Gabriel Marie's occupation?	"[""composer""]"	5	1
+5294096	occupation	22	1	121	Nina Varlamova	politician	What is Nina Varlamova's occupation?	"[""politician"", ""political leader"", ""political figure"", ""polit."", ""pol""]"	5	1
+1040610	place of birth	218	2	133	Gabriella Di Laccio	Porto Alegre	In what city was Gabriella Di Laccio born?	"[""Porto Alegre""]"	6	1
+2118085	place of birth	218	2	133	Vera Dua	Ghent	In what city was Vera Dua born?	"[""Ghent"", ""Gent"", ""Gand""]"	6	1
+1283652	producer	164	2	6238	Empire	Andy Warhol	Who was the producer of Empire?	"[""Andy Warhol"", ""Andrew Warhola"", ""Andrew Warhol"", ""Drella"", ""Andrej Varchol"", ""Andrej Warhol""]"	10	1
+1501746	producer	164	2	2238	Electronic	Bernard Sumner	Who was the producer of Electronic?	"[""Johnny Marr"", ""John Martin Maher"", ""Bernard Sumner"", ""Bernard Dicken"", ""Bernard Edward Sumner"", ""Bernard Dickin""]"	10	1
+1939356	religion	106	1	190	Manuel Aurelio Cruz	Catholic Church	What is the religion of Manuel Aurelio Cruz?	"[""Catholic Church"", ""Roman Catholic Church"", ""Church"", ""Roman Apostolic Catholic Church""]"	5	1
+6546976	religion	106	1	142	Mark Lindley	atheism	What is the religion of Mark Lindley?	"[""atheism"", ""unbelief""]"	5	1
+2936270	screenwriter	533	1	305	Thrilling	Ettore Scola	Who was the screenwriter for Thrilling?	"[""Ettore Scola""]"	10	1
+3960385	screenwriter	533	3	24905	The Accused	Tom Topor	Who was the screenwriter for The Accused?	"[""Tom Topor""]"	10	1
+977673	sport	560	1	89	Robert Braet	association football	What sport does Robert Braet play?	"[""association football"", ""football"", ""soccer""]"	6	1
+3978	sport	560	3	3330	antichess	chess	What sport does antichess play?	"[""chess"", ""International Chess"", ""Modern European Chess"", ""Western Chess"", ""chess game""]"	6	1
