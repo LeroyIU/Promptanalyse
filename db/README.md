@@ -30,10 +30,10 @@ Drei Dinge werden dadurch erst moeglich:
 
 ```
 python3 01_init_db.py                      # Schema, Stichprobe, Material
-python3 02_build_prompts.py    --tokenizer ollama:llama3.1:8b
-python3 03_build_redundancy.py --tokenizer ollama:llama3.1:8b
+python3 02_build_prompts.py    --tokenizer NousResearch/Meta-Llama-3.1-8B-Instruct
+python3 03_build_redundancy.py --tokenizer NousResearch/Meta-Llama-3.1-8B-Instruct
 python3 04a_probelauf.py --n 5             # Strukturschutz pruefen
-python3 04_compress.py         --tokenizer ollama:llama3.1:8b
+python3 04_compress.py         --tokenizer NousResearch/Meta-Llama-3.1-8B-Instruct
 python3 05_selectivity.py
 python3 06_inference.py --backend ollama                    # Teilstudie B, 30 Aufgaben
 python3 06_inference.py --backend ollama --wiederholung 2 --limit 20
@@ -56,14 +56,32 @@ Bezugsquellen in dieser Reihenfolge:
 
 | Angabe | Wirkung |
 |---|---|
-| `ollama:llama3.1:8b` | fragt den lokalen Ollama-Server. Empfohlen, weil dasselbe Modell auch die Inferenz rechnet und damit Kalibrierung und Inferenz auf derselben Tokenisierung beruhen. |
+| `NousResearch/Meta-Llama-3.1-8B-Instruct` | **empfohlen.** Der Tokenizer von Llama-3.1 ueber `transformers`, aus einer Spiegelung ohne Zugangsbeschraenkung. Exakt, schnell, keine Serveraufrufe. Vokabular 128256. |
+| `meta-llama/Llama-3.1-8B-Instruct` | dasselbe aus der Originalablage, verlangt einen angenommenen Lizenzvertrag bei Hugging Face |
 | Pfad zu `tokenizer.json` | lokal hinterlegter Tokenizer |
-| `meta-llama/Llama-3.1-8B-Instruct` | ueber `transformers`, verlangt einen Zugang zu Hugging Face |
+| `ollama:llama3.1:8b` | Rueckfallebene ohne Hugging Face, siehe Vorbehalt unten |
 
-Der Ollama-Weg zaehlt ueber `/api/tokenize`, falls die Fassung das anbietet,
-sonst ueber `prompt_eval_count` eines Durchlaufs. Im zweiten Fall wird der
-Aufschlag des Satzanfangstokens einmal an der leeren Zeichenkette gemessen und
-abgezogen. Ergebnisse werden zwischengespeichert.
+Beim Laden wird die Vokabulargroesse gemeldet. Steht dort nicht 128256, ist ein
+anderes Modell geladen als angenommen und die Kalibrierung bezoege sich auf
+eine andere Tokenisierung als die Inferenz.
+
+### Vorbehalt gegen den Ollama-Weg
+
+Ollama bietet je nach Fassung `/api/tokenize` an; wo der Endpunkt fehlt, bleibt
+nur `prompt_eval_count` eines Durchlaufs, und das ist keine verlaessliche
+Tokenzahl. llama.cpp haelt den zuletzt ausgewerteten Prompt vor und wertet bei
+einem Prompt mit gleichem Anfang nur den neuen Teil aus. `prompt_eval_count`
+zaehlt dann die neu ausgewerteten Token, nicht die des Textes. Da sich die
+Prompts dieser Arbeit einen langen gemeinsamen Anfang teilen, waeren die
+Laengen still zu klein und die Kalibrierung waertlos, ohne dass irgendetwas
+auffiele.
+
+`OllamaTokenizer` prueft das beim Start: derselbe Prompt wird zweimal gezaehlt,
+und weichen die Zahlen ab, verweigert der Tokenizer den Dienst mit einem
+Hinweis auf den `transformers`-Weg. Ausserdem wird der konstante Aufschlag des
+Satzanfangstokens ueber zwei Texte gemessen, deren Token sich addieren; der
+leere Prompt taugt dafuer nicht, weil Ollama fuer ihn nichts auswertet und gar
+kein `prompt_eval_count` zurueckgibt.
 
 ## Kalibrierung
 

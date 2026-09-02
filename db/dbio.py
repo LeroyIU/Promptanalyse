@@ -202,13 +202,25 @@ OLLAMA_URL = "http://localhost:11434"
 
 
 class OllamaTokenizer:
-    """Zaehlt Token ueber prompt_eval_count des Ollama-Servers.
+    """Zaehlt Token ueber den Ollama-Server. Nur Rueckfallebene.
 
-    llama.cpp stellt dem Prompt ein Satzanfangstoken voran. Der Aufschlag wird
-    einmal an der leeren Zeichenkette gemessen und abgezogen, damit die Zahl
-    die Token des Textes selbst angibt. Ergebnisse werden zwischengespeichert,
-    da die Kalibrierung dieselben Bausteine vielfach vermisst.
+    Bevorzugt wird /api/tokenize. Fehlt der Endpunkt, bleibt nur
+    prompt_eval_count eines Durchlaufs, und das ist heikel: llama.cpp haelt
+    den zuletzt ausgewerteten Prompt vor und wertet bei einem Prompt mit
+    gleichem Anfang nur noch den neuen Teil aus. prompt_eval_count zaehlt dann
+    nicht die Token des Textes, sondern die neu ausgewerteten. Da sich die
+    Prompts dieser Arbeit einen langen gemeinsamen Anfang teilen, waere die
+    Kalibrierung damit still falsch. Der Selbsttest unten erkennt den Fall und
+    verweigert den Dienst, statt unbrauchbare Zahlen zu liefern.
+
+    Empfohlen ist deshalb der Tokenizer des Modells ueber transformers, siehe
+    modell_tokenizer.
     """
+
+    # Zwei Texte mit sauberer Wortgrenze. Ihre Token addieren sich, was den
+    # konstanten Aufschlag des Satzanfangstokens messbar macht.
+    PROBE_A = "The harbour warden checked the printed tide table."
+    PROBE_B = " Small boats timed their departure by the morning water."
 
     def __init__(self, modell, url=None, cache_max=200000):
         self.modell = modell
@@ -216,39 +228,84 @@ class OllamaTokenizer:
         self._cache = {}
         self._cache_max = cache_max
         self.schnell = self._pruefe_tokenize()
-        self.offset = 0 if self.schnell else self._roh("")
+        self.offset = 0 if self.schnell else self._miss_offset()
+        self._pruefe_zwischenspeicher()
+
+    # -- Endpunkte ----------------------------------------------------------
+
+    def _post(self, pfad, nutzlast):
+        import json as _json
+        import urllib.request
+        req = urllib.request.Request(
+            self.url + pfad, data=_json.dumps(nutzlast).encode("utf-8"),
+            headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=120) as fh:
+            return _json.loads(fh.read())
 
     def _pruefe_tokenize(self):
-        """Manche Ollama-Fassungen bieten /api/tokenize an. Das ist um
-        Groessenordnungen schneller als ein Prompt-Durchlauf und wird bevorzugt.
-        """
         try:
-            return isinstance(self._tokenize("Test"), int)
+            return isinstance(self._tokenize(self.PROBE_A), int)
         except Exception:                      # noqa: BLE001
             return False
 
     def _tokenize(self, text):
-        import json as _json
-        import urllib.request
-        daten = _json.dumps({"model": self.modell, "text": text}).encode("utf-8")
-        req = urllib.request.Request(
-            self.url + "/api/tokenize", data=daten,
-            headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=60) as fh:
-            return len(_json.loads(fh.read())["tokens"])
+        return len(self._post("/api/tokenize",
+                              {"model": self.modell, "text": text})["tokens"])
 
     def _roh(self, text):
-        import json as _json
-        import urllib.request
-        daten = _json.dumps({
-            "model": self.modell, "prompt": text, "raw": True,
-            "stream": False, "options": {"num_predict": 1, "temperature": 0},
-        }).encode("utf-8")
-        req = urllib.request.Request(
-            self.url + "/api/generate", data=daten,
-            headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=120) as fh:
-            return _json.loads(fh.read())["prompt_eval_count"]
+        erg = self._post("/api/generate", {
+            "model": self.modell, "prompt": text, "raw": True, "stream": False,
+            "options": {"num_predict": 1, "temperature": 0}})
+        n = erg.get("prompt_eval_count")
+        if n is None:
+            raise RuntimeError(
+                "Ollama liefert kein prompt_eval_count fuer diesen Prompt. "
+                "Ohne diese Zahl laesst sich nicht tokenisieren.")
+        return n
+
+    # -- Kalibrierung des Zaehlers ------------------------------------------
+
+    def _miss_offset(self):
+        """Konstanter Aufschlag je Aufruf, etwa das Satzanfangstoken.
+
+        Gemessen ueber zwei Texte, deren Token sich addieren:
+        n(A) + n(B) - n(AB) ist der Aufschlag. Der leere Prompt scheidet als
+        Messpunkt aus, weil Ollama fuer ihn gar nichts auswertet und kein
+        prompt_eval_count zurueckgibt.
+        """
+        a = self._roh(self.PROBE_A)
+        b = self._roh(self.PROBE_B)
+        ab = self._roh(self.PROBE_A + self.PROBE_B)
+        offset = a + b - ab
+        if not 0 <= offset <= 4:
+            raise RuntimeError(
+                "Der Tokenzaehler von Ollama verhaelt sich nicht additiv "
+                "(gemessener Aufschlag %d). Bitte den Tokenizer des Modells "
+                "ueber transformers verwenden." % offset)
+        return offset
+
+    def _pruefe_zwischenspeicher(self):
+        """Wird derselbe Prompt zweimal gleich gezaehlt?
+
+        Wertet llama.cpp einen bereits gesehenen Anfang nicht erneut aus, faellt
+        die zweite Zahl kleiner aus. Dann ist prompt_eval_count als Tokenzaehler
+        unbrauchbar, und zwar auf eine Weise, die sonst niemandem auffiele.
+        """
+        if self.schnell:
+            return
+        text = self.PROBE_A + self.PROBE_B
+        erste, zweite = self._roh(text), self._roh(text)
+        if erste != zweite:
+            raise RuntimeError(
+                "Ollama zaehlt denselben Prompt zweimal verschieden (%d und "
+                "%d). Der Server wertet zwischengespeicherte Promptanfaenge "
+                "nicht erneut aus, sodass prompt_eval_count nicht die Token "
+                "des Textes angibt. Bitte den Tokenizer des Modells ueber "
+                "transformers verwenden, etwa\n"
+                "  --tokenizer NousResearch/Meta-Llama-3.1-8B-Instruct"
+                % (erste, zweite))
+
+    # -- Schnittstelle ------------------------------------------------------
 
     def encode(self, text, add_special_tokens=False):
         if text in self._cache:
@@ -286,8 +343,8 @@ def modell_tokenizer(name=None):
             _tokenizer_name = name
             return _tokenizer
         except Exception as e:                 # noqa: BLE001
-            print("Ollama-Tokenizer nicht erreichbar (%s). Laeuft der Server "
-                  "und ist das Modell geladen?" % e, file=sys.stderr)
+            print("Ollama-Tokenizer nicht verwendbar:\n  %s" % e,
+                  file=sys.stderr)
             return None
 
     pfad = Path(name)
@@ -306,6 +363,7 @@ def modell_tokenizer(name=None):
         from transformers import AutoTokenizer
         _tokenizer = AutoTokenizer.from_pretrained(name)
         _tokenizer_name = name
+        _melde(name, _tokenizer)
         return _tokenizer
     except Exception as e:                     # noqa: BLE001
         erste = e
@@ -321,6 +379,27 @@ def modell_tokenizer(name=None):
         _tokenizer = None
         _tokenizer_name = None
     return _tokenizer
+
+
+def _melde(name, tok):
+    """Quelle und Vokabulargroesse ausgeben.
+
+    Llama-3.1 hat 128256 Token. Weicht die Zahl ab, ist ein anderes Modell
+    geladen als angenommen, und die Kalibrierung bezoege sich auf eine andere
+    Tokenisierung als die Inferenz. Das faellt sonst nirgends auf.
+    """
+    groesse = None
+    for zugriff in (lambda: len(tok), lambda: tok.vocab_size,
+                    lambda: tok.get_vocab_size()):
+        try:
+            groesse = zugriff()
+            break
+        except Exception:                      # noqa: BLE001
+            continue
+    print("Tokenizer: %s (Vokabular %s)" % (name, groesse), file=sys.stderr)
+    if groesse is not None and groesse != 128256:
+        print("  Achtung: erwartet waren 128256 Token fuer Llama-3.1.",
+              file=sys.stderr)
 
 
 class _Huelle:
