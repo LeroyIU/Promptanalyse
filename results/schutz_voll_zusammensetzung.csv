@@ -1,0 +1,16 @@
+variante,rho_ziel,woerter_mittel,anteil_geschuetzt,anteil_frei
+basis,0.25,42.95,0.2379,0.7621
+basis,0.5,24.23,0.4199,0.5801
+basis,0.75,10.17,0.999,0.001
+filler,0.25,71.49,0.1429,0.8571
+filler,0.5,41.13,0.2483,0.7517
+filler,0.75,15.15,0.6708,0.3292
+semantic,0.25,65.93,0.2188,0.7812
+semantic,0.5,38.03,0.3779,0.6221
+semantic,0.75,14.47,0.9906,0.0094
+instruction,0.25,72.09,0.1417,0.8583
+instruction,0.5,42.09,0.2427,0.7573
+instruction,0.75,14.52,0.6998,0.3002
+demonstration,0.25,63.24,0.2532,0.7468
+demonstration,0.5,35.83,0.445,0.555
+demonstration,0.75,15.92,1.0,0.0

@@ -31,9 +31,12 @@ import dbio                                              # noqa: E402
 BASE_DIR = Path(__file__).resolve().parent
 REPO = BASE_DIR.parent
 
-SAMPLE_A = REPO / "sample_a.tsv"
-SAMPLE_B = REPO / "sample_b.tsv"
-DEMO_FILE = REPO / "tools" / "PromptGenerator" / "demo_assignments.tsv"
+# Stichprobe und Demonstrationszuweisung liegen beim Ziehungsskript.
+ZIEHUNG = REPO / "tools" / "PromptGenerator"
+
+SAMPLE_A = ZIEHUNG / "sample_a.tsv"
+SAMPLE_B = ZIEHUNG / "sample_b.tsv"
+DEMO_FILE = ZIEHUNG / "demo_assignments.tsv"
 PARAPHRASE_FILE = REPO / "datasets" / "popQA" / "popQA_template_paraphrases.csv"
 
 # Slots 1 bis 4 gehoeren zum Basisprompt, 5 bis 8 zur Redundanzstufe.

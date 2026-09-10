@@ -47,8 +47,37 @@ CASEFOLD = True
 # Hier und nicht in 04_compress.py, weil 05_selectivity.py dieselbe Liste
 # braucht: der Selektivitaetsindex wird ueber die freien Woerter gerechnet,
 # also ueber die, bei denen das Verfahren ueberhaupt eine Wahl hatte.
-FORCE_TOKENS = ["\n", "Q", "A", ".", ",", "?", "!", ":", ";", "-", "(", ")",
-                "%", "\u20ac"]
+#
+# Diese Liste ist die Hauptkonfiguration und entspricht dem, was die Methodik
+# beschreibt und begruendet: der Zeilenumbruch als Blocktrenner sowie Q, A und
+# der Doppelpunkt als Bestandteile der Marken. Satzzeichen innerhalb eines
+# Satzes tragen die Gliederung nicht und werden deshalb nicht geschuetzt; sie
+# wuerden nur Budget binden, das sonst dem Inhalt zur Verfuegung steht.
+#
+# Zur Pruefung von V4 wurde die gesamte Erhebung ein zweites Mal mit einem um
+# alle Satzzeichen erweiterten Schutz gerechnet. Aggregate beider Laeufe in
+# results/schutz_minimal_*.csv (diese Fassung) und results/schutz_voll_*.csv.
+# Ergebnis:
+#
+#   rho = 0,25 und 0,50   Der freie Index verschiebt sich um -12 bis +13
+#                         Prozent. Bei rho = 0,50 ist die Rangfolge der
+#                         Varianten identisch, bei rho = 0,25 tauschen filler
+#                         und instruction innerhalb eines Prozents die Plaetze.
+#                         Der Strukturschutz bestimmt das Ergebnis also nicht.
+#   rho = 0,75            Bis zu 236 Prozent Unterschied, weil dort kaum noch
+#                         freie Woerter ueberleben und der Index aus wenigen
+#                         Beobachtungen gebildet wird. In beiden Fassungen
+#                         nicht interpretierbar.
+#
+# Weitere gemessene Unterschiede:
+#   Ziffern erhalten            diese Fassung 0,997 / 0,921 / 0,759
+#                               erweitert     0,997 / 0,886 / 0,734
+#   Aufloesungsintervall offen  diese Fassung 45 von 4500, erweitert 0
+#
+# Achtung bei force_reserve_digit: es haelt Ziffern nicht, es bevorzugt sie
+# nur. In beiden Fassungen geht bei rho = 0,75 rund ein Viertel verloren. V10
+# ist damit abgeschwaecht; der Anteil wird je Bedingung berichtet.
+FORCE_TOKENS = ["\n", "Q", "A", ":"]
 RESERVE_DIGITS = True
 
 # Wortformen, die durch den Schutz der Streichung entzogen sind. Satzzeichen

@@ -1,3 +1,7 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# Reproduktionslaeufe der Ziehung (draw_sample.py, verify_sample.py)
+tools/PromptGenerator/prompts/
+tools/PromptGenerator/_repro/

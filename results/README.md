@@ -35,11 +35,17 @@ python3 03_build_redundancy.py --tokenizer NousResearch/Meta-Llama-3.1-8B-Instru
 python3 04a_probelauf.py --n 5             # Strukturschutz pruefen
 python3 04_compress.py         --tokenizer NousResearch/Meta-Llama-3.1-8B-Instruct
 python3 05_selectivity.py
-python3 06_inference.py --backend ollama                    # Teilstudie B, 30 Aufgaben
+python3 06_inference.py --backend ollama --alle-aufgaben     # Teilstudie B
 python3 06_inference.py --backend ollama --wiederholung 2 --limit 20
 python3 06_inference.py --pruefe-determinismus
 python3 07_export.py
+python3 08_nullmodell.py                   # Nullmodell zum Selektivitaetsindex
+python3 09_auswertung.py                   # Auswertung fuer den Ergebnisteil
 ```
+
+`01_init_db.py` liest die Stichprobe (`sample_a.tsv`, `sample_b.tsv`) und die
+Demonstrationszuweisung (`demo_assignments.tsv`) aus `tools/PromptGenerator`,
+die Paraphrasen aus `datasets/popQA`.
 
 Jeder Schritt ist wiederholbar und ueberschreibt nur, was er selbst erzeugt.
 `04_compress.py` und `06_inference.py` arbeiten nur die noch offenen
@@ -202,12 +208,14 @@ Rollenmarken hinzu und veraenderte genau die Promptstruktur, um die es geht.
 `--wiederholung 2` erzeugt einen zweiten Durchgang auf einer Teilmenge,
 `--pruefe-determinismus` vergleicht beide und belegt damit V8.
 
-`--alle-aufgaben` dehnt Teilstudie B von der Teilstichprobe auf alle 300
-Aufgaben aus. Die Kompressate liegen aus Teilstudie A ohnehin fuer alle
-Aufgaben vor, es kommt allein Inferenzzeit hinzu, und das Skript arbeitet nur
-offene Bedingungen ab. Die Erweiterung setzt also auf einem fertigen Lauf der
-Teilstichprobe auf und ist ein einziger Befehl. Ob sie sich lohnt, entscheidet
-die im ersten Lauf gemessene Dauer je Inferenz.
+`--alle-aufgaben` laesst Teilstudie B auf allen 300 Aufgaben rechnen und
+gehoert zum Hauptlauf. Die urspruengliche Planung sah eine Teilstichprobe von
+30 Aufgaben vor, weil Modellinferenz als der teure Schritt galt. Gemessen sind
+es 0,29 Sekunden je Inferenz, also rund 29 Minuten fuer alle 6000. Der
+Standardfehler einer Genauigkeit sinkt damit von etwa sieben auf zwei
+Prozentpunkte, und die geschachtelte Stichprobe entfaellt. Die Spalte
+`frage.in_teilstudie_b` bleibt als Nachweis der urspruenglichen Ziehung
+erhalten, filtert aber nichts mehr.
 
 ## Betriebshinweise
 
