@@ -27,7 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import dbio   # noqa: E402
 
-AUSGABE = "../results"
+AUSGABE = "../../results"
 
 ABFRAGEN = {
     "bedingungen": "SELECT * FROM v_bedingung ORDER BY frage_id, variante, rho_ziel",

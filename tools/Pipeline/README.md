@@ -1,8 +1,13 @@
-# Datenhaltung der Promptanalyse
+# Pipeline der Promptanalyse
 
-Der gesamte Bestand beider Teilstudien liegt in einer SQLite-Datei,
-`promptanalyse.db`. Die frueheren Ordner `0_questions`, `1_prompts`,
-`2_redundancy` und `3_compressed` werden nicht mehr beschrieben.
+Die Skripte dieses Ordners erzeugen und auswerten den gesamten Bestand beider
+Teilstudien. Er liegt in einer einzigen SQLite-Datei, `results/promptanalyse.db`.
+Die frueheren Ordner `0_questions`, `1_prompts`, `2_redundancy` und
+`3_compressed` werden nicht mehr beschrieben.
+
+Werkzeug und Bestand sind getrennt: hier stehen die Skripte und das Schema, in
+`results` die Datenbank und die Exporte. `07_export.py` schreibt seine CSV
+dorthin.
 
 ## Warum eine Datenbank
 
@@ -45,7 +50,8 @@ python3 09_auswertung.py                   # Auswertung fuer den Ergebnisteil
 
 `01_init_db.py` liest die Stichprobe (`sample_a.tsv`, `sample_b.tsv`) und die
 Demonstrationszuweisung (`demo_assignments.tsv`) aus `tools/PromptGenerator`,
-die Paraphrasen aus `datasets/popQA`.
+die Paraphrasen aus `datasets/popQA`. Alle Schritte arbeiten auf
+`results/promptanalyse.db`, `--db` setzt einen anderen Pfad.
 
 Jeder Schritt ist wiederholbar und ueberschreibt nur, was er selbst erzeugt.
 `04_compress.py` und `06_inference.py` arbeiten nur die noch offenen

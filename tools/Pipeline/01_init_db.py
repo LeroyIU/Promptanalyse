@@ -29,7 +29,7 @@ import dbio                                              # noqa: E402
 # ---------------------------------------------------------------------------
 
 BASE_DIR = Path(__file__).resolve().parent
-REPO = BASE_DIR.parent
+REPO = BASE_DIR.parent.parent
 
 # Stichprobe und Demonstrationszuweisung liegen beim Ziehungsskript.
 ZIEHUNG = REPO / "tools" / "PromptGenerator"

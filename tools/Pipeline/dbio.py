@@ -18,7 +18,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
-DB_PFAD = BASE_DIR / "promptanalyse.db"
+REPO = BASE_DIR.parent.parent
+
+# Die Datenbank ist Bestand und kein Werkzeug; sie liegt deshalb in results,
+# das Schema als Teil der Pipeline hier.
+DB_PFAD = REPO / "results" / "promptanalyse.db"
 SCHEMA_PFAD = BASE_DIR / "schema.sql"
 
 ENCODING = "utf-8"
