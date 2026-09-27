@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who director of Disappearance of Haruhi Suzumiya?
+ A: Yasuhiro Takemoto
+: Uri Nakayama's occupation?
+: singer-songwriter
+: religion of bishop?
+: Christianity
+: What sport Moneygall GAA play?
+: Gaelic football
+: What color Nottingham Forest F. C. ?
+ A:

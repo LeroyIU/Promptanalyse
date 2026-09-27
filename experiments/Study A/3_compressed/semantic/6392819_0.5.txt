@@ -1,0 +1,16 @@
+Answer question name entity only. Do not explain
+: Who author of Consent to Kill?
+:?
+: Vince Flynn
+: John Mayne's?
+:?
+: journalist
+: what city Ed Sullivan born?
+:'s hometown?
+: New York City
+: color Exeter City F. C ?
+: City F. C colored?
+: red
+: Who composer Hino da Independência?
+: music?
+:

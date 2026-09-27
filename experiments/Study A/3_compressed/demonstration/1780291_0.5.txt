@@ -1,0 +1,19 @@
+entity.
+: producer Persuasion?
+: BBC
+: screenwriter Brazil?
+: Terry Gilliam
+: Ya'akov Ahimeir?
+: journalist
+: composer Airport?
+: Alfred Newman
+: religion Carlos Duarte Costa?
+: Brazilian Catholic Church
+: author Conan Valiant?
+: Roland J. Green
+: father Isis?
+: Geb
+: mother Wheeler Dryden?
+: Hannah Chaplin
+: genre Free & Easy?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: What color is Charlton Athletic F. C. ?
+: Charlton Athletic F. C. associated with what color?
+: red
+: Who screenwriter for Red Road?
+: Who screenwriter work 'Red Road'?
+: Andrea Arnold
+: What genre is Good Times?
+: Fans of what genre like Good Times?
+: musical film
+: Who author of Oliver's Story?
+: Who wrote Oliver's Story?
+: Erich Segal
+: Who director of The Variable?
+: Who directed work 'The Variable'?
+:

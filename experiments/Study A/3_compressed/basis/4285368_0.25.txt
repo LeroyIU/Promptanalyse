@@ -1,0 +1,11 @@
+.
+: director?
+: Bill Plympton
+: sport?
+:
+: genre?
+: K-pop
+:?
+:
+: Greg Miller?
+:

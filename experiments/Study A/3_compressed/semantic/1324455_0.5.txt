@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: sport Mohammed Amine Kabli play?
+: Kabli associated sport?
+: association football
+: father Dwayne Johnson?
+: Dwayne Johnson child what man?
+: Rocky Johnson
+: capital Nugal?
+: capital city Nugal?
+:
+: color ruby?
+: ruby?
+: red
+: composer Paradise?
+: composed Paradise?
+:

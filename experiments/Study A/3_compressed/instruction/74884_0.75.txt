@@ -1,0 +1,13 @@
+Answer question with name entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity as answer, without further text.
+: Who was director of Never Forget?
+: Joseph Sargent
+: what country is Ločenice?
+: Czech Republic
+: What sport does Frank Cornan play?
+: association football
+: What color is Doncaster Rovers F. C ?
+: red
+: What genre is Celebration?
+:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport does Gimnasia y Esgrima de Santa Fe play?
+: association football
+: Who composer of I Can't Give You Anything but Love, Baby?
+: Jimmy McHugh
+: producer of Criminal?
+: Steven Soderbergh
+: What religion of saint?
+: Christianity
+: Who author of Time and Again?
+:

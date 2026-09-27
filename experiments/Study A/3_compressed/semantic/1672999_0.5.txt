@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: color Fleetwood Town F. C ?
+: color. associated?
+: red
+: capital Manitoba?
+:?
+: Winnipeg
+: sport Roland Repiský play?
+:?
+: association football
+: mother Bertrand Russell?
+: woman raised Bertrand Russell?
+: Katharine Russell, Viscountess Amberley
+: father James I Aragon?
+: man raised James I Aragon?
+:

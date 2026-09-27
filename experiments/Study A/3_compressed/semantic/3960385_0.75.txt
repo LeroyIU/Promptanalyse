@@ -1,0 +1,16 @@
+Answer question with name entity only. not explain.
+: Who mother of Carrie Brady?
+: Carrie Brady child of what woman?
+: Anna DiMera
+: what country is Fin?
+: Where is Fin?
+: Iran
+: What sport Zaur Ramazanov play?
+: Zaur Ramazanov plays what sport?
+: association football
+: What genre is Southern Rock Opera?
+: Southern Rock Opera associated with what genre?
+: alternative country
+: Who screenwriter for The Accused?
+: Who wrote script for 'The Accused'?
+:

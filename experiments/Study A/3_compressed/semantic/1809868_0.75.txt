@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Gaffarlı?
+: What country Gaffarlƒ± associated with?
+ A: Turkey
+ Q: What genre is Ugonna Okegwo?
+: What genre associated with?
+ A: jazz
+: capital of Rondônia?
+: what city government of Rondônia based?
+: Porto Velho
+ Q: Who screenwriter for In Your Hands?
+: Who screenwriter In Hands?
+: Peter Del Monte
+: Who mother of Mary, Princess Royal Countess of Harewood?
+: Which woman raised Mary, Princess Royal Countess of Harewood?
+:

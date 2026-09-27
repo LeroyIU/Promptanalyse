@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What genre is Dune 2000?
+: real-time strategy
+: Who director of Chocolate?
+: Prachya Pinkaew
+: capital of Malaysia?
+: Kuala Lumpur
+ Q: What sport does Cassiá play?
+: association football
+: Lisa McRee's occupation?
+ A:

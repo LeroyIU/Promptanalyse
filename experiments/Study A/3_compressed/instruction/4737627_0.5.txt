@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: composer Bunny?
+: Tom Waits
+: mother Sean Penn?
+: Eileen Ryan
+: director My Private Idaho?
+: Gus Van Sant
+: city Antonio Calcagni born?
+: Recanati
+: father Monthu?
+:

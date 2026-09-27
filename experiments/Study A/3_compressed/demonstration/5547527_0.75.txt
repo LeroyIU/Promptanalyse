@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of Liechtenstein?
+ A: Vaduz
+: What color is Manchester United F. C. ?
+ A: red
+: In what city Kristian Outinen born?
+ A: Copenhagen
+: Who composer of I'm That Chick?
+ A: Mariah Carey
+: René Bégin's occupation?
+: politician
+: Who mother of Jesus in Islam?
+: Mary in Islam
+: Who author of Challenge?
+ A: H. C. McNeile
+: religion of Jacob?
+: Judaism
+: Who director of Ready?
+ A:

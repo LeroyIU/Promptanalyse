@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who author of One of the Family?
+:?
+: Monica Dickens
+: Who producer I Am Love?
+: produced who?
+: Luca Guadagnino
+: religion of John Calvin?
+: denomination?
+: Protestantism
+: David J. Brown's occupation?
+: job.?
+: computer scientist
+: what city Babyface born?
+:?
+:

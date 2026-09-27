@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Freedom?
+: What country Freedom?
+: United States of America
+: Who screenwriter for Student?
+: Who in charge of writing of 'Student'?
+: Darezhan Omirbaev
+: Who composer of Adventures of Hercules?
+: Who composed Adventures of Hercules?
+: Pino Donaggio
+: Who mother of Eryx?
+: Who gave birth to Eryx?
+: Aphrodite
+: What color Pan-Slavic colors?
+: What Pan-Slavic colors colored?
+:

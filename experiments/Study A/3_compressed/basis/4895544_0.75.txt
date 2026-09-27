@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: what country Asian Highway Network?
+: People's Republic of China
+ Q: What genre The Demon?
+: slasher film
+: religion of Spring Arbor University?
+: Free Methodist Church
+ Q: What color White House?
+: white
+ Q: Kyaw Swe's occupation?
+:

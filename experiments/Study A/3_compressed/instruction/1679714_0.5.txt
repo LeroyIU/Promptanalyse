@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: screenwriter The Broken?
+: Sean Ellis
+: Pamela Winslow?
+: actor
+: father Pierre Joxe?
+: Louis Joxe
+: city Pete Donohue born?
+: Athens
+: genre Dragon?
+:

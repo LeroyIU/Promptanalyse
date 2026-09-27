@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+: Who mother of Carrie Brady?
+: Anna DiMera
+: what country is Fin?
+: Iran
+: What sport does Zaur Ramazanov play?
+: association football
+: What genre is Southern Rock Opera?
+: alternative country
+: Who composer of The Cruise?
+: Wojciech Kilar
+: What color is Charlton Athletic F. C. ?
+: red
+: Who director of Gamesters of Triskelion?
+: Gene Nelson
+: Who producer of The Cookbook?
+: Missy Elliott
+: Who screenwriter for The Accused?
+:

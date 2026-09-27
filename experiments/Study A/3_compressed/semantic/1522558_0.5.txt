@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who mother Elizabeth II?
+: Elizabeth II mother?
+: Queen Elizabeth
+: capital arrondissement Niort?
+: government arrondissement Niort based where?
+: Niort
+: producer Butterfly?
+: produced?
+: Matt Cimber
+: Who composer Piano Concerto?
+: music?
+: Tan Dun
+: What color AFC Bournemouth?
+: color associated?
+:

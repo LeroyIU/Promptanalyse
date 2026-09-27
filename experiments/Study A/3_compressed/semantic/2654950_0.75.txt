@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was director of More?
+: Who directed work More?
+: Barbet Schroeder
+: Who producer of Argo?
+: Who producer of Argo?
+: George Clooney
+: What capital of New Brunswick?
+: What capital city of New Brunswick?
+: Fredericton
+: what country Gmina Dziadkowice?
+: Gmina Dziadkowice associated with what country?
+: Poland
+: What sport Huntsville Stars play?
+: What sport Huntsville Stars associated with?
+ A:

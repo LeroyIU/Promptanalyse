@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: Who producer of Little Man?
+ A: Marlon Wayans
+: Who father of Jacob?
+: Isaac
+: Who screenwriter for The Stuff?
+: Larry Cohen
+: What religion of Catholic Theological Union?
+: Catholic Church
+: What genre is I'll Be There?
+: pop music
+: What sport does Yoo Yong-sung play?
+: badminton
+: Who author of Rivals?
+: Jilly Cooper
+: In what city was Cooper Smeaton born?
+: Carleton Place
+: Who mother of Queen Victoria?
+:

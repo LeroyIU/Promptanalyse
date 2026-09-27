@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of The Treatment?
+ A: John Zorn
+: Who mother of Bia?
+: Styx
+: Tatiana Doronina's occupation?
+: actor
+: father of Ptolemy XIII Theos Philopator?
+: Ptolemy XII Auletes
+: What color is milk?
+ A:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: sport Ceyda Aktaş play?
+: volleyball
+: father Demeter?
+:
+: composer Radio?
+: Himesh Reshammiya
+: country Ena?
+: Japan
+: Who screenwriter Greatest?
+:

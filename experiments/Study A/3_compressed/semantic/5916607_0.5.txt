@@ -1,0 +1,16 @@
+Answer question name entity only. Do not explain
+: What color ruby?
+: ruby colored?
+: red
+: Antonio Álvarez Alonso's occupation?
+:?
+: composer
+: director of Guns?
+: directed by who?
+: Andy Sidaris
+: what country Ab Bahri?
+:?
+: Iran
+: composer Chipmunk Song?
+: composed by who?
+:

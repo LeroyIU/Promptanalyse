@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Hampton?
+: Lord Clifden
+: What sport does Abdulhadi Khalaf play?
+: association football
+: Who producer of They?
+: Ted Field
+: Who author of Among Others?
+: Jo Walton
+: what city Jeanne de Casalis born?
+:

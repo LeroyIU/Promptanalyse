@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of James Bond?
+: Ian Fleming
+: In what country is Riethnordhausen?
+: Germany
+: Who composer of Nalla Thambi?
+: Ilaiyaraaja
+: What sport does Michael Gibson play?
+: association football
+: Who producer of Look Around You?
+: Peter Serafinowicz
+: What genre is The Test?
+: short story
+: Who screenwriter for One Night?
+: Lucas Belvaux
+: Who director of The Man Trap?
+: Marc Daniels
+: Who father of Sophie of Legnica?
+:

@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: capital of Hungary?
+: capital city?
+: Budapest
+: father Pierre Guillaumat?
+: raised Pierre Guillaumat?
+: Adolphe Guillaumat
+: producer Envelope?
+: charge production 'Envelope?
+: Kevin Spacey
+: religion of Rama?
+: religion?
+: Hinduism
+: director of Camp?
+: directed by who?
+:

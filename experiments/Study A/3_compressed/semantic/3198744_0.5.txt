@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: what country Stari Ras?
+: country associated?
+: Serbia
+: What genre Water?
+: Fans genre like Water?
+: comedy film
+: city Raimonds Vilde born?
+: What town Raimonds Vilde born?
+: Riga
+: capital Curaçao?
+: city?
+: Willemstad
+: author Moreninha?
+: Moreninha?
+:

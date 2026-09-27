@@ -1,0 +1,11 @@
+name entity.
+: country Gaffarlı?
+: Turkey
+: genre Ugonna Okegwo?
+: jazz
+: capital Rondônia?
+: Porto Velho
+: screenwriter In Your Hands?
+: Peter Del Monte
+: mother Mary, Princess Royal Harewood?
+:

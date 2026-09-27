@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of Helen of Troy?
+ A: Leda
+: what country is Cleveland City Council?
+: United States of America
+ Q: what city was Batman born?
+: Gotham City
+: Who director of Her?
+: Spike Jonze
+: What capital of Zeeland?
+:

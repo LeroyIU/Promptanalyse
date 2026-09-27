@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of David Mills?
+ A: atheism
+: Who father of Natalia Kukulska?
+: Jarosław Kukulski
+: Who mother of Tridu Songtsen?
+: Khri ma lod
+: capital of Georgia?
+: Kutaisi
+ Q: In what city was Antigoni Goni born?
+: Athens
+: In what country is Chelsea?
+: United States of America
+: What color is Charlton Athletic F. C. ?
+: red
+: author of A Matter of Time?
+: Glen Cook
+: Who screenwriter for Abouna?
+:

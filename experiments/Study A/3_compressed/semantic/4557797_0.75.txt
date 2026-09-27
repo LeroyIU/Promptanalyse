@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who mother of George VI?
+: Who mom of George VI?
+: Mary of Teck
+: What genre is Run the World?
+: What type of work is Run the World?
+: pop music
+: What sport Israel Andrade play?
+: What athletic activity Israel Andrade associated with?
+: basketball
+: Who producer of Rehab?
+: Who in charge of production of 'Rehab'?
+: Timbaland
+: what city Indians born?
+: Indians from what city?
+:

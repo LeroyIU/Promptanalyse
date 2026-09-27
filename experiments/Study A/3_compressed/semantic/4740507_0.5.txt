@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who father Talia Balsam?
+: father?
+: Martin Balsam
+: What genre Main Course?
+: Fans genre like Main Course?
+: disco
+: What sport Josh Vanlandingham play?
+: athletic activity?
+: basketball
+: Who producer A Separation?
+:?
+: Asghar Farhadi
+: capital Grand Duchy Finland?
+: government based?
+:

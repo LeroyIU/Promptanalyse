@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who director of Heart?
+ A: Kon Ichikawa
+: Who father of Frederick IV, Elector Palatine?
+ A: Louis VI
+ Q: what country is Warner?
+: Canada
+ Q: Who screenwriter for Champion?
+: Rabi Kinagi
+: Who mother of Senhime?
+:

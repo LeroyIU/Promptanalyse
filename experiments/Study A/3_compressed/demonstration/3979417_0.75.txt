@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport does shot play?
+ A: ice hockey
+: What color Fleetwood Town F. C. ?
+ A: red
+: What genre Kirby 64: The Crystal Shards?
+: platform game
+: Sayaka Ichii's occupation?
+ A: actor
+: father of Gillian Baverstock?
+: Hugh Alexander Pollock
+: capital of Columbia County?
+: Bloomsburg
+: mother of Alexander the Great?
+: Olympias
+: Who screenwriter for Féminin, masculin?
+ A: Kiarash Anvari
+: religion of Ecclesiastical Statistics?
+ A:

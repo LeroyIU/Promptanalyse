@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: director Sunday?
+: Jonathan Nossiter
+: author Mechanics?
+: Aristotle
+: Pietro Marcenaro?
+: politician
+: producer Last Night?
+: Massy Tadjedin
+: country Záblatí?
+:

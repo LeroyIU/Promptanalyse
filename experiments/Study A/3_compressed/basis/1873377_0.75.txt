@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Ahimelech?
+ A: Ahitub
+: what country Archipelago Museum?
+: Finland
+: What color is Atlético de Madrid?
+: red
+: Who author of Timeline?
+: Michael Crichton
+: What genre is Thomas Morris?
+:

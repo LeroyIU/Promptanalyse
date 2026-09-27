@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who screenwriter for Kitty?
+ A: Karl Tunberg
+: What religion of Spain?
+: non-denominational
+: What sport does Alexandru Chiculiță play?
+: fencing
+: capital of Crete?
+: Heraklion
+: In what country is Re?
+ A:

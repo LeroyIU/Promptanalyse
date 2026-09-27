@@ -1,0 +1,11 @@
+Answer question with name entity only. not explain.
+ Q: What color is Charlton Athletic F. C. ?
+ A: red
+: Who screenwriter for Red Road?
+: Andrea Arnold
+: What genre is Good Times?
+: musical film
+: Who author of Oliver's Story?
+: Erich Segal
+: Who director of The Variable?
+:

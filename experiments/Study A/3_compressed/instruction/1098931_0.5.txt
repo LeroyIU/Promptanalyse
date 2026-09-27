@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: Shozaburo Nakamura?
+: politician
+: producer Eat?
+: Andy Warhol
+: author Room?
+: Emma Donoghue
+: sport Yuri Koroviansky?
+: volleyball
+: country Ormak, Isfahan?
+:

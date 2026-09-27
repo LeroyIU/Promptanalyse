@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Yuki Kaida's occupation?
+ A: seiyū
+: Who composer of All by Myself?
+ A: Eric Carmen
+: Who author of Persa?
+: Plautus
+: Who mother of Eliot Sumner?
+: Trudie Styler
+: Who producer of Hospital Music?
+ A:

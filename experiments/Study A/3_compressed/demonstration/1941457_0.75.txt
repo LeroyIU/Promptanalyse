@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country Iron River (CDP), Wisconsin?
+ A: United States of America
+: Who composer of Introduction and Allegro?
+: Maurice Ravel
+: religion of Averett University?
+ A: Baptists
+: Who director of The Last Producer?
+: Burt Reynolds
+: Who author of The Way of Kings?
+: Brandon Sanderson
+: Who screenwriter for Dilim?
+: José Javier Reyes
+: What color Fleetwood Town F. C. ?
+: red
+: Rumi's occupation?
+: philosopher
+: What sport does Kim Sung-gan play?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of Amitabh Bachchan?
+ A: Teji Bachchan
+: Who author of Something More?
+: Paul Cornell
+: Who director of Kites?
+: Anurag Basu
+: What genre is The Cure?
+: comedy-drama
+: what city Glover Morrill Allen born?
+:

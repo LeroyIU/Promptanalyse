@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of David?
+ A: Vikram
+: What sport Radik Zhaparov play?
+: ski jumping
+: Who father of S. Robson Walton?
+: Sam Walton
+: What color is Atlético de Madrid?
+: red
+: Anjali Sudhakar's occupation?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. not explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: screenwriter La bonne année?
+: Lelouch
+: sport Katie Taylor play?
+: boxing
+: composer Our House?
+: Graham Nash
+: country Saint-Paul?
+: Canada
+: director Amateur?
+:

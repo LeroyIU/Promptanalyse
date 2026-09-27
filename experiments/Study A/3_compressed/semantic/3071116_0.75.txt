@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who is author of Confidence?
+: author who?
+ A: Henry James
+ Q: What genre is Back to the Future?
+: type of work Back to the Future?
+: comedy film
+ Q: Who director of You and Me?
+: Who directed work 'You and Me'?
+: Ma Liwen
+ Q: What Augustine Steward's occupation?
+: job?
+: politician
+ Q: What religion of Milica Hrebeljanović?
+: Milica Hrebeljanoviƒá's religion?
+ A:

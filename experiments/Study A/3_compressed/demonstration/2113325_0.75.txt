@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Shozaburo Nakamura's occupation?
+ A: politician
+: Who mother of Sydney Chaplin?
+: Hannah Chaplin
+: Who father of Jitendra Narayan?
+ A: Nripendra Narayan
+: Who author of Kitty Pryde and Wolverine?
+ A: Chris Claremont
+: what city John Keating born?
+: Hobart
+: Who screenwriter for Eat?
+: Andy Warhol
+: What sport Tim Jackman play?
+: ice hockey
+: Who producer of The Bachelor?
+: Chris O'Donnell
+: what country Saint-Vincent-de-Salers?
+ A:

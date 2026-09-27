@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: genre?
+: traditional music
+: Batman?
+: Gotham
+:?
+: football
+: screenwriter Deep End?
+: Scott McGehee
+: director?
+:

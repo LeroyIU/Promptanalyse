@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Neodesha?
+ A: United States of America
+ Q: Who author of Timeless?
+: Gail Carriger
+: Who father of Afonso II of Portugal?
+: Sancho I of Portugal
+: Who screenwriter for The Shining?
+: Stanley Kubrick
+ Q: What color flag of Colorado?
+: red
+: Who composer of Adelaide?
+: Ludwig van Beethoven
+: Eckart von Hirschhausen's occupation?
+: physician
+: Who director of The Night Riders?
+: Alexander Butler
+: Who mother of Phoenix?
+:

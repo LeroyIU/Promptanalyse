@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who father of Adad?
+ A: Anu
+: What sport Damla Çakıroğlu play?
+ A: volleyball
+: Who screenwriter for China?
+: Halsted Sullivan
+: Who producer of The Kiss?
+: Thomas Alva Edison
+: what city Gabriella Di Laccio born?
+:

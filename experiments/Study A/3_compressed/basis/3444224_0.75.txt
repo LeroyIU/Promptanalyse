@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Flesh?
+: John Ford
+: Who father of Grand Duke Nicholas Mikhailovich of Russia?
+: Grand Duke Michael Nikolaevich of Russia
+: Who screenwriter for Ballad?
+: Brad Falchuk
+: What genre is Kiss?
+: pop music
+: capital of Hood County?
+:

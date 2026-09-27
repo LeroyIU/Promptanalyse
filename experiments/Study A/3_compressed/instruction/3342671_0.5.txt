@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation.
+ name, further text.
+: producer David?
+: Vikram
+: sport Radik Zhaparov play?
+: ski jumping
+: father S. Robson Walton?
+: Sam Walton
+: color Atlético de Madrid?
+: red
+: Anjali Sudhakar's?
+:

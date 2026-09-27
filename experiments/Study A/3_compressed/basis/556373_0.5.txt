@@ -1,0 +1,11 @@
+Answer question name entity.
+: color FC Internazionale Milano?
+: black
+: composer Abhinandanam?
+: Kannur Rajan
+: country Turin?
+: United States
+: religion Northland International University?
+: Baptists
+: father Nero?
+:

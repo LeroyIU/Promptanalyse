@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Night?
+: Who authored Night?
+ A: William Blake
+ Q: Who father of Rama?
+: Rama child of what man?
+: Dasharatha
+ Q: What Derek Wheatley's occupation?
+: What kind work Derek Wheatley do?
+: novelist
+ Q: what city James M. Bingham born?
+: James M. Bingham's hometown?
+: Perry
+ Q: What capital of New Jersey?
+: capital city of New Jersey?
+:

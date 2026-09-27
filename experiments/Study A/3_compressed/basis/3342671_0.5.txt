@@ -1,0 +1,11 @@
+Answer name entity.
+: producer David?
+: Vikram
+: sport Radik Zhaparov?
+: ski jumping
+: father S. Robson Walton?
+: Sam Walton
+: color Atlético Madrid?
+: red
+: Anjali Sudhakar?
+:

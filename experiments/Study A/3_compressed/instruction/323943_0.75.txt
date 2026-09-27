@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity answer, without further text.
+: What genre is Ross Macdonald?
+: detective fiction
+: Who producer of More?
+: Barbet Schroeder
+: what city was James M. Bingham born?
+: Perry
+: What color is Exeter City F. C. ?
+: red
+: what country Directorate of Military Intelligence?
+:

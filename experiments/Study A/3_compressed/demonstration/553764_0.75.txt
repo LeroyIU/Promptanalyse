@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: María Elena Marqués's occupation?
+ A: actor
+: What genre is Will to Power?
+: dance-pop
+: Who composer of Unser Mund sei voll Lachens, BWV 110?
+ A: Johann Sebastian Bach
+: Who director of The Naked Time?
+: Marc Daniels
+: Who screenwriter for Dead Cert?
+: Tony Richardson
+: What sport Sebastián Morquio play?
+: association football
+: Who author of Time to Come?
+: August Derleth
+: producer of Bird?
+: Clint Eastwood
+: religion of Muqatil ibn Sulayman?
+:

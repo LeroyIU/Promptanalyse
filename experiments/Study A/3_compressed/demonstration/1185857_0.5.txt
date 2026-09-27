@@ -1,0 +1,19 @@
+name entity.
+: composer Style?
+: Mani Sharma
+: screenwriter Enikkum Oru Divasam?
+: Sreekumaran Thampi
+: director Well?
+: Jonathan Frakes
+: father Leo VI Wise?
+: Basil I
+: producer Moment?
+: Kenny G
+: mother Mikheil Saakashvili?
+: Giuli Alasania
+: author This It?
+: Joseph Connolly
+: Gabriel Gonsum Ganaka?
+: priest
+: religion Virgin?
+:

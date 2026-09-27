@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: mother Proserpina?
+: Ceres
+: producer Thoda Magic?
+: Aditya Chopra
+: country Berry?
+: United States America
+: director Pilot?
+: Brett Ratner
+: sport Mustafa Keçeli play?
+:

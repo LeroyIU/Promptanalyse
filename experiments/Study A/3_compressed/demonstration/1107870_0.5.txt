@@ -1,0 +1,19 @@
+name entity.
+: city Gregorio Selser born?
+: Buenos Aires
+: composer All Around World?
+: Justin Bieber
+: father George S. Patton?
+:.
+: religion Matthew Apostle?
+: Christianity
+: producer Hugo?
+: Johnny Depp
+: genre Chaotic?
+: novella
+: screenwriter Erotikon?
+: Mauritz Stiller
+: Adele Capell, Countess Essex?
+: socialite
+: color flag Belize?
+:

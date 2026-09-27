@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: mother Carrie Brady?
+: Carrie Brady child woman?
+: Anna DiMera
+: country Fin?
+: Where?
+: Iran
+: sport Zaur Ramazanov play?
+: plays sport?
+: association football
+: genre Southern Rock Opera?
+: associated genre?
+: alternative country
+: screenwriter The Accused?
+: wrote script Accused?
+:

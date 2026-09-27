@@ -1,0 +1,19 @@
+entity.
+: color flag Zimbabwe?
+: red
+: sport Shahrul Azhar Ture?
+: association football
+: composer Time?
+: Jeff Daniels
+: Robert Jonckheere?
+: astronomer
+: country Veliko Korenovo?
+: Croatia
+: religion Frank Joseph Dewane?
+: Catholic Church
+: capital Wa State?
+: Pangkham
+: genre Stretch?
+: thriller
+: producer Economics Happiness?
+:

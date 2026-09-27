@@ -1,0 +1,19 @@
+Answer question with name entity only. Do not explain.
+: Who screenwriter for A Teacher?
+: Hannah Fidell
+: What genre is Discount?
+: punk rock
+: capital of Val d'Aran?
+: Vielha e Mijaran
+: Who father of John, King of England?
+: Henry II of England
+: What sport David Coulthard play?
+: Formula One
+: Who mother of Isabel Neville, Duchess of Clarence?
+: Anne Neville, 16th Countess of Warwick
+: Who composer of The Way It Is?
+: Bruce Hornsby
+: Who producer of Mayabazar?
+: B. Nagi Reddy
+: what country Biały Kościół, Lower Silesian Voivodeship?
+:

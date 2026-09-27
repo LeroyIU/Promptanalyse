@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Serbia?
+: government of Serbia based where?
+ A: Belgrade
+: Who mother of Todd McCaffrey?
+: Who mom of Todd McCaffrey?
+: Anne McCaffrey
+ Q: In what country is Anjoma?
+: What country is Anjoma in?
+ A: Madagascar
+: religion of Giacomo Biffi?
+: Giacomo Biffi associated with what religion?
+: Catholic Church
+: Who father of Aun?
+: Aun child of what man?
+:

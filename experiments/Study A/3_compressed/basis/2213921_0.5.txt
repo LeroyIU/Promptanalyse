@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: sport Deontay Greenberry play?
+: American football
+: author Book?
+:. Lovecraft
+: mother Mary Waltham?
+: Philippa Hainault
+: country Łazy, Sierpc County?
+: Poland
+: director Allen?
+:

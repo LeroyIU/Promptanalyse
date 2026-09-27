@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Margaret Coit born?
+: What town Margaret Coit born in?
+: Norwich
+: Who producer of Tron: Legacy?
+: Who produced 'Tron: Legacy'?
+: Steven Lisberger
+: What color is chalk?
+: What color chalk associated with?
+: white
+: Who mother of Asher?
+: Who mom of Asher?
+: Zilpah
+: Who director of Dutch?
+: 'Dutch' directed by who?
+ A:

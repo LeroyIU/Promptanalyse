@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of Ali Ibn Ibrahim Qomi?
+: Ali Ibn Qomi's religion?
+: Shia Islam
+: Who author of The Secret Life of Plants?
+: Who authored Secret Life Plants?
+: Peter Tompkins
+: Who producer of Men and Women?
+: 'Men and Women' produced by who?
+: Walter Hugo Khouri
+: What genre is These Days?
+: type of work These Days?
+: alternative rock
+: Who mother of Max Kennedy?
+: Which woman raised Max Kennedy?
+:

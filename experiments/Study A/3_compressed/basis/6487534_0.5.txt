@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: country Gare Rosporden?
+: France
+: color Atlético Madrid?
+: red
+: sport 2010 Veikkausliiga play?
+: association football
+: author Trying?
+: Joanna Glass
+: screenwriter?
+:

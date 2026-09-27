@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: capital of 4th of August Regime?
+: Athens
+ Q: what city Jiang Mianheng born?
+: Shanghai
+: Who producer of The Best of Everything?
+: Jerry Wald
+ Q: What genre Treasure Island?
+: adventure film
+: Şefik Birkiye's occupation?
+ A:

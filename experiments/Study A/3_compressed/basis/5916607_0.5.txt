@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: color ruby?
+: red
+: Antonio Álvarez Alonso's?
+: composer
+: director Guns?
+: Andy Sidaris
+: country Ab Bahri?
+: Iran
+: composer Chipmunk Song?
+:

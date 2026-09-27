@@ -1,0 +1,13 @@
+Answer question name entity only. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: capital Montserrat?
+: Brades
+: author Hagarism?
+: Patricia Crone
+: composer All Because You?
+: Avril Lavigne
+: mother Alexander Great?
+: Olympias
+: producer Life?
+:

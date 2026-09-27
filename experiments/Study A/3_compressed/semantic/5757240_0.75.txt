@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Frozen?
+: Frozen composed by who?
+: Christophe Beck
+: Who producer of We Were Young?
+: Who produced work We Were Young?
+: Binka Zhelyazkova
+: Who author of Bel Canto?
+: Bel Canto written by who?
+: Ann Patchett
+: What sport Brunei Barracudas play?
+: What sport Brunei Barracudas associated with?
+: basketball
+: Who screenwriter for The Prize?
+: Who wrote script for The Prize?
+:

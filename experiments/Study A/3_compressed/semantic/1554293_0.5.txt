@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who mother Allison Hirschlag?
+: Allison Hirschlag child woman?
+: Julia Barr
+: Who author Next?
+: authored?
+: Michael Crichton
+: color. C Milan?
+: color. associated?
+:
+: capital Slovenia?
+: city government Slovenia?
+: Ljubljana
+: Who screenwriter Unexpected?
+: Unexpected written who?
+:

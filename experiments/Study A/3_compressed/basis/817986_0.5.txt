@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: author?
+: Luther Blissett
+: mother Rosa Brooks?
+: Barbara Ehrenreich
+: city Va born?
+: London
+: color Doncaster Rovers. ?
+: red
+: father John Sigismund, Crown Prince Poland?
+:

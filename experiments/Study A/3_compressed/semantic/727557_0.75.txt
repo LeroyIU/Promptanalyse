@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was screenwriter for Serenity?
+: Who screenwriter work Serenity?
+: Joss Whedon
+: What sport does 2010 Veikkausliiga play?
+: 2010 Veikkausliiga associated with what sport?
+: association football
+: Who producer of Electronic?
+: Who produced 'Electronic'?
+: Johnny Marr
+: Who author of Private?
+: Who authored Private?
+: James Patterson
+: Who mother of Christian IV of Denmark?
+: Christian IV of Denmark child of what woman?
+:

@@ -1,0 +1,11 @@
+Answer name entity.
+: composer Frozen?
+: Christophe Beck
+: producer We Were Young?
+: Binka Zhelyazkova
+: author Bel Canto?
+: Ann Patchett
+: sport Brunei Barracudas play?
+: basketball
+: screenwriter Prize?
+:

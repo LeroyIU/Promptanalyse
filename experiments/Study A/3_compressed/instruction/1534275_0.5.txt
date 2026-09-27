@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: sport Ron Douglas play?
+: association football
+: capital Lamphun?
+:
+: color Atlético Madrid?
+: red
+: producer ""Them""?"
+: King Diamond
+: screenwriter Lovers?
+:

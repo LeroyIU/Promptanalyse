@@ -1,0 +1,13 @@
+Answer name entity. explain
+ entity name. No explanation required.
+ name, further text.
+: country Tokyo International Cruise Terminal Station?
+: Japan
+: composer Die Fledermaus?
+: Johann Strauss
+: city Matthew J. Ryan born?
+: Philadelphia
+: screenwriter In the Cut?
+: Jane Campion
+: author Renegade's Magic?
+:

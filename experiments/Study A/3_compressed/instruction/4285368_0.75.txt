@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who director of Your Face?
+: Bill Plympton
+: What sport does ONCE play?
+: road bicycle racing
+: What genre is Crush?
+: K-pop
+: what city Joanna Elisabeth of Holstein-Gottorp born?
+: Gottorf Castle
+: Greg Miller's occupation?
+:

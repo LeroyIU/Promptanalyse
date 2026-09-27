@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of The Lover?
+ A: Jean-Jacques Annaud
+ Q: religion of Loon?
+: Islam
+: father of Arthur Herzog?
+: Arthur Herzog, Jr.
+ Q: In what country is Sjösa?
+: Sweden
+: What color is A. C. Milan?
+: red
+: author of Into the Woods?
+: Stephen Sondheim
+: What genre is Terra?
+: massively multiplayer online role-playing game
+: capital of Jask County?
+: Jask
+: John Andrew Martin's occupation?
+ A:

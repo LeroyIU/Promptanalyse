@@ -1,0 +1,16 @@
+entity.
+: genre?
+:?
+: traditional music
+: Batman?
+: hometown?
+: Gotham City
+:?
+:?
+: football
+: screenwriter?
+:?
+: Scott McGehee
+: director?
+:?
+:

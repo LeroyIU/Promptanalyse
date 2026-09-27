@@ -1,0 +1,19 @@
+entity.
+: author Ritual?
+: Adam Nevill
+: capital Ukrainian Soviet Socialist Republic?
+: Kyiv
+: color flag Zimbabwe?
+: red
+: sport Christo van Rensburg?
+: tennis
+: country Marvel?
+: United States
+: director Memories?
+: Katsuhiro Otomo
+: mother Amitabh Bachchan?
+: Teji Bachchan
+: composer Instant Crush?
+: Thomas Bangalter
+: Zhu Houren?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Willy Roy play?
+: What is Willy Roy's sport?
+: association football
+: In what country is Cos?
+: What country can find Cos in?
+: France
+: Who mother of Horus?
+: Who gave birth to Horus?
+: Isis
+: Who director of The Little Ones?
+: Who director Little Ones'?
+: Jim O'Connolly
+: Who screenwriter for The Russia House?
+: Who wrote script for 'The Russia House'?
+:

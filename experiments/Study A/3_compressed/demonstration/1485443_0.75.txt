@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of La Silvia?
+ A: Antonio Vivaldi
+ Q: What color is Charlton Athletic F. C. ?
+ A: red
+: What genre is The Take?
+: punk rock
+: capital of Arizona?
+: Phoenix
+: Lothrop Stoddard's occupation?
+: journalist
+: Who director of The System?
+ A: Lewis Seiler
+: Who author of Nevada?
+: Steve Gerber
+: Who producer of Let It Be?
+: Phil Spector
+: Who screenwriter for Angels & Demons?
+:

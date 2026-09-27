@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Whole Family?
+: author who?
+ A: Henry James
+: Who producer of Drushyam?
+: Who produced work Drushyam?
+: Rajkumar Sethupathi
+: What sport Ernest Street play?
+: What athletic activity Ernest Street associated with?
+ A: association football
+: Who composer of To Die For?
+: Who composed To Die For?
+: Danny Elfman
+: what city Stig Kleven born?
+: What Stig Kleven's hometown?
+ A:

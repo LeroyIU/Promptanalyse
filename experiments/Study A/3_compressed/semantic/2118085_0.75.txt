@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of Kenneth Kennedy?
+ Q: Kenneth Kennedy's religion?
+ A: Anglicanism
+ Q: Who producer of More?
+: Who in charge of production of 'More'?
+ A: Barbet Schroeder
+ Q: Who director of Like Crazy?
+: 'Like Crazy' directed by who?
+ A: Drake Doremus
+ Q: Mohd Sharkar Shamsudin's occupation?
+:?
+ A: politician
+ Q: what city Vera Dua born?
+: What city Vera Dua from?
+ A:

@@ -1,0 +1,11 @@
+Answer question name entity.
+: genre Idaho?
+: Western film
+: city Stone born?
+: Paris
+: director Michael?
+: Carl Theodor Dreyer
+: producer X?
+: Roger Corman
+: color fire engine?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Lindsay Pagano born?
+: Lindsay Pagano from what city?
+ A: Philadelphia
+: Who mother of Patrick Villiers Farrow?
+: Patrick Villiers Farrow child of what woman?
+: Maureen O'Sullivan
+: What genre is Josephine Foster?
+: What type of work Josephine Foster?
+: traditional music
+: Who director of Che?
+: Who in charge of direction of 'Che'?
+: Ebrahim Hatamikia
+: Who author of The Sword of Shibito?
+: author Sword Shibito who?
+:

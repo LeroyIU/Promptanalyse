@@ -1,0 +1,19 @@
+name entity.
+: father Demeter?
+: Cronus
+: George Rankin?
+: politician
+: composer Graduate?
+: Dave Grusin
+: mother Cornelia Otis Skinner?
+: Maud Durbin
+: author Trial?
+: Franz Kafka
+: capital Equatorial Guinea?
+: Malabo
+: city Emmanuel Biron born?
+: Lyon
+: country Colonia Nueva Coneta?
+: Argentina
+: religion Bellino Giusto Ghirard?
+:

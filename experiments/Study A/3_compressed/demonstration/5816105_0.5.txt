@@ -1,0 +1,19 @@
+name entity.
+: capital Indre-et-Loire?
+: Tours
+: color Fleetwood Town. ?
+: red
+: genre Christine?
+: horror literature
+: director Bullet?
+: Julien Temple
+: religion Benjamin Marc Ramaroson?
+: Catholic Church
+: producer: Rolling Stones?
+: Marshall Chess
+: mother Abraham Lincoln?
+: Nancy Hanks
+: city Sam Storey born?
+: Belfast
+: Indiana State Road 5?
+:

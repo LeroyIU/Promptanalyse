@@ -1,0 +1,16 @@
+Answer question name entity only. explain.
+: capital of Southwest?
+: capital city?
+:
+: father of Willie Geist?
+: dad Willie Geist?
+: Bill Geist
+: religion of Enchin?
+: Enchin's religion?
+: Buddhism
+: author of Nature?
+:?
+: Ralph Waldo Emerson
+: What genre Species?
+: Species associated?
+:

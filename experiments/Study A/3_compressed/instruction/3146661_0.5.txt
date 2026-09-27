@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: What color. Milan?
+: red
+: capital Jask County?
+:
+: sport Farshad Falahatzadeh play?
+: association football
+: genre Yellow?
+: J-pop
+: country Marvejols?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Onela?
+ A: Ongentheow
+: Who screenwriter for On the Avenue?
+ A: Irving Berlin
+: Who composer of Thinking of You?
+ A: Katy Perry
+: religion of Marjorie Cameron?
+ A: Thelema
+: Who author of Leaving Home?
+: David French
+: Who director of Crossover?
+: John Guillermin
+: Who mother of David Rockefeller?
+: Abigail Greene Aldrich
+: What sport does Inter Moengotapoe play?
+ A: association football
+: capital of Shire of Cook?
+:

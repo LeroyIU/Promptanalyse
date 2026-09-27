@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Þorsteinn Bachmann's occupation?
+ A: actor
+ Q: What sport Indonesia Education League play?
+ A: association football
+: What genre is Yellow?
+ A: J-pop
+ Q: Who composer of Emotions?
+: Mariah Carey
+: what country 2010 European Track Championships?
+: Poland
+: Who producer of Stand Up?
+: Ian Anderson
+: Who director of The Gift?
+: Kim Manners
+: capital of Dominican Republic?
+: Santo Domingo
+: Who author of Cool?
+ A:

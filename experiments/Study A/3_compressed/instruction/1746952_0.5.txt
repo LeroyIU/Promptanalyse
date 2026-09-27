@@ -1,0 +1,13 @@
+Answer question name entity. not explain
+ Reply entity name nothing. No explanation required.
+ name entity, further text.
+: sport Deportivo San Pedro?
+: association football
+: country Wethersfield?
+: United States
+: father Joseph?
+: Jacob
+: Michael Lynton's?
+: chief executive officer
+: director Island?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who director of Like Crazy?
+: 'Like Crazy' directed by who?
+: Drake Doremus
+: What sport Thiago Quirino play?
+: What Thiago Quirino's sport?
+: association football
+: What color Atlético de Madrid?
+: What Atlético de Madrid colored?
+: red
+: What genre Timeless Records?
+: Fans of what genre like Timeless Records?
+: jazz
+: Who father of Abbot Oliba?
+: Which man raised Abbot Oliba?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: capital South Dakota?
+: Pierre
+: producer Let It Be?
+: Beatles
+: father Griffin O'Neal?
+: Ryan O'Neal
+: composer Captain?
+: James Horner
+: genre Chamber of Horrors?
+:

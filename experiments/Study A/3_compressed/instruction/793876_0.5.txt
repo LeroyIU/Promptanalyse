@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: screenwriter Fireworks?
+: Kenneth Anger
+: capital Niue?
+: Alofi
+: father Eryx?
+: Poseidon
+: color Coventry City. ?
+: sky blue
+: composer Highway?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What María Elena Marqués's occupation?
+: occupation?
+: actor
+ Q: What genre is Will to Power?
+: Will to Power associated with what genre?
+: dance-pop
+ Q: Who composer of Unser Mund sei voll Lachens, BWV 110?
+: Unser Mund, BWV 110 composed by who?
+: Johann Sebastian Bach
+ Q: Who director of The Naked Time?
+: Who in charge of direction Naked Time?
+: Marc Daniels
+ Q: What religion of Muqatil ibn Sulayman?
+: What religion Muqatil ibn Sulayman associated with?
+:

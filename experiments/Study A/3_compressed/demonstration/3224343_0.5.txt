@@ -1,0 +1,19 @@
+name entity.
+: sport Tranmere Rovers. play?
+: association football
+: color ruby?
+: red
+: mother Esau?
+: Rebecca
+: religion Muhammad Ali?
+: Nation Islam
+: author Mind Society?
+: Vilfredo Pareto
+: genre?
+: fantasy film
+: composer Piano Concerto. 4?
+: Sergei Rachmaninoff
+: father Benazir Bhutto?
+: Zulfiqar Ali Bhutto
+: director Key?
+:

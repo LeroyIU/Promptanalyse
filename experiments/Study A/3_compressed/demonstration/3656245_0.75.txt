@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Wives?
+ A: hardcore punk
+ Q: Who father of Arjuna?
+: Indra
+: Who director of Pilot?
+ A: Mark Piznarski
+: Who author of The Aware?
+: Glenda Larke
+: Who screenwriter for Loop?
+: Tim Pears
+: What color is Exeter City F. C. ?
+: red
+: what city Nathaniel Boyden born?
+: Conway
+: Fritz Goos's occupation?
+: astronomer
+: capital of Vimmerby Municipality?
+ A:

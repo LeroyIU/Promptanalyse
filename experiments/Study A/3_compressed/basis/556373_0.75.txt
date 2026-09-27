@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color is FC Internazionale Milano?
+ A: black
+: Who composer of Abhinandanam?
+: Kannur Rajan
+: what country is Turin?
+: United States of America
+: religion of Northland International University?
+: Baptists
+: Who father of Nero?
+:

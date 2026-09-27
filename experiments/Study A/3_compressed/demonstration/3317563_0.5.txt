@@ -1,0 +1,19 @@
+name entity.
+: producer Circus?
+: Charlie Chaplin
+: screenwriter Twenty Two?
+: Rod Serling
+: Rose Beaudet's?
+: actor
+: capital Vietnam?
+: Ho Chi Minh City
+: religion Marilyn Monroe?
+: Judaism
+: Jan Kochanowski University?
+: Poland
+: author Jewel?
+: Bret Lott
+: director Code Honor?
+: Russ Mayberry
+: sport América Futebol Clube?
+:

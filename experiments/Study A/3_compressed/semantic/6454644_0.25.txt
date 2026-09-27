@@ -1,0 +1,16 @@
+entity.
+: father Emperor?
+:?
+: Emperor
+:.?
+:. hometown?
+: Perry
+: author Sonnet 109?
+: 109?
+: William Shakespeare
+: capital Racine County?
+:?
+:
+: director?
+:?
+:

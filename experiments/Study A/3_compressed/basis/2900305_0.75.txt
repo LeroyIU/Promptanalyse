@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who composer of One?
+: Michel van der Aa
+: what country is Kehl?
+: Germany
+: What sport does Gianluca Comotto play?
+: association football
+: Who producer of Road?
+: Ram Gopal Varma
+: What religion of Xavier University of Louisiana?
+:

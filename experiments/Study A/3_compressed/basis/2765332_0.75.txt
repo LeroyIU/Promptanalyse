@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Smile?
+: In Reality
+ Q: What genre is Discount?
+: punk rock
+: What color is White House?
+: white
+: what city was Maarten van Severen born?
+: Antwerp
+: religion of Aung San Suu Kyi?
+:

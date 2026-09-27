@@ -1,0 +1,11 @@
+entity.
+: capital Colorado?
+: Denver
+: genre?
+:
+: sport?
+:
+: screenwriter?
+: Shinichi
+: author?
+:

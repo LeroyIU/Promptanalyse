@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Rose Beaudet's occupation?
+: work Rose Beaudet?
+: actor
+: sport Jukka Tammi play?
+: athletic activity associated?
+: ice hockey
+: color Fleetwood Town F. C ?
+: color.?
+: red
+: genre Martin Garrix?
+:?
+: electronic dance music
+: Who composer of Happy?
+: composed?
+:

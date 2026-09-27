@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Yuki Kaida's occupation?
+ A: seiyū
+ Q: Who composer of All by Myself?
+: Eric Carmen
+: Who author of Persa?
+: Plautus
+: Who mother of Eliot Sumner?
+: Trudie Styler
+: Who producer of Hospital Music?
+ A:

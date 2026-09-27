@@ -1,0 +1,16 @@
+entity.
+: color Doncaster Rovers. ?
+:.?
+: red
+: capital South Korea?
+:?
+: Seoul
+: composer?
+:?
+:
+: producer Brat?
+:?
+:
+: genre Epidemic?
+:?
+:

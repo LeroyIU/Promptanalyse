@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: What color is White House?
+ A: white
+: Who mother of Emperor He of Han?
+: Consort Liang
+: Who author of Little Children?
+: Tom Perrotta
+: what country is Mato Castelhano?
+: Brazil
+: What genre is Wars?
+ A:

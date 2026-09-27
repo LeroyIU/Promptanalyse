@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name, further text.
+: genre The Thorn in Heart?
+: documentary film
+: sport Nigel Marples?
+: association football
+: director Mane?
+: Girish Kasaravalli
+: Henry Campbell-Bannerman?
+: diplomat
+: producer Hired!?
+:

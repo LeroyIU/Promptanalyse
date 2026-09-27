@@ -1,0 +1,11 @@
+Answer name entity. explain
+: father Smile?
+: Reality
+: genre Discount?
+: punk rock
+: color White House?
+: white
+: city Maarten Severen born?
+: Antwerp
+: religion Aung San Suu Kyi?
+:

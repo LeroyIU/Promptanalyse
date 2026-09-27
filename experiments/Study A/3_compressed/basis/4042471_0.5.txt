@@ -1,0 +1,11 @@
+Answer question name entity only. explain
+: color Doncaster Rovers F. C ?
+: red
+: capital South Korea?
+: Seoul
+: composer Then?
+: David
+: producer Brat?
+: Alla Nazimova
+: genre Epidemic?
+:

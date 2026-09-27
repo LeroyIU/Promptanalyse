@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of Colorado?
+ A: Denver
+ Q: What genre is Steal This Record?
+ A: punk rock
+: What sport does Niklas Stark play?
+ A: association football
+: Who screenwriter for The Secret of the Telegian?
+: Shinichi Sekizawa
+: Edward Corser's occupation?
+: politician
+: father of Randolph Churchill?
+: Winston Churchill
+: what country Upper Midwest forest-savanna transition?
+: United States of America
+: Who mother of Eadburh?
+: Cynethryth
+: Who author of Bug?
+:

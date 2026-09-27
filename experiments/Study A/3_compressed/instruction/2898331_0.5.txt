@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity answer, further text.
+: country Belavia?
+: Belarus
+: capital Ethiopia?
+: Addis Ababa
+: screenwriter One Night?
+: Lucas Belvaux
+: city Luis Reece born?
+: Taunton
+: composer Patience?
+:

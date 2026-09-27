@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Yuki Kaida's occupation?
+ A: seiyū
+: Who composer of All by Myself?
+: Eric Carmen
+: Who author of Persa?
+: Plautus
+: Who mother of Eliot Sumner?
+: Trudie Styler
+: what country is St. Martin's Cathedral?
+ A: Netherlands
+: what city Alexandros Matsas born?
+: Athens
+: What genre is Our Wife?
+: comedy film
+: Who director of The Other Half?
+: King Vidor
+: Who producer of Hospital Music?
+ A:

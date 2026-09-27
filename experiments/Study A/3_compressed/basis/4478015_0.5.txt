@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: sport Willy Roy play?
+: association football
+: country Cos?
+: France
+: mother Horus?
+: Isis
+: director Little Ones?
+: Jim O'Connolly
+: screenwriter Russia House?
+:

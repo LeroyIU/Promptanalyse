@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of William Ames?
+ A: Calvinism
+ Q: What sport does Willie McCarter play?
+ A: basketball
+: What genre is Patience?
+ A: comic opera
+: Who director of The Island of Desire?
+: Otis Turner
+: Who author of Rose Hip Rose?
+: Tooru Fujisawa
+: Who composer of Going Up?
+: Louis Hirsch
+: Who screenwriter for Spy?
+: Paul Feig
+: capital of Egypt?
+: Cairo
+: Who producer of Deathstalker II?
+ A:

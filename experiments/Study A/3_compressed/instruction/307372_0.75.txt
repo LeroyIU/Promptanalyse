@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity as answer, without further text.
+ Q: What color flag of Zimbabwe?
+ A: red
+ Q: What sport does Shahrul Azhar Ture play?
+: association football
+: Who composer of Time?
+: Jeff Daniels
+: Robert Jonckheere's occupation?
+: astronomer
+: Who producer of The Economics of Happiness?
+:

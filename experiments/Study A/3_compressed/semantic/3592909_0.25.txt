@@ -1,0 +1,16 @@
+entity.
+: capital Colorado?
+: government?
+: Denver
+: genre?
+:?
+: punk rock
+: sport Stark?
+:?
+: football
+: screenwriter?
+:?
+: Shinichi Sekizawa
+: author?
+:?
+:

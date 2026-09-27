@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Chelsea on the Edge?
+ A: Davi Napoleon
+: What capital of Commonwealth of Philippines?
+: Manila
+: Who composer of College?
+: Claudio Simonetti
+: Who producer of Ashes & Fire?
+: Glyn Johns
+: Who mother of Wenceslaus IV of Bohemia?
+: Anna von Schweidnitz
+: What color is Carlisle United F. C. ?
+: red
+: Who screenwriter for Glory?
+: Kevin Jarre
+: What genre is Let It Be You?
+: country music
+: Who father of Ine?
+:

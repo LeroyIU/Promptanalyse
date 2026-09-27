@@ -1,0 +1,11 @@
+question name entity.
+: city William Osler born?
+: Ontario
+: color York City. ?
+:
+: religion Trevor Mwamba?
+: Anglicanism
+: genre Ace Frehley?
+: rock
+: country Goldasht, Sistan Baluchestan?
+:

@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: color Exeter City F. ?
+: red
+: screenwriter Beyond?
+: Stuart Gordon
+: producer Z?
+: Jacques Perrin
+: country United States District Court South Carolina?
+: United States America
+: father Brontis Jodorowsky?
+:

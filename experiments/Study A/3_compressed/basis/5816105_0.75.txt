@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+: What capital of Indre-et-Loire?
+ A: Tours
+: What color is Fleetwood Town F. C. ?
+: red
+: What genre is Christine?
+: horror literature
+: Who director of Bullet?
+: Julien Temple
+: what country Indiana State Road 5?
+ A:

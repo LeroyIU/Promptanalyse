@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity as answer, without further text.
+ Q: What genre is The Thorn in the Heart?
+: documentary film
+: What sport does Nigel Marples play?
+: association football
+: Who director of Mane?
+: Girish Kasaravalli
+: Henry Campbell-Bannerman's occupation?
+: diplomat
+: Who producer of Hired!?
+:

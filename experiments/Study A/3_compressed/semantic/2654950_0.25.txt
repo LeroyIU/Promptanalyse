@@ -1,0 +1,16 @@
+.
+: director?
+:?
+: Barbet Schroeder
+: producer?
+:?
+: George Clooney
+: Brunswick?
+:?
+: Fredericton
+: Dziadkowice?
+:?
+:
+: Huntsville Stars?
+:?
+:

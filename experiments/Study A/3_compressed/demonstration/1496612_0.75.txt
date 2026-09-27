@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Georgetown University?
+ A: Catholic Church
+: capital of Empire of Japan?
+: Tokyo
+: Who author of Sketches New and Old?
+: Mark Twain
+: What color is Manchester United F. C. ?
+: red
+: What genre is The Internship?
+: comedy film
+: Who producer of Taxi?
+: Jafar Panahi
+: father of Rafi-ush-Shan?
+: Bahadur Shah I
+: What sport does Julián Lalinde play?
+: association football
+: In what city Leobardo Soto born?
+:

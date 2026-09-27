@@ -1,0 +1,19 @@
+Answer question name entity.
+: sport penalty?
+: hockey
+: genre Currency?
+: crime film
+: Eleanor Davis?
+: cartoonist
+: father Alexander Graham Bell?
+: Alexander Melville Bell
+: capital Libya?
+: Tripoli
+: screenwriter Thanksgiving?
+: Russel Friend
+: city Hermann Vezin born?
+: Philadelphia
+: mother Cadmus?
+: Telephassa
+: composer Without You?
+:

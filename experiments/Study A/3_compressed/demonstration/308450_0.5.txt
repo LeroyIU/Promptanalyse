@@ -1,0 +1,19 @@
+entity.
+: genre Thorn Heart?
+: documentary film
+: sport Nigel Marples?
+: association football
+: director Mane?
+: Girish Kasaravalli
+: Henry Campbell-Bannerman?
+: diplomat
+: House Representatives?
+: Bosnia Herzegovina
+: color Doncaster Rovers. ?
+: red
+: religion Wahshi ibn Harb?
+: Islam
+: father Mira Burt-Wintonick?
+: Peter Wintonick
+: producer Hired!?
+:

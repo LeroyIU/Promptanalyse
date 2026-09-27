@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what city Jason Bourque born?
+: Vancouver
+: Who was producer of Francis?
+: Universal Pictures
+: what country is Wilcza Jama, Sokółka County?
+: Poland
+: Who screenwriter for Morning Raga?
+: Mahesh Dattani
+: Who was director of Hawaii?
+:

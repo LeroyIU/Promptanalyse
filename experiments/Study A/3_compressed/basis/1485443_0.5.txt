@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: composer La Silvia?
+: Antonio Vivaldi
+: color Charlton Athletic F. ?
+: red
+: genre Take?
+: punk rock
+: capital Arizona?
+: Phoenix
+: screenwriter Angels Demons?
+:

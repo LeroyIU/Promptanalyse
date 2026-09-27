@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: color Atlético de Madrid?
+: Atlético Madrid colored?
+: red
+: father Lee Baxter?
+: Baxter?
+: Stuart Baxter
+: sport Oleg Imrekov play?
+: sport Oleg Imrekov associated?
+: association football
+: capital of Guadeloupe?
+: capital city?
+: Basse-Terre
+: What genre Little Thief?
+: associated?
+:

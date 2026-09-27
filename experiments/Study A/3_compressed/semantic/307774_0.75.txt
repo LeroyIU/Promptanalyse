@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Rockcastle River?
+: country located in?
+: United States of America
+ Q: What genre is Up in the Air?
+: What genre 'Up in Air'?
+: film adaptation
+ Q: what city Karl Bartholomaeus Heller born?
+: Heller from what city?
+: Moravia
+ Q: What sport does Bob Priddy play?
+: Bob Priddy plays sport?
+: basketball
+ Q: Who was screenwriter for The Duellists?
+: Who in charge of screenwriting Duellists?
+:

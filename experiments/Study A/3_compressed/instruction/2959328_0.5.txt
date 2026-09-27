@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: city Lindsay Pagano born?
+: Philadelphia
+: mother Patrick Villiers Farrow?
+: Maureen O'Sullivan
+: genre Josephine Foster?
+: traditional music
+: director?
+: Ebrahim Hatamikia
+: author Sword Shibito?
+:

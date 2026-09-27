@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: T. P. Poonatchi's occupation?
+ A: politician
+: capital of Byzantine Empire?
+: Constantinople
+: In what country is Cos?
+ A: France
+: What color is A. C. Milan?
+: red
+: Who producer of Dig?
+:

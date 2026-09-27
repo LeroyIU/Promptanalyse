@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Night?
+: William Blake
+ Q: Who father of Rama?
+: Dasharatha
+ Q: Derek Wheatley's occupation?
+ A: novelist
+ Q: In what city James M. Bingham born?
+: Perry
+ Q: Who screenwriter for The Spirit?
+: Will Eisner
+ Q: Who mother of Jesus in Islam?
+: Mary in Islam
+: Who composer of Maria?
+: Leonard Bernstein
+: Who director of The Creator?
+: Albert Dupontel
+: capital of New Jersey?
+ A:

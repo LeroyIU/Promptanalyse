@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Tokyo International Cruise Terminal Station?
+: What country Tokyo Terminal Station associated with?
+ A: Japan
+ Q: Who composer of Die Fledermaus?
+: Die Fledermaus composed by who?
+ A: Johann Strauss II
+ Q: what city Matthew J. Ryan born?
+: What city Matthew J. Ryan born in?
+: Philadelphia
+ Q: Who was screenwriter for In the Cut?
+: screenwriter?
+: Jane Campion
+ Q: Who author of Renegade's Magic?
+: Renegade's Magic written by who?
+:

@@ -1,0 +1,19 @@
+entity.
+: screenwriter Teacher?
+: Hannah Fidell
+: genre Discount?
+: punk rock
+: capital Val d'Aran?
+:
+: father John, King England?
+: Henry II England
+: sport David Coulthard?
+: Formula One
+: mother Isabel Neville, Clarence?
+: Anne Neville, 16th Warwick
+: composer Way It Is?
+: Bruce Hornsby
+: producer Mayabazar?
+:. Nagi Reddy
+: country Biały Kościół, Lower Silesian Voivodeship?
+:

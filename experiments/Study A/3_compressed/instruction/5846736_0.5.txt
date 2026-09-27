@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: color Carlisle United. ?
+: red
+: composer One?
+: Michel van der Aa
+: director Brave?
+: Steve Purcell
+: father Spiros Niarchos?
+: Stavros Niarchos
+: mother Otto von Habsburg?
+:

@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who producer The Proposal?
+: produced Proposal?
+: Sandra Bullock
+: what country Tvedes Bryggeri?
+:?
+: Denmark
+: mother Archduchess Maria Elisabeth of Austria?
+:?
+: Maria Theresa of Austria
+: what city Jun Murai born?
+: from city?
+: Tokyo
+: Howard Fowles's?
+: job?
+:

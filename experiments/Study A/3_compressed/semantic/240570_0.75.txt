@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Derby Carrillo play?
+: What is Derby Carrillo's sport?
+ A: association football
+: Who author of What's Become of Waring?
+: author who?
+: Anthony Powell
+: What religion of William Ames?
+: What religion William Ames practice?
+ A: Calvinism
+: In what country is BT Group?
+: BT Group associated with what country?
+: United Kingdom
+: Who composer of Darling?
+: Who composed Darling?
+ A:

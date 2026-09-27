@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport does Petr Bříza play?
+ A: ice hockey
+: Who author of Common Sense?
+: Tony Benn
+: In what country is New England?
+: Australia
+: religion of David Livingstone?
+: congregational church
+: Neville Ashenheim's occupation?
+:

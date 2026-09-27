@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Avatar?
+: Who directed 'Avatar'?
+: James Cameron
+: What genre is Crush?
+: What genre Crush belong to?
+ A: thriller
+: Who screenwriter for The Devil's Eye?
+: Who screenwriter Devil Eye'?
+: Ingmar Bergman
+: Who father of Gladys Eleanor Guggenheim?
+: Gladys Eleanor Guggenheim's father who?
+: Daniel Guggenheim
+: Who author of Tape?
+: Who wrote Tape?
+ A:

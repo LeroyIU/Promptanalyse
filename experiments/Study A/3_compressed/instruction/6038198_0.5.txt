@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: city Margaret Coit born?
+: Norwich
+: producer Tron: Legacy?
+: Steven Lisberger
+: color chalk?
+: white
+: mother Asher?
+: Zilpah
+: director Dutch?
+:

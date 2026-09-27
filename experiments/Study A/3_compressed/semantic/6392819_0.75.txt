@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who is author of Consent to Kill?
+: Who author 'Consent to Kill'?
+: Vince Flynn
+: What John Mayne's occupation?
+: occupation John Mayne?
+: journalist
+: In what city Ed Sullivan born?
+: Ed Sullivan's hometown?
+: New York City
+: What color is Exeter City F. C. ?
+: What Exeter City F. C. colored?
+: red
+: Who was composer of Hino da Independência?
+: Who music writer of Hino da Independência?
+:

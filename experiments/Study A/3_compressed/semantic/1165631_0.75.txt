@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Peter Bircumshaw play?
+: Peter Bircumshaw plays what sport?
+: association football
+: Who producer of Blue?
+: Who in charge of production of 'Blue'?
+: Birthday Massacre
+: Who father of Brad Armstrong?
+: Brad Armstrong child of what man?
+: Bob Armstrong
+: Who director of Chicken Party?
+: Who directed 'Chicken Party'?
+: Tate Taylor
+: What capital of Mayotte?
+: government of Mayotte based where?
+ A:

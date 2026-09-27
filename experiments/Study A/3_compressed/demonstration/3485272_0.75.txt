@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Inland Empire?
+ A: David Lynch
+: religion of Saint Patrick?
+: Celtic Christianity
+: In what city Cooper Smeaton born?
+: Carleton Place
+: What genre is Clockwise?
+: comedy film
+: Who composer of Company?
+: Stephen Sondheim
+: what country is Lewałd Wielki?
+: Poland
+: Who author of Kim?
+: Rudyard Kipling
+: Who director of Highway?
+: Imtiaz Ali
+: What color is Rotherham United F. C. ?
+:

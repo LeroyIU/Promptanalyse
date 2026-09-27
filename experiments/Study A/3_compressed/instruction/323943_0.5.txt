@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity answer, text.
+: genre Ross Macdonald?
+: detective fiction
+: producer More?
+: Barbet Schroeder
+: city James M. Bingham born?
+: Perry
+: color Exeter City. ?
+:
+: country Directorate Military Intelligence?
+:

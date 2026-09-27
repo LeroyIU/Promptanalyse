@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: Who director Shiva?
+: Who directed work Shiva?
+: Ronit Elkabetz
+: mother Alī ibn Abī?
+:'s mother who?
+: Fatimah bint Asad
+: what city Liz born?
+: city?
+: Tarzana
+: sport 2004 Legg Mason Tennis Classic?
+: 2004 associated sport?
+: tennis
+: Who screenwriter Zoom?
+: wrote script?
+:

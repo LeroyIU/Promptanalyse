@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Michael Shelley's occupation?
+: Michael Shelley's job?
+ A: singer-songwriter
+ Q: what country is Saint-Sylvain-d'Anjou?
+: country Saint-Sylvain-d located in?
+: France
+ Q: What genre is Micro?
+: Micro associated with what genre?
+: techno-thriller
+ Q: what city Offer Nissim born?
+: What town born in?
+: Tel Aviv
+ Q: Who screenwriter for Swing?
+: Swing written by who?
+ A:

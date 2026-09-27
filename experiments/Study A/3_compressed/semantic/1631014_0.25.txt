@@ -1,0 +1,16 @@
+entity.
+: genre?
+:?
+: horror
+: Kelley?
+:?
+: actor
+: sport?
+:?
+: football
+: country Ely?
+:?
+: United States
+: composer Passions?
+:?
+:

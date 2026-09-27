@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Karl Bartholomaeus Heller born?
+: Moravia
+: Who father of Jitendra Narayan?
+: Nripendra Narayan
+: Who director of Blade?
+: Stephen Norrington
+ Q: What sport Italy men's national volleyball team play?
+: volleyball
+: Who author of The Man from Snowy River?
+: Andrew Barton Paterson
+: What color White House?
+: white
+: What genre is She?
+: hard rock
+: Who composer of Pay Day?
+: Charlie Chaplin
+: Toni Jennings's occupation?
+:

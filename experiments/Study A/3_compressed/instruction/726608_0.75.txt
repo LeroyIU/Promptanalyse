@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What capital of Montserrat?
+ A: Brades
+: Who author of Hagarism?
+: Patricia Crone
+: Who composer of All Because of You?
+ A: Avril Lavigne
+: Who mother of Alexander the Great?
+ A: Olympias
+: Who producer of Life?
+:

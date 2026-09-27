@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Atlético de Madrid?
+ A: red
+: Who father of Lee Baxter?
+: Stuart Baxter
+: What sport Oleg Imrekov play?
+: association football
+: capital of Guadeloupe?
+: Basse-Terre
+: What genre is Little Thief?
+ A:

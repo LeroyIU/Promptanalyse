@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: What color is Exeter City F. C. ?
+ A: red
+: Who screenwriter for From Beyond?
+ A: Stuart Gordon
+: Who producer of Z?
+: Jacques Perrin
+: what country United States District Court District of South Carolina?
+ A: United States of America
+: Who father of Brontis Jodorowsky?
+:

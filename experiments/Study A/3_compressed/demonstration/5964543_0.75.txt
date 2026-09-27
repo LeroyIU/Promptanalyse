@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Ours?
+ A: Alain Souchon
+: What color Charlton Athletic F. C. ?
+: red
+: what city Keri Lees born?
+ A: Stone
+: Who producer of John Heriot's Wife?
+: Maurits Binger
+: Who composer of Old Shatterhand?
+ A: Riz Ortolani
+: What sport HSV Hamburg play?
+ A: handball
+: Who director of First Person?
+: Errol Morris
+: Emmanuel Nnamdi Uba's occupation?
+: politician
+: Who author of Wicked Witch of Oz?
+:

@@ -1,0 +1,19 @@
+Answer name entity. explain
+: city Amoene Haersolte born?
+: Utrecht
+: director Akashdeep?
+: Phani Majumdar
+: religion L. Ron Hubbard?
+: Scientology
+: screenwriter Detail?
+: Ed Burns
+: sport Daniel Manzato?
+: hockey
+: author NOiSE?
+: Tsutomu Nihei
+: producer Trip?
+: Roger Corman
+: country Lind?
+: United States
+: genre Hara?
+:

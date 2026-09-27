@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is The Thorn in the Heart?
+ A: documentary film
+: What sport Nigel Marples play?
+: association football
+: Who director of Mane?
+: Girish Kasaravalli
+: Henry Campbell-Bannerman's occupation?
+: diplomat
+: what country House of Representatives?
+: Bosnia and Herzegovina
+: What color is Doncaster Rovers F. C. ?
+: red
+: religion of Wahshi ibn Harb?
+: Islam
+: Who father of Mira Burt-Wintonick?
+: Peter Wintonick
+: Who producer of Hired!?
+:

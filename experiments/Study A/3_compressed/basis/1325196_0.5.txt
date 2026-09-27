@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: city Paul Singer born?
+: Berlin
+: capital Berry?
+: Bourges
+: country Victory Monument Netanya?
+: Israel
+: Petros Efthymiou's?
+: politician
+: director April 18?
+:

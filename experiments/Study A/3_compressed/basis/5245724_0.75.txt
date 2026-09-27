@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport 2011–12 Elon Phoenix men's basketball team play?
+: basketball
+: What religion of Alexander?
+: Islam
+: Who mother of Pegah Ahangarani?
+: Manijeh Hekmat
+: Who director of Top of the World?
+: Sidney J. Furie
+: what city Robert Zawada born?
+:

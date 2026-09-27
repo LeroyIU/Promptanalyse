@@ -1,0 +1,11 @@
+Answer question name entity.
+: father Susan Crown?
+: Lester Crown
+: author Hollywood?
+: Gore Vidal
+: mother Andrew Schlafly?
+: Phyllis Schlafly
+: color Atlético Madrid?
+: red
+: director Girl Mourning?
+:

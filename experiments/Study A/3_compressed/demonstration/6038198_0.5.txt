@@ -1,0 +1,19 @@
+name entity.
+: city Margaret Coit born?
+: Norwich
+: producer Tron: Legacy?
+: Steven Lisberger
+: color chalk?
+: white
+: mother Asher?
+: Zilpah
+: father Sybilla Normandy?
+: Henry I England
+: composer Manmadhudu?
+: Devi Sri Prasad
+: religion Joseph Bambera?
+: Catholic Church
+: Jonathan Le Billon?
+: actor
+: director Dutch?
+:

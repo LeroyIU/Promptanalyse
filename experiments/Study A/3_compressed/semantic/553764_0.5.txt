@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: María Elena Marqués's occupation?
+:?
+: actor
+: What genre Will to Power?
+: associated genre?
+: dance-pop
+: composer of Unser Mund Lachens, BWV 110?
+:, 110 composed who?
+: Johann Sebastian Bach
+: director of The Naked Time?
+: in charge direction?
+: Marc Daniels
+: religion of Muqatil ibn Sulayman?
+: religion associated?
+:

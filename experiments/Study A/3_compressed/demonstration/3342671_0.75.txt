@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of David?
+ A: Vikram
+: What sport Radik Zhaparov play?
+: ski jumping
+: Who father of S. Robson Walton?
+: Sam Walton
+ Q: What color is Atlético de Madrid?
+: red
+: Who mother of Cable?
+: Madelyne Pryor
+: Who author of The Driver?
+: Garet Garrett
+: what city Roger McCardell born?
+: Baltimore County
+: Who director of Teresa?
+: Fred Zinnemann
+: Anjali Sudhakar's occupation?
+ A:

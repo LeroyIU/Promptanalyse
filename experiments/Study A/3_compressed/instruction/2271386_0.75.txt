@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who mother of Louis?
+ A: Rotrude
+: Who composer of Shenmue?
+: Takenobu Mitsuyoshi
+: What genre is Out of the Blue?
+: musical film
+: Who producer of The Women?
+: Diane English
+: Who director of The Shock?
+:

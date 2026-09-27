@@ -1,0 +1,19 @@
+name entity.
+: director Face?
+: Bill Plympton
+: sport ONCE?
+: road bicycle racing
+: genre Crush?
+: K-pop
+: city Joanna Elisabeth Holstein-Gottorp born?
+: Gottorf Castle
+: country River?
+: Romania
+: capital Chad?
+: N'Djamena
+: screenwriter Troy?
+: David Benioff
+: father Ginger Punch?
+: Awesome
+: Greg Miller?
+:

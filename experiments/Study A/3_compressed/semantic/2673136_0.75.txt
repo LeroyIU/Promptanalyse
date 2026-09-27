@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport André Racicot play?
+: What athletic activity André Racicot associated with?
+: ice hockey
+ Q: In what country is Mechanicsburg?
+: country Mechanicsburg?
+: United States of America
+: What religion of Francis?
+: Francis religion?
+: Catholic Church
+ Q: What color Doncaster Rovers F. C. ?
+: Rovers F. C. associated with what color?
+: red
+: Who composer of The Express?
+: Who composed 'The Express'?
+:

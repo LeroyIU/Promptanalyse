@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Saint Patrick?
+ A: Celtic Christianity
+: What color is Fleetwood Town F. C. ?
+ A: red
+: Who director of Stick?
+: Burt Reynolds
+: Who author of Regeneration?
+: H. Rider Haggard
+: Who producer of That's My Boy?
+: Roy William Neill
+: Who screenwriter for Join the Club?
+: David Chase
+: Ludwig Lichtschein's occupation?
+ A: rabbi
+: Who father of Charites?
+: Zeus
+: What genre is Territory Cops?
+:

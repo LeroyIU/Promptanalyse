@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Speed?
+ A: Scarlet Witch
+: Who screenwriter for Gorgeous?
+ A: Jackie Chan
+: Who director of Pump?
+: Josh Tickell
+: Who father of Hedwig of France, Countess of Nevers?
+: Robert II of France
+: religion of Hebrew Theological College?
+ A: Judaism
+: Who author of One Piece?
+: Eiichiro Oda
+: In what city Bill Short born?
+: Kingston
+: Who producer of October 1?
+ A: Kunle Afolayan
+: Who composer of Trombone Concerto?
+:

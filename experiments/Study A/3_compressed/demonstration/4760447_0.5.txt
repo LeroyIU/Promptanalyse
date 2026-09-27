@@ -1,0 +1,19 @@
+name entity.
+: composer Six Weeks?
+: Dudley Moore
+: director The African Woman?
+: Margarethe Trotta
+: country?
+: United States
+: author Loser?
+: Jerry Spinelli
+: mother Andrew Schlafly?
+: Phyllis Schlafly
+: sport Ramón Rodríguez?
+: association football
+: father Naphtali?
+: Jacob
+: city Scott Patterson born?
+: Vancouver
+: Judith Rakers?
+:

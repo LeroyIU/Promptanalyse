@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: What sport penalty play?
+: penalty plays what sport?
+ A: ice hockey
+: What genre is Currency?
+: Currency associated with what genre?
+: crime film
+: What Eleanor Davis's occupation?
+: What Eleanor Davis earn living as?
+: cartoonist
+: Who father of Alexander Graham Bell?
+: Alexander Graham Bell child of what man?
+: Alexander Melville Bell
+: Who composer of Without You?
+: Who music writer of Without You?
+:

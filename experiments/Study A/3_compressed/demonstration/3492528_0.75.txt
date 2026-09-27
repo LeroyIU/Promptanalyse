@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Ray?
+ A: Akihito Yoshitomi
+: religion of Cecil Warren?
+: Anglicanism
+: Who screenwriter for Fourbi?
+ A: Alain Tanner
+ Q: What sport does FK Radnički Pirot play?
+: association football
+: James Alex Msekela's occupation?
+: diplomat
+: Who mother of Sean Penn?
+: Eileen Ryan
+: capital of Cantabria?
+: Santander
+ Q: In what country is Kehl?
+: Germany
+: Who producer of Ghost?
+ A:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: screenwriter Notebook?
+: Jan Sardi
+: director Saturday Night Live?
+: Beth McCarthy-Miller
+: father Mohammad Ali Khan?
+: Karim Khan
+: genre Relax?
+: trance
+: producer Navigator?
+:

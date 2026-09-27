@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What capital of Serbia?
+ A: Belgrade
+: Who mother of Todd McCaffrey?
+: Anne McCaffrey
+ Q: In what country is Anjoma?
+ A: Madagascar
+: religion of Giacomo Biffi?
+: Catholic Church
+: Who director of Regeneration?
+: Gillies MacKinnon
+ Q: What sport does Andrew Tucker play?
+: association football
+: Who screenwriter for Manhattan?
+: Adam Horowitz
+: Who author of The Lagoon?
+: Joseph Conrad
+: Who father of Aun?
+:

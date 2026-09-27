@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of John Orr?
+ A: Anglicanism
+: capital of Rabun County?
+ A: Clayton
+: Who director of A Boy. a Girl?
+ A: John Derek
+ Q: what country is Asahi Station?
+ A: Japan
+: Who screenwriter for Tears?
+ A: Im Sang-soo
+: Who author of Fade?
+: Robert Cormier
+: Glenn Albrecht's occupation?
+: philosopher
+: Who composer of The Castle?
+: Sergey Kuryokhin
+: What genre is Lux?
+ A:

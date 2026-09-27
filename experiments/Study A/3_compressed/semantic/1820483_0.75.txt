@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Sleep?
+: Who produced work Sleep?
+ A: Andy Warhol
+: Who director of Mann?
+: Who directed 'Mann'?
+: Indra Kumar
+ Q: What Bill Kintner's occupation?
+: job Bill Kintner do?
+: politician
+: What sport Noëlle van Lottum play?
+: Noëlle Lottum's sport?
+: tennis
+: Who mother of James I of Scotland?
+: Which woman raised James I of Scotland?
+:

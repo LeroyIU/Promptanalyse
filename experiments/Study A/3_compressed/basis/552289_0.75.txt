@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Night?
+ A: William Blake
+ Q: father of Rama?
+: Dasharatha
+ Q: Derek Wheatley's occupation?
+ A: novelist
+ Q: what city James M. Bingham born?
+: Perry
+: capital of New Jersey?
+ A:

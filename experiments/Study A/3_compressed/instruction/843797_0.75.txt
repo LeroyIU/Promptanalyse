@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who screenwriter for Hell's Angels?
+: Howard Estabrook
+: Who father of Yoko Yazawa?
+: Eikichi Yazawa
+: Who author of Catullus 85?
+ A: Catullus
+: Who composer of Let It Be?
+: John Lennon
+: Edwin E. Ellis's occupation?
+:

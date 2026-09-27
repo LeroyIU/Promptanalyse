@@ -1,0 +1,11 @@
+Answer question with name entity only. not explain.
+ Q: What color is Doncaster Rovers F. C. ?
+ A: red
+: capital of South Korea?
+ A: Seoul
+: Who composer of That Was Then?
+: David Was
+: Who producer of Brat?
+: Alla Nazimova
+: What genre is Epidemic?
+ A:

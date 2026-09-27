@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Baton Haxhiu's occupation?
+ A: journalist
+: Who author of Nature?
+: Ralph Waldo Emerson
+: Who mother of Samson?
+: Wife of Manoah
+: What color Carlisle United F. C. ?
+: red
+: Who producer of Empire?
+ A:

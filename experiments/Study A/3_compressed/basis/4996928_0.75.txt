@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of Jesus in Islam?
+: Mary in Islam
+: Who author of Canto General?
+: Pablo Neruda
+: What capital of Merthyr Tydfil County Borough?
+: Merthyr Tydfil
+: Who screenwriter for U Turn?
+: John Ridley
+: What genre is Listen to Me?
+:

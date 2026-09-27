@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport 1990–91 British Basketball League season play?
+: basketball
+ Q: capital of Almoravid dynasty?
+: Marrakesh
+ Q: Who mother of Christiane Sehested?
+: Kirsten Munk
+ Q: what city Frederick Mackenzie born?
+: Montreal
+ Q: Who screenwriter for Pilot?
+: Becky Mode
+ Q: what country Lucknow Division?
+: India
+: Who producer of Flight?
+: Robert Zemeckis
+: father of Robert, King of Naples?
+: Charles II of Naples
+ Q: Nina Varlamova's occupation?
+:

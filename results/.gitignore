@@ -1,5 +1,6 @@
-promptanalyse.db
-promptanalyse.db-journal
-promptanalyse.db-wal
-promptanalyse.db-shm
-__pycache__/
+# Ausgabeordner von 07_export.py. Die CSV-Dateien sind aus der Datenbank
+# reproduzierbar und werden nicht versioniert, damit kein veralteter Stand
+# neben einem neueren Datenbankinhalt liegt.
+*.csv
+!schutz_voll_*.csv
+!schutz_minimal_*.csv

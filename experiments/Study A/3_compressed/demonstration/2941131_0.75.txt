@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Red?
+: Leslie Cheung
+ Q: What genre is The City?
+: soap opera
+: Who father of Mohammed Omar Abdel-Rahman?
+: Omar Abdel-Rahman
+ Q: Robert Florey's occupation?
+: screenwriter
+ Q: Who composer of The Ref?
+: David A. Stewart
+ Q: Who author of Yes?
+: Thomas Bernhard
+ Q: what city Beniamino Di Giacomo born?
+: Porto Recanati
+: Who screenwriter for Pilot?
+: Kevin Williamson
+: capital of Amazonas?
+:

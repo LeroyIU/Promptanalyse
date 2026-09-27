@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: color Charlton Athletic. ?
+: red
+: screenwriter Red Road?
+: Andrea Arnold
+: genre Good Times?
+: musical film
+: author Oliver's Story?
+: Erich Segal
+: director Variable?
+:

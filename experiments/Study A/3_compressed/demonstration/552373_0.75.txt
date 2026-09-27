@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Michael Shelley's occupation?
+ A: singer-songwriter
+: what country Saint-Sylvain-d'Anjou?
+: France
+: What genre is Micro?
+: techno-thriller
+: what city Offer Nissim born?
+: Tel Aviv
+: What color is Exeter City F. C. ?
+: red
+: What sport FK Mladost Bački Jarak play?
+: association football
+: Who director of Family Law?
+: Daniel Burman
+: Who composer of Tales of the Tempest?
+: Motoi Sakuraba
+: Who screenwriter for Swing?
+:

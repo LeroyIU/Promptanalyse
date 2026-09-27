@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Leaving Home?
+ A: David French
+: Who director of The Reef?
+: Robert Allan Ackerman
+: What genre is The Unknown?
+: mystery film
+: What color is York City F. C. ?
+: red
+: Who producer of Disclosure?
+: Michael Crichton
+: religion of Trevor Mwamba?
+: Anglicanism
+: Who father of Prince Alexander of Netherlands?
+: William II of Netherlands
+: In what country is Post Carbon Institute?
+: United States of America
+: Who composer of The Little Prince?
+:

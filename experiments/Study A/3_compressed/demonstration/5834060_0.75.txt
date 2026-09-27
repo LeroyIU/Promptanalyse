@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Whole Family?
+ A: Henry James
+: Who producer of Drushyam?
+: Rajkumar Sethupathi
+ Q: What sport Ernest Street play?
+: association football
+: Who composer of To Die For?
+: Danny Elfman
+: In what country is Battlefield?
+: United States of America
+: What color is ruby?
+: red
+: Kekko Fornarelli's occupation?
+: composer
+: Who director of No Good Deed?
+: Lawrence Trilling
+: what city Stig Kleven born?
+:

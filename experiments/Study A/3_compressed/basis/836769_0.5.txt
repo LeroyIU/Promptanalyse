@@ -1,0 +1,11 @@
+Answer name entity.
+: author Business?
+: Octave Mirbeau
+: producer Three Coins Fountain?
+: Rossano Brazzi
+: sport Joe Bretto play?
+: hockey
+: screenwriter Frida?
+: Gregory Nava
+: Jean Gabriel Marie occupation?
+:

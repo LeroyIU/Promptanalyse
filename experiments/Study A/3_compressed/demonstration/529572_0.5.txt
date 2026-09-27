@@ -1,0 +1,19 @@
+entity.
+: composer Fire?
+: Jimi Hendrix
+: religion Regis University?
+: Catholic Church
+: producer Aag?
+: Raj Kapoor
+: capital Yalutorovsky District?
+: Yalutorovsk
+: color Fleetwood Town. ?
+: red
+: Domingo Eyzaguirre?
+: politician
+: country Vrap?
+: Albania
+: mother Theobald II Champagne?
+: Adela Normandy
+: author What I Was?
+:

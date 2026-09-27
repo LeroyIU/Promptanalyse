@@ -1,0 +1,11 @@
+Answer question name entity.
+: producer Click?
+: Adam Sandler
+: author Birds?
+: Daphne du Maurier
+: composer Easy Money?
+: Laurence Rosenthal
+: director Betrayed?
+: Frans Weisz
+: mother Constantine I, King Armenia?
+:

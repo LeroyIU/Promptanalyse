@@ -1,0 +1,11 @@
+name entity.
+: city Jason Bourque born?
+: Vancouver
+: producer Francis?
+: Universal Pictures
+: country Wilcza Jama, Sokółka County?
+: Poland
+: screenwriter Morning Raga?
+: Mahesh Dattani
+: director Hawaii?
+:

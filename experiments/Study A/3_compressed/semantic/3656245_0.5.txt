@@ -1,0 +1,16 @@
+Answer question name entity only. explain
+: genre Wives?
+: type work Wives?
+: hardcore punk
+: father Arjuna?
+: man raised Arjuna?
+: Indra
+: director of Pilot?
+:?
+: Mark Piznarski
+: author Aware?
+: written who?
+: Glenda Larke
+: capital Vimmerby Municipality?
+: capital city Vimmerby Municipality?
+:

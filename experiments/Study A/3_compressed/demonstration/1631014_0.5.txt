@@ -1,0 +1,19 @@
+Answer name entity.
+: genre Entity?
+: horror film
+: Malcolm David Kelley?
+: actor
+: sport Stadio Brianteo?
+: association football
+: country Ely?
+: United States
+: producer Metro?
+: Dileep (Gopalakrishnan Pillai)
+: mother May Morris?
+: Jane Morris
+: father Senhime?
+: Tokugawa Hidetada
+: capital Albania?
+: Tirana
+: composer Passions?
+:

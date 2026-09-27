@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color flag of Colorado?
+ A: red
+: Who author of Rainbows End?
+: Vernor Vinge
+: In what city JB Magsaysay born?
+: San Juan
+: Who father of Matilda of Scotland?
+: Malcolm III of Scotland
+: What genre is Counter-Strike?
+: tactical shooter
+: Who mother of Apollo?
+: Leto
+: capital of Saint Martin (French part)?
+: Marigot
+: William Australia Graham's occupation?
+: farmer
+: What sport does George Milburn play?
+ A:

@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: religion William Ames?
+: religion practice?
+: Calvinism
+: What sport Willie McCarter play?
+: plays sport?
+: basketball
+: What genre Patience?
+: associated genre?
+: comic opera
+: director Island of Desire?
+:?
+: Otis Turner
+: producer Deathstalker II?
+: produced work Deathstalker II?
+:

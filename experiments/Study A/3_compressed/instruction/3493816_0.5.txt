@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: composer Airport?
+: Alfred Newman
+: producer Face to Face?
+: Michael Rymer
+: screenwriter Regeneration?
+: Raoul Walsh
+: color. Milan?
+: red
+: capital Montgomery County?
+:

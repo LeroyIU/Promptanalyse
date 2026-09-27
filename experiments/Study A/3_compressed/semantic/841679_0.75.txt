@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Petr Bříza play?
+: Petr play?
+: ice hockey
+: Who author of Common Sense?
+: Common Sense written by who?
+: Tony Benn
+ Q: In what country is New England?
+: What country find New England in?
+: Australia
+ Q: What religion of David Livingstone?
+: What religious denomination David Livingstone belong to?
+: congregational church
+: What Neville Ashenheim's occupation?
+: What Neville Ashenheim's job?
+:

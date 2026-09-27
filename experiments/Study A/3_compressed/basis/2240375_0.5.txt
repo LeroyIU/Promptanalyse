@@ -1,0 +1,11 @@
+Answer question name entity only. explain
+: author Lincoln?
+: Gore Vidal
+: producer Blow?
+: Ted Demme
+: country Billy?
+: France
+: religion Walter Carey?
+: Anglicanism
+: father Philip III Macedon?
+:

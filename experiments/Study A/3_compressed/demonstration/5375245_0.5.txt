@@ -1,0 +1,19 @@
+name entity.
+: sport Buffalo Memorial Auditorium?
+: basketball
+: author 1982?
+: Jian Ghomeshi
+: composer Shook Me Night?
+: Angus Young
+: screenwriter Big One?
+: Chip Johannessen
+: genre Ross?
+: heavy metal
+: producer Evergreen?
+: Michael Balcon
+: director Genesis?
+: Mrinal Sen
+: city Ko Wen-je born?
+: Hsinchu
+: mother Li Xian?
+:

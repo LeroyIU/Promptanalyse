@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: genre Dune 2000?
+: Fans genre like 2000?
+: real-time strategy
+: director Chocolate?
+: directed Chocolate?
+: Prachya Pinkaew
+: capital Malaysia?
+: government based where?
+: Kuala Lumpur
+: sport Cassiá play?
+:?
+: association football
+: Lisa McRee's?
+: job?
+:

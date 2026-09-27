@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Carlisle United F. C. ?
+ A: red
+ Q: Who screenwriter for Queen?
+: Peter Morgan
+: Who composer of Irandam Ulagam?
+: Harris Jayaraj
+: What religion of T. S. Eliot?
+: Unitarianism
+ Q: Who author of Albertine?
+: Jacqueline Rose
+: Who father of Sejong the Great?
+: Taejong of Joseon
+ Q: what country is Madison?
+: United States of America
+: Who mother of Menelaus?
+: Aerope
+: Who director of The Runner?
+:

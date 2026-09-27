@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Rose Beaudet's occupation?
+ A: actor
+: What sport Jukka Tammi play?
+: ice hockey
+: What color is Fleetwood Town F. C. ?
+: red
+: What genre is Martin Garrix?
+: electronic dance music
+: what country is Lima?
+ A: Paraguay
+: Who director of Comedy of Power?
+: Claude Chabrol
+: what city Cooper Smeaton born?
+: Carleton Place
+: religion of Innocent I?
+: Catholic Church
+: Who composer of Happy?
+:

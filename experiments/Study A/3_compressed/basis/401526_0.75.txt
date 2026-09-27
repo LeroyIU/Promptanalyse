@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who was screenwriter for Collection?
+ A: Matt Hubbard
+: what city William Collins born?
+: London
+: Who was composer of Just So?
+: George Stiles
+: What sport does Peggy Lokando play?
+: association football
+: Who is author of Report to Academy?
+:

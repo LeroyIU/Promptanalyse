@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who producer of Happy Gilmore?
+: Robert Simonds
+ Q: Kekko Fornarelli's occupation?
+: composer
+: Who screenwriter for Skin?
+: Sarah Kane
+ Q: what city John XIX born?
+: Rome
+: Who father of Ariarathes VI of Cappadocia?
+ A:

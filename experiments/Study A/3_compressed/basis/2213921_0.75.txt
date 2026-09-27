@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What sport Deontay Greenberry play?
+: American football
+: Who author of The Book?
+: H. P. Lovecraft
+: Who mother of Mary of Waltham?
+: Philippa of Hainault
+: what country is Łazy, Sierpc County?
+: Poland
+: Who was director of Allen?
+:

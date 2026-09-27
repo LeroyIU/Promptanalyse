@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Tickets?
+: Who directed work 'Tickets'?
+ A: Ermanno Olmi
+: What religion of David?
+: What religion David practice?
+ A: Judaism
+: Who composer of This Love?
+: Who composed 'This Love'?
+: Jesse Carmichael
+ Q: Who author of A Peep into the Past?
+: Peep Past written by who?
+: Max Beerbohm
+ Q: Who mother of Andrew Montour?
+: Who mom of Andrew Montour?
+:

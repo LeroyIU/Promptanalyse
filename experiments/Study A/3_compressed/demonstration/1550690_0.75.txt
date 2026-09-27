@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Singapore?
+ A: Shakti Samanta
+: What genre is Hinder?
+: hard rock
+: Who producer of Moksha?
+: Ashok Mehta
+: In what city was Michelle Renaudddd born?
+: Mexico City
+: religion of Neville Figgis?
+: Anglicanism
+: Who author of Testimony?
+: Solomon Volkov
+: capital of Haute-Corse?
+ A: Bastia
+: Who mother of John Knatchbull, 7th Baron Brabourne?
+: Doreen Knatchbull, Baroness Brabourne
+: Who composer of Imagine?
+ A:

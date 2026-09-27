@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Smile?
+ A: In Reality
+: What genre is Discount?
+: punk rock
+: What color is White House?
+: white
+: In what city Maarten van Severen born?
+: Antwerp
+: Who mother of Margaret Douglas?
+: Margaret Tudor
+: Dash's occupation?
+: record producer
+: Who director of This Is the End?
+: Seth Rogen
+: What sport does Gregor Balažic play?
+: association football
+: religion of Aung San Suu Kyi?
+:

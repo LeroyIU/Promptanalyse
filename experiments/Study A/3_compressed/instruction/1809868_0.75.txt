@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity answer, without further text.
+ Q: what country is Gaffarlı?
+ A: Turkey
+ Q: What genre is Ugonna Okegwo?
+ A: jazz
+: capital of Rondônia?
+: Porto Velho
+: Who screenwriter for In Your Hands?
+: Peter Del Monte
+: Who mother of Mary, Princess Royal Countess of Harewood?
+:

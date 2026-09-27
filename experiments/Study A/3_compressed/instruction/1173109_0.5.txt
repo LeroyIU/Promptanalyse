@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: city Mukhtar Mukhtarov born?
+: Lankaran
+: country La Chapelle-en-Vercors?
+: France
+: producer Mod?
+: Nagesh Kukunoor
+: religion Spring Arbor University?
+: Free Methodist Church
+: screenwriter Thank You?
+:

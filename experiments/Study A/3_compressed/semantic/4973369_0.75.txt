@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: What genre is Dune 2000?
+: Fans of what genre like Dune 2000?
+: real-time strategy
+ Q: Who director of Chocolate?
+: Who directed work Chocolate?
+: Prachya Pinkaew
+ Q: capital of Malaysia?
+: government of Malaysia based where?
+: Kuala Lumpur
+ Q: What sport Cassiá play?
+: Cassiá plays sport?
+: association football
+ Q: Lisa McRee's occupation?
+: Lisa McRee's job?
+:

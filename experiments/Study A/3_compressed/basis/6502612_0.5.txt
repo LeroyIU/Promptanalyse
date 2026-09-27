@@ -1,0 +1,11 @@
+Answer name entity.
+: author?
+: Howard Lindsay
+: sport Atlético Madrid play?
+: association football
+: director Tora-san Shattered Romance?
+: Yōji Yamada
+: city Liz born?
+: Tarzana
+: color Arsenal F. ?
+:

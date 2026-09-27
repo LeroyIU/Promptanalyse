@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who producer of Inland Empire?
+: David Lynch
+: religion of Saint Patrick?
+: Celtic Christianity
+: what city Cooper Smeaton born?
+: Carleton Place
+: What genre is Clockwise?
+: comedy film
+: What color is Rotherham United F. C. ?
+:

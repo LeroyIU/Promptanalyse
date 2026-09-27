@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Sırrı Süreyya Önder's occupation?
+ A: film director
+: Who producer of Off the Wall?
+: Quincy Jones
+: Who author of Washington, D. C. ?
+: Gore Vidal
+: Who mother of Pegah Ahangarani?
+: Manijeh Hekmat
+: Who father of Cable?
+: Cyclops
+: In what country is Durham?
+ A: Canada
+: capital of Qatar?
+: Doha
+: Who composer of 1 by Two?
+: Gopi Sundar
+: What sport does antichess play?
+ A:

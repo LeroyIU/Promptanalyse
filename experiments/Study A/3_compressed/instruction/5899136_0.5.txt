@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: religion Saint Patrick?
+: Celtic Christianity
+: color Fleetwood Town. ?
+: red
+: director Stick?
+: Burt Reynolds
+: author Regeneration?
+:. Rider Haggard
+: genre Territory Cops?
+:

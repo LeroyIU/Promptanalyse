@@ -1,0 +1,11 @@
+Answer name entity.
+: author Whole Family?
+: Henry James
+: producer Drushyam?
+: Rajkumar Sethupathi
+: sport Ernest Street play?
+: association football
+: composer Die?
+: Danny Elfman
+: city Stig Kleven born?
+:

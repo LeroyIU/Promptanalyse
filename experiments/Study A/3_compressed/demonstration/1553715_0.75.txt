@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: Who director of Like Crazy?
+ A: Drake Doremus
+: What sport does Thiago Quirino play?
+: association football
+: What color is Atlético de Madrid?
+: red
+: What genre is Timeless Records?
+: jazz
+ Q: what city Azharullah born?
+: Burewala
+: Who producer of The Immigrant?
+: Charlie Chaplin
+: Who screenwriter for Amok Time?
+: Theodore Sturgeon
+: what country is Goldfinch?
+: Netherlands
+: Who father of Abbot Oliba?
+:

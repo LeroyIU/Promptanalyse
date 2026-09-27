@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What color flag of Zimbabwe?
+ A: red
+: religion of Romanian Greek Catholic Church?
+ A: Catholic Church
+: what country Deodara?
+ A: India
+: Will Smith's occupation?
+: screenwriter
+: Who was screenwriter for 300?
+ A:

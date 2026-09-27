@@ -1,0 +1,19 @@
+entity.
+: father Ours?
+: Alain Souchon
+: Charlton Athletic. ?
+: red
+: city Keri Lees?
+: Stone
+: producer John Heriot's Wife?
+: Maurits Binger
+: composer Old Shatterhand?
+: Riz Ortolani
+: sport HSV Hamburg?
+: handball
+: director First Person?
+: Errol Morris
+: Emmanuel Nnamdi Uba?
+: politician
+: author Wicked Witch Oz?
+:

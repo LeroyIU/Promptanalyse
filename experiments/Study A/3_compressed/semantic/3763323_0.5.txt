@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: what country Sabiote?
+:?
+: Spain
+: religion Regis University?
+: Regis University's religion?
+: Catholic Church
+: What genre Operator?
+: genre?
+: post-grunge
+: composer The Fog?
+:?
+: John Carpenter
+: father Colcu mac Domnaill?
+: man raised Colcu mac Domnaill?
+:

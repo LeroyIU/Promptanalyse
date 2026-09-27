@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: author Doomsday Book?
+: Connie Willis
+: screenwriter Love?
+: Doze
+: religion Joseph-Médard Émard?
+: Catholic Church
+: capital Dominican Republic?
+: Santo Domingo
+: director Assassin?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Fireworks?
+ A: Kenneth Anger
+: capital of Niue?
+ A: Alofi
+: Who father of Eryx?
+ A: Poseidon
+: What color is Coventry City F. C. ?
+ A: sky blue
+: Who mother of George Washington?
+ A: Mary Ball Washington
+: Who director of Confession?
+: Ken Hughes
+: Who producer of Super?
+: Rockline Venkatesh
+: Who author of Greed?
+: Elfriede Jelinek
+: Who composer of Highway?
+ A:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of One?
+ A: Michel van der Aa
+ Q: what country is Kehl?
+: Germany
+: What sport Gianluca Comotto play?
+: association football
+ Q: Who producer of Road?
+: Ram Gopal Varma
+: what city Rogers McKee born?
+: Shelby
+ Q: What Shozaburo Nakamura's occupation?
+: politician
+: Who director of Party?
+: Govind Nihalani
+: capital of City of Newcastle?
+: Newcastle
+: religion of Xavier University of Louisiana?
+ A:

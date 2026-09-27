@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: mother Elizabeth II?
+: Queen Elizabeth
+: capital arrondissement Niort?
+: Niort
+: producer Butterfly?
+: Matt Cimber
+: composer Piano Concerto?
+: Tan Dun
+: color AFC Bournemouth?
+:

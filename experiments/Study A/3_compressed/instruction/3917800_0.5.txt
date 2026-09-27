@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: genre Deep End?
+: short story
+: city Belly born?
+:
+: producer Squeeze?
+: John Cale
+: religion Honorius III?
+: Christianity
+: screenwriter Dimboola?
+:

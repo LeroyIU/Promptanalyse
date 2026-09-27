@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who mother Elizabeth II?
+: Elizabeth II's mother who?
+: Queen Elizabeth
+: Who producer Linger?
+: produced work 'Linger'?
+: Johnnie To
+: Who composer No Way Out?
+: music Out?
+: Maurice Jarre
+: Jorge Traverso's?
+: job?
+: journalist
+: religion William Peters?
+:?
+:

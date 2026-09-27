@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: what country is Hebbe Falls?
+: Hebbe Falls associated with what country?
+: India
+: Who director of Come as You Are?
+: Who charge of direction of 'Come as You Are'?
+: Geoffrey Enthoven
+: What color is ruby?
+: What is ruby colored?
+: red
+: what city Richard S. Bull born?
+: What town Richard S. Bull born in?
+: Wilkinsburg
+: Who producer of Calendar?
+: Who produced work 'Calendar'?
+:

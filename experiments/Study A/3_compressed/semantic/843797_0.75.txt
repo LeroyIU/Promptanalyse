@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was screenwriter for Hell's Angels?
+: Who in charge of screenwriting?
+: Howard Estabrook
+ Q: Who father of Yoko Yazawa?
+: Yoko Yazawa child of what man?
+: Eikichi Yazawa
+ Q: Who author of Catullus 85?
+: author Catullus 85 who?
+: Catullus
+: Who composer of Let It Be?
+: Who music writer of Let It Be?
+: John Lennon
+ Q: What Edwin E. Ellis's occupation?
+: What does Edwin E. Ellis earn living as?
+:

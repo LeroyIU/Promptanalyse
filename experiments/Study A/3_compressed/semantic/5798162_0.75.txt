@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Huw Edwards?
+: Who dad of Huw Edwards?
+: Hywel Teifi Edwards
+: What capital of South Africa?
+: capital city of South Africa is what?
+: Bloemfontein
+: Who mother of Hou Ji?
+: Who gave birth to Hou Ji?
+: Jiang Yuan
+: what city Tuomo Suomalainen born?
+: Where Tuomo Suomalainen born?
+: Gogland
+: What genre is Special?
+: What genre Special belong to?
+:

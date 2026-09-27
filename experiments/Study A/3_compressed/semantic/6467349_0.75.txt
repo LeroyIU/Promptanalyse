@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who producer of Little Man?
+: Who produced Little Man?
+: Marlon Wayans
+: Who father of Jacob?
+: Jacob's father is who?
+: Isaac
+: Who screenwriter for The Stuff?
+: Who in charge of writing of 'The Stuff'?
+: Larry Cohen
+: religion of Catholic Theological Union?
+: What religious denomination Catholic Theological Union belong to?
+: Catholic Church
+: Who mother of Queen Victoria?
+: Who gave birth to Queen Victoria?
+:

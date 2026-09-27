@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: genre Ross Macdonald?
+: detective fiction
+: producer?
+: Barbet Schroeder
+: city James. Bingham born?
+: Perry
+: color Exeter City. ?
+:
+: country Directorate Military Intelligence?
+:

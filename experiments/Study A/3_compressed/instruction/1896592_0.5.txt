@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, further text.
+: religion Joseph Schubert?
+: Catholic Church
+: sport Noy Castillo play?
+: basketball
+: country Francis?
+: Canada
+: color Exeter City. ?
+:
+: genre Brain?
+:

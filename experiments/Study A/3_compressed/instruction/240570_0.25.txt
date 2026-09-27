@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: sport Carrillo?
+: football
+: author?
+: Anthony Powell
+: religion William Ames?
+: Calvinism
+:?
+:
+: composer Darling?
+:

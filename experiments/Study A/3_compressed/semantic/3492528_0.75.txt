@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Ray?
+: Ray written by who?
+: Akihito Yoshitomi
+: What religion of Cecil Warren?
+: What religion Cecil Warren practice?
+ A: Anglicanism
+: Who was screenwriter for Fourbi?
+: Who screenwriter for work 'Fourbi'?
+: Alain Tanner
+: What sport FK Radnički Pirot play?
+: FK Pirot plays what sport?
+: association football
+: Who producer of Ghost?
+: 'Ghost' produced by who?
+ A:

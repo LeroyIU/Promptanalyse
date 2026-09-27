@@ -1,0 +1,13 @@
+Answer question name entity. not explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: author Night?
+: William Blake
+: father Rama?
+: Dasharatha
+: Derek Wheatley's?
+: novelist
+: city James M. Bingham born?
+: Perry
+: capital New Jersey?
+:

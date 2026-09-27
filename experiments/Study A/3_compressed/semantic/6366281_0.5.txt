@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: producer Click?
+: produced 'Click'?
+: Adam Sandler
+: author The Birds?
+:?
+: Daphne du Maurier
+: composer Easy Money?
+: composed?
+: Laurence Rosenthal
+: director The Betrayed?
+: directed Betrayed?
+: Frans Weisz
+: mother Constantine I, King Armenia?
+: Constantine,'s mother who?
+:

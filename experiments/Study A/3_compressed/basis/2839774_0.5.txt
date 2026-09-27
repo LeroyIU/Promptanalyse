@@ -1,0 +1,11 @@
+Answer question name entity.
+: screenwriter Drushyam?
+: Jeethu Joseph
+: sport Nicolás Martínez play?
+: association football
+: color Fleetwood Town. ?
+:
+: capital Emilia-Romagna?
+: Bologna
+: father Hera?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of Airport?
+ A: Alfred Newman
+: Who producer of Face to Face?
+: Michael Rymer
+: Who screenwriter for Regeneration?
+: Raoul Walsh
+: What color is A. C. Milan?
+: red
+: What capital of Montgomery County?
+:

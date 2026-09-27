@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of Click?
+ A: Adam Sandler
+: Who author of The Birds?
+: Daphne du Maurier
+: Who composer of Easy Money?
+: Laurence Rosenthal
+: Who director of The Betrayed?
+: Frans Weisz
+: Who mother of Constantine I, King of Armenia?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: Michael Shelley?
+: singer-songwriter
+: country Saint-Sylvain-d'Anjou?
+: France
+: genre Micro?
+: techno-thriller
+: city Offer Nissim born?
+: Tel Aviv
+: screenwriter Swing?
+:

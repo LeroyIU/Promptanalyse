@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who producer of Stolen?
+ A: Josh Lucas
+: Who author of Game Over?
+: David Sheff
+: What capital of Kievan Rus'?
+: Kyiv
+: What sport Margarita Louis-Dreyfus play?
+: association football
+: What color is apple?
+ A:

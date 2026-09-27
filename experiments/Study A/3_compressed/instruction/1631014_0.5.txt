@@ -1,0 +1,13 @@
+Answer question name entity. not explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: genre Entity?
+: horror film
+: Malcolm David Kelley's?
+: actor
+: sport Stadio Brianteo?
+: association football
+: country Ely?
+: United States
+: composer Passions?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Pressure?
+: reggae
+: religion of Southwestern Christian University?
+: International Pentecostal Holiness Church
+: what country is King?
+: United States of America
+: What sport does C. D. Federal play?
+: association football
+: William Phillips, Sr. 's occupation?
+: politician
+: mother of Queen Marie of Romania?
+: Grand Duchess Maria Alexandrovna of Russia
+: Who author of Experience?
+: Martin Amis
+: father of George II of Brieg?
+: Frederick II of Legnica
+: What color is snow?
+:

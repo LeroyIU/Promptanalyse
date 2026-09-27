@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: father Henry Fairfield Osborn,. ?
+: Henry Fairfield Osborn,. child what man?
+: Henry Fairfield Osborn
+: city Travis Thomas born?
+: city Travis Thomas?
+: Washington
+: sport Lukáš Bodeček play?
+: sport associated?
+: association football
+: director Pirates of Malaysia?
+: directed who?
+: Umberto Lenzi
+: producer Power?
+:?
+:

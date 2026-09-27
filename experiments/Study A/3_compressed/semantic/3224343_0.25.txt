@@ -1,0 +1,16 @@
+entity.
+: sport Tranmere Rovers.?
+:.?
+:
+: color ruby?
+:?
+:
+: mother Esau?
+:?
+:
+: religion Muhammad Ali?
+:?
+:
+: director Key?
+:?
+:

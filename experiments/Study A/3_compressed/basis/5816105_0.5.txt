@@ -1,0 +1,11 @@
+Answer question name entity.
+: capital Indre-et-Loire?
+: Tours
+: color Fleetwood Town. ?
+:
+: genre Christine?
+: horror literature
+: director Bullet?
+: Julien Temple
+: country Indiana State Road 5?
+:

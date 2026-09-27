@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: Who producer Argo?
+:?
+: George Clooney
+: composer Sunny?
+: Who wrote music Sunny?
+: Jerome Kern
+: director Devotion?
+: directed work Devotion?
+: Curtis Bernhardt
+: mother Abraham Lincoln?
+: mother?
+: Nancy Hanks Lincoln
+: what city Damian Pettigrew born?
+: town?
+:

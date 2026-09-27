@@ -1,0 +1,19 @@
+name entity.
+: color ruby?
+: red
+: Antonio Álvarez Alonso?
+: composer
+: director Guns?
+: Andy Sidaris
+: country Bahri?
+: Iran
+: city Richard Rawlinson born?
+: London
+: father Heinrich Gustav Reichenbach?
+: Ludwig Reichenbach
+: screenwriter Breath?
+: Kim Ki-duk
+: capital Belize?
+: Belmopan
+: composer Chipmunk Song?
+:

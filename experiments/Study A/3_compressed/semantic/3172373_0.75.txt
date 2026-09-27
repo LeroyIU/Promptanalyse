@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who composer of The Telephone?
+: Who wrote music for The Telephone?
+: Gian Carlo Menotti
+: what country is Elim?
+: Elim associated with what country?
+: United States of America
+: What religion of Franciszek Rogaczewski?
+: Franciszek Rogaczewski's religion?
+: Catholic Church
+: capital of Venezuela?
+: government of Venezuela based where?
+: Caracas
+: What sport does 2010–11 Cruz Azul season play?
+: 2010‚Äì11 Cruz Azul season associated with what sport?
+:

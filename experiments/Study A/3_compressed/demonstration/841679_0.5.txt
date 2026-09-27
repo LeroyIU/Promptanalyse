@@ -1,0 +1,19 @@
+entity.
+: sport Petr Bříza?
+: hockey
+: author Common Sense?
+: Tony Benn
+: country New England?
+: Australia
+: religion David Livingstone?
+: congregational church
+: genre Infinite?
+: power metal
+: mother Alice France?
+: Eleanor Aquitaine
+: director Back in the Day?
+: Michael Rosenbaum
+: composer Bibbidi-Boo?
+: Al Hoffman
+: Neville Ashenheim?
+:

@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who father Robert?
+: Robert's father?
+: Louis IX France
+: What genre The Dive?
+: Fans genre like Dive?
+: action film
+: director Pilot?
+: charge direction 'Pilot'?
+: Peter Horton
+: screenwriter Ride?
+: screenwriting Ride?
+: Millicent Shelton
+: what country Ona?
+:?
+:

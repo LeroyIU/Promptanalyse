@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of David?
+: Who in charge of production of 'David'?
+: Vikram
+: What sport Radik Zhaparov play?
+: associated with what sport?
+: ski jumping
+: Who father of S. Robson Walton?
+: dad S. Robson Walton?
+: Sam Walton
+ Q: What color is Atlético de Madrid?
+: What Atlético de Madrid colored?
+: red
+: What Anjali Sudhakar's occupation?
+: What kind of work Anjali Sudhakar do?
+:

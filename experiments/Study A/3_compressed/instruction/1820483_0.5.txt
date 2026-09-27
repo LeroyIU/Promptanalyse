@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: producer Sleep?
+: Andy Warhol
+: director Mann?
+: Indra Kumar
+: Bill Kintner's?
+: politician
+: sport Noëlle van Lottum play?
+: tennis
+: mother James I Scotland?
+:

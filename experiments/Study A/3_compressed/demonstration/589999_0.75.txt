@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Super?
+: Sandeep Chowta
+: religion of Caesar Baronius?
+: Catholic Church
+: What genre is Fire?
+: horror literature
+: what country is Northland Communications?
+: United States of America
+: Who author of The Crucifer of Blood?
+: Paul Giovanni
+: What sport does 1924–25 Arsenal F. C. season play?
+: association football
+: Who mother of Afonso of Portugal?
+: Violante Manuel
+: Giovanni Grasso's occupation?
+: actor
+: Who father of Frans Pourbus the Elder?
+:

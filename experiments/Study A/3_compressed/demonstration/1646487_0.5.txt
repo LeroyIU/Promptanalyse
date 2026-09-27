@@ -1,0 +1,19 @@
+Answer question name entity.
+: genre Idaho?
+: Western film
+: city Stone born?
+: Paris
+: director Michael?
+: Carl Theodor Dreyer
+: producer X?
+: Roger Corman
+: author Bat?
+: Avery Hopwood
+: mother Jesus Islam?
+: Mary Islam
+: religion Nikola Eterović?
+: Catholic Church
+: father Moses?
+: Amram
+: color fire engine?
+:

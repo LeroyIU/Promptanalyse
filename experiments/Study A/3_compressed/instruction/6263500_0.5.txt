@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: Ek Yi Oun's occupation?
+: politician
+: author Zones?
+: Damien Broderick
+: color Doncaster Rovers. ?
+: red
+: sport Rick Ley?
+: hockey
+: capital Kuwait?
+:

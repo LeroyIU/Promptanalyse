@@ -1,0 +1,11 @@
+name entity.
+: director Face?
+: Bill Plympton
+: sport ONCE?
+: road bicycle racing
+: genre Crush?
+: K-pop
+: city Joanna Elisabeth Holstein-Gottorp born?
+: Gottorf Castle
+: Greg Miller?
+:

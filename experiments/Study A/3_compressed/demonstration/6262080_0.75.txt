@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Demeter?
+ A: Cronus
+ Q: George Rankin's occupation?
+: politician
+ Q: Who composer of The Graduate?
+: Dave Grusin
+ Q: mother of Cornelia Otis Skinner?
+: Maud Durbin
+ Q: author of The Trial?
+: Franz Kafka
+ Q: capital of Equatorial Guinea?
+: Malabo
+ Q: what city Emmanuel Biron born?
+: Lyon
+ Q: what country is Colonia Nueva Coneta?
+: Argentina
+: religion of Bellino Giusto Ghirard?
+ A:

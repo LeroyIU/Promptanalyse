@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What color is chalk?
+ A: white
+: Who director of Upside Down?
+: Juan Diego Solanas
+: religion of Marilyn Monroe?
+ A: Judaism
+: capital of arrondissement of Limoges?
+ A: Limoges
+: What genre is City Sleeps?
+ A:

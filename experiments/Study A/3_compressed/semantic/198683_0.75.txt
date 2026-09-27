@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who was screenwriter for The Hide?
+: Who wrote script for The Hide?
+: Tim Whitnall
+: Who mother of Asher?
+: Who mom of Asher?
+: Zilpah
+: In what country is 1999 Guatemalan general election?
+: In what country 1999 Guatemalan general election located?
+: Guatemala
+: What religion of Trevor Mwamba?
+: Trevor Mwamba associated with what religion?
+: Anglicanism
+: Who author of Emma?
+: author of Emma who?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Fascinating Rhythm?
+: George Gershwin
+ Q: What religion of Jesus?
+: Judaism
+: Robert Voisey's occupation?
+ A: composer
+ Q: What genre is Our Time?
+: J-pop
+: Who director of Dark Descent?
+: Daniel Knauf
+: Who screenwriter for The General?
+: John Boorman
+: What color is Coventry City F. C. ?
+: sky blue
+: Who mother of Carlo Ginzburg?
+: Natalia Ginzburg
+: Who producer of The Gun?
+:

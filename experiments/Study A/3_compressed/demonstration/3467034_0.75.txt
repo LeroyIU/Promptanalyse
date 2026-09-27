@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what city David Ogrin born?
+ A: Waukegan
+: Who producer of Arizona?
+: Douglas Fairbanks
+: What sport Gábor Jánvári play?
+ A: association football
+: capital of Arkansas?
+: Little Rock
+: Who composer of 1983?
+: Gopi Sundar
+: Who screenwriter for Birth?
+: Tim Minear
+: What genre is Straight Out of Hell?
+: power metal
+: religion of Father Jean Bernard?
+: Catholic Church
+: What color is Rosa 'Ingrid Bergman'?
+:

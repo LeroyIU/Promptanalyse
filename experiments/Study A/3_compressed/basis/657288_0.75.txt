@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Atlético de Madrid?
+ A: red
+: Who author of The Task?
+: William Cowper
+: Who director of Go Now?
+: Michael Winterbottom
+: Who screenwriter for In the Flesh?
+: Nick Sagan
+: What genre is Kite?
+:

@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: composer Phenomenon?
+: Thomas Newman
+: genre Dirk Gently?
+: detective fiction
+: city Pete Donohue born?
+: Athens
+: director Still Life?
+: Sohrab Shahid-Saless
+: color Sheffield United. ?
+:

@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: country Gare Rosporden?
+:
+: color Atlético Madrid?
+:
+: sport 2010?
+:
+: author?
+:
+: screenwriter?
+:

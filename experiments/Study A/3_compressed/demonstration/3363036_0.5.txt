@@ -1,0 +1,19 @@
+entity.
+: color Charlton Athletic. ?
+: red
+: screenwriter Red Road?
+: Andrea Arnold
+: genre Good Times?
+: musical film
+: author Oliver's Story?
+: Erich Segal
+: country Direkte Aktion?
+: Germany
+: sport Ladislav Žák?
+: association football
+: Bridie O'Flaherty?
+: politician
+: capital Canada?
+: Ottawa
+: director Variable?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What sport does Mohammed Amine Kabli play?
+: association football
+: Who father of Dwayne Johnson?
+: Rocky Johnson
+: What capital of Nugal?
+: Garoowe
+: What color is ruby?
+: red
+: Who composer of Paradise?
+ A:

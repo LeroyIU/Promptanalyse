@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity answer, without further text.
+ Q: What color is ruby?
+ A: red
+: Antonio Álvarez Alonso's occupation?
+ A: composer
+: Who director of Guns?
+: Andy Sidaris
+: what country is Ab Bahri?
+: Iran
+: Who composer of Chipmunk Song?
+ A:

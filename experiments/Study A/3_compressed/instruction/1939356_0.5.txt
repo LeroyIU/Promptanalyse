@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: genre Sultan?
+: French hip hop
+: screenwriter Serenity?
+: Joss Whedon
+: producer Leader?
+: Sashadhar Mukherjee
+: color flag Zimbabwe?
+: red
+: religion Manuel Aurelio Cruz?
+:

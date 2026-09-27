@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: what country is Gare de Rosporden?
+: what country Gare Rosporden located?
+: France
+: What color is Atlético de Madrid?
+: What is Atlético de Madrid colored?
+: red
+: What sport does 2010 Veikkausliiga play?
+: 2010 Veikkausliiga associated with what sport?
+: association football
+: Who author of Trying?
+: Who author 'Trying'?
+: Joanna Glass
+: Who screenwriter for I Remember That?
+: Who in charge of screenwriting I Remember That?
+:

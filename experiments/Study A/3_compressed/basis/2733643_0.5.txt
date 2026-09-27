@@ -1,0 +1,11 @@
+Answer name entity.
+: genre Little Things?
+: traditional music
+: city Batman born?
+: Gotham City
+: sport Alain play?
+: association football
+: screenwriter Deep End?
+: Scott McGehee
+: director Slim?
+:

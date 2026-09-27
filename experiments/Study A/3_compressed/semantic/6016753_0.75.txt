@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Karl Bartholomaeus Heller born?
+: Karl Bartholomaeus Heller from what city?
+: Moravia
+: Who father of Jitendra Narayan?
+: Jitendra Narayan child of what man?
+: Nripendra Narayan
+: Who director of Blade?
+: Who in charge of direction of 'Blade'?
+: Stephen Norrington
+ Q: What sport Italy men's national volleyball team play?
+: Italy team associated with what sport?
+: volleyball
+: What Toni Jennings's occupation?
+: What job Toni Jennings do?
+:

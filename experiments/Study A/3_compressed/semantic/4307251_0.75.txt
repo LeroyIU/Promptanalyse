@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Richard Lui's occupation?
+: Richard Lui's job?
+: journalist
+: Who mother of Amitabh Bachchan?
+: Which woman raised Amitabh Bachchan?
+: Teji Bachchan
+ Q: Who author of Checkers?
+: authored Checkers?
+: John Marsden
+: Who producer of LOL?
+: in charge of production 'LOL'?
+: Joe Swanberg
+ Q: what country Gąsiorowo, Legionowo County?
+: What country find GƒÖsiorowo, Legionowo County in?
+ A:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport does Peter Bircumshaw play?
+ A: association football
+: Who producer of Blue?
+: Birthday Massacre
+: Who father of Brad Armstrong?
+: Bob Armstrong
+: Who director of Chicken Party?
+: Tate Taylor
+: What capital of Mayotte?
+ A:

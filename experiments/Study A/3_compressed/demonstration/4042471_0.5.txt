@@ -1,0 +1,19 @@
+Answer question name entity. explain
+: color Doncaster Rovers. ?
+: red
+: capital South Korea?
+: Seoul
+: composer Then?
+: David
+: producer Brat?
+: Alla Nazimova
+: religion Assumption College Sisters?
+: Catholic Church
+: country Movraž?
+: Slovenia
+: author Game Over?
+: David Sheff
+: father Sean Flynn?
+: Errol Flynn
+: genre Epidemic?
+:

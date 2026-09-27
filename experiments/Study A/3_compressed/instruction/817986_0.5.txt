@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ Give name entity, further text.
+: author Q?
+: Luther Blissett
+: mother Rosa Brooks?
+: Barbara Ehrenreich
+: city born?
+: London
+: color Doncaster Rovers. ?
+: red
+: father John Sigismund, Crown Prince Poland?
+:

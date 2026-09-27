@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: author Lincoln?
+: Gore Vidal
+: producer Blow?
+: Ted Demme
+: country Billy?
+: France
+: religion Walter Carey?
+: Anglicanism
+: father Philip III Macedon?
+:

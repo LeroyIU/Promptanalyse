@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+ Q: what country is Stari Ras?
+ A: Serbia
+ Q: What genre is Water?
+: comedy film
+ Q: what city Raimonds Vilde born?
+ A: Riga
+: capital of Curaçao?
+: Willemstad
+: Who author of Moreninha?
+ A:

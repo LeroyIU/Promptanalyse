@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country is Hyderabad House?
+ A: India
+: Who author of Merry Tales?
+: Mark Twain
+: What sport does Matteo Pivotto play?
+: association football
+: Who screenwriter for No Show?
+: David Chase
+: capital of Qasr-e Shirin County?
+:

@@ -1,0 +1,11 @@
+name entity.
+: religion Alexander?
+: Catholic Church
+: genre Strength?
+: hardcore punk
+: composer Saagara Sangamam?
+: Ilaiyaraaja
+: sport Farshad Falahatzadeh play?
+: association football
+: author All Over?
+:

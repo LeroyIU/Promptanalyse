@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: what country Greek?
+: country associated?
+: United Kingdom
+: What sport Giorgio Venturin play?
+: associated what sport?
+: association football
+: Who producer Happy Together?
+:?
+: Wong Kar-wai
+: religion of Mahavira?
+:?
+: Jainism
+: mother of John of Scotland?
+: mother who?
+:

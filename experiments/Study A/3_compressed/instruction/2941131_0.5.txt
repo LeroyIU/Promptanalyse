@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: producer Red?
+: Leslie Cheung
+: genre City?
+: soap opera
+: father Mohammed Omar Abdel-Rahman?
+: Omar Abdel-Rahman
+: Robert Florey?
+: screenwriter
+: capital Amazonas?
+:

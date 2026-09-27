@@ -1,0 +1,19 @@
+Answer name entity.
+: screenwriter Serenity?
+: Joss Whedon
+: sport 2010 Veikkausliiga?
+: association football
+: producer Electronic?
+: Johnny Marr
+: author Private?
+: James Patterson
+: genre Notch?
+: reggae
+: color ruby?
+: red
+: Ameer Sultan?
+: film director
+: country Baker?
+: United States
+: mother Christian IV Denmark?
+:

@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+ Q: What color is chalk?
+: associated?
+: white
+: what country Adams?
+:?
+: United States America
+: religion of Grand Duchy of Finland?
+:?
+: Evangelical Lutheran Church of Finland
+: What genre Rush?
+:?
+: progressive rock
+: mother of Elizabeth Stewart, Countess of Crawford?
+: Elizabeth Stewart,?
+:

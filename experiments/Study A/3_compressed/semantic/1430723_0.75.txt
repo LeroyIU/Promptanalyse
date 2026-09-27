@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Stanley Peiris's occupation?
+: What Stanley Peiris earn living as?
+: composer
+: Who author of Rich Dad Poor Dad?
+: Rich Dad Poor Dad written by who?
+: Robert Kiyosaki
+: Who screenwriter for The Bourne Legacy?
+: Who in charge of screenwriting Bourne Legacy?
+: Robert Ludlum
+: religion of Loa?
+: What religious denomination Loa belong to?
+: Haitian Vodou
+: What color Stoke City F. C. ?
+: What color Stoke City F. C. associated with?
+:

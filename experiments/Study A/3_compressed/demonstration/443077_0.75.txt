@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color is Exeter City F. C. ?
+ A: red
+: Who screenwriter for Divergent?
+ A: Vanessa Taylor
+: Shonali Bose's occupation?
+: film director
+: What sport Bernadette Szőcs play?
+ A: table tennis
+: religion of Jacob?
+ A: Judaism
+: Who mother of Cassandra Cain?
+: Lady Shiva
+: what country is One Nation?
+ A: Israel
+: capital of Wisconsin?
+: Madison
+: Who producer of Somewhere?
+ A:

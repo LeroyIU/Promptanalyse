@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Serenity?
+: Joss Whedon
+ Q: What sport does 2010 Veikkausliiga play?
+: association football
+: Who producer of Electronic?
+: Johnny Marr
+: Who author of Private?
+: James Patterson
+: What genre is Notch?
+: reggae
+: What color is ruby?
+: red
+: Ameer Sultan's occupation?
+: film director
+: what country is Baker?
+: United States of America
+: Who mother of Christian IV of Denmark?
+:

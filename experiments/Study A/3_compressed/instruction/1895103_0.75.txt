@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who director of Forgive?
+: Marcos Siega
+: Who screenwriter for Gardener?
+: Mohsen Makhmalbaf
+: Who mother of Emperor Yang of Sui?
+: Empress Dugu Qieluo
+: What religion of Choir monk?
+: Catholic Church
+: In what country is Pal?
+:

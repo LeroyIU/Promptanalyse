@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who director Loudwater Mystery?
+: directed?
+: Walter West
+: What genre Theatre?
+:?
+: mathcore
+: color Charlton Athletic F. C ?
+: Athletic F. C associated color?
+: red
+: Thomas Jefferson Kaye's?
+:?
+: record producer
+: Who composer Gran Torino?
+: composed Torino'?
+:

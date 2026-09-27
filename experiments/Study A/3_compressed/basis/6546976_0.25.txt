@@ -1,0 +1,11 @@
+.
+: father?
+: Abraham
+:,?
+:
+: author Collision?
+: Jeff Abbott
+: 1991?
+:
+: Mark Lindley?
+:

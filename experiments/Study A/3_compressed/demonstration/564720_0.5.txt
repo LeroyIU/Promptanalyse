@@ -1,0 +1,19 @@
+Answer question name entity.
+: director Kingdom?
+: Peter Berg
+: screenwriter Switch?
+: Allan Loeb
+: sport Steve Coppell play?
+: association football
+: country Ferrari?
+: Italy
+: mother Al Gore?
+: Pauline LaFon
+: father Dan?
+: Jacob
+: city Erick Benzi born?
+: Marseille
+: composer Smile?
+: Marvin Hamlisch
+: color Juventus. ?
+:

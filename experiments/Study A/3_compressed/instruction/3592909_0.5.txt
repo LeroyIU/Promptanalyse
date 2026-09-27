@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: capital Colorado?
+: Denver
+: genre Record?
+: punk rock
+: sport Niklas Stark play?
+: association football
+: screenwriter Secret Telegian?
+: Shinichi Sekizawa
+: author Bug?
+:

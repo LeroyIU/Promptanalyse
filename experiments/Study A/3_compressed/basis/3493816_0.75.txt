@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who was composer of Airport?
+ A: Alfred Newman
+: Who producer of Face to Face?
+: Michael Rymer
+: Who screenwriter for Regeneration?
+: Raoul Walsh
+: What color is A. C. Milan?
+: red
+: What capital of Montgomery County?
+:

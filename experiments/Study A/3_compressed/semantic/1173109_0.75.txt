@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Mukhtar Mukhtarov born?
+: Where Mukhtar Mukhtarov born?
+ A: Lankaran
+: what country La Chapelle-en-Vercors?
+: What country Chapelle-en-Vercors associated with?
+: France
+: Who producer of Mod?
+: Who produced work Mod?
+: Nagesh Kukunoor
+: religion of Spring Arbor University?
+: What religious denomination Spring Arbor University belong to?
+: Free Methodist Church
+: Who screenwriter for Thank You?
+: Who in charge of writing of 'Thank You'?
+:

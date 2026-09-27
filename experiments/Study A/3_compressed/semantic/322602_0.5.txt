@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who director of The Rack?
+: directed Rack'?
+: Arnold Laven
+: producer Resident Evil 2?
+: 2?
+: Shinji Mikami
+: Who author of Aida?
+:?
+: Linda Woolverton
+: Who screenwriter for The Reader?
+:?
+: David Hare
+: religion of Dinesh D'Souza?
+: religious denomination?
+:

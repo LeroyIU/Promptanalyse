@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: country Greek?
+: United Kingdom
+: sport Giorgio Venturin play?
+: association football
+: producer Happy Together?
+: Wong Kar-wai
+: religion Mahavira?
+: Jainism
+: mother John Scotland?
+:

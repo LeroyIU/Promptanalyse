@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: composer Telephone?
+: Gian Carlo Menotti
+: country Elim?
+: United States America
+: religion Franciszek Rogaczewski?
+: Catholic Church
+: capital Venezuela?
+: Caracas
+: sport 2010–11 Cruz Azul season play?
+:

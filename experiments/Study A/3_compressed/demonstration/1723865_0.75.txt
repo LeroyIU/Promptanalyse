@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Shiva?
+: Ronit Elkabetz
+: Who mother of Alī ibn Abī Ṭālib?
+: Fatimah bint Asad
+: what city Liz born?
+ A: Tarzana
+: What sport 2004 Legg Mason Tennis Classic play?
+ A: tennis
+: What genre is One?
+: rock music
+: Who composer of Plush?
+: Nick Launay
+: Who author of Witt?
+: Patti Smith
+: Who producer of The Turning Point?
+: Nora Kaye
+: Who screenwriter for Zoom?
+:

@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: capital South Dakota?
+: capital?
+: Pierre
+: producer Let It Be?
+:?
+: Beatles
+: father of Griffin O'Neal?
+: man raised Griffin O'Neal?
+: Ryan O'Neal
+: composer Captain EO?
+:?
+: James Horner
+: genre Chamber of Horrors?
+: type work Chamber Horrors?
+:

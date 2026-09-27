@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: director Loudwater Mystery?
+: Walter West
+: genre Theatre?
+: mathcore
+: color Charlton Athletic F. ?
+: red
+: Thomas Jefferson Kaye?
+: record producer
+: composer Gran Torino?
+:

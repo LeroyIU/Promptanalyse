@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: what city Jason Bourque born?
+ A: Vancouver
+: Who producer of Francis?
+: Universal Pictures
+: what country is Wilcza Jama, Sokółka County?
+ A: Poland
+: Who screenwriter for Morning Raga?
+: Mahesh Dattani
+: Who director of Hawaii?
+ A:

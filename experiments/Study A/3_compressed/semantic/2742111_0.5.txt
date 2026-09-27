@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Joyce Tang's?
+: work?
+: actor
+: Who producer The Cowboys?
+: produced?
+: Irving Ravetch
+: What color ruby?
+: ruby colored?
+: red
+: what city Germaine Aussey born?
+: town?
+: Paris
+: What sport Vitālijs Astafjevs play?
+: athletic activity associated?
+:

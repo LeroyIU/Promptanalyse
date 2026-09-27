@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Confession?
+ A: alternative metal
+ Q: Who producer of Seven?
+: Arnold Kopelson
+: Alexander Gadolin's occupation?
+: politician
+ Q: Who director of Avatar?
+: Carmine Gallone
+: capital of Kingdom of Hanover?
+ A: Hanover
+: Who screenwriter for Pilot?
+: Josh Schwartz
+: Who father of Emma Portman, Viscountess Portman?
+: Henry Lascelles, 2nd Earl of Harewood
+: religion of Simon Ntamwana?
+: Catholic Church
+: Who composer of Brand New Day?
+ A:

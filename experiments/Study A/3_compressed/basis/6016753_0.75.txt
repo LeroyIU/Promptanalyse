@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Karl Bartholomaeus Heller born?
+ A: Moravia
+: Who father of Jitendra Narayan?
+: Nripendra Narayan
+: Who director of Blade?
+: Stephen Norrington
+: What sport Italy men's national volleyball team play?
+: volleyball
+: Toni Jennings's occupation?
+:

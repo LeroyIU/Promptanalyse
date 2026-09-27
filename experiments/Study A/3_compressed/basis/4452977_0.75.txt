@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: what city William Osler born?
+ A: Ontario
+ Q: What color York City F. C. ?
+: red
+: What religion of Trevor Mwamba?
+: Anglicanism
+ Q: What genre Ace Frehley?
+: hard rock
+: what country Goldasht, Sistan and Baluchestan?
+:

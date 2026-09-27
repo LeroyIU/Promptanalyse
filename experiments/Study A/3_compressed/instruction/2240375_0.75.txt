@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who author of Lincoln?
+ A: Gore Vidal
+: Who producer of Blow?
+: Ted Demme
+: In what country is Billy?
+ A: France
+: religion of Walter Carey?
+: Anglicanism
+: Who father of Philip III of Macedon?
+:

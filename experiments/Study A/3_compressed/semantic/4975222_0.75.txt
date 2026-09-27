@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Pedro Lisímaco de Jesús Vílchez Vílchez?
+: What religious denomination Pedro belong to?
+ A: Catholic Church
+ Q: what city Francisco Fernández de la Cueva, 10th Duke of Alburquerque born?
+ Q: What city Francisco Fernández, 10th Duke from?
+: Genoa
+ Q: Frequency's occupation?
+: What job Frequency do?
+: disc jockey
+ Q: Who director of Great Expectations?
+: Who directed work Great Expectations?
+: Jason Winer
+ Q: What sport does list of Azerbaijan football transfers winter 2012 play?
+: What sport list Azerbaijan transfers 2012 associated with?
+ A:

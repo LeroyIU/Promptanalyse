@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: mother Mary Islam?
+: Saint Anne
+: city Donald De Lue born?
+: Boston
+: religion Catholic Church?
+: Catholicism
+: genre Mario franchise?
+: role-playing video game
+: capital Silla?
+:

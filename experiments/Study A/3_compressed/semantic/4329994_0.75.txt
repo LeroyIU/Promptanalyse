@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Amoene van Haersolte born?
+: What town Amoene Haersolte born in?
+ A: Utrecht
+: Who director of Akashdeep?
+: Who directed Akashdeep?
+: Phani Majumdar
+: What religion of L. Ron Hubbard?
+: What L. Ron Hubbard's religion?
+: Scientology
+: Who screenwriter for The Detail?
+: Who screenwriter Detail?
+: Ed Burns
+: What genre is Hara?
+: What genre Hara associated with?
+ A:

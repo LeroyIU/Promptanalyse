@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport penalty play?
+ A: ice hockey
+ Q: What genre is Currency?
+ A: crime film
+: Eleanor Davis's occupation?
+: cartoonist
+ Q: Who father of Alexander Graham Bell?
+: Alexander Melville Bell
+: capital of Libya?
+ A: Tripoli
+: Who screenwriter for Thanksgiving?
+: Russel Friend
+: what city Hermann Vezin born?
+ A: Philadelphia
+: Who mother of Cadmus?
+: Telephassa
+: Who composer of Without You?
+ A:

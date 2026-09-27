@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Baton Haxhiu's occupation?
+ A: journalist
+: Who author of Nature?
+: Ralph Waldo Emerson
+: Who mother of Samson?
+: Wife of Manoah
+: What color is Carlisle United F. C. ?
+: red
+: Who producer of Empire?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who author of James Bond?
+: Who authored James Bond?
+: Ian Fleming
+: In what country Riethnordhausen?
+: Riethnordhausen associated with what country?
+: Germany
+: Who composer of Nalla Thambi?
+: Who composed Nalla Thambi?
+: Ilaiyaraaja
+: What sport Michael Gibson play?
+: Gibson plays what sport?
+: association football
+: Who father of Sophie of Legnica?
+: Sophie of Legnica child of what man?
+:

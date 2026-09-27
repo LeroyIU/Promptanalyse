@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: what country is Hebbe Falls?
+ A: India
+: Who was director of Come as You Are?
+: Geoffrey Enthoven
+ Q: What color is ruby?
+: red
+ Q: what city Richard S. Bull born?
+: Wilkinsburg
+: Who producer of Calendar?
+:

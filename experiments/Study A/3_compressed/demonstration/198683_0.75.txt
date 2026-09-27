@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for The Hide?
+ A: Tim Whitnall
+: Who mother of Asher?
+ A: Zilpah
+ Q: what country 1999 Guatemalan general election?
+ A: Guatemala
+: religion of Trevor Mwamba?
+: Anglicanism
+: Who composer of Sunny?
+ A: Rahul Dev Burman
+: what city Endre Bálint born?
+: Budapest
+: What color flag of Zimbabwe?
+ A: red
+: Frederick Dundas's occupation?
+: politician
+: Who author of Emma?
+ A:

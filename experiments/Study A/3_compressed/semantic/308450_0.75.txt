@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is The Thorn in the Heart?
+: genre?
+: documentary film
+ Q: What sport does Nigel Marples play?
+: Nigel Marples associated with what sport?
+: association football
+ Q: Who director of Mane?
+: Who directed work 'Mane'?
+: Girish Kasaravalli
+ Q: What Henry Campbell-Bannerman's occupation?
+: What job Henry-Bannerman do?
+: diplomat
+ Q: Who producer of Hired!?
+: Who produced Hired!?
+:

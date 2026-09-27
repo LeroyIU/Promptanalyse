@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Ritual?
+ A: Adam Nevill
+: capital of Ukrainian Soviet Socialist Republic?
+: Kyiv
+: What color flag of Zimbabwe?
+: red
+: What sport does Christo van Rensburg play?
+: tennis
+: In what country is Marvel?
+: United States of America
+: Who director of Memories?
+: Katsuhiro Otomo
+: Who mother of Amitabh Bachchan?
+: Teji Bachchan
+: Who composer of Instant Crush?
+: Thomas Bangalter
+: Zhu Houren's occupation?
+ A:

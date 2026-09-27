@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Emperor Taizong of Tang?
+ A: Emperor Gaozu of Tang
+: what city was James M. Bingham born?
+ A: Perry
+: Who author of Sonnet 109?
+: William Shakespeare
+: capital of Racine County?
+: Racine
+: Who director of Together Again?
+:

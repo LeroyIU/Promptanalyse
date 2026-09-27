@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who screenwriter for La bonne année?
+ A: Claude Lelouch
+: What sport Katie Taylor play?
+ A: boxing
+: Who composer of Our House?
+: Graham Nash
+: what country Saint-Paul?
+: Canada
+: Who director of The Amateur?
+ A:

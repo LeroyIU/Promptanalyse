@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Isaac?
+ A: Sara
+: What color is White House?
+ A: white
+: Who author of Shadow?
+: Dean Wesley Smith
+: Who producer of The Jacket?
+: Steven Soderbergh
+: Who director of Panic?
+: Harry Piel
+: Michael Arad's occupation?
+ A: architect
+: What genre is Circus?
+ A: electropop
+: Who composer of Witness?
+: Maurice Jarre
+: Who screenwriter for Thrilling?
+ A:

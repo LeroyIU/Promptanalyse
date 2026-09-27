@@ -1,0 +1,11 @@
+Answer question name entity only. Do not explain.
+ Q: Who director of Shiva?
+ A: Ronit Elkabetz
+: Who mother of Alī ibn Abī Ṭālib?
+: Fatimah bint Asad
+: what city Liz born?
+: Tarzana
+: What sport 2004 Legg Mason Tennis Classic play?
+ A: tennis
+: Who screenwriter for Zoom?
+:

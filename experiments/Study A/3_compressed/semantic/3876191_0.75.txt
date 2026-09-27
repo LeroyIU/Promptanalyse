@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: What color is Coventry City F. C. ?
+: color of Coventry City F. C ?
+: sky blue
+: Who father of Jan V of Zator?
+: Jan V of Zator child of what man?
+: Wenceslaus I of Zator
+: Who mother of Henry of England?
+: Who gave birth to Henry of England?
+: Eleanor of Castile
+: religion of Baker University?
+: Baker University's religion?
+: United Methodist Church
+: what city David Watson born?
+: David Watson from what city?
+:

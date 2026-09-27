@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ Give name entity, further text.
+: composer Treatment?
+: John Zorn
+: mother Bia?
+: Styx
+: Tatiana Doronina?
+: actor
+: father Ptolemy XIII Theos Philopator?
+: Ptolemy XII
+: color milk?
+:

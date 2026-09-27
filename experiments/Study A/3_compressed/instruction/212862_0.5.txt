@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: country Neodesha?
+: United States America
+: author Timeless?
+: Gail Carriger
+: father Afonso II Portugal?
+: Sancho I Portugal
+: screenwriter Shining?
+: Stanley Kubrick
+: mother Phoenix?
+:

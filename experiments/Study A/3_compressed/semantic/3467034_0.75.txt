@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city David Ogrin born?
+: What city David Ogrin born?
+: Waukegan
+: Who producer of Arizona?
+: Who produced work 'Arizona'?
+: Douglas Fairbanks
+: What sport Gábor Jánvári play?
+: Gábor Jánvári play?
+: association football
+: capital of Arkansas?
+: Where government of Arkansas based?
+: Little Rock
+: What color is Rosa 'Ingrid Bergman'?
+: Rosa 'Ingrid Bergman' associated with what color?
+ A:

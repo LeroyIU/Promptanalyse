@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Ganesha?
+: Ganesha's mother who?
+ A: Parvati
+ Q: What sport does Mohammed Amine Kabli play?
+: Mohammed Amine Kabli associated with what sport?
+: association football
+ Q: Who composer of That's What Love Is Made Of?
+: Who composed?
+: Smokey Robinson
+ Q: Who producer of Airport?
+: Who producer Airport?
+: Anubhav Sinha
+ Q: What Sudarshan Faakir's occupation?
+: What job Faakir do?
+ A:

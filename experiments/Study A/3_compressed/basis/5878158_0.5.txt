@@ -1,0 +1,11 @@
+entity.
+: country Hyderabad House?
+: India
+: author Merry Tales?
+: Mark Twain
+: sport Matteo Pivotto play?
+: association football
+: screenwriter No Show?
+: David Chase
+: capital Qasr-e Shirin County?
+:

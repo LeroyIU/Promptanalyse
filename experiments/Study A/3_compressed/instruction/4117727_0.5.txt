@@ -1,0 +1,13 @@
+Answer name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: genre Suits?
+: legal drama
+: religion Muhammad Qutb?
+: Sunni Islam
+: sport Adam Bennett?
+: hockey
+: mother Cornelia Otis Skinner?
+: Maud Durbin
+: father Sydney Chaplin?
+:

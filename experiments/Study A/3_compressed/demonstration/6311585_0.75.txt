@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of The Treatment?
+ A: John Zorn
+: Who mother of Bia?
+: Styx
+: Tatiana Doronina's occupation?
+ A: actor
+: Who father of Ptolemy XIII Theos Philopator?
+: Ptolemy XII Auletes
+ Q: religion of Louis-Joseph-Napoléon-Paul Bruchési?
+: Catholic Church
+: Who producer of Made?
+: Vince Vaughn
+: Who director of The Divide?
+: Xavier Gens
+: screenwriter for Lars and the Real Girl?
+: Nancy Oliver
+: What color is milk?
+ A:

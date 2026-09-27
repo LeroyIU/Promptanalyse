@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who author of Cell?
+: Cell written by who?
+: Stephen King
+: What genre is UK?
+: UK associated with what genre?
+: progressive rock
+: What sport Jonas Villanueva play?
+: What sport Jonas Villanueva associated with?
+: basketball
+: what city Simon Callery born?
+: What town Callery born in?
+: London
+: What color is Arsenal Fútbol Club?
+: What Arsenal Fútbol Club colored?
+:

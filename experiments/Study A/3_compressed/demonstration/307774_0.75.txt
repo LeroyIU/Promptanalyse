@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what country Rockcastle River?
+: United States of America
+: What genre is Up in the Air?
+: film adaptation
+: what city Karl Bartholomaeus Heller born?
+: Moravia
+ Q: What sport Bob Priddy play?
+: basketball
+ Q: Who composer of Diamonds?
+: Jerry Lordan
+: Who director of The Love Letter?
+: Dan Curtis
+: Who author of By the Gods Beloved?
+: Emma Orczy
+: Who father of Phoenix?
+: Agenor
+: Who screenwriter for The Duellists?
+:

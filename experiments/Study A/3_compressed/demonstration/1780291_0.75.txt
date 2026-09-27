@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Persuasion?
+ A: BBC
+: Who screenwriter for Brazil?
+: Terry Gilliam
+ Q: Ya'akov Ahimeir's occupation?
+: journalist
+ Q: Who composer of Airport?
+: Alfred Newman
+ Q: religion of Carlos Duarte Costa?
+: Brazilian Catholic Apostolic Church
+ Q: Who author of Conan the Valiant?
+: Roland J. Green
+: Who father of Isis?
+: Geb
+: mother of Wheeler Dryden?
+: Hannah Chaplin
+: What genre is Free & Easy?
+ A:

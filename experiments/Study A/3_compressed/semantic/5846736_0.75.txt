@@ -1,0 +1,16 @@
+Answer question with name entity only. not explain.
+: What color is Carlisle United F. C. ?
+: What color Carlisle United F. C. associated with?
+: red
+: Who composer of One?
+: Who composed 'One'?
+: Michel van der Aa
+: Who director of Brave?
+: Who directed work Brave?
+: Steve Purcell
+: Who father of Spiros Niarchos?
+: Spiros Niarchos's father who?
+: Stavros Niarchos
+: Who mother of Otto von Habsburg?
+: Otto von Habsburg's mother who?
+:

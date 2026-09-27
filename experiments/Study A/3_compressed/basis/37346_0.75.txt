@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was screenwriter for The Arrival?
+: Jeff Pinkner
+: capital of Weimar Republic?
+: Berlin
+: Who father of Ion son of Xuthus?
+: Apollo
+: In what country is GuideStar?
+: United States of America
+: what city was Brent Maddock born?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What color is Atlético de Madrid?
+: red
+: Who father of Lee Baxter?
+: Stuart Baxter
+: What sport does Oleg Imrekov play?
+: association football
+: capital of Guadeloupe?
+: Basse-Terre
+: What genre is Little Thief?
+:

@@ -1,0 +1,11 @@
+Answer question name entity.
+: director Crazy?
+: Drake Doremus
+: sport Thiago Quirino play?
+: association football
+: color Atlético Madrid?
+:
+: genre Timeless Records?
+:
+: father Abbot Oliba?
+:

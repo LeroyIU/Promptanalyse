@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for The Collection?
+ A: Matt Hubbard
+ Q: what city William Collins born?
+ A: London
+: Who composer of Just So?
+: George Stiles
+: What sport Peggy Lokando play?
+: association football
+: What genre is Beck?
+: alternative rock
+: religion of Rino Fisichella?
+: Catholic Church
+: John Jay's occupation?
+: diplomat
+: What color Doncaster Rovers F. C. ?
+: red
+: Who author of A Report to an Academy?
+:

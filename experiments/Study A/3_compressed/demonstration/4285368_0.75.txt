@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Your Face?
+ A: Bill Plympton
+: What sport does ONCE play?
+ A: road bicycle racing
+: What genre is Crush?
+: K-pop
+: what city Joanna Elisabeth of Holstein-Gottorp born?
+ A: Gottorf Castle
+: what country Drăgăneasa River?
+ A: Romania
+: capital of Chad?
+: N'Djamena
+: Who screenwriter for Troy?
+: David Benioff
+: Who father of Ginger Punch?
+: Awesome Again
+: Greg Miller's occupation?
+:

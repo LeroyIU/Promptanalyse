@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: father of Susan Crown?
+:?
+: Lester Crown
+: Who author of Hollywood?
+:?
+: Gore Vidal
+: mother of Andrew Schlafly?
+: Who gave birth Andrew Schlafly?
+: Phyllis Schlafly
+: color Atlético de Madrid?
+: colored?
+: red
+: director The Girl in Mourning?
+: directed who?
+:

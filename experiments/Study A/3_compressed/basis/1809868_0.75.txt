@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: what country Gaffarlı?
+ A: Turkey
+: What genre Ugonna Okegwo?
+: jazz
+: capital of Rondônia?
+ A: Porto Velho
+: Who screenwriter for In Your Hands?
+: Peter Del Monte
+: Who mother of Mary, Princess Royal Countess of Harewood?
+ A:

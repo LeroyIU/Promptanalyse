@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: what country Iron River (CDP), Wisconsin?
+: country (CDP),?
+: United States America
+: composer of Introduction and Allegro?
+:?
+: Maurice Ravel
+: religion Averett University?
+: religion?
+: Baptists
+: Who director Last Producer?
+: directed?
+: Burt Reynolds
+: What sport Kim Sung-gan play?
+:-gan?
+:

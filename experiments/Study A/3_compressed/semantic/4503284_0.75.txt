@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of The Proposal?
+: Who produced Proposal?
+ A: Sandra Bullock
+ Q: what country Tvedes Bryggeri?
+: What country in?
+: Denmark
+ Q: Who mother of Archduchess Maria Elisabeth of Austria?
+: Archduchess Maria Elisabeth Austria's mother who?
+: Maria Theresa of Austria
+ Q: what city Jun Murai born?
+: Jun from what city?
+: Tokyo
+ Q: What Howard Fowles's occupation?
+: Howard Fowles's job?
+ A:

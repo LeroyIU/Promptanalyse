@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of Think About You?
+: Izzy Stradlin
+ Q: G. E. M. 's occupation?
+: singer-songwriter
+: What genre is Raphael Saadiq?
+: soul music
+: Who director of Brown Sugar?
+: Fred Paul
+: Who father of Jonathan?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of The Rack?
+ A: Arnold Laven
+: Who producer of Resident Evil 2?
+: Shinji Mikami
+: Who author of Aida?
+: Linda Woolverton
+: Who screenwriter for The Reader?
+: David Hare
+: Who composer of Lazy?
+: Ian Gillan
+: Who father of Apollo?
+ A: Zeus
+: What capital of Quneitra Governorate?
+ A: Quneitra
+: What color is White House?
+ A: white
+: religion of Dinesh D'Souza?
+ A:

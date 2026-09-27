@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What genre is Inside?
+ A: horror film
+: capital of Tocantins?
+: Palmas
+: religion of Roman Republic?
+: ancient Roman religion
+ Q: Who screenwriter for Ring?
+: Kōji Suzuki
+: Who director of Tamas?
+ A:

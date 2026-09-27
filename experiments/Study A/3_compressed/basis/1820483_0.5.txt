@@ -1,0 +1,11 @@
+Answer name entity. explain
+: producer Sleep?
+: Andy Warhol
+: director Mann?
+: Indra Kumar
+: Bill Kintner's?
+: politician
+: sport Noëlle van Lottum?
+: tennis
+: mother James I Scotland?
+:

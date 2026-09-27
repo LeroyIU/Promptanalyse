@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: religion of Ali Ibn Ibrahim Qomi?
+ A: Shia Islam
+: Who author of Secret Life of Plants?
+: Peter Tompkins
+: Who producer of Men and Women?
+: Walter Hugo Khouri
+: What genre is These Days?
+: alternative rock
+: Who mother of Max Kennedy?
+:

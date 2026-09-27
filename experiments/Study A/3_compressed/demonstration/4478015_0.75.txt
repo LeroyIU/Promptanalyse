@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport does Willy Roy play?
+ A: association football
+ Q: In what country is Cos?
+: France
+: Who mother of Horus?
+: Isis
+: Who director of Little Ones?
+: Jim O'Connolly
+: What genre is Oasis?
+: Britpop
+: Who author of The Island?
+: Victoria Hislop
+: Who father of Marguerite de Rothschild?
+: Mayer Carl von Rothschild
+: what city Narcisse-Fortunat Belleau born?
+: Quebec City
+: Who screenwriter for Russia House?
+:

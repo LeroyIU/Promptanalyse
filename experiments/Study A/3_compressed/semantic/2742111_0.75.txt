@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: What Joyce Tang's occupation?
+: What kind of work Joyce Tang do?
+: actor
+: Who producer of The Cowboys?
+: Who produced work The Cowboys?
+: Irving Ravetch
+: What color is ruby?
+: What ruby colored?
+: red
+: what city Germaine Aussey born?
+: What town in?
+: Paris
+: What sport does Vitālijs Astafjevs play?
+: What athletic activity VitƒÅlijs Astafjevs associated with?
+ A:

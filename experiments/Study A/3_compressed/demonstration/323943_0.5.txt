@@ -1,0 +1,19 @@
+name entity.
+: genre Ross Macdonald?
+: detective fiction
+: producer?
+: Barbet Schroeder
+: city James. Bingham?
+: Perry
+: color Exeter City. ?
+: red
+: director Hollywood?
+: James Cruze
+: father Ludwig Feuerbach?
+: Paul Johann Anselm Ritter Feuerbach
+: composer?
+: Charles Cuvillier
+: mother Michael Jackson?
+: Katherine Jackson
+: Directorate Military Intelligence?
+:

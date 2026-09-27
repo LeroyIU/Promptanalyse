@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: screenwriter Kitty?
+: Karl Tunberg
+: religion Spain?
+: non-denominational
+: sport Alexandru Chiculiță play?
+:
+: capital Crete?
+: Heraklion
+: country Re?
+:

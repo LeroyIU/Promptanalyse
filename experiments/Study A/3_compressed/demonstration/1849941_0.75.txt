@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Mao Anqing?
+: Yang Kaihui
+: capital of Lakes?
+: Rumbek
+: Richard Howland Hunt's occupation?
+: architect
+: Who composer of The Bad Sleep Well?
+: Masaru Sato
+ Q: what country is Nagata-ku?
+: Japan
+: Who father of Leif Claesson?
+: Stig Claesson
+ Q: What sport Jeffrey Aubynn play?
+: association football
+: Who producer of Hollywood: The Fabulous Era?
+: Jack Haley, Jr.
+ Q: what city Lois Bancroft Long born?
+:

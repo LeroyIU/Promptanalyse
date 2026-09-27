@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of Six Weeks?
+: Dudley Moore
+: Who director of The African Woman?
+: Margarethe von Trotta
+ Q: In what country is WFUS?
+: United States of America
+: Who author of Loser?
+: Jerry Spinelli
+: Judith Rakers's occupation?
+:

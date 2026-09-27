@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: mother John Knatchbull, 7th Brabourne?
+: Doreen Knatchbull, Baroness Brabourne
+: screenwriter Transylvania?
+: Tony Gatlif
+: director Echo?
+: Hossein Shahabi
+: capital Oklahoma?
+: City
+: country Sircilla?
+:

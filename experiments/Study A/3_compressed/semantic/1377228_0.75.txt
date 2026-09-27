@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Zsuzsanna Németh born?
+: What Zsuzsanna Németh's hometown?
+: Budapest
+: Who father of Alexander?
+: Alexander child of what man?
+: Polyperchon
+: religion of Niccolò Marini?
+: What religion Niccolò Marini practice?
+: Catholic Church
+: Who director of The Betrayed?
+: Who directed 'The Betrayed'?
+: Frans Weisz
+: What sport Siavash Yazdani play?
+: What does Siavash Yazdani play?
+:

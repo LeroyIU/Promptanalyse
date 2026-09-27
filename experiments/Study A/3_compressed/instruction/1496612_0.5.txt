@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: religion Georgetown University?
+: Catholic Church
+: capital Empire Japan?
+: Tokyo
+: author Sketches New Old?
+: Mark Twain
+: color Manchester United. ?
+:
+: city Leobardo Soto born?
+:

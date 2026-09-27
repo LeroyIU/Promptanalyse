@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who father Mark Twain?
+:?
+: John Marshall Clemens
+: What sport Njurunda SK play?
+: sport associated?
+: hockey
+: Rhea Silvia's occupation?
+: work?
+: Vestal Virgin
+: Who composer of Jam?
+: music writer Jam?
+: Michael Jackson
+: what city Aleksandar Markovski born?
+:?
+:

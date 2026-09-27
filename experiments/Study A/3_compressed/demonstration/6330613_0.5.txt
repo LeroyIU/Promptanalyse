@@ -1,0 +1,19 @@
+entity.
+: director Gold?
+: Otto Brower
+: country Francheville Aerodrome?
+: France
+: producer The Room?
+: Greg Sestero
+: Javad Maroufi?
+: composer
+: sport Larissa Volpert?
+: chess
+: composer Let It Go?
+: Robert Lopez
+: city David Holmes Black born?
+: Vancouver
+: mother Emperor Han?
+: Consort Liang
+: capital Tajikistan?
+:

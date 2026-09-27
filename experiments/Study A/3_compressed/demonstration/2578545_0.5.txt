@@ -1,0 +1,19 @@
+entity.
+: genre Risk?
+: short story
+: Javier Alva Orlandini?
+: politician
+: director Acquisition?
+: James Whitmore Jr.
+: producer Albert Schweitzer?
+: Jerome Hill
+: color White House?
+: white
+: sport Robbie Rouse?
+: American football
+: father Robert?
+: Louis IX France
+: capital Turkmenistan?
+: Ashgabat
+: religion Peter?
+:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who author of One of the Family?
+: Monica Dickens
+ Q: Who producer of I Am Love?
+: Luca Guadagnino
+ Q: religion of John Calvin?
+: Protestantism
+ Q: David J. Brown's occupation?
+: computer scientist
+: In what city Babyface born?
+:

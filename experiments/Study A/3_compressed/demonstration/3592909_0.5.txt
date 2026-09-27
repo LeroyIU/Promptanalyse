@@ -1,0 +1,19 @@
+Answer name entity.
+: capital Colorado?
+: Denver
+: genre Steal This Record?
+: punk rock
+: sport Niklas Stark?
+: association football
+: screenwriter Secret Telegian?
+: Shinichi Sekizawa
+: Edward Corser?
+: politician
+: father Randolph Churchill?
+: Winston Churchill
+: Upper Midwest forest-savanna transition?
+: United States
+: mother Eadburh?
+: Cynethryth
+: author Bug?
+:

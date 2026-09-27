@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who composer of Phenomenon?
+: Thomas Newman
+: What genre Dirk Gently?
+: detective fiction
+: what city Pete Donohue born?
+: Athens
+: Who director of Still Life?
+: Sohrab Shahid-Saless
+: What color Sheffield United F. C. ?
+ A:

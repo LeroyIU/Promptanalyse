@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of Super?
+: Sandeep Chowta
+: religion of Caesar Baronius?
+: Catholic Church
+: What genre is Fire?
+: horror literature
+: what country is Northland Communications?
+: United States of America
+: Who father of Frans Pourbus the Elder?
+:

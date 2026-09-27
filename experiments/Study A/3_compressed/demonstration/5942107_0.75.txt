@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of George VI?
+: Mary of Teck
+ Q: What sport does Louis Perrée play?
+: fencing
+: capital of Dominica?
+: Roseau
+ Q: Who father of Sybilla of Normandy?
+: Henry I of England
+ Q: Who director of Silver?
+: Takashi Miike
+ Q: Who screenwriter for Annie?
+: Will Gluck
+: Who author of Bonaparte à Malte?
+: Frans Sammut
+ Q: Thanasis Pafilis's occupation?
+: politician
+: Who producer of The Mind Benders?
+:

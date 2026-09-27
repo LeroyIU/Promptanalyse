@@ -1,0 +1,13 @@
+Answer question name entity only. not explain
+ Reply entity name nothing. No explanation required.
+ name entity, further text.
+: director Tickets?
+: Ermanno Olmi
+: religion David?
+: Judaism
+: composer This Love?
+: Jesse Carmichael
+: author Peep Past?
+: Max Beerbohm
+: mother Andrew Montour?
+:

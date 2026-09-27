@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: William Greaves's occupation?
+: earn living?
+: film director
+: Who screenwriter for Out of Time?
+:?
+: Rob Grant
+: religion of bishop?
+:?
+: Christianity
+: sport 1995 Cook Islands Round Cup play?
+: athletic activity 1995 associated?
+: association football
+: producer of Noah?
+: produced work 'Noah'?
+:

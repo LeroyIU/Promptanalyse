@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color Carlisle United F. C. ?
+ A: red
+: Who composer of One?
+ A: Michel van der Aa
+: Who director of Brave?
+: Steve Purcell
+: Who father of Spiros Niarchos?
+: Stavros Niarchos
+: what city Dale Polley born?
+: Georgetown
+: What genre is Love Story?
+: romance film
+: What sport Wembley Lions play?
+: motorcycle speedway
+: Dominick Bellizzi's occupation?
+: jockey
+: Who mother of Otto von Habsburg?
+:

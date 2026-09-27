@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Meta?
+ A: Villavicencio
+: Who mother of Dawn Summers?
+: Joyce Summers
+: What color is Coventry City F. C. ?
+: sky blue
+: What genre is Frans Floris I?
+: Northern Renaissance
+: religion of Ajitanatha?
+:

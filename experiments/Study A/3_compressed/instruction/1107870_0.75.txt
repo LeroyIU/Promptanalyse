@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what city Gregorio Selser born?
+: Buenos Aires
+: Who composer of All Around the World?
+: Justin Bieber
+: Who father of George S. Patton?
+: George S. Patton
+: What religion of Matthew the Apostle?
+: Christianity
+: What color flag of Belize?
+:

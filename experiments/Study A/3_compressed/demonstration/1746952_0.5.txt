@@ -1,0 +1,19 @@
+name entity.
+: sport Deportivo San Pedro?
+: association football
+: country Wethersfield?
+: United States
+: father Joseph?
+: Jacob
+: Michael Lynton?
+: chief executive officer
+: city Izaskun Zubizarreta?
+: Oiartzun
+: color FC Internazionale Milano?
+: black
+: mother Thomas Jefferson?
+: Jane Randolph Jefferson
+: genre Sunset?
+: pop rock
+: director Island?
+:

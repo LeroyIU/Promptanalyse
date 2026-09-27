@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Prelude in F major, Op. 49, No. 2?
+ A: Alexander Scriabin
+: Who director of The Dove?
+: Roland West
+: Who father of Arthur Herzog?
+: Arthur Herzog, Jr.
+ Q: what country is Haw River?
+: United States of America
+: What genre is The Karate Kid?
+: martial arts film
+: religion of Lenni Brenner?
+: atheism
+: Carsten Carlsen's occupation?
+: composer
+: Who mother of Terry Fox?
+: Betty Fox
+: Who screenwriter for Boring?
+:

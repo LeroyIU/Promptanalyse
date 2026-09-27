@@ -1,0 +1,19 @@
+Answer name entity.
+: director Tickets?
+: Ermanno Olmi
+: religion David?
+: Judaism
+: composer This Love?
+: Jesse Carmichael
+: author Peep Past?
+: Max Beerbohm
+: genre Escape?
+: crime film
+: country Tervola Radio TV-Mast?
+: Finland
+: sport Mai Van Hoa?
+: table tennis
+: producer 31?
+: Rob Zombie
+: mother Andrew Montour?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Gold?
+ A: Otto Brower
+ Q: what country Francheville Aerodrome?
+: France
+: Who producer of The Room?
+: Greg Sestero
+ Q: Javad Maroufi's occupation?
+: composer
+ Q: capital of Tajikistan?
+ A:

@@ -1,0 +1,13 @@
+entity.
+. explanation
+,.
+: sport?
+:
+: father Dwayne Johnson?
+:
+: capital Nugal?
+:
+: color ruby?
+:
+: composer Paradise?
+:

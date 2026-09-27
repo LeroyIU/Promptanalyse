@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for The Broken?
+: Who in charge of writing 'The Broken'?
+: Sean Ellis
+ Q: What Pamela Winslow's occupation?
+: What Pamela Winslow earn living as?
+: actor
+ Q: Who father of Pierre Joxe?
+: Pierre Joxe child of what man?
+: Louis Joxe
+ Q: what city Pete Donohue born?
+: city in?
+: Athens
+ Q: What genre is Dragon?
+: What genre does Dragon belong to?
+:

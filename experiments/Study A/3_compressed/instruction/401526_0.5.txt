@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: screenwriter Collection?
+: Matt Hubbard
+: city William Collins born?
+: London
+: composer So?
+: George Stiles
+: sport Peggy Lokando play?
+: association football
+: author Report Academy?
+:

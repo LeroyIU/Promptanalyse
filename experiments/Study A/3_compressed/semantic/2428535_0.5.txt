@@ -1,0 +1,16 @@
+Answer question name entity only. explain
+: religion David Mills?
+: religion Mills?
+: atheism
+: father Natalia Kukulska?
+:?
+: Jarosław Kukulski
+: mother Tridu Songtsen?
+: woman raised Tridu Songtsen?
+: Khri ma lod
+: capital Georgia?
+:?
+: Kutaisi
+: screenwriter Abouna?
+: wrote script 'Abouna'?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of The Circus?
+ A: Charlie Chaplin
+: Who screenwriter for Twenty Two?
+: Rod Serling
+ Q: Rose Beaudet's occupation?
+: actor
+ Q: capital of State of Vietnam?
+: Ho Chi Minh City
+ Q: religion of Marilyn Monroe?
+: Judaism
+ Q: what country Jan Kochanowski University?
+: Poland
+: Who author of Jewel?
+: Bret Lott
+: Who director of Code of Honor?
+: Russ Mayberry
+: What sport América Futebol Clube play?
+ A:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: screenwriter A Night to Remember?
+: Eric Ambler
+: Richard Franck's?
+: composer
+: director 99?
+: Michael Curtiz
+: author Recursion?
+: Tony Ballantyne
+: mother Dasanavalaya Sorasongkram?
+:

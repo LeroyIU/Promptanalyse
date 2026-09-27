@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: director More?
+: Barbet Schroeder
+: producer Argo?
+: George Clooney
+: capital New Brunswick?
+: Fredericton
+: country Gmina Dziadkowice?
+: Poland
+: sport Huntsville Stars play?
+:

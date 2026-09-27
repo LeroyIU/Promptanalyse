@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: Who screenwriter for Teacher?
+: Hannah Fidell
+: What genre is Discount?
+: punk rock
+: capital of Val d'Aran?
+: Vielha e Mijaran
+: Who father of John, King of England?
+: Henry II of England
+: what country is Biały Kościół, Lower Silesian Voivodeship?
+:

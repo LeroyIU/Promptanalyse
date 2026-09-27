@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who author of Lincoln?
+ A: Gore Vidal
+: Who producer of Blow?
+: Ted Demme
+ Q: In what country is Billy?
+ A: France
+: religion of Walter Carey?
+: Anglicanism
+: Who father of Philip III of Macedon?
+:

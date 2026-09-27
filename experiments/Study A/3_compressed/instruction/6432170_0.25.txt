@@ -1,0 +1,13 @@
+name entity.
+. explanation
+,.
+: mother Rama?
+:
+: country, Haiti?
+:
+: producer 1977?
+:.
+: genre?
+:
+: capital Philippines?
+:

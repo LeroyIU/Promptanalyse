@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color is chalk?
+: color chalk associated with?
+: white
+: Who director of Upside Down?
+: Who directed Upside Down?
+: Juan Diego Solanas
+: religion of Marilyn Monroe?
+: religion Marilyn Monroe associated with?
+: Judaism
+: capital of arrondissement of Limoges?
+: Where government of arrondissement of Limoges based?
+: Limoges
+: What genre is While the City Sleeps?
+: type of work While the City Sleeps?
+ A:

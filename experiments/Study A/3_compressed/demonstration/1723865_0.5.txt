@@ -1,0 +1,19 @@
+Answer name entity.
+: director Shiva?
+: Ronit Elkabetz
+: mother Alī Abī?
+: Fatimah bint Asad
+: city Liz born?
+: Tarzana
+: sport 2004 Mason Tennis Classic?
+: tennis
+: genre One?
+: rock music
+: composer Plush?
+: Nick Launay
+: author Witt?
+: Patti Smith
+: producer Turning Point?
+: Nora Kaye
+: screenwriter Zoom?
+:

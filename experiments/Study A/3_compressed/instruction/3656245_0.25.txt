@@ -1,0 +1,13 @@
+.
+.
+,.
+: genre?
+: hardcore
+: father Arjuna?
+:
+: director Pilot?
+:
+: author Aware?
+: Glenda
+: capital Vimmerby Municipality?
+:

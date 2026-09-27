@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name nothing. No explanation required.
+ Give name entity, further text.
+: mother Elizabeth II?
+: Queen Elizabeth
+: producer Linger?
+: Johnnie To
+: composer No Way Out?
+: Maurice Jarre
+: Jorge Traverso's?
+: journalist
+: religion William Peters?
+:

@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who author of Pearl?
+: 'Pearl'?
+: John Arden
+: Who composer Chrono Cross?
+:?
+: Yasunori Mitsuda
+: What sport Warrenpoint Town F. C play?
+: sport. associated?
+: association football
+: What color flag Zimbabwe?
+:?
+: red
+: Who producer of Criminal?
+: 'Criminal produced who?
+:

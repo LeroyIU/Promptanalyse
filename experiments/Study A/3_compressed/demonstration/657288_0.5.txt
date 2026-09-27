@@ -1,0 +1,19 @@
+question name entity.
+: color Atlético Madrid?
+: red
+: author Task?
+: William Cowper
+: director Go Now?
+: Michael Winterbottom
+: screenwriter Flesh?
+: Nick Sagan
+: father Afonso II Portugal?
+: Sancho I Portugal
+: capital Kingdom Italy?
+: Florence
+: country Northland Communications?
+: United States America
+: city Alfred Frank Hardiman born?
+: London
+: genre Kite?
+:

@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: author James Bond?
+: Ian Fleming
+: country Riethnordhausen?
+: Germany
+: composer Nalla Thambi?
+: Ilaiyaraaja
+: sport Michael Gibson play?
+: association football
+: father Sophie Legnica?
+:

@@ -1,0 +1,19 @@
+Answer question name entity.
+: father Margaret England?
+: Edward I England
+: Joseph Weydemeyer?
+: journalist
+: sport Germany handball team?
+: handball
+: producer The Detective?
+: Aaron Rosenberg
+: composer Ode?
+: Igor Stravinsky
+: mother Signe Hebbe?
+: Wendela Hebbe
+: screenwriter Prime?
+: Ben Younger
+: religion Kenneth Steiner?
+: Catholic Church
+: capital Voivodeship?
+:

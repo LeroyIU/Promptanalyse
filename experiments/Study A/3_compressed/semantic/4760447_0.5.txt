@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who composer Six Weeks?
+:?
+: Dudley Moore
+: director The African Woman?
+: directed?
+: Margarethe von Trotta
+: what country WFUS?
+:?
+: United States America
+: Who author Loser?
+: written?
+: Jerry Spinelli
+: Judith Rakers's?
+: Judith Rakers earn living?
+:

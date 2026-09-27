@@ -1,0 +1,19 @@
+name entity.
+: producer Bug?
+: William Castle
+: Leona Detiège's?
+: politician
+: religion Claus Schenk Graf Stauffenberg?
+: Catholic Church
+: sport?
+: association football
+: color FC Internazionale Milano?
+: black
+: screenwriter Bridge?
+: Bernhard Wicki
+: city John A. Shaud born?
+: Cleveland
+: composer Witch?
+: Maurice Ravel
+: director Pilot?
+:

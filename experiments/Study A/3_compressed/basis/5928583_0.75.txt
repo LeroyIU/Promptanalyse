@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Susan Crown?
+ A: Lester Crown
+: Who author of Hollywood?
+: Gore Vidal
+: Who mother of Andrew Schlafly?
+: Phyllis Schlafly
+: What color is Atlético de Madrid?
+: red
+: Who director of The Girl in Mourning?
+:

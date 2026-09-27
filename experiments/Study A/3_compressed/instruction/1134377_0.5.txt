@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: director The Lover?
+: Jean-Jacques Annaud
+: religion Loon?
+: Islam
+: father Arthur Herzog?
+: Arthur Herzog, Jr.
+: country Sjösa?
+: Sweden
+: John Andrew Martin's?
+:

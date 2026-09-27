@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: director Forgive?
+: Marcos Siega
+: screenwriter Gardener?
+: Mohsen Makhmalbaf
+: mother Emperor Yang Sui?
+: Empress Dugu Qieluo
+: religion Choir monk?
+: Catholic Church
+: country Pal?
+:

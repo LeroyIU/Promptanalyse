@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Richard Rawlinson born?
+ A: London
+: What genre is Ninja Boy II?
+: action role-playing game
+: Who mother of Helen of Troy?
+: Leda
+: Claire Berlinski's occupation?
+: journalist
+: Who screenwriter for Look?
+: Adam Rifkin
+: what country Gawarzec Dolny?
+: Poland
+: Who author of The Sun Chemist?
+: Lionel Davidson
+: What color Atlético de Madrid?
+: red
+: What sport does 1994 Swedish Open play?
+ A:

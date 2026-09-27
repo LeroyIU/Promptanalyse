@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: country Gare Rosporden?
+: France
+: color Atlético Madrid?
+:
+: sport 2010 Veikkausliiga play?
+: association football
+: author Trying?
+: Joanna Glass
+: screenwriter Remember?
+:

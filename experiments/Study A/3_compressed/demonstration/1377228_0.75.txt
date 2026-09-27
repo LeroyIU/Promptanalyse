@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Zsuzsanna Németh born?
+ A: Budapest
+ Q: Who father of Alexander?
+ A: Polyperchon
+: religion of Niccolò Marini?
+: Catholic Church
+: Who director of The Betrayed?
+: Frans Weisz
+: Who screenwriter for Cash?
+: Ben Elton
+: Who composer of So Rare?
+: Jerry Herst
+: Robert Gwilym's occupation?
+ A: actor
+: What color Charlton Athletic F. C. ?
+: red
+: What sport does Siavash Yazdani play?
+:

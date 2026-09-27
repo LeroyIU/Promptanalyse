@@ -1,0 +1,11 @@
+entity.
+: country Belavia?
+:
+: capital Ethiopia?
+:
+: screenwriter?
+:
+: Reece?
+:
+: composer?
+:

@@ -1,0 +1,11 @@
+.
+: father?
+:
+:?
+:
+: color White House?
+:
+:?
+:
+: religion Aung Suu Kyi?
+:

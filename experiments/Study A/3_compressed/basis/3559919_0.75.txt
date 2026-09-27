@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What genre Confession?
+ A: alternative metal
+ Q: Who producer of Seven?
+: Arnold Kopelson
+: Alexander Gadolin's occupation?
+: politician
+ Q: Who director of Avatar?
+: Carmine Gallone
+: Who composer of Brand New Day?
+ A:

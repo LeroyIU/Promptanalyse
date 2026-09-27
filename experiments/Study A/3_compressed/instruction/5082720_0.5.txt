@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: color Fleetwood Town. ?
+: red
+: author From Time to Time?
+: Jack Finney
+: mother George Washington?
+: Mary Ball Washington
+: father Rafi-ush-Shan?
+: Bahadur Shah
+: religion Kingdom Sussex?
+:

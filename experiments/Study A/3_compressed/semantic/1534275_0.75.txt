@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Ron Douglas play?
+: What sport Ron Douglas associated with?
+: association football
+: capital of Lamphun?
+: Where government of Lamphun based?
+: Lamphun
+: What color is Atlético de Madrid?
+: What Atlético de Madrid colored?
+: red
+: "Who producer of ""Them""?"
+: Who in charge of production of "Them"?
+: King Diamond
+: Who screenwriter for Lovers?
+: Who wrote script for 'Lovers'?
+:

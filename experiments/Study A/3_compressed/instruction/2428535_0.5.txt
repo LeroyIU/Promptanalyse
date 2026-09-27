@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ Give name entity answer, without further text.
+: religion David Mills?
+: atheism
+: father Natalia Kukulska?
+: Jarosław Kukulski
+: mother Tridu Songtsen?
+:
+: capital Georgia?
+: Kutaisi
+: screenwriter Abouna?
+:

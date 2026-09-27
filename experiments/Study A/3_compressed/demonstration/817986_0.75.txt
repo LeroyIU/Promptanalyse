@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Q?
+: Luther Blissett
+: Who mother of Rosa Brooks?
+: Barbara Ehrenreich
+: what city Oi Va Voi born?
+: London
+: What color is Doncaster Rovers F. C. ?
+: red
+: Who director of The Dead?
+: John Huston
+: Who producer of Jessica?
+: Jean Negulesco
+: what country is Füzérradvány?
+: Hungary
+: What genre is Space Battleship Yamato?
+: science fiction film
+: Who father of John Sigismund, Crown Prince of Poland?
+:

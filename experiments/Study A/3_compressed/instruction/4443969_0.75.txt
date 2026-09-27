@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity answer, without further text.
+ Q: What color Fleetwood Town F. C. ?
+ A: red
+: Who father of Princess Cristina of Bourbon-Two Sicilies?
+: Francis II of Two Sicilies
+: what city James Keddy born?
+: Dublin
+: Kekko Fornarelli's occupation?
+: composer
+: Who producer of Little Man?
+:

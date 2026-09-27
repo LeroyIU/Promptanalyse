@@ -1,0 +1,16 @@
+Answer question with name entity only. not explain.
+: Who author of Anything Goes?
+: Who wrote Anything Goes?
+: Howard Lindsay
+: What sport Atlético de Madrid play?
+: What athletic activity Atlético de Madrid associated with?
+: association football
+: Who director of Tora-san's Shattered Romance?
+: Who directed work 'Tora-san's Shattered Romance'?
+: Yōji Yamada
+: what city Liz born?
+: Liz from what city?
+: Tarzana
+: What color Arsenal F. C. ?
+: Arsenal F. C. what color?
+:

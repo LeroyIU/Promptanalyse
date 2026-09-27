@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Threshold?
+: science fiction
+ Q: what city Gregorio Selser born?
+: Buenos Aires
+: What color flag of Zimbabwe?
+: red
+ Q: Charles Martin Smith's occupation?
+: film director
+: Who mother of Tridu Songtsen?
+: Khri ma lod
+: Who author of Muna Madan?
+: Laxmi Prasad Devkota
+: Who father of George F. Sternberg?
+: Charles Hazelius Sternberg
+ Q: what country Mangalore University?
+: India
+: Who producer of Precious?
+:

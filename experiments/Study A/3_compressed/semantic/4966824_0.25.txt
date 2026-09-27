@@ -1,0 +1,16 @@
+entity.
+: director Indian Post?
+:?
+: John Ford
+: genre?
+:?
+:
+: screenwriter Fever?
+:?
+: Wallace
+: capital Meta?
+:?
+: Villavicencio
+:?
+:?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: composer Fire?
+: Jimi Hendrix
+: religion Regis University?
+: Catholic Church
+: producer Aag?
+: Raj Kapoor
+: capital Yalutorovsky District?
+: Yalutorovsk
+: author What I Was?
+:

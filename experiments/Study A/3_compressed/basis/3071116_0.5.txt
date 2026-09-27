@@ -1,0 +1,11 @@
+Answer name entity.
+: author Confidence?
+: Henry James
+: genre Back to Future?
+: comedy film
+: director You and Me?
+: Ma Liwen
+: Augustine Steward's?
+: politician
+: religion Milica Hrebeljanović?
+:

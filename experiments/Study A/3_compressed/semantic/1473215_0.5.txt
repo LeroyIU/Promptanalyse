@@ -1,0 +1,16 @@
+Answer question name entity.
+: color Charlton Athletic F. C ?
+:. associated color?
+: red
+: sport 2012 Georgetown Hoyas men's soccer team play?
+: 2012 associated sport?
+: association football
+: mother Prince Louis, Duke Nemours?
+: Prince Louis, child woman?
+: Maria Amalia Naples Sicily
+: city Emil Marschalk von Ostheim born?
+: city?
+: Bamberg
+: capital Heves County?
+: government Heves County based where?
+:

@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Richard Rawlinson born?
+: London
+ Q: What genre Ninja Boy II?
+: action role-playing game
+: Who mother of Helen of Troy?
+: Leda
+: Claire Berlinski's occupation?
+: journalist
+: What sport 1994 Swedish Open play?
+ A:

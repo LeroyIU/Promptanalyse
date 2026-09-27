@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Princess Kako of Akishino?
+ A: Kiko, Princess Akishino
+ Q: what country is Pindus?
+: Greece
+: Who producer of The Law of the Land?
+: Jesse Louis Lasky
+: What Min's occupation?
+: actor
+: Who author of Junk?
+: Melvin Burgess
+: What color flag of Zimbabwe?
+: red
+: What genre is My Way?
+: Cantopop
+: Who composer of The Moment's Energy?
+: Evan Parker
+: religion of John Gwynn?
+:

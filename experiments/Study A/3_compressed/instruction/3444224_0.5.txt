@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: producer Flesh?
+: John Ford
+: father Grand Duke Nicholas Mikhailovich Russia?
+: Grand Duke Michael Nikolaevich Russia
+: screenwriter Ballad?
+: Brad Falchuk
+: genre Kiss?
+: pop music
+: capital Hood County?
+:

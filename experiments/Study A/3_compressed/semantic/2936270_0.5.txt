@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who mother Isaac?
+: woman raised Isaac?
+: Sara
+: What color White House?
+: associated?
+: white
+: Who author Shadow?
+:?
+: Dean Wesley Smith
+: producer Jacket?
+: produced?
+: Steven Soderbergh
+: Who screenwriter Thrilling?
+: Who wrote script Thrilling?
+:

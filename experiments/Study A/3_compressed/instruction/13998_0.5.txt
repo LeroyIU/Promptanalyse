@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation.
+ name entity, further text.
+: religion Angelo Thomas Acerra?
+: Catholic Church
+: color Fleetwood Town F. ?
+: red
+: Stevie Cameron's?
+: journalist
+: sport Szymon Szewczyk?
+: basketball
+: capital Liberia?
+:

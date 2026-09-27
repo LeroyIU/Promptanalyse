@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Tickets?
+: Ermanno Olmi
+: What religion of David?
+: Judaism
+: Who composer of This Love?
+: Jesse Carmichael
+: Who author of A Peep into the Past?
+: Max Beerbohm
+: What genre is Escape?
+: crime film
+: In what country is Tervola Radio and TV-Mast?
+: Finland
+: What sport does Mai Van Hoa play?
+: table tennis
+: Who producer of 31?
+: Rob Zombie
+: Who mother of Andrew Montour?
+:

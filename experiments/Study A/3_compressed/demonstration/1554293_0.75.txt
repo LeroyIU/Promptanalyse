@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Allison Hirschlag?
+ A: Julia Barr
+: Who author of Next?
+ A: Michael Crichton
+: What color is A. C. Milan?
+ A: red
+: capital of Slovenia?
+ A: Ljubljana
+: In what country is Basin City?
+: United States of America
+: Todd Verow's occupation?
+: cinematographer
+: Who producer of The Other?
+: Tom Tryon
+: Who director of The Well?
+: Russell Rouse
+: Who screenwriter for Unexpected?
+:

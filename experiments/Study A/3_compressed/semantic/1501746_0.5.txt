@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: What sport VOKO-Irodion play?
+:?
+: volleyball
+: capital of Kingdom France?
+:?
+: Paris
+: city Klaus Wunder born?
+: Klaus Wunder's hometown?
+: Erfurt
+: composer of Aval Appadithan?
+: composed?
+: Ilaiyaraaja
+: producer of Electronic?
+: produced 'Electronic'?
+:

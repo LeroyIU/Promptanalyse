@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Margaret of England?
+ A: Edward I of England
+: Joseph Weydemeyer's occupation?
+: journalist
+: What sport Germany national handball team play?
+: handball
+: Who producer of The Detective?
+: Aaron Rosenberg
+: capital of Świętokrzyskie Voivodeship?
+ A:

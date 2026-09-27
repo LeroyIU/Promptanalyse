@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity answer, without further text.
+ Q: What P. J. Moloney's occupation?
+ A: politician
+: Who mother of Samson?
+: Wife of Manoah
+: Who author of Home?
+: Octave Mirbeau
+: what city Jean-Georges Lefranc de Pompignan born?
+: Montauban
+: What genre is The Thing?
+:

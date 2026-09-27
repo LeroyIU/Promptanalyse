@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of Louis?
+ A: Rotrude
+: Who composer of Shenmue?
+: Takenobu Mitsuyoshi
+ Q: What genre is Out of the Blue?
+: musical film
+: Who producer of The Women?
+: Diane English
+: Who director of The Shock?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: director Indian Post?
+: John Ford
+: genre Hate?
+: black metal
+: screenwriter Fever?
+: Wallace Shawn
+: capital Meta?
+: Villavicencio
+: country Lima?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport does Mohammed Amine Kabli play?
+ A: association football
+: Who father of Dwayne Johnson?
+: Rocky Johnson
+: capital of Nugal?
+ A: Garoowe
+: What color is ruby?
+: red
+: Thomas Jefferson Kaye's occupation?
+: record producer
+: What genre is The Arrangement?
+: reality television
+: Who producer of Treasure Island?
+: Fraser Clarke Heston
+: Who screenwriter for Family Life?
+: Jacques Doillon
+: Who composer of Paradise?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of Frozen?
+: Christophe Beck
+: Who producer of We Were Young?
+: Binka Zhelyazkova
+: Who author of Bel Canto?
+: Ann Patchett
+: What sport does Brunei Barracudas play?
+: basketball
+: Who screenwriter for The Prize?
+:

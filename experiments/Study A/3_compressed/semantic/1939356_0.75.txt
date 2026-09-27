@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: What genre is Sultan?
+: Fans of what genre like Sultan?
+: French hip hop
+: Who was screenwriter for Serenity?
+: Who screenwriter work Serenity?
+: Joss Whedon
+: Who producer of Leader?
+: Who produced work Leader?
+: Sashadhar Mukherjee
+: What color is flag of Zimbabwe?
+: What color flag Zimbabwe associated with?
+: red
+: What religion of Manuel Aurelio Cruz?
+: What Manuel Aurelio Cruz's religion?
+:

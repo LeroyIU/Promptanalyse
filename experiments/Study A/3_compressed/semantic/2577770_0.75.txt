@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Speed?
+: Who mom of Speed?
+: Scarlet Witch
+: Who screenwriter for Gorgeous?
+: Who in charge of writing of 'Gorgeous'?
+: Jackie Chan
+: Who director of Pump?
+: Who directed Pump?
+: Josh Tickell
+: Who father of Hedwig of France, Countess of Nevers?
+: Hedwig of France, Nevers child of what man?
+: Robert II of France
+ Q: Who composer of Trombone Concerto?
+: Who composed Trombone Concerto?
+:

@@ -1,0 +1,11 @@
+Answer question name entity.
+: mother Mary Islam?
+: Saint Anne
+: city Donald Lue born?
+: Boston
+: religion Catholic Church?
+: Catholicism
+: genre Mario franchise?
+: role-playing video game
+: capital Silla?
+:

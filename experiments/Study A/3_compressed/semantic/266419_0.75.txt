@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Petros Tabouris born?
+: What town Petros Tabouris born?
+ A: Athens
+: What sport Archie Needham play?
+: What Archie Needham's sport?
+: association football
+: Who screenwriter for Our Relations?
+: Who wrote script for Our Relations?
+: Stan Laurel
+: Who composer of Ghost?
+: Ghost composed by who?
+: Hossein Shahabi
+: What genre is Deivos?
+: Fans of what genre like Deivos?
+:

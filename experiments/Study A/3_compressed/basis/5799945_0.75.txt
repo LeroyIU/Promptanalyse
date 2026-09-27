@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Robert Gwilym's occupation?
+ A: actor
+: What sport Mo Hamdaoui play?
+: association football
+ Q: what country is Lutsk?
+: Ukraine
+: what city James A. Peters born?
+: Durant
+: Who composer of Play?
+ A:

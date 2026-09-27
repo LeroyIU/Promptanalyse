@@ -1,0 +1,19 @@
+Answer question name entity.
+: genre Deep End?
+: short story
+: city Belly born?
+: Jenin
+: producer Squeeze?
+: John Cale
+: religion Honorius III?
+: Christianity
+: Robert Gwilym?
+: actor
+: father Josie Ho?
+: Stanley Ho
+: country Moore?
+: United States
+: color flag Colorado?
+: red
+: screenwriter Dimboola?
+:

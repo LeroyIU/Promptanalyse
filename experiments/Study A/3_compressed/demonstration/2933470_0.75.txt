@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of European Union?
+ A: City of Brussels
+: Who composer of Champion?
+: Drake
+: In what country is Berry?
+: United States of America
+: What sport does Los Angeles Galaxy play?
+: association football
+: What color is York City F. C. ?
+: red
+: father of MacGregor Knox?
+: Bernard Knox
+: In what city was Baptiste Lecaplain born?
+: Mortain
+: religion of Ottawa University?
+: American Baptist Churches USA
+: Who director of First Time?
+:

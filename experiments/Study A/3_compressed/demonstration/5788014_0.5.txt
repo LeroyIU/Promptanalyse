@@ -1,0 +1,19 @@
+name entity.
+: genre Pressure?
+: reggae
+: religion Southwestern Christian University?
+: International Pentecostal Holiness Church
+: country King?
+: United States
+: sport.?
+: association football
+: William Phillips,.?
+: politician
+: mother Queen Marie Romania?
+: Grand Duchess Maria Alexandrovna Russia
+: author Experience?
+: Martin Amis
+: father George II Brieg?
+: Frederick II Legnica
+: color snow?
+:

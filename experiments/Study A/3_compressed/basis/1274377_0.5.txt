@@ -1,0 +1,11 @@
+Answer question name entity.
+: sport Margarita Louis-Dreyfus play?
+: association football
+: author?
+: Luther Blissett
+: color Manchester United. ?
+: red
+: composer Mouse Trouble?
+: Scott Bradley
+: screenwriter Twenty Minutes Love?
+:

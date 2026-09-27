@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: author Leaving Home?
+: David French
+: director Reef?
+: Robert Allan Ackerman
+: genre Unknown?
+: mystery film
+: color York City F. ?
+: red
+: composer Little Prince?
+:

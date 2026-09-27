@@ -1,0 +1,19 @@
+name entity.
+: sport Deontay Greenberry play?
+: American football
+: author Book?
+:. Lovecraft
+: mother Mary Waltham?
+: Philippa Hainault
+: country, County?
+: Poland
+: father Charismatic?
+: Summer Squall
+: capital Chittenden County?
+: Burlington
+: religion Antonio Hernández Gallegos?
+: Catholic Church
+: genre Sripada Pinakapani?
+: Carnatic music
+: director Allen?
+:

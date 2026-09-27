@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity answer, without further text.
+ Q: what city Karl Bartholomaeus Heller born?
+ A: Moravia
+: Who father of Jitendra Narayan?
+ A: Nripendra Narayan
+: Who director of Blade?
+: Stephen Norrington
+: What sport Italy men's national volleyball team play?
+ A: volleyball
+: Toni Jennings's occupation?
+:

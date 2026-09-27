@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Matthew Robinson Boulton?
+ A: Matthew Boulton
+: What color Manchester United F. C. ?
+ A: red
+: Who producer of Rent?
+: Chris Columbus
+: what city Franky Zapata born?
+: Marseille
+: Who author of Before Midnight?
+: Rex Stout
+: What genre John Entwistle?
+: rock music
+: What sport Laryea Kingston play?
+: association football
+: What Benazir Bhutto's occupation?
+: politician
+: what country Jam Filled Entertainment?
+ A:

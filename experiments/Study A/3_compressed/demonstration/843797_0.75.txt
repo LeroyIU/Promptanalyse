@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Hell's Angels?
+ A: Howard Estabrook
+: Who father of Yoko Yazawa?
+: Eikichi Yazawa
+: Who author of Catullus 85?
+ A: Catullus
+: Who composer of Let It Be?
+: John Lennon
+: Who producer of The Spoilers?
+: Edwin Carewe
+ Q: What color flag of Zimbabwe?
+: red
+: what city Ricardo Maliandi born?
+: La Plata
+: Who director of The Stand Up?
+: David Wexler
+: Edwin E. Ellis's occupation?
+ A:

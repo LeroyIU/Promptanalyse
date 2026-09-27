@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who father of Liu Ruyi?
+: Emperor Gaozu of Han
+: Who screenwriter for Féminin, masculin?
+: Kiarash Anvari
+: Who composer of BLUE?
+: Jonna Lee
+: Who director of Fitzcarraldo?
+: Werner Herzog
+: What color Aston Villa F. C. ?
+ A:

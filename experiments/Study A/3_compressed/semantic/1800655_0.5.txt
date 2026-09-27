@@ -1,0 +1,16 @@
+Answer question name entity. explain.
+: father Mohammad Ali Khan?
+: Mohammad Ali Khan child what man?
+: Karim Khan
+: director Affair?
+: directed who?
+: Carl Colpaert
+: What genre Prototype?
+: Fans genre Prototype?
+: science fiction film
+: what country Akshara School?
+:?
+: India
+: mother Matilda Scotland?
+: mom Matilda Scotland?
+:

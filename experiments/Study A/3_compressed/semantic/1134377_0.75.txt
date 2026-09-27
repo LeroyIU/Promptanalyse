@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was director of The Lover?
+: director Lover'?
+: Jean-Jacques Annaud
+ Q: What religion of Loon?
+: Loon's religion?
+: Islam
+ Q: Who father of Arthur Herzog?
+: Arthur Herzog's father is who?
+: Arthur Herzog, Jr.
+ Q: In what country is Sjösa?
+: country Sjösa in?
+: Sweden
+ Q: John Andrew Martin's occupation?
+: What does John Andrew Martin earn living as?
+:

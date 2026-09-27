@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: religion of Assumption College for Sisters?
+: Catholic Church
+ Q: what country is Australian Labor Party?
+: Australia
+: What sport does Anderson play?
+: association football
+: Paris's occupation?
+: actor
+: Who mother of Alexander I of Yugoslavia?
+:

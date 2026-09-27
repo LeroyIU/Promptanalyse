@@ -1,0 +1,19 @@
+name entity.
+: director Forgive?
+: Marcos Siega
+: screenwriter Gardener?
+: Mohsen Makhmalbaf
+: mother Emperor Yang?
+: Empress Dugu
+: religion Choir monk?
+: Catholic Church
+: composer Man Golden Arm?
+: Elmer Bernstein
+: father Eryx?
+: Poseidon
+: genre Exposed?
+: pop music
+: city Tjokorda Ngurah Wim Sukawati born?
+: Ubud
+: country Pal?
+:

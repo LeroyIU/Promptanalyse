@@ -1,0 +1,19 @@
+name entity.
+: director Never Forget?
+: Joseph Sargent
+: country Ločenice?
+: Czech Republic
+: sport Frank Cornan play?
+: association football
+: color Doncaster Rovers. ?
+: red
+: producer Return?
+: Greydon Clark
+: father Qasim Muhammad Abi Bakr?
+: Abi Bakr
+: mother Cassandra Cain?
+: Lady Shiva
+: religion Gregory?
+: Christianity
+: genre Celebration?
+:

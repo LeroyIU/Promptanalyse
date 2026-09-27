@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: Who composer of Phenomenon?
+: Thomas Newman
+: What genre is Dirk Gently?
+: detective fiction
+: what city Pete Donohue born?
+: Athens
+: Who director of Still Life?
+: Sohrab Shahid-Saless
+: What color is Sheffield United F. C ?
+:

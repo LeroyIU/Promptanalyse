@@ -1,0 +1,11 @@
+Answer question name entity.
+: composer Fire?
+: Jimi Hendrix
+: religion Regis University?
+: Catholic Church
+: producer Aag?
+: Raj Kapoor
+: capital Yalutorovsky District?
+: Yalutorovsk
+: author What I Was?
+:

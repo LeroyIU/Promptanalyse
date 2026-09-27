@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of That Face?
+: Polly Stenham
+: Who mother of George Washington?
+: Mary Ball Washington
+ Q: father of David I of Scotland?
+: Malcolm III of Scotland
+ Q: Jim Boyd's occupation?
+: journalist
+ Q: genre is Voyage?
+: synth-pop
+: Who screenwriter for Hard to Be a God?
+: Peter Fleischmann
+ Q: color is Exeter City F. C. ?
+: red
+: director of The People Against O'Hara?
+: John Sturges
+: what city Annika Billstam born?
+:

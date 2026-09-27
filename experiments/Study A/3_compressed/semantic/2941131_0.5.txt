@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who producer Red?
+: charge production 'Red'?
+: Leslie Cheung
+: What genre The City?
+:?
+: soap opera
+: father Mohammed Omar Abdel-Rahman?
+: raised Omar Abdel-Rahman?
+: Omar Abdel-Rahman
+: Robert Florey's?
+:?
+: screenwriter
+: capital Amazonas?
+: government Amazonas based?
+:

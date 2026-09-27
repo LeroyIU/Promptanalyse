@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who producer of Click?
+: Who produced 'Click'?
+: Adam Sandler
+: Who author of The Birds?
+: Who authored Birds?
+: Daphne du Maurier
+: Who composer of Easy Money?
+: Easy Money composed by who?
+: Laurence Rosenthal
+: Who director of The Betrayed?
+: Who directed 'The Betrayed'?
+: Frans Weisz
+: Who mother of Constantine I, King of Armenia?
+: Constantine I, King of Armenia's mother who?
+:

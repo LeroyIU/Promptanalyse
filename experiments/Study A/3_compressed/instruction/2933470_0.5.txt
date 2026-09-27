@@ -1,0 +1,13 @@
+Answer question name entity only. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: capital European Union?
+: City Brussels
+: composer Champion?
+: Drake
+: country Berry?
+: United States America
+: sport Los Angeles Galaxy play?
+: association football
+: director First Time?
+:

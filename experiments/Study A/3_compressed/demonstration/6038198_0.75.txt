@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what city Margaret Coit born?
+ A: Norwich
+: Who producer of Tron: Legacy?
+: Steven Lisberger
+ Q: What color is chalk?
+ A: white
+ Q: Who mother of Asher?
+: Zilpah
+: Who father of Sybilla of Normandy?
+: Henry I of England
+: Who composer of Manmadhudu?
+: Devi Sri Prasad
+: religion of Joseph Bambera?
+: Catholic Church
+: Jonathan Le Billon's occupation?
+: actor
+: Who director of Dutch?
+ A:

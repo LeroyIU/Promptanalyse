@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: screenwriter?
+: George Clooney
+: capital Lower Saxony?
+: Hanover
+: genre Picture This?
+: reality television
+: city Emily Hood Westacott born?
+: Brisbane
+: sport Robert Braet?
+:

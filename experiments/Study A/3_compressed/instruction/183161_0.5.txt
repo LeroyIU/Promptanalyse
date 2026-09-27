@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: religion William Ames?
+: Calvinism
+: sport Willie McCarter play?
+: basketball
+: genre Patience?
+: comic opera
+: director Island Desire?
+: Otis Turner
+: producer Deathstalker II?
+:

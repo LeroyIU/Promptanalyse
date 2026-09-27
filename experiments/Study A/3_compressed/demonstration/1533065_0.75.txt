@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Phenomenon?
+: Thomas Newman
+: What genre Dirk Gently?
+: detective fiction
+: what city Pete Donohue born?
+: Athens
+: Who director of Still Life?
+: Sohrab Shahid-Saless
+: religion of Cosmo Francesco Ruppi?
+: Catholic Church
+: Who father of Edward Lloyd-Mostyn, 2nd Baron Mostyn?
+: Edward Lloyd, 1st Baron Mostyn
+: Who mother of Henry of England?
+: Eleanor of Castile
+: Rich Brightman's occupation?
+: singer-songwriter
+: What color is Sheffield United F. C. ?
+:

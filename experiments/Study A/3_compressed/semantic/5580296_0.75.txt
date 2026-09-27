@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Apur Sansar?
+: Who produced work Apur Sansar?
+: Satyajit Ray
+: What capital of Oklahoma?
+: What capital city of Oklahoma?
+: Oklahoma City
+: In what city was Ingvild Bryn born?
+: Where Ingvild Bryn born?
+ A: Voss
+: Who mother of Wheeler Dryden?
+: Who mom of Wheeler Dryden?
+: Hannah Chaplin
+: Who screenwriter for Drive?
+: Who screenwriter for work 'Drive'?
+ A:

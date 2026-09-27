@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: mother Alexandros II Epirus?
+: mother?
+: Lanassa
+: father Sir Capel Molyneux, 3rd Baronet?
+: Sir Capel Molyneux, 3rd Baronet child what man?
+: Sir Thomas Molyneux, 1st Baronet
+: genre Photographical Congress Arrives Lyon?
+:?
+: documentary film
+: sport Abdulhadi Khalaf play?
+: athletic activity?
+: association football
+: what country Brown University?
+:?
+:

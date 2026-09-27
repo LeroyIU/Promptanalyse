@@ -1,0 +1,19 @@
+name entity.
+: city Lindsay Pagano born?
+: Philadelphia
+: mother Patrick Villiers Farrow?
+: Maureen O'Sullivan
+: genre Josephine Foster?
+: traditional music
+: director?
+: Ebrahim Hatamikia
+: country Atelierhaus Salzamt?
+: Austria
+: Henry Tizard?
+: chemist
+: color ruby?
+: red
+: composer Into Woods?
+: Stephen Sondheim
+: author Sword Shibito?
+:

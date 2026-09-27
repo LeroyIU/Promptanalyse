@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ Give name entity answer, without further text.
+: mother Allison Hirschlag?
+: Julia Barr
+: author Next?
+: Michael Crichton
+: color. Milan?
+:
+: capital Slovenia?
+: Ljubljana
+: screenwriter Unexpected?
+:

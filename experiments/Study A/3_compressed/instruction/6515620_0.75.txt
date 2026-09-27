@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: capital of Taitung County?
+: Taitung City
+ Q: Who director of Fists in the Pocket?
+: Marco Bellocchio
+ Q: In what city Dr. John born?
+: New Orleans
+ Q: Marina Baker's occupation?
+: Playboy Playmate
+: religion of Elizabeth II?
+ A:

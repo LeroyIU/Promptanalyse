@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Fire?
+ A: Jimi Hendrix
+: religion of Regis University?
+: Catholic Church
+: Who producer of Aag?
+: Raj Kapoor
+: capital of Yalutorovsky District?
+ A: Yalutorovsk
+: What color is Fleetwood Town F. C. ?
+: red
+: Domingo Eyzaguirre's occupation?
+: politician
+ Q: In what country is Vrap?
+: Albania
+: Who mother of Theobald II of Champagne?
+: Adela of Normandy
+: Who author of What I Was?
+:

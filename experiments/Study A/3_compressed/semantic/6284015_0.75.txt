@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was producer of Into the Sun?
+: Into the Sun produced by who?
+: Steven Seagal
+: Who author of New Keywords?
+: Who author 'New Keywords?
+: Tony Bennett
+: Who was screenwriter for Taxi?
+: Who screenwriter of Taxi?
+: Luc Besson
+: What genre is Stand Up?
+: What genre Stand Up belong to?
+: progressive rock
+: Who mother of Edward VI of England?
+: Who is mom of Edward VI of England?
+:

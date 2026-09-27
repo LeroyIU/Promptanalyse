@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+: What genre is Pressure?
+: reggae
+: What religion of Southwestern Christian University?
+: International Pentecostal Holiness Church
+: what country is King?
+: United States of America
+: What sport does C. D. Federal play?
+: association football
+: What color is snow?
+:

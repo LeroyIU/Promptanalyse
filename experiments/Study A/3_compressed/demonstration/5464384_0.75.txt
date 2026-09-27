@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Roper?
+ A: pop punk
+: capital of McDowell County?
+ A: Welch
+: mother of Prince Paul of Yugoslavia?
+: Aurora Pavlovna Demidova
+ Q: What color is Manchester United F. C. ?
+ A: red
+: father of Isaac Bowman?
+: George Bowman
+: What sport Angela Maxwell play?
+: figure skating
+: Eleanor Yule's occupation?
+: film director
+: what city Ge You born?
+: Beijing
+: Who author of Plus?
+ A:

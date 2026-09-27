@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who director Love Letter?
+: directed who?
+: Kinuyo Tanaka
+: Who screenwriter The Queen?
+:?
+: Peter Morgan
+: mother Aloysia Weber?
+: mother?
+: Cäcilia Weber
+: religion Caesar Baronius?
+: religious denomination?
+: Catholic Church
+: What sport Roberto Nani play?
+: Nani's sport?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport does Derby Carrillo play?
+ A: association football
+: Who author of What's Become of Waring?
+: Anthony Powell
+: What religion of William Ames?
+: Calvinism
+ Q: In what country is BT Group?
+: United Kingdom
+: In what city Jean Arp born?
+: Strasbourg
+: capital of Canton of Lucerne?
+: Lucerne
+: Who screenwriter for The Switch?
+: Allan Loeb
+: Who producer of Outbreak?
+: Wolfgang Petersen
+: Who composer of Darling?
+:

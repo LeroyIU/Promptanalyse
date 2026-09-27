@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what country is Neodesha?
+: associated with what country?
+: United States of America
+: Who author of Timeless?
+: Who authored Timeless?
+: Gail Carriger
+: Who father of Afonso II of Portugal?
+: Afonso II of Portugal's father is who?
+: Sancho I of Portugal
+: Who screenwriter for The Shining?
+: Who wrote script for Shining'?
+: Stanley Kubrick
+: Who mother of Phoenix?
+: Phoenix child of what woman?
+:

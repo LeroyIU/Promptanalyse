@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: sport Gimnasia Esgrima Santa Fe play?
+: association football
+: composer Can't Give Love,?
+: Jimmy McHugh
+: producer Criminal?
+: Steven Soderbergh
+: religion saint?
+: Christianity
+: author Time Again?
+:

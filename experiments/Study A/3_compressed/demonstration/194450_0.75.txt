@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Gimnasia y Esgrima de Santa Fe play?
+ A: association football
+ Q: Who composer of I Can't Give You Anything but Love, Baby?
+: Jimmy McHugh
+: Who producer of Criminal?
+: Steven Soderbergh
+: religion of saint?
+: Christianity
+: Claire Adams's occupation?
+: actor
+: What color Coventry City F. C. ?
+: sky blue
+: genre is The Crimson Kimono?
+: film noir
+: Who director of Emma?
+: Clarence Brown
+: Who author of Time and Again?
+:

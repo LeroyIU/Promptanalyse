@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Elizabeth II?
+: Elizabeth II's mother who?
+: Queen Elizabeth Queen Mother
+: capital of arrondissement of Niort?
+: government of arrondissement of Niort based where?
+: Niort
+ Q: Who producer of Butterfly?
+: Who produced work 'Butterfly'?
+: Matt Cimber
+: Who composer of Piano Concerto?
+: Who music writer Piano Concerto?
+: Tan Dun
+ Q: What color AFC Bournemouth?
+: What color AFC Bournemouth associated with?
+ A:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Nikola Eterović?
+ A: Catholic Church
+: Who composer of Symphony No. 8?
+: Einojuhani Rautavaara
+: Who producer of The Lie?
+: Independent Moving Pictures
+: Edward Drinker Cope's occupation?
+ A: geologist
+: Who mother of Cher?
+ A:

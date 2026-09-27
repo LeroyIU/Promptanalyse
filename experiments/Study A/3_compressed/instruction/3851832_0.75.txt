@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who screenwriter for A Night to Remember?
+: Eric Ambler
+ Q: Richard Franck's occupation?
+: composer
+ Q: Who director of 99?
+: Michael Curtiz
+: Who author of Recursion?
+: Tony Ballantyne
+: Who mother of Dasanavalaya Sorasongkram?
+ A:

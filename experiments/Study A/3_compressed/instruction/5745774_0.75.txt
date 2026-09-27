@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: religion of Joseph Merrick?
+ A: Baptists
+ Q: Alan Huckle's occupation?
+: diplomat
+: Who mother of Emmanuel Théodose de La Tour d'Auvergne?
+: Marie Anne Mancini
+ Q: Who screenwriter for The Candidate?
+: Elizabeth Sarnoff
+: Who composer of Shine?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: What sport Ceyda Aktaş play?
+: Ceyda Akta≈ü plays what sport?
+: volleyball
+: Who father of Demeter?
+: Demeter's father who?
+: Cronus
+: Who composer of Radio?
+: Who composed Radio?
+: Himesh Reshammiya
+: what country is Ena?
+: What country Ena associated with?
+: Japan
+: Who screenwriter for The Greatest?
+: Who in charge of writing of 'The Greatest'?
+:

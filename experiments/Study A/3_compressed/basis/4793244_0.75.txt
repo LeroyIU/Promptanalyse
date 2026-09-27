@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What sport Guyana women's national field hockey team play?
+: field hockey
+: Who mother of Bertrand Russell?
+: Katharine Russell, Viscountess Amberley
+: What color Coventry City F. C. ?
+: sky blue
+: capital of Denmark?
+: Copenhagen
+: what city was KK born?
+:

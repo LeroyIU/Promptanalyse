@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of The Proposal?
+: Sandra Bullock
+ Q: what country Tvedes Bryggeri?
+: Denmark
+: Who mother of Archduchess Maria Elisabeth of Austria?
+: Maria Theresa of Austria
+ Q: what city Jun Murai born?
+: Tokyo
+: Howard Fowles's occupation?
+:

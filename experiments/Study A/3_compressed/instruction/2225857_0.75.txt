@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What color is Exeter City F. C. ?
+: red
+: Who screenwriter for From Beyond?
+: Stuart Gordon
+: Who producer of Z?
+: Jacques Perrin
+: what country United States District Court for District of South Carolina?
+: United States of America
+: Who father of Brontis Jodorowsky?
+:

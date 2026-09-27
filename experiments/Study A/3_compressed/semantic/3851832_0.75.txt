@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for A Night to Remember?
+: Who wrote script for Remember?
+: Eric Ambler
+ Q: What Richard Franck's occupation?
+: Richard Franck earn living as?
+: composer
+ Q: Who director of 99?
+: Who directed work '99'?
+: Michael Curtiz
+ Q: Who author of Recursion?
+: authored Recursion?
+: Tony Ballantyne
+ Q: Who mother of Dasanavalaya Sorasongkram?
+: Dasanavalaya Sorasongkram child of what woman?
+ A:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+: Who mother of Alexander the Great?
+: Olympias
+: In what country is Avery?
+: United States of America
+: Who composer of Something There?
+: Alan Menken
+: capital of Northern Mariana Islands?
+: Saipan
+: Who author of Cathy's Key?
+: Sean Stewart
+: Who director of The East is Red?
+: Ching Siu-tung
+: What genre is Falcon Crest?
+: soap opera
+: What sport does Cheltenham Town F. C. play?
+: association football
+: What color flag of Vanuatu?
+:

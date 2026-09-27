@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city William Osler born?
+ A: Ontario
+ Q: What color York City F. C. ?
+ A: red
+: religion of Trevor Mwamba?
+ A: Anglicanism
+: What genre Ace Frehley?
+: hard rock
+: capital of Corrientes?
+ A: Corrientes
+: Who director of Normal?
+ A: Jesse Peretz
+: Who screenwriter for Manhattan?
+: Adam Horowitz
+: Leona Detiège's occupation?
+: politician
+: what country Goldasht, Sistan and Baluchestan?
+ A:

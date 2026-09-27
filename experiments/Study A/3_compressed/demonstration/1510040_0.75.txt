@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Disappearance of Haruhi Suzumiya?
+ A: Yasuhiro Takemoto
+: Uri Nakayama's occupation?
+: singer-songwriter
+: religion of bishop?
+: Christianity
+: What sport does Moneygall GAA play?
+: Gaelic football
+: Who composer of The Last Five Years?
+: Jason Robert Brown
+: capital of Prentiss County?
+: Booneville
+: what country is Chelsea?
+: United States of America
+: Who screenwriter for New World?
+: Park Hoon-jung
+: What color is Nottingham Forest F. C. ?
+ A:

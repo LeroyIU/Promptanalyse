@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of Assumption College for Sisters?
+: associated with what religion?
+: Catholic Church
+ Q: In what country is Australian Labor Party?
+: Where is Australian Labor Party?
+: Australia
+ Q: What sport does Anderson play?
+: Anderson's sport?
+: association football
+ Q: What Paris's occupation?
+: What job Paris do?
+: actor
+ Q: Who mother of Alexander I of Yugoslavia?
+: Alexander I's mother is who?
+:

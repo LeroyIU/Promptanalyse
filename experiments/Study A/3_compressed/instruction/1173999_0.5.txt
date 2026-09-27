@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: father Carl Grimes?
+: Rick Grimes
+: screenwriter Work?
+: Charlie Chaplin
+: composer Commitments?
+: Wilson Pickett
+: color Charlton Athletic F. ?
+: red
+: author Lest Remember?
+:

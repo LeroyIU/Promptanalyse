@@ -1,0 +1,19 @@
+entity.
+: screenwriter The Broken?
+: Sean Ellis
+: Pamela Winslow?
+: actor
+: father Pierre Joxe?
+: Louis Joxe
+: city Pete Donohue born?
+: Athens
+: composer Fog War?
+: Philip Glass
+: sport Bob Priddy?
+: basketball
+: author Hacker News?
+: Paul Graham
+: religion University Evansville?
+: United Methodist Church
+: genre Dragon?
+:

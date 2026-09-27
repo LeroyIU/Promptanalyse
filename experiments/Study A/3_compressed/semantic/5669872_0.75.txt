@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Michael II Apafi?
+: Who dad of Michael II Apafi?
+ A: Michael I Apafi
+ Q: What Vincenzo Di Nicola's occupation?
+: Vincenzo Di Nicola's job?
+: psychiatrist
+ Q: Who was screenwriter for The Wire?
+: Who in charge of screenwriting The Wire?
+: Ed Burns
+ Q: what city Veselin Vujović born?
+: What city Veselin Vujoviƒá from?
+: Cetinje
+ Q: Who producer of Saints and Soldiers: Airborne Creed?
+: Who producer:?
+ A:

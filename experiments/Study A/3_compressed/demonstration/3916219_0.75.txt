@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What T. P. Poonatchi's occupation?
+ A: politician
+: capital of Byzantine Empire?
+ A: Constantinople
+ Q: In what country is Cos?
+ A: France
+: What color is A. C. Milan?
+: red
+: Who mother of Emperor An of Jin?
+: Consort Chen Guinü
+: Who composer of Alice?
+: Bernardo Sassetti
+: religion of Frank White?
+: Anglicanism
+: Who director of Pilot?
+: Len Wiseman
+: Who producer of Dig?
+:

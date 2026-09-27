@@ -1,0 +1,11 @@
+Answer question name entity only. explain
+: mother Isaac?
+: Sara
+: color White House?
+: white
+: author Shadow?
+: Dean Wesley Smith
+: producer Jacket?
+: Steven Soderbergh
+: screenwriter Thrilling?
+:

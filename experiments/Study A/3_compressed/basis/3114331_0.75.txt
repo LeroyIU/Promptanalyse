@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Chelsea on the Edge?
+ A: Davi Napoleon
+: What capital of Commonwealth of Philippines?
+ A: Manila
+: Who composer of College?
+: Claudio Simonetti
+: Who producer of Ashes & Fire?
+: Glyn Johns
+: Who father of Ine?
+ A:

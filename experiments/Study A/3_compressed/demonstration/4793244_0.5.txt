@@ -1,0 +1,19 @@
+entity.
+: sport Guyana women's?
+: hockey
+: mother Bertrand Russell?
+: Katharine Russell, Viscountess Amberley
+: color Coventry City. ?
+: sky blue
+: capital Denmark?
+: Copenhagen
+: author Nature?
+: Ralph Waldo Emerson
+: Olav T. Laake?
+: politician
+: father Maximilian I Mexico?
+: Archduke Franz Karl Austria
+: canton Marseille-La Pomme?
+: France
+: city KK born?
+:

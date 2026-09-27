@@ -1,0 +1,19 @@
+entity.
+: producer Sleep?
+: Andy Warhol
+: director Mann?
+: Indra Kumar
+: Bill Kintner?
+: politician
+: sport Noëlle van Lottum?
+: tennis
+: city Charles Hyder born?
+: Albuquerque
+: Okunakayama-Kōgen Station?
+: Japan
+: religion Franciszek Rogaczewski?
+: Catholic Church
+: screenwriter Second Coming?
+: Terence Winter
+: mother James I Scotland?
+:

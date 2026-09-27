@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what city Mukhtar Mukhtarov born?
+ A: Lankaran
+: what country is La Chapelle-en-Vercors?
+: France
+: Who producer of Mod?
+: Nagesh Kukunoor
+: religion of Spring Arbor University?
+: Free Methodist Church
+: Who screenwriter for Thank You?
+:

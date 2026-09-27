@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Emperor He of Han?
+ A: Consort Liang
+: Who screenwriter for The Ten?
+: Ken Marino
+: Who author of Small g: Summer Idyll?
+: Patricia Highsmith
+: What sport Shaun Carey play?
+: association football
+: What color is ruby?
+: red
+: What Rusty Willoughby's occupation?
+: songwriter
+: What genre is The Family Man?
+: comedy-drama
+: what country is Norfolk?
+: United States of America
+: Who composer of Christmas Tree?
+:

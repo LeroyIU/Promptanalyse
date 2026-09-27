@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for La bonne année?
+ A: Claude Lelouch
+ Q: What sport Katie Taylor play?
+ A: boxing
+: Who composer of Our House?
+: Graham Nash
+ Q: what country is Saint-Paul?
+ A: Canada
+: Who author of Spiral?
+: Roderick Gordon
+: Who producer of Day After Day?
+: George Harrison
+: religion of Walter Carey?
+: Anglicanism
+: Jean-Marie-Victor Viel's occupation?
+: architect
+: Who director of The Amateur?
+ A:

@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: capital Colorado?
+: Denver
+: genre?
+: punk
+: sport?
+: football
+: screenwriter Secret?
+: Shinichi Sekizawa
+: author?
+:

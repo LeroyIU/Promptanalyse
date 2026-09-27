@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who screenwriter for The Notebook?
+ A: Jan Sardi
+: Who director of Saturday Night Live?
+: Beth McCarthy-Miller
+: Who father of Mohammad Ali Khan?
+: Karim Khan
+: What genre is Relax?
+ A: trance
+: Who producer of Navigator?
+ A:

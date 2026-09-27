@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Doomsday Book?
+: author Book who?
+ A: Connie Willis
+: Who was screenwriter for Love?
+: Who in charge of screenwriting of Love?
+ A: Doze Niu
+: What religion of Joseph-Médard Émard?
+: What religion Joseph-Médard Émard practice?
+ A: Catholic Church
+: What capital of Dominican Republic?
+: capital city of Dominican Republic?
+: Santo Domingo
+: Who director of The Assassin?
+: Who directed The Assassin?
+ A:

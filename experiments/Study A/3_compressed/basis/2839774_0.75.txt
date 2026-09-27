@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+ Q: Who was screenwriter for Drushyam?
+ A: Jeethu Joseph
+: What sport does Nicolás Martínez play?
+: association football
+: What color Fleetwood Town F. C. ?
+: red
+: What capital of Emilia-Romagna?
+: Bologna
+: Who father of Hera?
+:

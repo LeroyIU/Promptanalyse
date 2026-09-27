@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Staten Island?
+: Who wrote script for Staten Island?
+: James DeMonaco
+: capital of Alaska?
+: what city government of Alaska based?
+: Juneau
+ Q: Who composer of Clockwise?
+: Who music writer of Clockwise?
+: George Fenton
+ Q: what city Tuomo Suomalainen born?
+: Where Tuomo Suomalainen born?
+: Gogland
+ Q: What sport does Noumandiez Doué play?
+: What Noumandiez Doué play?
+:

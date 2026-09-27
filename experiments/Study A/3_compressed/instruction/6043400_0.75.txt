@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity answer, without further text.
+ Q: Who father of Demeter?
+: Cronus
+: What genre is Alien Terminator?
+: action film
+: What sport does Didier Défago play?
+: alpine skiing
+: What color is ruby?
+: red
+: Who director of Tum Bin?
+:

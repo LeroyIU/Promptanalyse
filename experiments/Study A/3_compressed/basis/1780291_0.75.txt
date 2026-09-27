@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who producer of Persuasion?
+: BBC
+: Who screenwriter for Brazil?
+: Terry Gilliam
+ Q: Ya'akov Ahimeir's occupation?
+: journalist
+: Who composer of Airport?
+: Alfred Newman
+ Q: What genre is Free & Easy?
+ A:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: color flag Zimbabwe?
+: red
+: sport Shahrul Azhar Ture play?
+: association football
+: composer Time?
+: Jeff Daniels
+: Robert Jonckheere?
+: astronomer
+: producer Economics Happiness?
+:

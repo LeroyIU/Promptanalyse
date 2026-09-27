@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What sport does Deontay Greenberry play?
+ A: American football
+: Who author of The Book?
+: H. P. Lovecraft
+: Who mother of Mary of Waltham?
+: Philippa of Hainault
+ Q: what country is Łazy, Sierpc County?
+ A: Poland
+: Who father of Charismatic?
+: Summer Squall
+: capital of Chittenden County?
+: Burlington
+: religion of Antonio Hernández Gallegos?
+: Catholic Church
+: What genre is Sripada Pinakapani?
+: Carnatic music
+: Who director of Allen?
+:

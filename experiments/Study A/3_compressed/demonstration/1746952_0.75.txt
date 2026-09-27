@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Deportivo San Pedro play?
+: association football
+ Q: what country Wethersfield?
+: United States of America
+: Who father of Joseph?
+: Jacob
+: Michael Lynton's occupation?
+: chief executive officer
+: what city Izaskun Zubizarreta Gerendiain born?
+: Oiartzun
+ Q: What color is FC Internazionale Milano?
+: black
+: Who mother of Thomas Jefferson?
+: Jane Randolph Jefferson
+: What genre At Sunset?
+: pop rock
+: Who director of The Island?
+:

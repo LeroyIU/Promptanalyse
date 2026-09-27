@@ -1,0 +1,11 @@
+Answer question name entity.
+: sport Peter Bircumshaw play?
+: association football
+: producer Blue?
+: Birthday Massacre
+: father Brad Armstrong?
+: Bob Armstrong
+: director Chicken Party?
+: Tate Taylor
+: capital Mayotte?
+:

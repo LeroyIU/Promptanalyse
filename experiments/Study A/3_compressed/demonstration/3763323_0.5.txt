@@ -1,0 +1,19 @@
+Answer question name entity. explain
+: country Sabiote?
+: Spain
+: religion Regis University?
+: Catholic Church
+: genre Operator?
+: post-grunge
+: composer Fog?
+: John Carpenter
+: author Bone?
+: Jeff Smith
+: producer Source Code?
+: Mark Gordon
+: capital Khouribga Province?
+:
+: Mike Flanagan?
+: screenwriter
+: father Colcu Domnaill?
+:

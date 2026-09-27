@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: What capital of Meta?
+: Villavicencio
+: Who mother of Dawn Summers?
+: Joyce Summers
+: What color is Coventry City F. C ?
+: sky blue
+: What genre is Frans Floris I?
+: Northern Renaissance
+: religion of Ajitanatha?
+:

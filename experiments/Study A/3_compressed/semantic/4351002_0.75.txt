@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who mother of Florence Reed?
+: Which woman raised Florence Reed?
+: Isadore Rush
+: What color is chalk?
+: What color chalk associated with?
+: white
+: What sport Bedworth United F. C. play?
+: What athletic activity Bedworth United F. C. associated with?
+: association football
+: What religion of Paschal Triduum?
+: What Paschal Triduum's religion?
+: Christianity
+: Who author of Haunted?
+: Haunted written by who?
+:

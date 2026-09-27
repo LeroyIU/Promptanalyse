@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: what country is Stari Ras?
+: What country Stari Ras associated with?
+ A: Serbia
+ Q: What genre is Water?
+: Fans of what genre like Water?
+: comedy film
+: what city Raimonds Vilde born?
+: What town Raimonds Vilde born in?
+: Riga
+: What capital of Curaçao?
+: What capital city of Curaçao?
+: Willemstad
+: Who author of Moreninha?
+: Who authored Moreninha?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Franciszek Rogaczewski?
+ A: Catholic Church
+ Q: Who composer of Legend?
+: Devi Sri Prasad
+: Who screenwriter for The Bet?
+: Didier Bourdon
+: In what country is Auberge d'Angleterre?
+: Malta
+: capital of Province of New Jersey?
+: Elizabeth
+: In what city Robin Williams born?
+: Christchurch
+: What color is Exeter City F. C. ?
+: red
+: Who mother of Barack Obama?
+: Ann Dunham
+: Who director of Eva?
+:

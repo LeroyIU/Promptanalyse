@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who mother Rama?
+: Rama?
+: Kausalya
+: what country Babino, Haiti?
+: What country Babino, Haiti associated?
+: Haiti
+: producer 1977?
+: 1977 produced who?
+:. Sarathkumar
+: What genre Moment in Time?
+: genre?
+: film
+: capital Philippines?
+: capital city Philippines?
+:

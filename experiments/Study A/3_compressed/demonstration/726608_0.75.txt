@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of Montserrat?
+ A: Brades
+: Who author of Hagarism?
+: Patricia Crone
+: Who composer of All Because of You?
+: Avril Lavigne
+: Who mother of Alexander the Great?
+: Olympias
+: In what city Robley Dunglison Evans born?
+: Floyd County
+: Who father of Alfred Jefferis Turner?
+: Frederick Storrs Turner
+: What color is Manchester United F. C. ?
+: red
+: what country is Francheville Aerodrome?
+: France
+: Who producer of Life?
+ A:

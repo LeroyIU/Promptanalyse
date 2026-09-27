@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: director Crazy?
+: Drake Doremus
+: sport Thiago Quirino play?
+: association football
+: color Atlético Madrid?
+: red
+: genre Timeless Records?
+: jazz
+: father Abbot Oliba?
+:

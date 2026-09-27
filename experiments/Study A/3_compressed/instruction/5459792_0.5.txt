@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: sport Simon Tahamata play?
+: association football
+: director Immunity Syndrome?
+: Joseph Pevney
+: color Coventry City F. ?
+: sky blue
+: producer Recovery?
+: Dr. Dre
+: author Places Never Meant Be?
+:

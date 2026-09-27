@@ -1,0 +1,16 @@
+entity.
+: country Belavia?
+:?
+:
+: capital Ethiopia?
+:?
+: Addis Ababa
+: screenwriter?
+:?
+:
+: Luis Reece?
+:?
+:
+: composer Patience?
+:?
+:

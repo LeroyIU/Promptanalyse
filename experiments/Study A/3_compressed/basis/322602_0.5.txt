@@ -1,0 +1,11 @@
+Answer question name entity.
+: director Rack?
+: Arnold Laven
+: producer Resident Evil 2?
+: Shinji Mikami
+: author Aida?
+: Linda Woolverton
+: screenwriter Reader?
+: David Hare
+: religion Dinesh D'Souza?
+:

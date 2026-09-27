@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who composer of La Silvia?
+ A: Antonio Vivaldi
+: What color is Charlton Athletic F. C. ?
+: red
+: What genre is The Take?
+: punk rock
+: capital of Arizona?
+: Phoenix
+: Who screenwriter for Angels & Demons?
+:

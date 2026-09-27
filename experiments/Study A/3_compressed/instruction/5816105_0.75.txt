@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: What capital of Indre-et-Loire?
+: Tours
+: What color is Fleetwood Town F. C. ?
+: red
+: What genre is Christine?
+: horror literature
+: Who director of Bullet?
+: Julien Temple
+: what country is Indiana State Road 5?
+:

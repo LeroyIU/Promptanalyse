@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Alexandros II of Epirus?
+: Lanassa
+: Who father of Sir Capel Molyneux, 3rd Baronet?
+: Sir Thomas Molyneux, 1st Baronet
+: What genre Photographical Congress Arrives in Lyon?
+: documentary film
+: What sport Abdulhadi Khalaf play?
+: association football
+: what city Juha Jokela born?
+: Tampere
+: John Blake, Jr. 's occupation?
+: politician
+: What color Manchester United F. C. ?
+: red
+: Who producer of The Lady?
+: Luc Besson
+: what country Brown University?
+:

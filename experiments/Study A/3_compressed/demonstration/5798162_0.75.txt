@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Huw Edwards?
+ A: Hywel Teifi Edwards
+: What capital of South Africa?
+: Bloemfontein
+: Who mother of Hou Ji?
+: Jiang Yuan
+: In what city was Tuomo Suomalainen born?
+: Gogland
+: Who composer of Rebecca?
+: Sylvester Levay
+: What color is Manchester United F. C. ?
+: red
+: religion of Gerald Frederick Kicanas?
+: Catholic Church
+: Who author of Common Ground?
+: J. Anthony Lukas
+: What genre is Special?
+:

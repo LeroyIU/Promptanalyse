@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of South Dakota?
+ A: Pierre
+: Who producer of Let It Be?
+: The Beatles
+: father of Griffin O'Neal?
+: Ryan O'Neal
+: Who composer of Captain EO?
+: James Horner
+: What color is York City F. C. ?
+: red
+: what country is Ittamalliyagoda?
+: Sri Lanka
+: Who director of A Hole in the Head?
+: Frank Capra
+: mother of Cornelia Otis Skinner?
+: Maud Durbin
+: What genre is Chamber of Horrors?
+ A:

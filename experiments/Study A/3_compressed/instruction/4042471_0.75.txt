@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What color is Doncaster Rovers F. C. ?
+: red
+: capital of South Korea?
+: Seoul
+: Who composer of That Was Then?
+: David Was
+: Who was producer of The Brat?
+: Alla Nazimova
+: What genre is Epidemic?
+:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport does Deportivo San Pedro play?
+: association football
+ Q: what country is Wethersfield?
+: United States of America
+: Who father of Joseph?
+: Jacob
+: Michael Lynton's occupation?
+: chief executive officer
+: Who director of The Island?
+:

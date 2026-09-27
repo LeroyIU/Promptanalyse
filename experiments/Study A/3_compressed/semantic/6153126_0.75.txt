@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: Who author of Down?
+: Who authored Down?
+: Lawrence Miles
+: Who was composer of Opera?
+: Who composed 'Opera'?
+: Brian Eno
+: In what country is Javar Tan?
+: what country Javar Tan located?
+: Iran
+: What genre is Slim Gaillard?
+: What genre Slim Gaillard belong to?
+: jazz
+: What religion of Armenians?
+: What Armenians's religion?
+:

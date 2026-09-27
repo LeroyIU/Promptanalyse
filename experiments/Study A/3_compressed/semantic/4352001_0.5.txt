@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: what city Jason Bourque born?
+:?
+: Vancouver
+: Who producer Francis?
+: charge production 'Francis'?
+: Universal Pictures
+: country Wilcza Jama, Sokółka County?
+:, country?
+: Poland
+: Who screenwriter Morning Raga?
+: written who?
+: Mahesh Dattani
+: director Hawaii?
+: Who directed work Hawaii?
+:

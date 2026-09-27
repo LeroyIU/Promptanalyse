@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Jaakko Laakso born?
+: Jaakko Laakso from what city?
+: Turku
+: What sport Cho Keung-yeon play?
+: Cho Keung-yeon plays what sport?
+: association football
+: Who composer of Take Me Along?
+: Who music writer Take Me Along?
+: Bob Merrill
+: Who mother of Horus?
+: Who gave birth to Horus?
+: Isis
+: what country Dragočaj?
+: What country Dragoƒçaj associated with?
+ A:

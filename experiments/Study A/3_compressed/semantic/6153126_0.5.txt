@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who author Down?
+: authored?
+: Lawrence Miles
+: composer Opera?
+: Who composed 'Opera?
+: Brian Eno
+: what country Javar Tan?
+: country located?
+: Iran
+: What genre Slim Gaillard?
+: genre?
+: jazz
+: religion Armenians?
+: Armenians religion?
+:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what city Richard Rawlinson born?
+: London
+ Q: What genre Ninja Boy II?
+: action role-playing game
+: Who mother of Helen of Troy?
+: Leda
+: Claire Berlinski's occupation?
+: journalist
+: What sport does 1994 Swedish Open play?
+:

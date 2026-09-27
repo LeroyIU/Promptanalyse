@@ -1,0 +1,19 @@
+Answer name entity.
+: screenwriter Collection?
+: Matt Hubbard
+: city William Collins born?
+: London
+: composer Just So?
+: George Stiles
+: sport Peggy Lokando?
+: association football
+: genre Beck?
+: alternative rock
+: religion Rino Fisichella?
+: Catholic Church
+: John Jay?
+: diplomat
+: color Doncaster Rovers. ?
+: red
+: author Report Academy?
+:

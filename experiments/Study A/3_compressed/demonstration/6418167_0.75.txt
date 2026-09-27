@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Success?
+ A: Jonathan Cape
+: What sport Dimitri Pätzold play?
+: ice hockey
+: What color is A. C. Milan?
+: red
+: Who screenwriter for Amal?
+: Richie Mehta
+: what city János Ferencsik born?
+: Budapest
+: Who director of Charlotte?
+: Frans Weisz
+: what country is Orefield?
+: United States of America
+: What genre is Fablehaven?
+: fantasy literature
+: capital of Brunei?
+ A:

@@ -1,0 +1,19 @@
+entity.
+: screenwriter Gravity?
+: George Clooney
+: capital Lower Saxony?
+: Hanover
+: genre Picture This?
+: reality television
+: Emily Hood Westacott born?
+: Brisbane
+: author Rewind?
+: William Sleator
+: director The Tomb?
+: Fred Olen Ray
+: father Clem Michael?
+: Stephen Michael
+: producer A Man and Woman?
+: Lelouch
+: sport Robert Braet?
+:

@@ -1,0 +1,11 @@
+Answer name entity.
+: religion William Ames?
+: Calvinism
+: sport Willie McCarter play?
+: basketball
+: genre Patience?
+: comic opera
+: director Island Desire?
+: Otis Turner
+: producer Deathstalker II?
+:

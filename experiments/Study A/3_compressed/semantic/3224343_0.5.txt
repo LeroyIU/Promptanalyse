@@ -1,0 +1,16 @@
+Answer question name entity.
+: What sport Tranmere Rovers F. C play?
+: Tranmere Rovers. associated sport?
+: association football
+: What color ruby?
+: ruby colored?
+: red
+: mother Esau?
+: Esau child woman?
+:
+: religion Muhammad Ali?
+: religion Ali associated?
+: Nation Islam
+: director Key?
+: Key directed who?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Carl Grimes?
+: Rick Grimes
+: Who was screenwriter for Work?
+: Charlie Chaplin
+: Who composer of Commitments?
+: Wilson Pickett
+: What color is Charlton Athletic F. C. ?
+: red
+: Who author of Lest We Remember?
+:

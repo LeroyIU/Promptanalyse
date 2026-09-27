@@ -1,0 +1,19 @@
+Answer question name entity.
+: author Leaving Home?
+: David French
+: director Reef?
+: Robert Allan Ackerman
+: genre Unknown?
+: mystery film
+: color York City. ?
+: red
+: producer Disclosure?
+: Michael Crichton
+: religion Trevor Mwamba?
+: Anglicanism
+: father Prince Alexander Netherlands?
+: William II Netherlands
+: country Post Carbon Institute?
+: United States America
+: composer Little Prince?
+:

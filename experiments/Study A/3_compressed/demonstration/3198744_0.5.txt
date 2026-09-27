@@ -1,0 +1,19 @@
+name entity.
+: country Stari Ras?
+: Serbia
+: genre Water?
+: comedy film
+: city Raimonds Vilde born?
+: Riga
+: capital Curaçao?
+: Willemstad
+: producer Vinci?
+: Juliusz Machulski
+: sport Gianluca Comotto play?
+: football
+: director Devotion?
+: Curtis Bernhardt
+: color Atlético Madrid?
+:
+: author Moreninha?
+:

@@ -1,0 +1,19 @@
+entity.
+: color chalk?
+: white
+: country Adams?
+: United States
+: religion Grand Duchy Finland?
+: Evangelical Lutheran Church
+: genre Rush?
+: progressive rock
+: director Wings Destiny?
+: Rupert Kathner
+: screenwriter Big Road?
+: Sun Yu
+: father Bal Thackeray?
+: Prabodhankar Thackeray
+: Enos Thompson Throop?
+: diplomat
+: mother Elizabeth Stewart, Crawford?
+:

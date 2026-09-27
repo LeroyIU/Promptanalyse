@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for The Broken?
+ A: Sean Ellis
+: Pamela Winslow's occupation?
+: actor
+: Who father of Pierre Joxe?
+: Louis Joxe
+ Q: what city Pete Donohue born?
+: Athens
+: Who composer of The Fog of War?
+: Philip Glass
+ Q: What sport Bob Priddy play?
+: basketball
+: Who author of Hacker News?
+: Paul Graham
+: religion of University of Evansville?
+: United Methodist Church
+: What genre is Dragon?
+ A:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Rose Beaudet's occupation?
+: actor
+: What sport Jukka Tammi play?
+: ice hockey
+: What color Fleetwood Town F. C. ?
+: red
+: What genre is Martin Garrix?
+: electronic dance music
+: Who composer of Happy?
+:

@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity answer, without further text.
+ Q: religion of Pedro Lisímaco de Jesús Vílchez Vílchez?
+: Catholic Church
+: what city Francisco Fernández de la Cueva, 10th Duke of Alburquerque born?
+: Genoa
+: Frequency's occupation?
+: disc jockey
+: Who director of Great Expectations?
+: Jason Winer
+: What sport does list Azerbaijan football transfers winter 2012 play?
+:

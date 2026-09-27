@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Demeter?
+ A: Cronus
+ Q: George Rankin's occupation?
+: politician
+: Who composer of The Graduate?
+: Dave Grusin
+: Who mother of Cornelia Otis Skinner?
+: Maud Durbin
+: religion of Bellino Giusto Ghirard?
+ A:

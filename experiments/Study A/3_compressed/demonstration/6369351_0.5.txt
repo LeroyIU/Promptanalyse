@@ -1,0 +1,19 @@
+name entity.
+: producer Stolen?
+: Josh Lucas
+: author Game Over?
+: David Sheff
+: capital Kievan Rus?
+: Kyiv
+: sport Margarita Louis-Dreyfus play?
+: football
+: city Sam Storey born?
+: Belfast
+: country Morales Campos?
+: Spain
+: screenwriter Shaft?
+: John Singleton
+: religion John Calvin?
+: Protestantism
+: color apple?
+:

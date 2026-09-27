@@ -1,0 +1,11 @@
+question name entity.
+: city Jaakko Laakso born?
+: Turku
+: sport Cho Keung-yeon play?
+: association football
+: composer Take Me Along?
+: Bob Merrill
+: mother Horus?
+:
+: country Dragočaj?
+:

@@ -1,0 +1,16 @@
+entity.
+: color chalk?
+:?
+: white
+: director?
+:?
+: Juan Diego Solanas
+: religion Marilyn Monroe?
+:?
+: Judaism
+: capital?
+:?
+:
+: genre?
+:?
+:

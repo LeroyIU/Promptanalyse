@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of David Mills?
+: What religion David Mills practice?
+ A: atheism
+: Who father of Natalia Kukulska?
+: Natalia Kukulska's father who?
+: Jarosław Kukulski
+: Who mother of Tridu Songtsen?
+: Which woman raised Tridu Songtsen?
+: Khri ma lod
+: What capital of Georgia?
+: Georgia's capital?
+: Kutaisi
+: Who screenwriter for Abouna?
+: Who wrote script for 'Abouna'?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Montenegro?
+ A: Podgorica
+: Who mother of Paula Weinstein?
+: Hannah Weinstein
+: What sport Josh Vanlandingham play?
+ A: basketball
+: what country is Whited Township?
+: United States of America
+: What genre is Police?
+:

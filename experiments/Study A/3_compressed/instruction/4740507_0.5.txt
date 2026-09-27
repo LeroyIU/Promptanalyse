@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Talia Balsam?
+: Martin Balsam
+: genre Main Course?
+: disco
+: sport Josh Vanlandingham play?
+: basketball
+: producer Separation?
+: Asghar Farhadi
+: capital Grand Duchy Finland?
+:

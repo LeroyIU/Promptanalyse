@@ -1,0 +1,16 @@
+Answer question name entity.
+: genre Ross Macdonald?
+: type work Macdonald?
+: detective fiction
+: producer More?
+: charge production?
+: Barbet Schroeder
+: city James M. Bingham born?
+: James. Bingham hometown?
+: Perry
+: color Exeter City F. C ?
+: Exeter City. colored?
+: red
+: country Directorate Military Intelligence?
+: associated country?
+:

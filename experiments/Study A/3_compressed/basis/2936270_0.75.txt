@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Isaac?
+ A: Sara
+: What color is White House?
+: white
+: Who author of Shadow?
+: Dean Wesley Smith
+: Who producer of The Jacket?
+: Steven Soderbergh
+: Who screenwriter for Thrilling?
+ A:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What T. P. Poonatchi's occupation?
+: T. P. Poonatchi's job?
+ A: politician
+: capital of Byzantine Empire?
+: capital city of Byzantine Empire?
+: Constantinople
+: In what country is Cos?
+: What country find Cos in?
+: France
+: What color is A. C. Milan?
+: What color A. C. Milan associated with?
+: red
+: Who producer of Dig?
+: Who in charge of production of 'Dig'?
+:

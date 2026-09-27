@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Ritual?
+: Who authored Ritual?
+ A: Adam Nevill
+ Q: capital of Ukrainian Soviet Socialist Republic?
+: government of Ukrainian Soviet Republic based where?
+ A: Kyiv
+ Q: What color flag of Zimbabwe?
+: color flag Zimbabwe associated with?
+ A: red
+ Q: What sport Christo van Rensburg play?
+: associated with what sport?
+: tennis
+ Q: Zhu Houren's occupation?
+: Zhu Houren's job?
+ A:

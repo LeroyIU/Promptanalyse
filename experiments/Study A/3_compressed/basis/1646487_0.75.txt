@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+ Q: What genre is Idaho?
+ A: Western film
+ Q: what city Stone born?
+: Paris
+ Q: Who director of Michael?
+: Carl Theodor Dreyer
+: Who producer of X?
+: Roger Corman
+: What color fire engine?
+ A:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: capital of Southwest?
+ A: Buea
+ Q: Who father of Willie Geist?
+ A: Bill Geist
+: religion of Enchin?
+ A: Buddhism
+: Who author of Nature?
+: Ralph Waldo Emerson
+: Jason Reitman's occupation?
+: film director
+: In what city Yinka Ayenuwa born?
+ A: Warri
+: What color flag of Zimbabwe?
+: red
+: producer of Look Around You?
+: Peter Serafinowicz
+ Q: What genre is Species?
+ A:

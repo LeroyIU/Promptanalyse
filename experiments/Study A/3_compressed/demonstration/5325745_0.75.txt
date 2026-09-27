@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Queen's Nose?
+ A: Dick King-Smith
+: Who screenwriter for Boomerang?
+ A: Alain Delon
+: Who producer of Da?
+: Julie Corman
+: What genre is Do Over?
+: comedy-drama
+: what country is canton of Marseille-La Pomme?
+: France
+: capital of Pomorie Municipality?
+: Pomorie
+: Who composer of Die Heimkehr aus der Fremde?
+: Felix Mendelssohn
+: what city Esau Tjiuoro born?
+: Okakarara
+: Who father of Mwanga II of Buganda?
+:

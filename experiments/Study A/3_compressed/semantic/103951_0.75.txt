@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Onela?
+: Onela's father who?
+ A: Ongentheow
+: Who screenwriter for On the Avenue?
+: Who screenwriter work On Avenue?
+ A: Irving Berlin
+: Who composer of Thinking of You?
+: Who composed Thinking of You?
+: Katy Perry
+: What religion of Marjorie Cameron?
+: What Marjorie Cameron's religion?
+ A: Thelema
+: What capital of Shire of Cook?
+: What capital city of Shire of Cook?
+ A:

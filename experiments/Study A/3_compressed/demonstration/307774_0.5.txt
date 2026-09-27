@@ -1,0 +1,19 @@
+name entity.
+: country Rockcastle River?
+: United States
+: genre Up in the Air?
+: film
+: city Karl Bartholomaeus Heller born?
+: Moravia
+: sport Bob Priddy?
+: basketball
+: composer Diamonds?
+: Jerry Lordan
+: director Love Letter?
+: Dan Curtis
+: author By Gods Beloved?
+: Emma Orczy
+: father Phoenix?
+: Agenor
+: screenwriter Duellists?
+:

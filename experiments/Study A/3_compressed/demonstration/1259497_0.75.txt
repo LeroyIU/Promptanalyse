@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Mud?
+ A: Jeff Nichols
+: What genre is The Congress?
+: documentary film
+: what city Tsugumi Higasayama born?
+: Saitama Prefecture
+: What color is Fleetwood Town F. C. ?
+: red
+: Who composer of Oklahoma!?
+: Richard Rodgers
+: Who father of Margaret of England?
+: Edward I of England
+: Who producer of Music?
+: William Orbit
+: what country is Buford High School?
+: United States of America
+: capital of Quebec?
+:

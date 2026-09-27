@@ -1,0 +1,16 @@
+Answer question with name entity only. not explain.
+: What genre is Pressure?
+: Pressure associated with what genre?
+: reggae
+: religion of Southwestern Christian University?
+: What religion Southwestern Christian University associated with?
+: International Pentecostal Holiness Church
+: what country is King?
+: What country find King in?
+: United States of America
+: What sport C. D. Federal play?
+: What athletic activity C. D. Federal associated with?
+: association football
+: What color is snow?
+: snow associated with what color?
+:

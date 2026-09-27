@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: producer Happy Gilmore?
+: Robert Simonds
+: Kekko Fornarelli?
+: composer
+: screenwriter Skin?
+: Sarah Kane
+: city John XIX born?
+: Rome
+: father Ariarathes VI Cappadocia?
+:

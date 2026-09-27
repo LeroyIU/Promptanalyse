@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Talia Balsam?
+: Martin Balsam
+: What genre is Main Course?
+: disco
+: What sport Josh Vanlandingham play?
+: basketball
+: Who producer of A Separation?
+: Asghar Farhadi
+: Who director of Plastic?
+: Julian Gilbey
+: what country is Maryland Route 214?
+: United States of America
+: What color is White House?
+: white
+: Who author of Why I Write?
+: George Orwell
+: What capital of Grand Duchy of Finland?
+:

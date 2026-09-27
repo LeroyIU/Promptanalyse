@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of Franciszek Rogaczewski?
+: Franciszek's religion?
+: Catholic Church
+ Q: Who composer of Legend?
+: Who music writer of Legend?
+: Devi Sri Prasad
+ Q: Who screenwriter for The Bet?
+: Who in charge of screenwriting The Bet?
+: Didier Bourdon
+ Q: In what country is Auberge d'Angleterre?
+: Where Auberge'Angleterre?
+: Malta
+: Who director of Eva?
+: Who in charge of direction of Eva?
+:

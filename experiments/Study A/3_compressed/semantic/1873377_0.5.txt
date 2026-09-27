@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who father Ahimelech?
+: dad Ahimelech?
+: Ahitub
+: what country Archipelago Museum?
+: country Museum?
+: Finland
+: color Atlético de Madrid?
+: colored?
+: red
+: author Timeline?
+:?
+: Michael Crichton
+: What genre Thomas Morris?
+: Morris?
+:

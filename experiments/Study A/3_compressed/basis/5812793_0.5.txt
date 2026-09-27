@@ -1,0 +1,11 @@
+entity.
+: screenwriter Report?
+: Abbas Kiarostami
+: Joanna Elisabeth-Gottorp?
+: Gottorf Castle
+: mother Queen Marie?
+: Grand Duchess Maria Alexandrovna Russia
+: father T. E. Lawrence?
+: Sir Thomas Chapman, 7th Baronet
+: author Stand By Your Screen?
+:

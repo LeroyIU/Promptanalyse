@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what country is Belavia?
+ A: Belarus
+: capital of Ethiopia?
+: Addis Ababa
+ Q: Who screenwriter for One Night?
+: Lucas Belvaux
+ Q: In what city was Luis Reece born?
+: Taunton
+: Who author of Find Me?
+: Rosie O'Donnell
+: Who mother of Isaac?
+: Sara
+: Who producer of Tron: Legacy?
+: Steven Lisberger
+: religion of Gustav Adolf, Cardinal Prince of Hohenlohe-Schillingfürst?
+: Catholic Church
+: Who composer of Patience?
+:

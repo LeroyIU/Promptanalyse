@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: father Adad?
+: Anu
+: sport Damla Çakıroğlu play?
+: volleyball
+: screenwriter China?
+: Halsted
+: producer Kiss?
+: Thomas Alva Edison
+: city Gabriella Di Laccio born?
+:

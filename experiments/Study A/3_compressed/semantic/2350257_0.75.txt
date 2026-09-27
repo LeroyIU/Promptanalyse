@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: What color is Carlisle United F. C. ?
+: What color Carlisle United F. C. associated with?
+: red
+: Who screenwriter for The Queen?
+: Who screenwriter of 'The Queen'?
+: Peter Morgan
+: Who composer of Irandam Ulagam?
+: Who composed Irandam Ulagam?
+: Harris Jayaraj
+: What religion of T. S. Eliot?
+: T. S. Eliot associated with what religion?
+: Unitarianism
+: Who director of The Runner?
+: Who director of 'The Runner'?
+:

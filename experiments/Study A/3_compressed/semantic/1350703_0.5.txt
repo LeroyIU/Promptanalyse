@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: What sport Kaisa Varis play?
+:?
+: biathlon
+: Who author Secret Life of Plants?
+:?
+: Peter Tompkins
+: composer The American President?
+: music President?
+: Marc Shaiman
+: Who screenwriter for She?
+:?
+: H. Rider Haggard
+: father Gevherhan Hatun?
+: Which man raised Gevherhan Hatun?
+:

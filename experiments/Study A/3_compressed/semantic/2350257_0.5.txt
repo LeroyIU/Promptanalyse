@@ -1,0 +1,16 @@
+Answer question name entity. explain.
+: What color Carlisle United F. C. ?
+: color Carlisle United. associated?
+: red
+: Who screenwriter Queen?
+: screenwriter Queen'?
+: Peter Morgan
+: composer Irandam Ulagam?
+: composed Ulagam?
+: Harris Jayaraj
+: religion T. S Eliot?
+:. associated religion?
+: Unitarianism
+: Who director Runner?
+: Runner'?
+:

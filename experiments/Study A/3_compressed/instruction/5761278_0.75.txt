@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity as answer, without further text.
+ Q: Who mother of Ganesha?
+: Parvati
+ Q: What sport Mohammed Amine Kabli play?
+: association football
+: Who composer of That's What Love Is Made Of?
+: Smokey Robinson
+: Who producer of Airport?
+: Anubhav Sinha
+: What Sudarshan Faakir's occupation?
+:

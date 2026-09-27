@@ -1,0 +1,19 @@
+name entity.
+: author James Bond?
+: Ian Fleming
+: country Riethnordhausen?
+: Germany
+: composer Nalla Thambi?
+: Ilaiyaraaja
+: sport Michael Gibson?
+: football
+: producer Look Around You?
+: Peter Serafinowicz
+: genre Test?
+: short story
+: screenwriter One Night?
+: Lucas Belvaux
+: director Man Trap?
+: Marc Daniels
+: father Sophie Legnica?
+:

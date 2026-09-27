@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was screenwriter for The Collection?
+: Who screenwriter work Collection?
+: Matt Hubbard
+: what city William Collins born?
+: What William Collins's hometown?
+: London
+: Who composer of Just So?
+: Just So composed by who?
+: George Stiles
+: What sport Peggy Lokando play?
+: Peggy Lokando plays what sport?
+: association football
+: Who author of A Report to an Academy?
+: Who wrote A Report to an Academy?
+:

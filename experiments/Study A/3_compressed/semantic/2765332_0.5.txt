@@ -1,0 +1,16 @@
+Answer question name entity only. explain
+: Who father of Smile?
+: Smile's father?
+: Reality
+: What genre Discount?
+:?
+: punk rock
+: What color White House?
+: associated?
+: white
+: what city Maarten van Severen born?
+: Severen's hometown?
+: Antwerp
+: religion Aung San Suu Kyi?
+: religious denomination?
+:

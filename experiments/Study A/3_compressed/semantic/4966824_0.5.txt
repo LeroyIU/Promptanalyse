@@ -1,0 +1,16 @@
+Answer question name entity only. explain
+: Who director By Indian Post?
+:?
+: John Ford
+: What genre Hate?
+:?
+: black metal
+: Who screenwriter The Fever?
+: Who wrote script Fever'?
+: Wallace Shawn
+: capital of Meta?
+: government Meta based where?
+: Villavicencio
+: what country Lima?
+: country?
+:

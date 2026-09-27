@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Mohammad Ali Khan?
+: Karim Khan
+: director Affair?
+: Carl Colpaert
+: genre Prototype?
+: science fiction film
+: country Akshara School?
+: India
+: mother Matilda Scotland?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who mother of Charles Washington?
+: Mary Ball Washington
+: what city Donnchad mac Briain born?
+: Ireland
+: Who director of The Shipment?
+: David Straiton
+: What sport does Mateo Pavlović play?
+: association football
+: Who author of Lower Depths?
+:

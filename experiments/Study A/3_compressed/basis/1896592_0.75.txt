@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: What religion of Joseph Schubert?
+ A: Catholic Church
+: What sport Noy Castillo play?
+: basketball
+: what country is Francis?
+: Canada
+: What color is Exeter City F. C. ?
+: red
+: What genre is Brain?
+ A:

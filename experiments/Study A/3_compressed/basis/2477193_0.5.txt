@@ -1,0 +1,11 @@
+Answer question name entity.
+: sport Warrenpoint Town. play?
+: association football
+: color flag Colorado?
+: red
+: director Scarf?
+: Ewald André Dupont
+: screenwriter Pilot?
+: Miles Millar
+: author Adventures Tom Sawyer?
+:

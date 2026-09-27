@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: sport Derby Carrillo play?
+: association football
+: author Waring?
+: Anthony Powell
+: religion William Ames?
+: Calvinism
+: country BT Group?
+: United Kingdom
+: composer Darling?
+:

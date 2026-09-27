@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What sport 1990–91 British Basketball League season play?
+ A: basketball
+: capital of Almoravid dynasty?
+: Marrakesh
+: mother of Christiane Sehested?
+: Kirsten Munk
+ Q: what city Frederick Mackenzie born?
+: Montreal
+ Q: Nina Varlamova's occupation?
+ A:

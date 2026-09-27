@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: father Richard Normandy?
+: man raised Richard Normandy?
+: William Conqueror
+: author How to Stop Worrying and Start Living?
+:?
+: Dale Carnegie
+: sport Jean play?
+: sport associated?
+: association football
+: what country Dakhan?
+:?
+: Iran
+: city Ferdinand Elle born?
+: Ferdinand Elle's hometown?
+:

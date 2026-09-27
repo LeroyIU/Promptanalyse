@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who director of Sunday?
+ A: Jonathan Nossiter
+ Q: Who author of Mechanics?
+: Aristotle
+: Pietro Marcenaro's occupation?
+: politician
+: Who producer of Last Night?
+: Massy Tadjedin
+ Q: What genre is 22?
+: pop music
+ Q: What color is White House?
+: white
+: capital of Clay County?
+: Clay Center
+: Who screenwriter for Ghost?
+: Hossein Shahabi
+: what country is Záblatí?
+ A:

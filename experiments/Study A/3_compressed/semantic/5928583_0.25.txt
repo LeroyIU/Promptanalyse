@@ -1,0 +1,16 @@
+entity.
+: father Susan?
+:?
+: Lester
+: author?
+:?
+: Gore
+: mother Andrew?
+:?
+: Phyllis
+: Atlético Madrid?
+:?
+:
+: director Girl Mourning?
+:?
+:

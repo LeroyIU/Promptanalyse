@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Warrenpoint Town F. C. play?
+: What sport Warrenpoint Town F. C. associated with?
+ A: association football
+: What color is flag of Colorado?
+: What flag of Colorado colored?
+: red
+: Who director of The Scarf?
+: Who directed The Scarf?
+: Ewald André Dupont
+: Who screenwriter for Pilot?
+: Who screenwriter Pilot?
+: Miles Millar
+: Who author of Adventures of Tom Sawyer?
+: author Adventures of Tom Sawyer who?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Six Weeks?
+: Dudley Moore
+: Who director of The African Woman?
+: Margarethe von Trotta
+ Q: what country is WFUS?
+: United States of America
+: Who author of Loser?
+: Jerry Spinelli
+: Who mother of Andrew Schlafly?
+: Phyllis Schlafly
+ Q: What sport does Ramón Rodríguez play?
+: association football
+: Who father of Naphtali?
+: Jacob
+: what city Scott Patterson born?
+: Vancouver
+: What Judith Rakers's occupation?
+:

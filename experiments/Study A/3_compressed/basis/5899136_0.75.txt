@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: religion of Saint Patrick?
+ A: Celtic Christianity
+: What color is Fleetwood Town F. C. ?
+: red
+: Who director of Stick?
+: Burt Reynolds
+: Who author of Regeneration?
+: H. Rider Haggard
+: What genre is Territory Cops?
+:

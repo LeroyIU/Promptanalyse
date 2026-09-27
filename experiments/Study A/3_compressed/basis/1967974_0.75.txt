@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of John Knatchbull, 7th Baron Brabourne?
+: Doreen Knatchbull, Baroness Brabourne
+ Q: Who screenwriter for Transylvania?
+: Tony Gatlif
+: Who director of Echo?
+: Hossein Shahabi
+: What capital of Oklahoma?
+: Oklahoma City
+: what country is Sircilla?
+:

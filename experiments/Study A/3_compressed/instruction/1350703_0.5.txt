@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: sport Kaisa Varis play?
+: biathlon
+: author Secret Life Plants?
+: Peter Tompkins
+: composer American President?
+: Marc Shaiman
+: screenwriter She?
+:. Rider Haggard
+: father Gevherhan Hatun?
+:

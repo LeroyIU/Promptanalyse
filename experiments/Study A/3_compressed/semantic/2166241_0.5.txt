@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who mother Mary in Islam?
+: mother who?
+: Saint Anne
+: what city Donald De Lue born?
+:?
+: Boston
+: religion Catholic Church?
+: religion Church practice?
+: Catholicism
+: What genre Mario franchise?
+:?
+: role-playing video game
+: capital of Silla?
+: capital city?
+:

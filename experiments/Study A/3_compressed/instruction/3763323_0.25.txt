@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: country?
+:
+: religion Regis University?
+: Catholic
+:?
+:
+: composer?
+: John Carpenter
+: father Colcu Domnaill?
+:

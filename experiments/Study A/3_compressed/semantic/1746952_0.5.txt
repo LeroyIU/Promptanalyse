@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: What sport Deportivo San Pedro play?
+:?
+: association football
+: what country Wethersfield?
+:?
+: United States America
+: Who father of Joseph?
+: child of what man?
+: Jacob
+: Michael Lynton's occupation?
+:?
+: chief executive officer
+: Who director of The Island?
+:?
+:

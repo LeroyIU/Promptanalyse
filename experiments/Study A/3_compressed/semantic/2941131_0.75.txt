@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was producer of Red?
+: Who in charge of production of 'Red'?
+: Leslie Cheung
+: What genre is The City?
+: What genre 'The City'?
+: soap opera
+: Who father of Mohammed Omar Abdel-Rahman?
+: Which man raised Mohammed Omar Abdel-Rahman?
+: Omar Abdel-Rahman
+: Robert Florey's occupation?
+: What Robert Florey earn living as?
+: screenwriter
+: capital of Amazonas?
+: Where government of Amazonas based?
+:

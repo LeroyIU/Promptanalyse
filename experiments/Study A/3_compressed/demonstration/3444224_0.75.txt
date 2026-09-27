@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Flesh?
+ A: John Ford
+: Who father of Grand Duke Nicholas Mikhailovich of Russia?
+: Grand Duke Michael Nikolaevich of Russia
+ Q: Who screenwriter for Ballad?
+: Brad Falchuk
+: What genre is Kiss?
+ A: pop music
+: In what city Giuseppe Castelli born?
+: Milan
+: Who author of Sunset?
+: Erin Hunter
+: Who composer of The Other Woman?
+: Aaron Zigman
+: religion of Texas College?
+: Christian Methodist Episcopal Church
+: capital of Hood County?
+:

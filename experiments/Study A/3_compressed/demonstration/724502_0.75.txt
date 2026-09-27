@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Amitabh Bachchan?
+ A: Teji Bachchan
+ Q: Who author of Something More?
+: Paul Cornell
+: Who director of Kites?
+: Anurag Basu
+: What genre is The Cure?
+: comedy-drama
+: capital of Cacheu Region?
+: Cacheu
+: What sport does Walter Tigers Tübingen play?
+: basketball
+: Who composer of Shaft?
+: Isaac Hayes
+: religion of Güshi Khan?
+: Tibetan Buddhism
+: In what city Glover Morrill Allen born?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of That Face?
+: Face written by who?
+ A: Polly Stenham
+ Q: Who mother of George Washington?
+: Who mom of George Washington?
+: Mary Ball Washington
+ Q: Who father of David I of Scotland?
+: Who dad of David I of Scotland?
+: Malcolm III of Scotland
+ Q: What Jim Boyd's occupation?
+: Jim Boyd?
+: journalist
+ Q: what city Annika Billstam born?
+: What city Annika Billstam from?
+ A:

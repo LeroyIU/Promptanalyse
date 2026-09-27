@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+: Who mother of Alexandros II of Epirus?
+: Lanassa
+: Who father of Sir Capel Molyneux, 3rd Baronet?
+: Sir Thomas Molyneux, 1st Baronet
+: What genre Photographical Congress Arrives in Lyon?
+: documentary film
+: What sport Abdulhadi Khalaf play?
+: association football
+: what country Brown University?
+:

@@ -1,0 +1,11 @@
+Answer question name entity.
+: author Pearl?
+: John Arden
+: composer Chrono Cross?
+: Yasunori Mitsuda
+: sport Warrenpoint Town. play?
+: association football
+: color flag Zimbabwe?
+: red
+: producer Criminal?
+:

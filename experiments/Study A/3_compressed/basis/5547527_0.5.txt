@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: capital Liechtenstein?
+: Vaduz
+: color Manchester United F. C ?
+: red
+: city Kristian Outinen born?
+: Copenhagen
+: composer Chick?
+: Mariah Carey
+: director Ready?
+:

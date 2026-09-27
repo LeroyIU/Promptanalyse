@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: Who screenwriter for Kitty?
+: work 'Kitty'?
+: Karl Tunberg
+: religion Spain?
+: religion Spain practice?
+: non-denominational
+: sport Alexandru Chiculiță play?
+: plays sport?
+: fencing
+: capital of Crete?
+: capital city?
+: Heraklion
+: what country Re?
+: country located?
+:

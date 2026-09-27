@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Alexander the Great?
+: Alexander the Great child of what woman?
+: Olympias
+ Q: In what country is Avery?
+: country Avery located in?
+: United States of America
+ Q: Who was composer of Something There?
+: Who music writer of Something There?
+: Alan Menken
+ Q: What capital of Northern Mariana Islands?
+: capital?
+: Saipan
+ Q: What color is flag of Vanuatu?
+: flag Vanuatu associated with what color?
+:

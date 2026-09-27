@@ -1,0 +1,19 @@
+name entity.
+: capital Georgia?
+: Kutaisi
+: mother Allison Hirschlag?
+: Julia Barr
+: color FC Internazionale Milano?
+: black
+: father Moses?
+: Amram
+: religion St. Albert's Church, Riga?
+: Catholic
+: Edwin N. Hubbell?
+: politician
+: composer Emergency?
+: Hayley Williams
+: sport James Coutts?
+: association football
+: author Sure You?
+:

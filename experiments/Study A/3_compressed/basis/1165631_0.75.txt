@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Peter Bircumshaw play?
+ A: association football
+: Who producer of Blue?
+: Birthday Massacre
+: Who father of Brad Armstrong?
+ A: Bob Armstrong
+: Who director of Chicken Party?
+: Tate Taylor
+: What capital of Mayotte?
+ A:

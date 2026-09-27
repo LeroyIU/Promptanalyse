@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: color FC Internazionale Milano?
+: black
+: composer Abhinandanam?
+: Kannur Rajan
+: country Turin?
+: United States America
+: religion Northland International University?
+: Baptists
+: father Nero?
+:

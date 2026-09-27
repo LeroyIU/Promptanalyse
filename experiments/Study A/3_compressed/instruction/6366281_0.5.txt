@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: producer Click?
+: Adam Sandler
+: author Birds?
+: Daphne du Maurier
+: composer Easy Money?
+: Laurence Rosenthal
+: director Betrayed?
+: Frans Weisz
+: mother Constantine I, King Armenia?
+:

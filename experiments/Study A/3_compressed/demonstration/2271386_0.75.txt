@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Louis?
+ A: Rotrude
+: Who composer of Shenmue?
+: Takenobu Mitsuyoshi
+ Q: What genre is Out of the Blue?
+: musical film
+: Who producer of The Women?
+: Diane English
+: What color is FC Internazionale Milano?
+ A: black
+: what city Li Huai Min born?
+: Hong Kong
+: What religion of David Mills?
+: atheism
+: Who screenwriter for Nevada?
+: Zane Grey
+: Who director of The Shock?
+:

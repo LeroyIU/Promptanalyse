@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Exeter City F. C. ?
+ A: red
+: Who screenwriter for From Beyond?
+: Stuart Gordon
+: Who producer of Z?
+: Jacques Perrin
+: what country United States District Court for District of South Carolina?
+: United States of America
+: what city Valdemar III of Denmark born?
+: Denmark
+: Who author of Dave at Night?
+: Gail Carson Levine
+: Who composer of Washington Post?
+: John Philip Sousa
+: What genre is Annales Bertiniani?
+: annals
+: Who father of Brontis Jodorowsky?
+:

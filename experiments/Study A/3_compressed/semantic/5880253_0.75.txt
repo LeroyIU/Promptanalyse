@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Inside?
+: Inside associated with what genre?
+ A: horror film
+: capital of Tocantins?
+: In what city government of Tocantins based?
+ A: Palmas
+: What religion of Roman Republic?
+: What Roman Republic's religion?
+: ancient Roman religion
+ Q: Who screenwriter for Ring?
+: Who screenwriter for work Ring?
+: Kōji Suzuki
+: Who director of Tamas?
+: Tamas directed by who?
+ A:

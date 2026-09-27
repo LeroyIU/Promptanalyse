@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Islamic view of Isaac?
+: Abraham in Islam
+ Q: Charles Strachey, 4th Baron O'Hagan's occupation?
+: politician
+: author of Collision?
+: Jeff Abbott
+: In what country is 1991 Copa do Brasil?
+: Brazil
+: religion of Mark Lindley?
+ A:

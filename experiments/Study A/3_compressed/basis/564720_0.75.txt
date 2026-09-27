@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who director of Kingdom?
+ A: Peter Berg
+: Who screenwriter for Switch?
+: Allan Loeb
+: What sport Steve Coppell play?
+: association football
+: what country is Ferrari?
+: Italy
+: What color is Juventus F. C. ?
+ A:

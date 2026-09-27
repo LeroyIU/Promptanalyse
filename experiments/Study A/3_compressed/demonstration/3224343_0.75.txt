@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What sport does Tranmere Rovers F. C. play?
+: association football
+: What color is ruby?
+: red
+: Who mother of Esau?
+: Rebecca
+: What religion of Muhammad Ali?
+: Nation of Islam
+: Who author of The Mind and Society?
+: Vilfredo Pareto
+: What genre is She?
+: fantasy film
+: Who composer of Piano Concerto No. 4?
+: Sergei Rachmaninoff
+: Who father of Benazir Bhutto?
+: Zulfiqar Ali Bhutto
+: Who director of The Key?
+:

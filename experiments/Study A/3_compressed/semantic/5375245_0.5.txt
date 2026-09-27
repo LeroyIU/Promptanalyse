@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: What sport Buffalo Memorial Auditorium play?
+:?
+: basketball
+: Who author of 1982?
+: 1982 written by who?
+: Jian Ghomeshi
+: composer You Shook Me All Night Long?
+:?
+: Angus Young
+: Who screenwriter The Big One?
+:?
+: Chip Johannessen
+: Who mother of Li Xian?
+: mom?
+:

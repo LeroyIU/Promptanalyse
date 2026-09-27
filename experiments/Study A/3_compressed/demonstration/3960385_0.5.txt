@@ -1,0 +1,19 @@
+name entity.
+: mother Carrie Brady?
+: Anna DiMera
+: country?
+: Iran
+: sport Zaur Ramazanov play?
+: association football
+: genre Southern Rock Opera?
+: alternative country
+: composer Cruise?
+: Wojciech Kilar
+: color Charlton Athletic. ?
+: red
+: director Gamesters Triskelion?
+: Gene Nelson
+: producer Cookbook?
+: Missy Elliott
+: screenwriter Accused?
+:

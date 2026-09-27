@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what city Petros Tabouris born?
+: Athens
+: What sport Archie Needham play?
+: association football
+: Who screenwriter for Our Relations?
+: Stan Laurel
+: Who composer of Ghost?
+: Hossein Shahabi
+: What genre is Deivos?
+:

@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Richard Normandy?
+: William Conqueror
+: author How Stop Worrying Start Living?
+: Dale Carnegie
+: sport Jean play?
+: association football
+: country Dakhan?
+: Iran
+: city Ferdinand Elle born?
+:

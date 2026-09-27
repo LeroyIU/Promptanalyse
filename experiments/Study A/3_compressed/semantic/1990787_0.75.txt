@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Reality Is What You Can Get Away With?
+: author who?
+: Robert Anton Wilson
+ Q: What religion of François Gayot?
+: What religion François Gayot practice?
+: Catholic Church
+ Q: Who producer of Quatermass 2?
+: 'Quatermass 2' produced by who?
+: Anthony Hinds
+ Q: Who mother of King Arthur?
+: Who gave birth to King Arthur?
+: Igraine
+ Q: What Lindsay Ellingson's occupation?
+: What does Lindsay Ellingson earn living as?
+ A:

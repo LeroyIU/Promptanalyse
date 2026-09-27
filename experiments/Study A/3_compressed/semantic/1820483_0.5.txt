@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: producer Sleep?
+: produced work Sleep?
+: Andy Warhol
+: director Mann?
+: directed 'Mann'?
+: Indra Kumar
+: Bill Kintner's?
+:?
+: politician
+: sport Noëlle van Lottum play?
+: sport?
+: tennis
+: mother James I Scotland?
+: woman raised James I Scotland?
+:

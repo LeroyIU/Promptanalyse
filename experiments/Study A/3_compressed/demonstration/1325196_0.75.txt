@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Paul Singer born?
+ A: Berlin
+: capital of Berry?
+ A: Bourges
+: what country Victory Monument in Netanya?
+ A: Israel
+ Q: Petros Efthymiou's occupation?
+ A: politician
+: Who father of William Zeckendorf, Jr. ?
+ A: William Zeckendorf
+: Who producer of The Gorilla?
+: Edward Small
+: author of Oliver's Story?
+: Erich Segal
+: What genre is Gangsta Boo?
+: hip hop music
+: Who director of April 18?
+:

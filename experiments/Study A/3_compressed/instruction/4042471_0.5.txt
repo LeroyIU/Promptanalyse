@@ -1,0 +1,13 @@
+Answer question name entity only. explain
+ Reply entity name. No explanation required.
+ Give name entity answer, without further text.
+: color Doncaster Rovers F. ?
+: red
+: capital South Korea?
+: Seoul
+: composer?
+: David
+: producer Brat?
+: Alla Nazimova
+: genre Epidemic?
+:

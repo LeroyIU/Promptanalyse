@@ -1,0 +1,19 @@
+Answer name entity.
+: country Neodesha?
+: United States
+: author Timeless?
+: Gail Carriger
+: father Afonso II Portugal?
+: Sancho I Portugal
+: screenwriter Shining?
+: Stanley Kubrick
+: color flag Colorado?
+: red
+: composer Adelaide?
+: Ludwig van Beethoven
+: Eckart von Hirschhausen?
+: physician
+: director Night Riders?
+: Alexander Butler
+: mother Phoenix?
+:

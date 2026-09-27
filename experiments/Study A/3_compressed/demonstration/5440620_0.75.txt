@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for A Crime?
+: Tonino Benacquista
+: Who director of Small Town?
+: Thomas Schlamme
+ Q: Who mother of Lulach?
+: Gruoch of Scotland
+ Q: What genre is Freedom Fighters?
+: third-person shooter
+: Lothrop Stoddard's occupation?
+: journalist
+: Who father of Charles II of England?
+: Charles I of England
+ Q: In what country is Old English?
+: England
+: religion of Lenni Brenner?
+: atheism
+: what city Phil Williams born?
+:

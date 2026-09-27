@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what country is Sabiote?
+ A: Spain
+ Q: religion of Regis University?
+: Catholic Church
+ Q: What genre is Operator?
+ A: post-grunge
+ Q: Who composer of The Fog?
+: John Carpenter
+: Who author of Bone?
+: Jeff Smith
+: Who producer of Source Code?
+: Mark Gordon
+: capital of Khouribga Province?
+ A: Khouribga
+: Mike Flanagan's occupation?
+: screenwriter
+: Who father of Colcu mac Domnaill?
+:

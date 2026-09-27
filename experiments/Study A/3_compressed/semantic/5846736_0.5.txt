@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: color Carlisle United F. C ?
+: color Carlisle United.?
+: red
+: composer One?
+:?
+: Michel van der Aa
+: director Brave?
+: directed work Brave?
+: Steve Purcell
+: father Spiros Niarchos?
+: father who?
+: Stavros Niarchos
+: mother Otto von Habsburg?
+: mother who?
+:

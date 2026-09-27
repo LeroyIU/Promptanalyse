@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation.
+ name, further text.
+: sport 1923 Brazilian football play?
+: association football
+: religion Union Catholic Asian News?
+: Catholic Church
+: city Jacob Duck born?
+: Utrecht
+: mother Licinia Eudoxia?
+: Aelia Eudocia
+: country Rizuiyeh?
+:

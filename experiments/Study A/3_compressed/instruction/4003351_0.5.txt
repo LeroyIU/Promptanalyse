@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: religion Saint David?
+: Christianity
+: father George F. Sternberg?
+: Charles Hazelius Sternberg
+: capital Namibia?
+: Windhoek
+: mother Al Gore?
+: Pauline LaFon
+: screenwriter Snehatheerathu?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: what country is Hebbe Falls?
+ A: India
+: Who was director of Come as You Are?
+: Geoffrey Enthoven
+: What color is ruby?
+: red
+ Q: what city was Richard S. Bull born?
+: Wilkinsburg
+: Who screenwriter for Ring?
+: Kōji Suzuki
+ Q: What genre is Shadow?
+: superhero film
+: Who mother of George Washington?
+: Mary Ball Washington
+: Who composer of Eliza?
+: Thomas Arne
+: Who producer of Calendar?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: religion of John Orr?
+ A: Anglicanism
+: capital of Rabun County?
+ A: Clayton
+ Q: Who director of A Boy. Girl?
+: John Derek
+ Q: what country is Asahi Station?
+: Japan
+: What genre is Lux?
+ A:

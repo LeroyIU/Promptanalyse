@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was composer of Super?
+: Who music writer of Super?
+: Sandeep Chowta
+: What religion of Caesar Baronius?
+: What religious denomination Caesar Baronius belong to?
+: Catholic Church
+ Q: What genre is Fire?
+: genre 'Fire'?
+: horror literature
+: In what country is Northland Communications?
+: country located?
+: United States of America
+: Who father of Frans Pourbus the Elder?
+: Which man raised Frans Pourbus the Elder?
+:

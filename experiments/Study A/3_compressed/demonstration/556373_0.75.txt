@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color is FC Internazionale Milano?
+: black
+: Who composer of Abhinandanam?
+: Kannur Rajan
+: In what country is Turin?
+: United States of America
+: religion of Northland International University?
+: Baptists
+: Who director of The Switch?
+: Josh Gordon
+: What genre is Poison?
+: horror film
+: what city Nina Dittrich born?
+: Vienna
+: What sport does Grantham Town F. C. play?
+: association football
+: Who father of Nero?
+:

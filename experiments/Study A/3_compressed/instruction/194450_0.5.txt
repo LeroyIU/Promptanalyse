@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: sport Gimnasia y Esgrima de Santa Fe play?
+: association football
+: composer Can't Give Love,?
+: Jimmy McHugh
+: producer Criminal?
+: Steven Soderbergh
+: religion saint?
+: Christianity
+: author Time Again?
+:

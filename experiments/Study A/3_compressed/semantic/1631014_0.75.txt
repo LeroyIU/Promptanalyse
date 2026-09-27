@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is The Entity?
+: Entity associated with what genre?
+: horror film
+ Q: What Malcolm David Kelley's occupation?
+: Malcolm David Kelley's job?
+: actor
+ Q: What sport does Stadio Brianteo play?
+:?
+: association football
+ Q: In what country is Ely?
+: in what country?
+: United States of America
+ Q: Who was composer of Passions?
+: Who music writer of Passions?
+:

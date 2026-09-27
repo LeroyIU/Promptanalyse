@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: screenwriter Staten Island?
+: James DeMonaco
+: capital Alaska?
+: Juneau
+: composer Clockwise?
+: George Fenton
+: city Tuomo Suomalainen born?
+: Gogland
+: sport Noumandiez Doué play?
+:

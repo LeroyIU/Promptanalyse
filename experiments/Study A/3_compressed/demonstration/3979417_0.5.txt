@@ -1,0 +1,19 @@
+name entity.
+: sport?
+: hockey
+: color Fleetwood Town F. ?
+: red
+: genre Kirby 64: Crystal Shards?
+: platform game
+: Sayaka Ichii?
+: actor
+: father Gillian Baverstock?
+: Hugh Alexander Pollock
+: capital Columbia County?
+: Bloomsburg
+: mother Alexander Great?
+: Olympias
+: screenwriter Féminin,?
+: Kiarash Anvari
+: religion Ecclesiastical Statistics?
+:

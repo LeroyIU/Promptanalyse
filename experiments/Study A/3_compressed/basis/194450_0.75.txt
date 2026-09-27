@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What sport Gimnasia y Esgrima de Santa Fe play?
+: association football
+: Who composer of I Can't Give You Anything but Love, Baby?
+: Jimmy McHugh
+: Who producer of Criminal?
+: Steven Soderbergh
+: What religion of saint?
+: Christianity
+: Who author of Time and Again?
+:

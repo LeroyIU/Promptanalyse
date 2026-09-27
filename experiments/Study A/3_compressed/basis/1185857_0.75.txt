@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who was composer of Style?
+ A: Mani Sharma
+: Who screenwriter for Enikkum Oru Divasam?
+: Sreekumaran Thampi
+: Who director of The Well?
+: Jonathan Frakes
+: Who father of Leo VI the Wise?
+ A: Basil I
+: What religion of Virgin?
+:

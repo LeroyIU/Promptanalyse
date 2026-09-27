@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Margarita Louis-Dreyfus play?
+: What athletic activity Margarita Louis-Dreyfus associated with?
+ A: association football
+: Who is author of Q?
+: author of Q who?
+: Luther Blissett
+: What color is Manchester United F. C. ?
+: What color of Manchester United F. C. ?
+: red
+: Who composer of Mouse Trouble?
+: composed 'Mouse Trouble'?
+: Scott Bradley
+: Who screenwriter for Twenty Minutes of Love?
+: Who screenwriter Minutes Love'?
+:

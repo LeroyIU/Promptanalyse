@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of The Queen's Nose?
+: Queen's Nose written by who?
+: Dick King-Smith
+: Who screenwriter for Boomerang?
+: Who screenwriter of Boomerang?
+: Alain Delon
+: Who producer of Da?
+: 'Da' produced by who?
+: Julie Corman
+: What genre is Do Over?
+: What genre Do Over?
+: comedy-drama
+: Who father of Mwanga II of Buganda?
+: Mwanga II of Buganda's father is who?
+ A:

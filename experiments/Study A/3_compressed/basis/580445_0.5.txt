@@ -1,0 +1,11 @@
+name entity.
+: city Richard Rawlinson born?
+: London
+: genre Ninja Boy II?
+: action role-playing game
+: mother Helen Troy?
+: Leda
+: Claire Berlinski?
+: journalist
+: sport 1994 Swedish Open?
+:

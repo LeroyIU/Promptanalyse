@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Ours?
+: Alain Souchon
+: What color is Charlton Athletic F. C. ?
+: red
+: what city Keri Lees born?
+: Stone
+: Who producer of John Heriot's Wife?
+: Maurits Binger
+: Who author of Wicked Witch of Oz?
+:

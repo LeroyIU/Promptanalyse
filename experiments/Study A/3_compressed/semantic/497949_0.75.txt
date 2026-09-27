@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Robert?
+: Robert's father is who?
+: Louis IX of France
+: What genre is The Dive?
+: Fans of what genre like The Dive?
+: action film
+: Who director of Pilot?
+: Who in charge of direction of 'Pilot'?
+: Peter Horton
+: Who screenwriter for Ride?
+: Who in charge of screenwriting of Ride?
+: Millicent Shelton
+: what country is Ona?
+: Ona what country?
+:

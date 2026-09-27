@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: What capital of Colorado?
+: Denver
+: What genre is Steal This Record?
+: punk rock
+: What sport does Niklas Stark play?
+: association football
+: Who screenwriter for Secret of the Telegian?
+: Shinichi Sekizawa
+: Who author of Bug?
+:

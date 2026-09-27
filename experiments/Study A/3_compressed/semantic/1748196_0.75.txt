@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Closer?
+: Closer written by who?
+ A: Patrick Marber
+: In what country is Ittamalliyagoda?
+: What country Ittamalliyagoda associated with?
+ A: Sri Lanka
+: Who screenwriter for A. I. Artificial Intelligence?
+: Who wrote script for A. I. Artificial Intelligence?
+: Ian Watson
+: What capital of Adyghe Autonomous Oblast?
+:'s capital?
+: Krasnodar
+: Who composer of Signs?
+: Who composed 'Signs'?
+:

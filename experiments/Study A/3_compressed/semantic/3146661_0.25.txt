@@ -1,0 +1,16 @@
+entity.
+: color.?
+:.?
+:
+: capital Jask County?
+:?
+:
+: sport Falahatzadeh?
+:?
+:
+: genre?
+:?
+:
+: country Marvejols?
+:?
+:

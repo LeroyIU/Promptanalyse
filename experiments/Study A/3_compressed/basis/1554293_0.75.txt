@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who mother of Allison Hirschlag?
+ A: Julia Barr
+: Who author of Next?
+: Michael Crichton
+ Q: What color is A. C. Milan?
+: red
+: What capital of Slovenia?
+: Ljubljana
+: Who screenwriter for Unexpected?
+:

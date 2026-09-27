@@ -1,0 +1,11 @@
+entity.
+: sport Scott Muirhead?
+: association football
+: capital Merthyr Tydfil County Borough?
+: Merthyr Tydfil
+: composer, BWV 63?
+: Johann Sebastian Bach
+: mother Edgar Allan Poe?
+: Eliza Poe
+: city Louis Renault born?
+:

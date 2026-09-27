@@ -1,0 +1,16 @@
+Answer question name entity. explain.
+: color Exeter City F. C. ?
+: Exeter City F. C colored?
+: red
+: Who screenwriter Beyond?
+:?
+: Stuart Gordon
+: producer Z?
+: charge production Z?
+: Jacques Perrin
+: country United States District Court District South Carolina?
+: country United States District Court South Carolina?
+: United States America
+: father Brontis Jodorowsky?
+: father?
+:

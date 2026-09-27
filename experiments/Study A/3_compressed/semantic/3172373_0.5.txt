@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: composer Telephone?
+: Who wrote music Telephone?
+: Gian Carlo Menotti
+: what country Elim?
+: associated country?
+: United States America
+: religion Franciszek Rogaczewski?
+:?
+: Catholic Church
+: capital Venezuela?
+: government Venezuela based where?
+: Caracas
+: sport 2010–11 Cruz Azul season play?
+: associated sport?
+:

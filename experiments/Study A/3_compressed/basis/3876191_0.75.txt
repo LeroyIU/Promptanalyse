@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Coventry City F. C. ?
+ A: sky blue
+: Who father of Jan V of Zator?
+: Wenceslaus I of Zator
+: mother of Henry of England?
+: Eleanor of Castile
+: religion of Baker University?
+: United Methodist Church
+: what city David Watson born?
+:

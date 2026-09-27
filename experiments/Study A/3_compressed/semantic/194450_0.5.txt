@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: What sport Gimnasia y Esgrima de Santa Fe play?
+: sport associated?
+: association football
+: Who composer I Can't Give Love,?
+:,?
+: Jimmy McHugh
+: Who producer of Criminal?
+: charge production 'Criminal?
+: Steven Soderbergh
+: religion of saint?
+: religion saint practice?
+: Christianity
+: Who author of Time and Again?
+:?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Ceyda Aktaş play?
+ A: volleyball
+: Who father of Demeter?
+ A: Cronus
+: Who composer of Radio?
+: Himesh Reshammiya
+ Q: what country is Ena?
+: Japan
+: capital of Basse-Kotto Prefecture?
+: Mobaye
+: religion of Oliver O'Grady?
+: Catholic Church
+: Who producer of Odin: Photon Sailer Starlight?
+: Yoshinobu Nishizaki
+: what city Carlos Nieto born?
+ A: La Plata
+: Who screenwriter for The Greatest?
+ A:

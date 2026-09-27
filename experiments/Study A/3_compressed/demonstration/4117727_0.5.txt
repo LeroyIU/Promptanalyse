@@ -1,0 +1,19 @@
+entity.
+: genre Suits?
+: legal drama
+: religion Muhammad Qutb?
+: Sunni Islam
+: sport Adam Bennett?
+: hockey
+: mother Cornelia Otis Skinner?
+: Maud Durbin
+: author New Trick Cheat Devil?
+: Robert Davenport
+: screenwriter Terminal?
+: Sacha Gervasi
+: Yuki Kaida?
+: seiyū
+: capital Gênes?
+: Genoa
+: father Sydney Chaplin?
+:

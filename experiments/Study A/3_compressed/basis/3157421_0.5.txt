@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: father Tiger Woods?
+: Earl Woods
+: author Fabulous Furry Freak Brothers?
+: Gilbert Shelton
+: screenwriter Each Other?
+: Joseph Bologna
+: director Bedroom?
+: Todd Field
+: color Avant Guingamp?
+:

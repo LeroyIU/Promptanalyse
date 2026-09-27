@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: Who father Matthew Robinson Boulton?
+: Boulton father who?
+: Matthew Boulton
+: What color Manchester United F. C ?
+: color United. ?
+: red
+: Who producer Rent?
+:?
+: Chris Columbus
+: city Franky Zapata born?
+:?
+: Marseille
+: what country Jam Filled Entertainment?
+: associated country?
+:

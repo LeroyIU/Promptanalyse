@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who author of Q?
+: author Q who?
+: Luther Blissett
+: Who mother of Rosa Brooks?
+: Which woman raised Rosa Brooks?
+: Barbara Ehrenreich
+: what city Oi Va Voi born?
+: What town Voi born in?
+: London
+: What color is Doncaster Rovers F. C. ?
+: Doncaster Rovers F. C. associated with what color?
+: red
+: Who father of John Sigismund, Crown Prince of Poland?
+: John Sigismund, Crown Prince of Poland child of what man?
+:

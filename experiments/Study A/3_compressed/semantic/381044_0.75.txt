@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: What genre is Phoenix?
+: What genre 'Phoenix'?
+ A: manga
+: Who father of Charlotte of Valois?
+: Which man raised Charlotte of Valois?
+: Francis I of France
+: what city Lindsay Pagano born?
+: Lindsay Pagano from what city?
+: Philadelphia
+: Eleanor Davis's occupation?
+: Eleanor Davis earn living as?
+: cartoonist
+: What sport Aleksandar Nikolić play?
+: What Aleksandar Nikoliƒá's sport?
+:

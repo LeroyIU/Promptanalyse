@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Simon Tahamata play?
+ A: association football
+: Who director of The Immunity Syndrome?
+: Joseph Pevney
+: What color Coventry City F. C. ?
+: sky blue
+: Who producer of Recovery?
+: Dr. Dre
+: religion of Queen Victoria?
+: Anglicanism
+: William Australia Graham's occupation?
+: farmer
+: What genre is Flare?
+: J-pop
+: what country is Mato Castelhano?
+: Brazil
+: Who author of Places I Never Meant to Be?
+ A:

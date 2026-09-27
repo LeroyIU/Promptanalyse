@@ -1,0 +1,19 @@
+name entity.
+: Rose Beaudet's occupation?
+: actor
+: sport Jukka Tammi?
+: hockey
+: color Fleetwood Town. ?
+: red
+: genre Martin Garrix?
+: electronic dance music
+: country Lima?
+: Paraguay
+: director Comedy Power?
+: Chabrol
+: city Cooper Smeaton born?
+: Carleton Place
+: religion Innocent?
+: Catholic Church
+: composer Happy?
+:

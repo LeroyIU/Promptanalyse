@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport 1923 in Brazilian football play?
+: association football
+: religion of Union of Catholic Asian News?
+: Catholic Church
+: what city Jacob Duck born?
+: Utrecht
+: Who mother of Licinia Eudoxia?
+: Aelia Eudocia
+: what country is Rizuiyeh?
+:

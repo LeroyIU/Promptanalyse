@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: color White House?
+:
+: mother Emperor Han?
+: Liang
+: author Little Children?
+: Tom Perrotta
+: country Mato Castelhano?
+: Brazil
+: genre Wars?
+:

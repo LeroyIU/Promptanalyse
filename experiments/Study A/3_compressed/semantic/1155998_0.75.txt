@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who was screenwriter for Champion?
+: Who wrote script for 'Champion'?
+: Kwak Kyung-taek
+: what city Robert Crannell Minor born?
+: Robert Crannell Minor's hometown?
+: New York City
+: What sport Michal Vacek play?
+: What athletic activity Michal Vacek associated with?
+: bobsleigh
+: What color is White House?
+: color White House associated with?
+: white
+: Who is author of This?
+: author This who?
+ A:

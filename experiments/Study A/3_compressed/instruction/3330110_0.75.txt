@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who director of Tickets?
+ A: Ermanno Olmi
+: What religion of David?
+ A: Judaism
+: Who composer of This Love?
+: Jesse Carmichael
+: Who author of A Peep into the Past?
+: Max Beerbohm
+: Who mother of Andrew Montour?
+:

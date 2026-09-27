@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: producer Argo?
+: George Clooney
+: composer Sunny?
+: Jerome Kern
+: director Devotion?
+: Curtis Bernhardt
+: mother Abraham Lincoln?
+: Nancy Hanks
+: city Damian Pettigrew born?
+:

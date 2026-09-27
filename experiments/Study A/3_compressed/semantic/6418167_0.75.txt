@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Success?
+: Success written by who?
+ A: Jonathan Cape
+: What sport Dimitri Pätzold play?
+: What athletic activity Dimitri Pätzold associated with?
+: ice hockey
+: What color is A. C. Milan?
+: What color. C Milan associated with?
+: red
+: Who screenwriter for Amal?
+: Who screenwriter for work Amal?
+: Richie Mehta
+: What capital of Brunei?
+: Where government of Brunei based?
+ A:

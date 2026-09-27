@@ -1,0 +1,19 @@
+Answer name entity.
+: director Avatar?
+: James Cameron
+: genre Crush?
+: thriller
+: screenwriter Devil's Eye?
+: Ingmar Bergman
+: father Gladys Eleanor Guggenheim?
+: Daniel Guggenheim
+: city Antigoni Goni born?
+: Athens
+: capital Lincolnshire?
+:
+: producer El Cid?
+: Samuel Bronston
+: Thomas Hinds?
+: politician
+: author Tape?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Demeter?
+: Demeter's father who?
+ A: Cronus
+ Q: George Rankin's occupation?
+: What George Rankin earn living as?
+: politician
+ Q: Who composer of The Graduate?
+: Who composed Graduate'?
+ A: Dave Grusin
+ Q: Who mother of Cornelia Otis Skinner?
+: Cornelia's mother who?
+: Maud Durbin
+ Q: religion of Bellino Giusto Ghirard?
+: What religion Bellino Ghirard practice?
+ A:

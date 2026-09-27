@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+: Who father of Richard of Normandy?
+ A: William the Conqueror
+: Who author of How to Stop Worrying Start Living?
+ A: Dale Carnegie
+: What sport does Jean play?
+: association football
+: what country is Dakhan?
+: Iran
+: what city Ferdinand Elle born?
+:

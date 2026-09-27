@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who was director of Singapore?
+: Who directed work Singapore?
+: Shakti Samanta
+: What genre is Hinder?
+: Fans of what genre like Hinder?
+: hard rock
+: Who producer of Moksha?
+: Who in charge of production of 'Moksha'?
+: Ashok Mehta
+: what city Michelle Renaudddd born?
+: What city Michelle Renaudddd born in?
+: Mexico City
+: Who composer of Imagine?
+: Who composed Imagine?
+:

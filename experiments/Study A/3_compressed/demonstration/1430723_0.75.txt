@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Stanley Peiris's occupation?
+ A: composer
+ Q: Who author of Rich Dad Poor Dad?
+: Robert Kiyosaki
+: Who screenwriter for The Bourne Legacy?
+: Robert Ludlum
+: religion of Loa?
+: Haitian Vodou
+: Who composer of Two?
+ A: Satyajit Ray
+: Who father of Arch?
+: Kris S.
+: Who mother of Ivan IV Vasilyevich?
+: Elena Glinskaya
+: Who director of Heroes?
+: Jeremy Kagan
+: What color is Stoke City F. C. ?
+ A:

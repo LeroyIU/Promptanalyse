@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who author of Ahead of Time?
+: Ahead of Time written by who?
+: Henry Kuttner
+: Who director of Rosa?
+: Who director of Rosa?
+: Joe Cheung
+: In what country is Gornji Davidovići?
+: what country Gornji Davidoviƒái located?
+: Bosnia and Herzegovina
+: Who composer of Fame?
+: Who composed Fame?
+: Michael Gore
+: What capital of canton of Harnes?
+: What canton of Harnes's capital?
+:

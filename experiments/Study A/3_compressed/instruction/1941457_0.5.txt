@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: country Iron River), Wisconsin?
+: United States America
+: composer Introduction Allegro?
+: Maurice Ravel
+: religion Averett University?
+: Baptists
+: director Last Producer?
+: Burt Reynolds
+: sport Kim Sung-gan play?
+:

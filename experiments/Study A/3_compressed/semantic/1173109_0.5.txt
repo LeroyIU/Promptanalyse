@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: city Mukhtar Mukhtarov born?
+:?
+: Lankaran
+: country La Chapelle-en-Vercors?
+: country-en associated?
+: France
+: Who producer Mod?
+: produced work Mod?
+: Nagesh Kukunoor
+: religion Spring Arbor University?
+: religious denomination?
+: Free Methodist Church
+: Who screenwriter Thank You?
+: charge writing 'Thank You'?
+:

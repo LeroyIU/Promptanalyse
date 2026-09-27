@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: city Richard Rawlinson born?
+:?
+: London
+: genre Ninja Boy II?
+: type work Boy?
+: action role-playing game
+: mother Helen of Troy?
+: woman raised Helen of Troy?
+: Leda
+: Claire Berlinski's?
+:?
+: journalist
+: sport 1994 Swedish Open play?
+: 1994 associated sport?
+:

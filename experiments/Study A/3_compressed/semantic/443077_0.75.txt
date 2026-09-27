@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: What color Exeter City F. C. ?
+: What Exeter City F. C. colored?
+ A: red
+: Who screenwriter for Divergent?
+: 'Divergent' written by who?
+ A: Vanessa Taylor
+: What Shonali Bose's occupation?
+: What kind work Shonali Bose do?
+ A: film director
+: What sport Bernadette Szőcs play?
+: What sport associated with?
+: table tennis
+: Who producer of Somewhere?
+: Who producer of 'Somewhere'?
+ A:

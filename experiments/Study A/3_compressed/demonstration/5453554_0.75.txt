@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Bug?
+: William Castle
+ Q: Leona Detiège's occupation?
+: politician
+: religion of Claus Schenk Graf von Stauffenberg?
+: Catholic Church
+ Q: What sport does Best play?
+: association football
+: What color is FC Internazionale Milano?
+: black
+ Q: Who screenwriter for The Bridge?
+: Bernhard Wicki
+: what city John A. Shaud born?
+: Cleveland
+: Who composer of The Witch?
+: Maurice Ravel
+: Who director of Pilot?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Islamic view of Isaac?
+: Who dad of Islamic view Isaac?
+: Abraham in Islam
+ Q: What Charles Strachey, 4th Baron O'Hagan's occupation?
+: occupation of Charles Strachey, 4th Baron O'Hagan?
+: politician
+: Who author of Collision?
+: author 'Collision'?
+: Jeff Abbott
+ Q: In what country is 1991 Copa do Brasil?
+: Where 1991 Copa do Brasil?
+: Brazil
+ Q: What religion of Mark Lindley?
+: Mark Lindley's religion?
+:

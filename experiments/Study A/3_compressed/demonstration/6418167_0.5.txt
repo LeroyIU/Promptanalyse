@@ -1,0 +1,19 @@
+Answer name entity.
+: author Success?
+: Jonathan Cape
+: sport Dimitri Pätzold?
+: hockey
+: color. Milan?
+: red
+: screenwriter Amal?
+: Richie Mehta
+: city János Ferencsik born?
+: Budapest
+: director Charlotte?
+: Frans Weisz
+: country Orefield?
+: United States
+: genre Fablehaven?
+: fantasy literature
+: capital Brunei?
+:

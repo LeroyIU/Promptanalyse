@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: color chalk?
+: white
+: country Adams?
+: United States
+: religion Grand Duchy Finland?
+: Evangelical Lutheran Church Finland
+: genre Rush?
+: progressive rock
+: mother Elizabeth Stewart, Crawford?
+:

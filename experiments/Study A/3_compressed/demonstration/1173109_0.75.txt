@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: what city Mukhtar Mukhtarov born?
+ A: Lankaran
+ Q: what country La Chapelle-en-Vercors?
+ A: France
+: Who producer of Mod?
+: Nagesh Kukunoor
+: religion of Spring Arbor University?
+: Free Methodist Church
+: Shelley Wark-Martyn's occupation?
+: politician
+: Who father of Heinrich Gustav Reichenbach?
+: Ludwig Reichenbach
+: What sport Rotherham County F. C. play?
+: association football
+: Who composer of California Gurls?
+: Bonnie McKee
+: Who screenwriter for Thank You?
+ A:

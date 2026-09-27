@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport does Willy Roy play?
+ A: association football
+ Q: what country is Cos?
+: France
+: Who mother of Horus?
+: Isis
+: Who director of Little Ones?
+: Jim O'Connolly
+: Who screenwriter for Russia House?
+:

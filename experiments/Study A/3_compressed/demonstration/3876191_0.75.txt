@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What color is Coventry City F. C. ?
+ A: sky blue
+ Q: Who father of Jan V of Zator?
+: Wenceslaus I of Zator
+: Who mother of Henry of England?
+: Eleanor of Castile
+: religion of Baker University?
+: United Methodist Church
+ Q: Who screenwriter for On Tour?
+: Mathieu Amalric
+: capital of Nunavut?
+ A: Iqaluit
+: Who director of The Garden?
+: Derek Jarman
+: Who producer of Sarah?
+: Yoram Gross
+: what city David Watson born?
+:

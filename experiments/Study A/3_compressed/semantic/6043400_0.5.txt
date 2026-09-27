@@ -1,0 +1,16 @@
+Answer question name entity.
+: father Demeter?
+: Demeter's father?
+:
+: What genre Alien Terminator?
+: genre?
+: action film
+: sport Didier Défago play?
+: Didier Défago's sport?
+: alpine skiing
+: color ruby?
+: ruby?
+:
+: director Tum Bin?
+: Who directed Tum Bin?
+:

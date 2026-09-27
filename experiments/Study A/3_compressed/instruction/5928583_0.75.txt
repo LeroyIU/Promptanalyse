@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Susan Crown?
+: Lester Crown
+: Who author of Hollywood?
+: Gore Vidal
+: Who mother of Andrew Schlafly?
+: Phyllis Schlafly
+: What color is Atlético de Madrid?
+: red
+: Who director of The Girl in Mourning?
+:

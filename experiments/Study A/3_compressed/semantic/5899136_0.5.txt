@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: religion Saint Patrick?
+: religious denomination Patrick?
+: Celtic Christianity
+: color Fleetwood Town F. C ?
+: color Fleetwood Town. associated?
+: red
+: director Stick?
+: directed Stick?
+: Burt Reynolds
+: author Regeneration?
+:?
+: H. Rider Haggard
+: genre Territory Cops?
+: genre?
+:

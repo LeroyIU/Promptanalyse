@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Richard of Normandy?
+: Which man raised Richard of Normandy?
+ A: William the Conqueror
+: Who author of How to Stop Worrying and Start Living?
+: author who?
+ A: Dale Carnegie
+: What sport does Jean play?
+: What sport Jean associated with?
+: association football
+ Q: In what country is Dakhan?
+: what country Dakhan located?
+ A: Iran
+: what city Ferdinand Elle born?
+: What Ferdinand Elle's hometown?
+ A:

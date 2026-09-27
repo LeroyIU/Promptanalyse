@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Þorsteinn Bachmann's occupation?
+: What kind of work does Þorsteinn Bachmann do?
+: actor
+: What sport does Indonesia Education League play?
+: What athletic activity Indonesia Education League associated with?
+: association football
+: What genre is Yellow?
+: What type of work Yellow?
+: J-pop
+: Who composer of Emotions?
+: composed Emotions?
+: Mariah Carey
+: Who author of Cool?
+: Who author 'Cool'?
+:

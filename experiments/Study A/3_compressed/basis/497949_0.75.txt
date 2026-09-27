@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Robert?
+ A: Louis IX of France
+ Q: What genre is Dive?
+: action film
+: Who director of Pilot?
+: Peter Horton
+: Who screenwriter for Ride?
+: Millicent Shelton
+: what country is Ona?
+ A:

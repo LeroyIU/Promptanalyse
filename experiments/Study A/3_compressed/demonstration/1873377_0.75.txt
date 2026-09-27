@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Ahimelech?
+ A: Ahitub
+: what country is Archipelago Museum?
+: Finland
+: What color is Atlético de Madrid?
+: red
+: Who author of Timeline?
+: Michael Crichton
+: Who director of The King and I?
+: Walter Lang
+: Who composer of Nalla Thambi?
+: Ilaiyaraaja
+: Who producer of Michael?
+: Anurag Kashyap
+: What sport does Adam Henley play?
+: association football
+: What genre is Thomas Morris?
+:

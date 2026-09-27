@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who author of Ray?
+: Akihito Yoshitomi
+: What religion of Cecil Warren?
+: Anglicanism
+: Who screenwriter for Fourbi?
+: Alain Tanner
+: What sport does FK Radnički Pirot play?
+: association football
+: Who producer of Ghost?
+:

@@ -1,0 +1,19 @@
+Answer name entity. explain
+: mother Isaac?
+: Sara
+: color White House?
+: white
+: author Shadow?
+: Dean Wesley Smith
+: producer The Jacket?
+: Steven Soderbergh
+: director Panic?
+: Harry Piel
+: Michael Arad?
+: architect
+: genre Circus?
+: electropop
+: composer Witness?
+: Maurice Jarre
+: screenwriter Thrilling?
+:

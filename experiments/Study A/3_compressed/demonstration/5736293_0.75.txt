@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Think About You?
+ A: Izzy Stradlin
+ Q: What G. E. M. 's occupation?
+ A: singer-songwriter
+ Q: What genre is Raphael Saadiq?
+: soul music
+: Who director of Brown Sugar?
+: Fred Paul
+: Who mother of Ronan Farrow?
+: Mia Farrow
+: capital of Deux-Nèthes?
+: Antwerp
+: Who screenwriter for Chicago?
+: Nick Santora
+: what country Ramon Magsaysay Technological University?
+: Philippines
+: Who father of Jonathan?
+:

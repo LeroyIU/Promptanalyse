@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: color flag Zimbabwe?
+: red
+: religion Romanian Greek Catholic Church?
+: Catholic Church
+: country Deodara?
+: India
+: Will Smith?
+: screenwriter
+: screenwriter 300?
+:

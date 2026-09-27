@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: Who was screenwriter for Champion?
+ A: Kwak Kyung-taek
+: what city Robert Crannell Minor born?
+: New York City
+: What sport Michal Vacek play?
+: bobsleigh
+: What color White House?
+: white
+: Who is author of This?
+ A:

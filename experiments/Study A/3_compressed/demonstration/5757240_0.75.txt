@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Frozen?
+ A: Christophe Beck
+: Who producer of We Were Young?
+: Binka Zhelyazkova
+ Q: Who author of Bel Canto?
+: Ann Patchett
+ Q: What sport Brunei Barracudas play?
+ A: basketball
+: What genre is Surgery?
+: noise rock
+: capital of Kenya?
+: Nairobi
+: what city Juan Landázuri Ricketts born?
+: Arequipa
+: Aim's occupation?
+: disc jockey
+: Who screenwriter for The Prize?
+ A:

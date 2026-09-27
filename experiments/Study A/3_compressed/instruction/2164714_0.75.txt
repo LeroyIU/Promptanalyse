@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who mother of Makaziwe Mandela?
+: Evelyn Mase
+: what city Mapy Cortés born?
+: Santurce
+: What sport Guyana women's national field hockey team play?
+: field hockey
+: Who screenwriter for Hero?
+: David Peoples
+: what country American Visionary Art Museum?
+:

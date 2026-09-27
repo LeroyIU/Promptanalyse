@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, without further text.
+: composer Stella Deus: Gate Eternity?
+: Hitoshi Sakimoto
+: genre Angel?
+: horror film
+: religion Innocent?
+: Catholic Church
+: director Stepping Out?
+: Charles Reisner
+: father Ram?
+:

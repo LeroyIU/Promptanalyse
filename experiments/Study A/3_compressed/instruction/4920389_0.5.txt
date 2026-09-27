@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: religion Kenneth Bevan?
+: Anglicanism
+: genre Unknown?
+: fantasy
+: father Arjuna?
+: Indra
+: producer Point of Origin?
+: Newton Thomas Sigel
+: Larry Sitsky's?
+:

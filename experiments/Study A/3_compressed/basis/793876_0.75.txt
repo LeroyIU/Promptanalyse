@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who was screenwriter for Fireworks?
+ A: Kenneth Anger
+: What capital of Niue?
+: Alofi
+: Who father of Eryx?
+: Poseidon
+: What color is Coventry City F. C. ?
+: sky blue
+: Who composer of Highway?
+:

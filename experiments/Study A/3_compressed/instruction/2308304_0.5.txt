@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name entity, further text.
+: author Ritual?
+: Adam Nevill
+: capital Ukrainian Soviet Socialist Republic?
+: Kyiv
+: color flag Zimbabwe?
+: red
+: sport Christo van Rensburg?
+: tennis
+: Zhu Houren's?
+:

@@ -1,0 +1,16 @@
+Answer question name entity only. Do not explain.
+: Who author of Confidence?
+:?
+: Henry James
+: genre Back to the Future?
+: type of work Future?
+: comedy film
+: Who director of You and Me?
+: directed?
+: Ma Liwen
+: Augustine Steward's occupation?
+:?
+: politician
+: religion of Milica Hrebeljanović?
+:?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport 1923 in Brazilian football play?
+: What athletic activity 1923 Brazilian football associated with?
+: association football
+: What religion of Union of Catholic Asian News?
+: Union Catholic Asian News's religion?
+: Catholic Church
+: what city Jacob Duck born?
+: Jacob Duck from what city?
+: Utrecht
+: Who mother of Licinia Eudoxia?
+: Licinia Eudoxia child of what woman?
+: Aelia Eudocia
+: what country is Rizuiyeh?
+: What country Rizuiyeh located in?
+:

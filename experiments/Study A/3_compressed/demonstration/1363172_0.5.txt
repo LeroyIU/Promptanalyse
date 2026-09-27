@@ -1,0 +1,19 @@
+name entity.
+: color White House?
+: white
+: mother Emperor Han?
+: Consort Liang
+: author Little Children?
+: Tom Perrotta
+: country Mato Castelhano?
+: Brazil
+: screenwriter Mist?
+: Stephen King
+: city Dakota Collins born?
+: Santa Barbara
+: producer White Nights?
+: Taylor Hackford
+: capital Denmark?
+: Copenhagen
+: genre Wars?
+:

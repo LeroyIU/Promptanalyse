@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Ebenezer Webster's occupation?
+ Q: Ebenezer Webster's job?
+ A: farmer
+ Q: Who author of Replacements?
+: author 'Replacements'?
+: Lisa Tuttle
+ Q: Who producer of Hurt?
+: Who produced work 'Hurt'?
+: Linda Perry
+ Q: What sport does 1911–12 Scottish Cup play?
+ Q: 1911‚Äì12 Scottish Cup plays what sport?
+: association football
+ Q: what city Dave Alston born?
+: city?
+ A:

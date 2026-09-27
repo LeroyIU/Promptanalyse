@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: genre?
+: horror film
+: capital Tocantins?
+: Palmas
+: religion Roman Republic?
+: ancient Roman religion
+: screenwriter Ring?
+: Kōji Suzuki
+: director Tamas?
+:

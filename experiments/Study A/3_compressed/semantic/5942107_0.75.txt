@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of George VI?
+: Who mom of George VI?
+ A: Mary of Teck
+: What sport does Louis Perrée play?
+: What Louis Perrée play?
+: fencing
+: What capital of Dominica?
+: What Dominica's capital?
+ A: Roseau
+: Who father of Sybilla of Normandy?
+: Sybilla of Normandy child of what man?
+: Henry I of England
+: Who producer of The Mind Benders?
+: Who producer Mind Benders'?
+ A:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Saint David?
+: Christianity
+: Who father of George F. Sternberg?
+: Charles Hazelius Sternberg
+: capital of Namibia?
+: Windhoek
+: Who mother of Al Gore?
+: Pauline LaFon Gore
+ Q: What genre is Talk?
+: progressive rock
+: What color is Doncaster Rovers F. C. ?
+: red
+: Who composer of Christmas Eve?
+: Nikolai Rimsky-Korsakov
+: What sport does Richard Zedník play?
+: ice hockey
+: Who screenwriter for Ee Snehatheerathu?
+:

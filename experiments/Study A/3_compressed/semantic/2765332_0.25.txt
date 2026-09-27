@@ -1,0 +1,16 @@
+entity.
+: father Smile?
+:?
+:
+: genre?
+:?
+: punk rock
+: House?
+:?
+:
+: Severen?
+:?
+: Antwerp
+: Aung San Suu Kyi?
+:?
+:

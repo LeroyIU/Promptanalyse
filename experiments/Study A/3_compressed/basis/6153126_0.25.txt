@@ -1,0 +1,11 @@
+entity.
+: author?
+:
+: composer?
+:
+: Javar?
+:
+: Gaillard?
+:
+: religion Armenians?
+:

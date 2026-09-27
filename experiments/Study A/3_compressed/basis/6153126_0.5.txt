@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: author Down?
+: Lawrence Miles
+: composer Opera?
+: Brian Eno
+: country Javar Tan?
+: Iran
+: genre Slim Gaillard?
+: jazz
+: religion Armenians?
+:

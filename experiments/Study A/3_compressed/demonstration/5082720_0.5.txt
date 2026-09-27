@@ -1,0 +1,19 @@
+name entity.
+: color Fleetwood Town. ?
+: red
+: author From Time to Time?
+: Jack Finney
+: mother George Washington?
+: Mary Ball Washington
+: father Rafi-ush-Shan?
+: Bahadur Shah
+: genre Elizabeth Davis?
+: Riot
+: producer Buffalo?
+: Frank Zappa
+: screenwriter Church?
+: Franco Ferrini
+: country Cordova Bay Records?
+: Canada
+: religion Kingdom Sussex?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Ter?
+ A: Girona
+: Who mother of Todd McCaffrey?
+: Anne McCaffrey
+ Q: what city Joris Delle born?
+ A: Briey
+: Who screenwriter for Slam?
+: Saul Williams
+: What sport Barrie Aitchison play?
+:

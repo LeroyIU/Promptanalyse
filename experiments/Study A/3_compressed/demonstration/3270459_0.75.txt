@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Mark Twain?
+ A: John Marshall Clemens
+ Q: What sport Njurunda SK play?
+: ice hockey
+ Q: Rhea Silvia's occupation?
+: Vestal Virgin
+: Who composer of Jam?
+: Michael Jackson
+: what country Mac Johnson Wildlife Area?
+: Canada
+: Who screenwriter for The Actors?
+: Conor McPherson
+: Who director of Three of a Kind?
+: Bryan Spicer
+: What color is ruby?
+: red
+: what city Aleksandar Markovski born?
+:

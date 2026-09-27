@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who was director of The Heart?
+: Who was charge of direction of Heart?
+: Kon Ichikawa
+: Who father of Frederick IV, Elector Palatine?
+: Frederick IV, Elector Palatine's father is who?
+: Louis VI
+: what country is Warner?
+: What country Warner in?
+: Canada
+: Who screenwriter for Champion?
+: 'Champion' written by who?
+: Rabi Kinagi
+: Who mother of Senhime?
+: Which woman raised Senhime?
+:

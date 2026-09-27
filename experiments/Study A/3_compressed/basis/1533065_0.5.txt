@@ -1,0 +1,11 @@
+name entity.
+: composer Phenomenon?
+: Thomas Newman
+: genre Dirk Gently?
+: fiction
+: city Pete Donohue born?
+: Athens
+: director Still Life?
+: Sohrab Shahid-Saless
+: color Sheffield United. ?
+:

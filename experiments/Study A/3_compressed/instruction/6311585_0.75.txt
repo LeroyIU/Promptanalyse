@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who composer of The Treatment?
+: John Zorn
+: Who mother of Bia?
+: Styx
+: Tatiana Doronina's occupation?
+: actor
+: Who father of Ptolemy XIII Theos Philopator?
+: Ptolemy XII Auletes
+: What color is milk?
+ A:

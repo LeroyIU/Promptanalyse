@@ -1,0 +1,13 @@
+Answer question name entity. not explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: director Gold?
+: Otto Brower
+: country Francheville Aerodrome?
+: France
+: producer The Room?
+: Greg Sestero
+: Javad Maroufi?
+: composer
+: capital Tajikistan?
+:

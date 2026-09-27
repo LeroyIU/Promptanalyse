@@ -1,0 +1,19 @@
+name entity.
+: father Talia Balsam?
+: Martin Balsam
+: genre Main Course?
+: disco
+: sport Josh Vanlandingham?
+: basketball
+: producer Separation?
+: Asghar Farhadi
+: director Plastic?
+: Julian Gilbey
+: country Maryland Route 214?
+: United States America
+: color White House?
+:
+: author Why Write?
+: George Orwell
+: capital Grand Duchy Finland?
+:

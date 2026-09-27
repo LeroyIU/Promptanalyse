@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for Kitty?
+ A: Karl Tunberg
+ Q: religion of Spain?
+: non-denominational
+: What sport does Alexandru Chiculiță play?
+ A: fencing
+: capital of Crete?
+: Heraklion
+: Maev-Ann Wren's occupation?
+: journalist
+: Who father of Arabia?
+ A: Justin II
+: Who author of The Sea?
+: John Banville
+: Who mother of Sancho, Count of Provence?
+: Petronilla of Aragon
+: In what country is Re?
+ A:

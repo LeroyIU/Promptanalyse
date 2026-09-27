@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: what country is Greek?
+: United Kingdom
+: What sport does Giorgio Venturin play?
+: association football
+: Who producer of Happy Together?
+: Wong Kar-wai
+: What religion of Mahavira?
+: Jainism
+: Who mother of John of Scotland?
+:

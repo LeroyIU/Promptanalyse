@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What genre is Dune 2000?
+ A: real-time strategy
+: Who director of Chocolate?
+ A: Prachya Pinkaew
+: capital of Malaysia?
+: Kuala Lumpur
+: What sport does Cassiá play?
+: association football
+: Lisa McRee's occupation?
+:

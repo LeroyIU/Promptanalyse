@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name, further text.
+: screenwriter Serenity?
+: Joss Whedon
+: sport 2010 Veikkausliiga play?
+: association football
+: producer Electronic?
+: Johnny Marr
+: author Private?
+: James Patterson
+: mother Christian IV Denmark?
+:

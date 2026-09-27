@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who author of Business is business?
+:?
+: Octave Mirbeau
+: Who producer Three Coins in the Fountain?
+: produced?
+: Rossano Brazzi
+: sport Joe Bretto play?
+: sport?
+: ice hockey
+: Who screenwriter Frida?
+: 'Frida'?
+: Gregory Nava
+: Jean Gabriel Marie's?
+: job?
+:

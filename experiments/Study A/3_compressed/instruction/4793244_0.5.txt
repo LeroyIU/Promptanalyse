@@ -1,0 +1,13 @@
+Answer name entity. explain
+ entity name. No explanation required.
+ name, further text.
+: sport Guyana women's national field team?
+: field hockey
+: mother Bertrand Russell?
+: Katharine Russell, Viscountess Amberley
+: color Coventry City. ?
+: sky blue
+: capital Denmark?
+: Copenhagen
+: city KK born?
+:

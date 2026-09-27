@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: director Kingdom?
+: Peter Berg
+: screenwriter Switch?
+: Allan Loeb
+: sport Steve Coppell play?
+: association football
+: country Ferrari?
+: Italy
+: color Juventus. ?
+:

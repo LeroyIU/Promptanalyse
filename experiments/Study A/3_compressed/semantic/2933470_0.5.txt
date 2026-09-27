@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: capital European Union?
+: government based where?
+: City of Brussels
+: composer of Champion?
+: Champion composed by who?
+: Drake
+: country Berry?
+:?
+: United States America
+: sport Los Angeles Galaxy play?
+:?
+: association football
+: director First Time?
+: directed First Time?
+:

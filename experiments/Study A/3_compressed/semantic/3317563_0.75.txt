@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of The Circus?
+: Who produced The Circus?
+: Charlie Chaplin
+ Q: Who screenwriter for Twenty Two?
+: screenwriter Twenty Two?
+: Rod Serling
+ Q: Rose Beaudet's occupation?
+: What kind of work Rose Beaudet do?
+: actor
+ Q: What capital of State of Vietnam?
+: capital city Vietnam?
+: Ho Chi Minh City
+ Q: What sport América Futebol Clube play?
+: América Futebol Clube plays what sport?
+ A:

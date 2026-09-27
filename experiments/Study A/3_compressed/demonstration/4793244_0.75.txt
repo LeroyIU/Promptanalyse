@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Guyana women's national field hockey team play?
+ A: field hockey
+: Who mother of Bertrand Russell?
+: Katharine Russell, Viscountess Amberley
+: What color Coventry City F. C. ?
+: sky blue
+: capital of Denmark?
+: Copenhagen
+: Who author of Nature?
+: Ralph Waldo Emerson
+: Olav T. Laake's occupation?
+: politician
+: father of Maximilian I of Mexico?
+: Archduke Franz Karl of Austria
+: what country canton of Marseille-La Pomme?
+: France
+: what city was KK born?
+:

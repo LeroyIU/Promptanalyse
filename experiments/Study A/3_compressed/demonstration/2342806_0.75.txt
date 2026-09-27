@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: what country is Greek?
+ A: United Kingdom
+ Q: What sport does Giorgio Venturin play?
+: association football
+ Q: Who producer of Happy Together?
+: Wong Kar-wai
+: religion of Mahavira?
+: Jainism
+: Who screenwriter for Northeast?
+: Juan Diego Solanas
+: Who composer of Game?
+: Joshua Sridhar
+: What color is Exeter City F. C. ?
+: red
+: what city Gérard Fromanger born?
+: Jouars-Pontchartrain
+: Who mother of John of Scotland?
+:

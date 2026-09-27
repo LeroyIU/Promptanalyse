@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who author of Consent to Kill?
+: Vince Flynn
+: John Mayne's occupation?
+: journalist
+: what city Ed Sullivan born?
+: New York City
+: What color is Exeter City F. C. ?
+: red
+: Who composer of Hino da Independência?
+:

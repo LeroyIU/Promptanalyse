@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was director of The Designated Mourner?
+: Who director?
+: David Hare
+ Q: Who father of Alexander?
+: Who dad Alexander?
+: Ivan Shishman of Bulgaria
+ Q: What Kekko Fornarelli's occupation?
+: Kekko Fornarelli's job?
+: composer
+ Q: Who mother of Emma of Normandy?
+: Who gave birth to Emma of Normandy?
+ A: Gunnora
+ Q: Who composer of Eclipse?
+: Who composed Eclipse?
+ A:

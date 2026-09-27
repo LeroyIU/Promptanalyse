@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: What color Charlton Athletic F. C ?
+: Charlton Athletic. associated color?
+: red
+: Who screenwriter Red Road?
+:?
+: Andrea Arnold
+: What genre Good Times?
+: Fans genre?
+: musical film
+: author Oliver's Story?
+: wrote Story?
+: Erich Segal
+: director The Variable?
+: directed Variable'?
+:

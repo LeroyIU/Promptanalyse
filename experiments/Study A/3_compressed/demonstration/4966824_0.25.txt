@@ -1,0 +1,19 @@
+.
+: director Post?
+: John Ford
+:?
+:
+: screenwriter Fever?
+:
+: capital?
+: Villavicencio
+:. Brown?
+:
+: composer?
+:
+: Atlético?
+:
+: father?
+:
+:?
+:

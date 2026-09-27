@@ -1,0 +1,16 @@
+Answer question with name entity only. not explain.
+: Who director of Never Forget?
+: Never Forget directed by who?
+: Joseph Sargent
+: what country is Ločenice?
+: Loƒçenice what country?
+: Czech Republic
+: What sport Frank Cornan play?
+: What athletic activity Frank Cornan associated with?
+: association football
+: What color is Doncaster Rovers F. C. ?
+: Doncaster Rovers F. C associated with what color?
+: red
+: What genre is Celebration?
+: What genre Celebration associated with?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who composer of Airport?
+: Who composed 'Airport'?
+: Alfred Newman
+: Who producer of Face to Face?
+: Face to Face produced by who?
+: Michael Rymer
+: Who was screenwriter for Regeneration?
+: Who in charge of screenwriting of Regeneration?
+: Raoul Walsh
+: What color is A. C. Milan?
+: What color is. C. Milan associated with?
+: red
+: What capital of Montgomery County?
+: what city government of Montgomery County based?
+:

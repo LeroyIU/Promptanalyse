@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of Sleep?
+ A: Andy Warhol
+: Who director of Mann?
+: Indra Kumar
+: Bill Kintner's occupation?
+ A: politician
+: What sport Noëlle van Lottum play?
+ A: tennis
+: Who mother of James I of Scotland?
+:

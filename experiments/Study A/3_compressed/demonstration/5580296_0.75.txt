@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Apur Sansar?
+ A: Satyajit Ray
+: capital of Oklahoma?
+: Oklahoma City
+: In what city Ingvild Bryn born?
+ A: Voss
+: Who mother of Wheeler Dryden?
+: Hannah Chaplin
+: Who father of Prince Karl Theodor of Bavaria?
+: Maximilian I Joseph of Bavaria
+: Who composer of The Room?
+: Mladen Milicevic
+: What genre is Good Times?
+: musical film
+: Famke Janssen's occupation?
+: screenwriter
+: Who screenwriter for Drive?
+:

@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: religion of Kenneth Bevan?
+ A: Anglicanism
+ Q: genre is Unknown?
+ A: fantasy
+ Q: father of Arjuna?
+ A: Indra
+ Q: producer of Point of Origin?
+: Newton Thomas Sigel
+: Larry Sitsky's occupation?
+ A:

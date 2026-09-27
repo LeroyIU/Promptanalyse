@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Scott Muirhead play?
+: What sport Scott Muirhead associated with?
+ A: association football
+ Q: What capital of Merthyr Tydfil County Borough?
+: Merthyr Tydfil County Borough capital?
+: Merthyr Tydfil
+: Who composer of Christen, BWV 63?
+: Who composed Christen, BWV 63?
+: Johann Sebastian Bach
+: Who mother of Edgar Allan Poe?
+: Which woman raised Edgar Allan Poe?
+: Eliza Poe
+ Q: what city Louis Renault born?
+: What town Louis Renault born?
+:

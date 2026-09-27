@@ -1,0 +1,11 @@
+Answer question name entity.
+: country Freedom?
+: United States America
+: screenwriter Student?
+: Darezhan Omirbaev
+: composer Adventures Hercules?
+: Pino Donaggio
+: mother Eryx?
+: Aphrodite
+: color Pan-Slavic colors?
+:

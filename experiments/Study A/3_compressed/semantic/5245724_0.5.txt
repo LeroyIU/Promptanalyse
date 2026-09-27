@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: sport 2011–12 Elon Phoenix men's basketball team play?
+: sport?
+: basketball
+: religion Alexander?
+: associated religion?
+: Islam
+: mother Pegah Ahangarani?
+: birth Pegah Ahangarani?
+: Manijeh Hekmat
+: director Top of the World?
+:?
+: Sidney J. Furie
+: city Robert Zawada born?
+: Robert Zawada's hometown?
+:

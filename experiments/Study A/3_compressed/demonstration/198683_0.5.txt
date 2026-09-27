@@ -1,0 +1,19 @@
+name entity.
+: screenwriter Hide?
+: Tim Whitnall
+: mother Asher?
+: Zilpah
+: country 1999 Guatemalan election?
+: Guatemala
+: religion Trevor Mwamba?
+: Anglicanism
+: composer Sunny?
+: Rahul Dev Burman
+: city Endre Bálint born?
+: Budapest
+: color flag Zimbabwe?
+: red
+: Frederick Dundas?
+: politician
+: author Emma?
+:

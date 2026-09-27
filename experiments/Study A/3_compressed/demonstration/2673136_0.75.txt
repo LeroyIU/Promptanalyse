@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport André Racicot play?
+ A: ice hockey
+ Q: what country is Mechanicsburg?
+: United States of America
+: religion of Francis?
+: Catholic Church
+: What color Doncaster Rovers F. C. ?
+ A: red
+: Who author of Faith?
+: Len Deighton
+: Who director of Angel?
+: Ganesh Acharya
+: What genre is Come Back to Me?
+: pop music
+: Who producer of Downloaded?
+: Alex Winter
+: Who composer of The Express?
+:

@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Mao Anqing?
+ A: Yang Kaihui
+: capital of Lakes?
+: Rumbek
+: Richard Howland Hunt's occupation?
+: architect
+ Q: Who composer of The Bad Sleep Well?
+: Masaru Sato
+: what city Lois Bancroft Long born?
+ A:

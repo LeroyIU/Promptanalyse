@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Carl Grimes?
+: Carl Grimes child of what man?
+: Rick Grimes
+: Who screenwriter for Work?
+: 'Work' written by who?
+: Charlie Chaplin
+: Who composer of The Commitments?
+: Who music writer of The Commitments?
+: Wilson Pickett
+: What color Charlton Athletic F. C. ?
+: Charlton Athletic F. C. associated with what color?
+: red
+: Who author of Lest We Remember?
+: Who authored Lest We Remember?
+:

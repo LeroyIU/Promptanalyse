@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Colorado?
+ A: Denver
+: What genre is Steal This Record?
+: punk rock
+: What sport does Niklas Stark play?
+: association football
+: Who screenwriter for Secret of Telegian?
+: Shinichi Sekizawa
+: Who author of Bug?
+ A:

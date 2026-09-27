@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who mother of George VI?
+:?
+: Mary of Teck
+: What sport Louis Perrée play?
+:?
+: fencing
+: capital of Dominica?
+:?
+: Roseau
+: Who father of Sybilla of Normandy?
+: child of what man?
+: Henry I of England
+: Who producer of The Mind Benders?
+:?
+:

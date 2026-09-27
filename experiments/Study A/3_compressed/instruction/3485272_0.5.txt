@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: producer Inland Empire?
+: David Lynch
+: religion Saint Patrick?
+: Celtic Christianity
+: city Cooper Smeaton born?
+: Carleton Place
+: genre Clockwise?
+: comedy film
+: color Rotherham United. ?
+:

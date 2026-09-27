@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who author of Business is business?
+ A: Octave Mirbeau
+: Who producer of Three Coins in the Fountain?
+: Rossano Brazzi
+: What sport Joe Bretto play?
+: ice hockey
+: Who screenwriter for Frida?
+: Gregory Nava
+: Jean Gabriel Marie's occupation?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Business is business?
+ A: Octave Mirbeau
+: Who producer of Three Coins in the Fountain?
+ A: Rossano Brazzi
+: What sport does Joe Bretto play?
+: ice hockey
+: Who screenwriter for Frida?
+: Gregory Nava
+: Who composer of Around World?
+: Cole Porter
+: what city Bill Fellowes born?
+ A: Bradford
+: Who director of Julie?
+: Poornima Indrajith
+: What color is chalk?
+: white
+: Jean Gabriel Marie's occupation?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of Stolen?
+: Josh Lucas
+: Who author of Game Over?
+: David Sheff
+: What capital of Kievan Rus'?
+: Kyiv
+: What sport does Margarita Louis-Dreyfus play?
+: association football
+: What color is apple?
+:

@@ -1,0 +1,11 @@
+Answer question name entity only. not explain.
+ Q: What genre is Ross Macdonald?
+: detective fiction
+: Who producer of More?
+: Barbet Schroeder
+ Q: what city was James M. Bingham born?
+: Perry
+ Q: What color Exeter City F. C. ?
+: red
+: what country Directorate of Military Intelligence?
+:

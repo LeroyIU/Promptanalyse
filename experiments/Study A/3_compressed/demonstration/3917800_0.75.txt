@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Deep End?
+ A: short story
+ Q: what city Belly born?
+ A: Jenin
+: Who producer of Squeeze?
+ A: John Cale
+: religion of Honorius III?
+ A: Christianity
+: Robert Gwilym's occupation?
+ A: actor
+: Who father of Josie Ho?
+: Stanley Ho
+: what country is Moore?
+: United States of America
+: What color flag of Colorado?
+: red
+: Who screenwriter for Dimboola?
+:

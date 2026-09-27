@@ -1,0 +1,19 @@
+name entity.
+: screenwriter Crime?
+: Tonino Benacquista
+: director Small Town?
+: Thomas Schlamme
+: mother Lulach?
+: Gruoch Scotland
+: genre Freedom Fighters?
+: third-person shooter
+: Lothrop Stoddard?
+: journalist
+: father Charles II England?
+: Charles I England
+: country Old English?
+: England
+: religion Lenni Brenner?
+: atheism
+: city Phil Williams born?
+:

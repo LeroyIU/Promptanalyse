@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What sport Scott Muirhead play?
+ A: association football
+: capital of Merthyr Tydfil County Borough?
+ A: Merthyr Tydfil
+: Who composer of Christen, BWV 63?
+: Johann Sebastian Bach
+: Who mother of Edgar Allan Poe?
+: Eliza Poe
+: In what city Louis Renault born?
+:

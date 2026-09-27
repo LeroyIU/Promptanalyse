@@ -1,0 +1,13 @@
+Answer question with name of entity only. not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Smile?
+: In Reality
+: What genre is Discount?
+: punk rock
+: What color is White House?
+: white
+: what city was Maarten van Severen born?
+: Antwerp
+: religion of Aung San Suu Kyi?
+:

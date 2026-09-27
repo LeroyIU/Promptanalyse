@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: producer Stolen?
+: Josh Lucas
+: author Game Over?
+: David Sheff
+: capital Kievan Rus?
+: Kyiv
+: sport Margarita Louis-Dreyfus play?
+: association football
+: color apple?
+:

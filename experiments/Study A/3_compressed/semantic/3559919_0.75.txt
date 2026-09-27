@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Confession?
+: genre Confession belong to?
+ A: alternative metal
+: Who producer of Seven?
+: 'Seven' produced by who?
+: Arnold Kopelson
+ Q: What Alexander Gadolin's occupation?
+: What job Alexander Gadolin do?
+: politician
+: Who director of Avatar?
+: Who director of 'Avatar'?
+: Carmine Gallone
+: Who composer of Brand New Day?
+: Who music writer of Brand New Day?
+:

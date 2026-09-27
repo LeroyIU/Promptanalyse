@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: capital Georgia?
+: Kutaisi
+: mother Allison Hirschlag?
+: Julia Barr
+: color FC Internazionale Milano?
+: black
+: father Moses?
+: Amram
+: author Sure?
+:

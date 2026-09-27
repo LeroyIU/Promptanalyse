@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What sport does Warrenpoint Town F. C. play?
+: association football
+: What color flag of Colorado?
+: red
+: Who director of The Scarf?
+: Ewald André Dupont
+: Who screenwriter for Pilot?
+: Miles Millar
+: Who author of Adventures of Tom Sawyer?
+:

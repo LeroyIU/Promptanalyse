@@ -1,0 +1,11 @@
+Answer question name entity.
+: director Singapore?
+: Shakti Samanta
+: genre Hinder?
+: hard rock
+: producer Moksha?
+: Ashok Mehta
+: city Michelle Renaudddd born?
+: Mexico City
+: composer Imagine?
+:

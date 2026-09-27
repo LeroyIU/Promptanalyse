@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Emperor Taizong of Tang?
+: Emperor Gaozu of Tang
+: In what city James M. Bingham born?
+ A: Perry
+: Who author of Sonnet 109?
+: William Shakespeare
+: capital of Racine County?
+: Racine
+: Who mother of Rachel Summers?
+: Jean Grey
+: What sport does Günter Kutowski play?
+: association football
+: Who producer of Numb?
+: Brian Eno
+: What genre is Wired?
+: biographical film
+: Who director of Together Again?
+:

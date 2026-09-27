@@ -1,0 +1,13 @@
+entity.
+.
+,.
+: genre?
+: horror
+: capital Tocantins?
+:
+: religion Roman Republic?
+: ancient
+: screenwriter?
+:
+: director Tamas?
+:

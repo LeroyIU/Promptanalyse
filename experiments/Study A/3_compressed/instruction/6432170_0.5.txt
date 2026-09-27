@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: Who mother Rama?
+: Kausalya
+: country Babino, Haiti?
+:
+: producer 1977?
+:. Sarathkumar
+: What genre Moment Time?
+: film
+: capital Philippines?
+:

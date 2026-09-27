@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who screenwriter for The Arrival?
+: Who wrote script for Arrival?
+: Jeff Pinkner
+: capital of Weimar Republic?
+: Where government of Weimar Republic based?
+: Berlin
+: Who father of Ion son of Xuthus?
+: Ion son of Xuthus's father is who?
+: Apollo
+ Q: In what country is GuideStar?
+: what country GuideStar located?
+: United States of America
+: what city Brent Maddock born?
+: What Brent Maddock's hometown?
+:

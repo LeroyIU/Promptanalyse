@@ -1,0 +1,16 @@
+entity.
+: author Pearl?
+:?
+: John Arden
+: composer Cross?
+:?
+: Yasunori Mitsuda
+:.?
+:.?
+: football
+: flag?
+:?
+:
+: producer Criminal?
+:?
+:

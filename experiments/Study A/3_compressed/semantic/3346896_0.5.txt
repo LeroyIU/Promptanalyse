@@ -1,0 +1,16 @@
+Answer question name entity. not explain
+: Who author Cell?
+: Cell written who?
+: Stephen King
+: What genre UK?
+: associated genre?
+: progressive rock
+: What sport Jonas Villanueva play?
+:?
+: basketball
+: what city Simon Callery born?
+:?
+: London
+: What color Arsenal Fútbol Club?
+: colored?
+:

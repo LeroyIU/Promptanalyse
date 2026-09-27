@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Talia Balsam?
+: Martin Balsam
+: What genre is Main Course?
+: disco
+: What sport Josh Vanlandingham play?
+: basketball
+: Who producer of Separation?
+: Asghar Farhadi
+: capital of Grand Duchy of Finland?
+ A:

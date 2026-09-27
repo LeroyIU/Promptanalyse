@@ -1,0 +1,11 @@
+Answer question name entity.
+: mother Carrie Brady?
+: Anna DiMera
+: country?
+:
+: sport Zaur Ramazanov play?
+: association football
+: genre Southern Rock Opera?
+: alternative country
+: screenwriter Accused?
+:

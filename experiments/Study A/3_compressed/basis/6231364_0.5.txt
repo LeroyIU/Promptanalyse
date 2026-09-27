@@ -1,0 +1,11 @@
+name entity.
+: color Atlético Madrid?
+: red
+: father Lee Baxter?
+: Stuart Baxter
+: sport Oleg Imrekov play?
+: association football
+: capital Guadeloupe?
+: Basse-Terre
+: genre Little Thief?
+:

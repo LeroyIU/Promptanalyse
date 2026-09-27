@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: In what country is Greek?
+: What country Greek associated with?
+ A: United Kingdom
+: What sport Giorgio Venturin play?
+: Giorgio Venturin associated with what sport?
+ A: association football
+: Who producer of Happy Together?
+: Who producer?
+: Wong Kar-wai
+: What religion of Mahavira?
+: Mahavira's religion?
+ A: Jainism
+: Who mother of John of Scotland?
+: John of Scotland's mother is who?
+ A:

@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Ahimelech?
+: Ahitub
+: country Archipelago Museum?
+: Finland
+: color Atlético de Madrid?
+: red
+: author Timeline?
+: Michael Crichton
+: genre Thomas Morris?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: Who was director of By Indian Post?
+: Who director of 'By Indian Post'?
+: John Ford
+: What genre is Hate?
+: What genre Hate belong to?
+: black metal
+: Who screenwriter for The Fever?
+: Who wrote script for 'The Fever'?
+: Wallace Shawn
+: What capital of Meta?
+: government of Meta based where?
+: Villavicencio
+: what country is Lima?
+: What country is Lima in?
+:

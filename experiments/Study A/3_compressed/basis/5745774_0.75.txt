@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Joseph Merrick?
+: Baptists
+ Q: Alan Huckle's occupation?
+: diplomat
+ Q: mother of Emmanuel Théodose de La Tour d'Auvergne?
+: Marie Anne Mancini
+ Q: Who screenwriter for The Candidate?
+: Elizabeth Sarnoff
+: Who composer of Shine?
+:

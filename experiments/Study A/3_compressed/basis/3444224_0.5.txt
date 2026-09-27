@@ -1,0 +1,11 @@
+Answer name entity.
+: producer Flesh?
+: John Ford
+: father Grand Duke Nicholas Mikhailovich?
+: Grand Duke Michael Nikolaevich
+: screenwriter Ballad?
+: Brad Falchuk
+: genre Kiss?
+: pop music
+: capital Hood County?
+:

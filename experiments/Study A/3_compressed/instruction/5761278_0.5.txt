@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: mother Ganesha?
+: Parvati
+: sport Mohammed Amine Kabli play?
+: association football
+: composer That's Love?
+: Smokey Robinson
+: producer Airport?
+: Anubhav Sinha
+: Sudarshan Faakir's?
+:

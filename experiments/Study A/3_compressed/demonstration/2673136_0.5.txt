@@ -1,0 +1,19 @@
+Answer name entity.
+: sport André Racicot?
+: hockey
+: country Mechanicsburg?
+: United States
+: religion Francis?
+: Catholic Church
+: color Doncaster Rovers. ?
+: red
+: author Faith?
+: Len Deighton
+: director Angel?
+: Ganesh Acharya
+: genre Come Back to Me?
+: pop music
+: producer Downloaded?
+: Alex Winter
+: composer The Express?
+:

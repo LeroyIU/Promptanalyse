@@ -1,0 +1,11 @@
+Answer name entity.
+: sport VOKO-Irodion play?
+: volleyball
+: capital Kingdom France?
+: Paris
+: city Klaus Wunder born?
+: Erfurt
+: composer Aval Appadithan?
+: Ilaiyaraaja
+: producer Electronic?
+:

@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: producer Little Man?
+: produced Little Man?
+: Marlon Wayans
+: father Jacob?
+:'s father?
+: Isaac
+: screenwriter The Stuff?
+: charge writing 'The Stuff'?
+: Larry Cohen
+: religion Catholic Theological Union?
+: religious denomination?
+: Catholic Church
+: mother Queen Victoria?
+: Who gave birth Queen Victoria?
+:

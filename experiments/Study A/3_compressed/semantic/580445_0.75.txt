@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Richard Rawlinson born?
+: from what city?
+: London
+ Q: What genre Ninja Boy II?
+: type of work Ninja Boy II?
+: action role-playing game
+ Q: Who mother of Helen of Troy?
+: Which woman raised Helen of Troy?
+: Leda
+ Q: Claire Berlinski's occupation?
+: Claire Berlinski earn living as?
+: journalist
+ Q: What sport 1994 Swedish Open play?
+: 1994 Swedish Open associated with what sport?
+:

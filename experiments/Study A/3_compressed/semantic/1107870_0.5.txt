@@ -1,0 +1,16 @@
+Answer question name entity only. not explain
+: what city Gregorio Selser born?
+: town?
+: Buenos Aires
+: composer All Around the World?
+: wrote music?
+: Justin Bieber
+: father George S. Patton?
+: man raised George S. Patton?
+: George S. Patton
+: religion Matthew Apostle?
+: religious denomination?
+: Christianity
+: What color flag of Belize?
+:?
+:

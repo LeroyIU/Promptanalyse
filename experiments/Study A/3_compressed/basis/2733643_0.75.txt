@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What genre is Little Things?
+: traditional music
+ Q: what city Batman born?
+: Gotham City
+: What sport does Alain Rakotondramanana play?
+: association football
+: Who screenwriter for Deep End?
+: Scott McGehee
+: Who director of Slim?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: capital Hungary?
+: Budapest
+: father Pierre Guillaumat?
+: Adolphe Guillaumat
+: producer Envelope?
+: Kevin Spacey
+: religion Rama?
+: Hinduism
+: director Camp?
+:

@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What capital of Georgia?
+: What Georgia's capital?
+ A: Kutaisi
+: Who mother of Allison Hirschlag?
+: Allison Hirschlag child of what woman?
+: Julia Barr
+: What color is FC Internazionale Milano?
+: What FC Internazionale Milano colored?
+: black
+: Who father of Moses?
+: Moses child of what man?
+: Amram
+: Who author of Sure of You?
+: Sure of You written by who?
+ A:

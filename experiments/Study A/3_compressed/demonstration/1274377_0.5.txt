@@ -1,0 +1,19 @@
+Answer name entity.
+: sport Margarita Louis-Dreyfus play?
+: association football
+: author?
+: Luther Blissett
+: color Manchester United. ?
+: red
+: composer Mouse Trouble?
+: Scott Bradley
+: country Dell?
+: United States America
+: capital Poprad District?
+:
+: city Bruno Nöckler born?
+:
+: mother Alexandros II Epirus?
+: Lanassa
+: screenwriter Twenty Minutes Love?
+:

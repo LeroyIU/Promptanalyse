@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Javad Maroufi's occupation?
+ A: composer
+: Who producer of On the Town?
+: Roger Edens
+: Who screenwriter for Grand Prix?
+: John Frankenheimer
+: Who father of Sybilla of Normandy?
+: Henry I of England
+ Q: Who composer of Fresh?
+ A:

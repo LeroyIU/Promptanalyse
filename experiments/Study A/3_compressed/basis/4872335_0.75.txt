@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+ Q: What color is Atlético de Madrid?
+ A: red
+: Who father of Tyler Ritter?
+: John Ritter
+ Q: Who was director of Imagine?
+: Yoko Ono
+: Who screenwriter for Commitments?
+: Ian La Frenais
+: what country is Kno?
+:

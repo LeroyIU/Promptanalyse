@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: Who is mother of Mary in Islam?
+: Saint Anne
+: what city was Donald De Lue born?
+: Boston
+: What religion of Catholic Church?
+: Catholicism
+: What genre is Mario franchise?
+: role-playing video game
+: What capital of Silla?
+:

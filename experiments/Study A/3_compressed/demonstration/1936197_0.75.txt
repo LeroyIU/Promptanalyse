@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Andrew Ure's occupation?
+ A: chemist
+: Who director of The Conscience of the King?
+ A: Gerd Oswald
+: What color is Manchester United F. C. ?
+ A: red
+: genre is Kirby 64: The Crystal Shards?
+: platform game
+: religion of Francisco Pizarro?
+: Catholic Church
+: Who producer of The Nest?
+: Julie Corman
+: composer of Time Machine?
+: Michael Daugherty
+: Who screenwriter for Insheeption?
+: Trey Parker
+: capital of Province of South Carolina?
+ A:

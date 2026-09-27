@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who father of Emperor Taizong of Tang?
+: Emperor Gaozu of Tang
+: In what city was James M. Bingham born?
+: Perry
+: Who author of Sonnet 109?
+: William Shakespeare
+: capital of Racine County?
+: Racine
+: Who director of Together Again?
+:

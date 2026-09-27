@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who was director of Love Letter?
+: Kinuyo Tanaka
+: Who screenwriter for Queen?
+: Peter Morgan
+: Who mother of Aloysia Weber?
+: Cäcilia Weber
+: What religion of Caesar Baronius?
+: Catholic Church
+: What sport does Roberto Nani play?
+:

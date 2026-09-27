@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Islamic view of Isaac?
+ A: Abraham in Islam
+: Charles Strachey, 4th Baron O'Hagan's occupation?
+: politician
+: Who author of Collision?
+: Jeff Abbott
+: what country is 1991 Copa do Brasil?
+: Brazil
+: What color is White House?
+: white
+: What sport does 2004 Legg Mason Tennis Classic play?
+: tennis
+: capital of arrondissement of Lannion?
+: Lannion
+: what city Hank Autry born?
+: Hattiesburg
+: religion of Mark Lindley?
+:

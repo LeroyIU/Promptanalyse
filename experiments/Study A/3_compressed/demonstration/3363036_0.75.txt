@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What color Charlton Athletic F. C. ?
+ A: red
+: Who screenwriter for Red Road?
+ A: Andrea Arnold
+: What genre is Good Times?
+: musical film
+: Who author of Oliver's Story?
+: Erich Segal
+: what country Direkte Aktion?
+ A: Germany
+: What sport does Ladislav Žák play?
+: association football
+: Bridie O'Flaherty's occupation?
+: politician
+: capital of Canada?
+: Ottawa
+: Who director of The Variable?
+:

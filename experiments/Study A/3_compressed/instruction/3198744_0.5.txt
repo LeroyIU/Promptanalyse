@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: country Stari Ras?
+: Serbia
+: genre Water?
+: comedy film
+: city Raimonds Vilde born?
+: Riga
+: capital Curaçao?
+: Willemstad
+: author Moreninha?
+:

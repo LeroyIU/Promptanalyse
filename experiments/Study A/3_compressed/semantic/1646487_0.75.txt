@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: What genre is Idaho?
+: What genre Idaho associated with?
+: Western film
+: what city Stone born?
+: What city Stone born in?
+: Paris
+: Who director of Michael?
+: Who directed Michael?
+: Carl Theodor Dreyer
+: Who was producer of X?
+: Who in charge of production of X?
+: Roger Corman
+: What color is fire engine?
+: fire engine what color?
+:

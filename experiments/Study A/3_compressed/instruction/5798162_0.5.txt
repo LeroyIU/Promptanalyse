@@ -1,0 +1,13 @@
+Answer name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Huw Edwards?
+: Hywel Teifi Edwards
+: capital South Africa?
+: Bloemfontein
+: mother Hou Ji?
+: Jiang Yuan
+: city Tuomo Suomalainen born?
+: Gogland
+: genre Special?
+:

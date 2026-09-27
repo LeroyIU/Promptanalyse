@@ -1,0 +1,19 @@
+entity.
+: director Secrets?
+: Frank Borzage
+: composer Memory?
+: Andrew Lloyd Webber
+: screenwriter Rose?
+: Bo Goldman
+: father Carl Valentin Falsen?
+: Enevold De Falsen
+: Graham Collier?
+: composer
+: city Izumi Iimura?
+: Japan
+: country Roybon?
+: France
+: sport Club Libertad?
+: association football
+: genre Living Lohan?
+:

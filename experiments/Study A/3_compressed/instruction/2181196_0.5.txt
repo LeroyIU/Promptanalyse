@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: William Greaves?
+: film director
+: screenwriter Out of Time?
+: Rob Grant
+: religion bishop?
+: Christianity
+: sport 1995 Cook Islands Round Cup?
+: association football
+: producer Noah?
+:

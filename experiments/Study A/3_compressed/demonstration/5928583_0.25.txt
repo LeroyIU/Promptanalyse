@@ -1,0 +1,19 @@
+.
+: father?
+: Lester
+: Hollywood?
+:
+: mother?
+: Phyllis
+: Atlético?
+:
+: composer Upside Down?
+: Nile Rodgers
+:?
+:
+:?
+:
+:?
+: Stonington
+: director Girl Mourning?
+:

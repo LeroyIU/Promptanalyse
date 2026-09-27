@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What color Fleetwood Town F. C. ?
+ A: red
+: Who father of Princess Cristina of Bourbon-Two Sicilies?
+: Francis II of Two Sicilies
+: what city James Keddy born?
+: Dublin
+: Kekko Fornarelli's occupation?
+: composer
+: Who producer of Little Man?
+:

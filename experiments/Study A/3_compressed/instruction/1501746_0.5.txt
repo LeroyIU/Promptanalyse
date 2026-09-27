@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: sport VOKO-Irodion play?
+: volleyball
+: capital Kingdom France?
+: Paris
+: city Klaus Wunder born?
+: Erfurt
+: composer Aval Appadithan?
+: Ilaiyaraaja
+: producer Electronic?
+:

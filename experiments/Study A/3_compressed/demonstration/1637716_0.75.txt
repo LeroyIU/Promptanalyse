@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: religion of Assumption College for Sisters?
+ A: Catholic Church
+ Q: what country is Australian Labor Party?
+: Australia
+: What sport does Anderson play?
+: association football
+: Paris's occupation?
+: actor
+: What color is Exeter City F. C. ?
+: red
+: Who director of The inn?
+: Jerzy Kawalerowicz
+: capital of Kent?
+: Maidstone
+: What genre is Made for Each Other?
+: romantic comedy
+: Who mother of Alexander I of Yugoslavia?
+:

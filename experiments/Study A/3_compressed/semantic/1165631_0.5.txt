@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: What sport Peter Bircumshaw play?
+:?
+: association football
+: producer Blue?
+: charge production 'Blue'?
+: Birthday Massacre
+: father Brad Armstrong?
+: Armstrong child?
+: Bob Armstrong
+: director Chicken Party?
+: directed Party?
+: Tate Taylor
+: capital Mayotte?
+: government Mayotte based where?
+:

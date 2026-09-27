@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: producer Little Man?
+: Marlon Wayans
+: father Jacob?
+: Isaac
+: screenwriter Stuff?
+: Larry Cohen
+: religion Catholic Theological Union?
+: Catholic Church
+: mother Queen Victoria?
+:

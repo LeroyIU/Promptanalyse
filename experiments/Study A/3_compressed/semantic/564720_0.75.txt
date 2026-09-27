@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who was director of Kingdom?
+: Who directed The Kingdom?
+: Peter Berg
+: Who was screenwriter for Switch?
+: Who in charge of screenwriting of Switch?
+: Allan Loeb
+: What sport Steve Coppell play?
+: What sport Steve Coppell associated with?
+: association football
+: what country is Ferrari?
+: What country Ferrari located in?
+: Italy
+: What color is Juventus F. C. ?
+: What color of Juventus F. C. ?
+:

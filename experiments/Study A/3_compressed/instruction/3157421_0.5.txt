@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: father Tiger Woods?
+: Earl Woods
+: author Fabulous Furry Freak Brothers?
+: Gilbert Shelton
+: screenwriter Made Each Other?
+: Joseph Bologna
+: director In Bedroom?
+: Todd Field
+: color Avant de Guingamp?
+:

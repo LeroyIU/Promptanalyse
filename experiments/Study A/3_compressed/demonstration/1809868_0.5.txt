@@ -1,0 +1,19 @@
+entity.
+: country Gaffarlı?
+: Turkey
+: genre Ugonna Okegwo?
+: jazz
+: capital Rondônia?
+: Porto Velho
+: screenwriter In Your Hands?
+: Peter Del Monte
+: author Anne Boleyn?
+: Howard Brenton
+: religion Jerusalem?
+: Catholic Church
+: producer The Car?
+: Elliot Silverstein
+: Todd Verow?
+: cinematographer
+: mother Mary, Princess Royal Harewood?
+:

@@ -1,0 +1,19 @@
+name entity.
+: producer Click?
+: Adam Sandler
+: author Birds?
+: Daphne du Maurier
+: composer Easy Money?
+: Laurence Rosenthal
+: director Betrayed?
+: Frans Weisz
+: genre Mark Feldman?
+: jazz
+: city Louis François Antoine Arbogast born?
+: Mutzig
+: color White House?
+:
+: father Aonghus Somhairle?
+: Somerled
+: mother Constantine, Armenia?
+:

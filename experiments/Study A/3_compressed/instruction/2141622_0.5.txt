@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: color chalk?
+: white
+: director Upside Down?
+: Juan Diego Solanas
+: religion Marilyn Monroe?
+: Judaism
+: capital arrondissement Limoges?
+: Limoges
+: genre City Sleeps?
+:

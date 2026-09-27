@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Helen of Troy?
+ A: Leda
+ Q: what country Cleveland City Council?
+: United States of America
+: what city Batman born?
+ A: Gotham City
+: Who director of Her?
+: Spike Jonze
+: What sport does Radoslav Školník play?
+: association football
+: Who screenwriter for Our Relations?
+: Stan Laurel
+: What color is Exeter City F. C. ?
+: red
+: What religion of Alfred Reid?
+: Anglicanism
+: capital of Zeeland?
+:

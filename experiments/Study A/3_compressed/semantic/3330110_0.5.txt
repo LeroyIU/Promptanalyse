@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who director of Tickets?
+: directed work 'Tickets'?
+: Ermanno Olmi
+: religion of David?
+:?
+: Judaism
+: composer This Love?
+:?
+: Jesse Carmichael
+: author of A Peep into the Past?
+: written?
+: Max Beerbohm
+: mother of Andrew Montour?
+: mom Montour?
+:

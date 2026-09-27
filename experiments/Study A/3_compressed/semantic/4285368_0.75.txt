@@ -1,0 +1,16 @@
+Answer question with name entity only. Do not explain.
+ Q: Who director of Your Face?
+: Who directed work 'Your Face'?
+ A: Bill Plympton
+: What sport ONCE play?
+: ONCE play?
+: road bicycle racing
+ Q: What genre is Crush?
+: What genre Crush belong to?
+ A: K-pop
+ Q: what city Joanna Elisabeth of Holstein-Gottorp born?
+:-Gottorp born?
+: Gottorf Castle
+: What Greg Miller's occupation?
+: What job does Greg Miller do?
+ A:

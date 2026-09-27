@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What sport Peter Bircumshaw play?
+ A: association football
+: Who producer of Blue?
+: The Birthday Massacre
+: Who father of Brad Armstrong?
+: Bob Armstrong
+: Who director of Chicken Party?
+: Tate Taylor
+: What color is Atlético de Madrid?
+ A: red
+ Q: religion of Chad Varah?
+: Anglicanism
+: What genre is Need to Believe?
+: hard rock
+: In what country is Criuleni?
+: Moldova
+: capital of Mayotte?
+:

@@ -1,0 +1,11 @@
+Answer name entity.
+: genre Threshold?
+: science fiction
+: city Gregorio Selser born?
+: Buenos Aires
+: color flag Zimbabwe?
+: red
+: Charles Martin Smith?
+: film director
+: producer Precious?
+:

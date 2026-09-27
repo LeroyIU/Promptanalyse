@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Bangai-O Spirits?
+: action game
+: Who author of The Smile?
+: Donna Jo Napoli
+: Who composer of Timeline?
+: Brian Tyler
+: Who producer of Secrets of a Secretary?
+: George Abbott
+: What sport reserve team play?
+:

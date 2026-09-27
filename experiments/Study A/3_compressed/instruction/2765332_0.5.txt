@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: father Smile?
+: Reality
+: genre Discount?
+: punk rock
+: color White House?
+: white
+: city Maarten van Severen born?
+: Antwerp
+: religion Aung San Suu Kyi?
+:

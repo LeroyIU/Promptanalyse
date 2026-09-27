@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+: Who director of Forgive?
+: Who in charge of direction of Forgive?
+: Marcos Siega
+: Who screenwriter for The Gardener?
+: Who charge of writing of 'The Gardener'?
+: Mohsen Makhmalbaf
+: Who mother of Emperor Yang of Sui?
+: Emperor Yang of Sui child of what woman?
+: Empress Dugu Qieluo
+: What religion of Choir monk?
+: Choir monk's religion?
+: Catholic Church
+: In what country is Pal?
+: Pal associated with what country?
+:

@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: father Robert?
+: Louis IX France
+: genre Dive?
+: action film
+: director Pilot?
+: Peter Horton
+: screenwriter Ride?
+: Millicent Shelton
+: country Ona?
+:

@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who producer Into the Sun?
+: produced by who?
+: Steven Seagal
+: Who author New Keywords?
+:?
+: Tony Bennett
+: Who screenwriter for Taxi?
+:?
+: Luc Besson
+: What genre Stand Up?
+:?
+: progressive rock
+: Who mother of Edward VI of England?
+: mom Edward VI?
+:

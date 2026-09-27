@@ -1,0 +1,11 @@
+Answer name entity.
+: country Tokyo International Cruise Terminal Station?
+: Japan
+: composer Fledermaus?
+: Johann Strauss II
+: city Matthew J. Ryan born?
+: Philadelphia
+: screenwriter Cut?
+: Jane Campion
+: author Renegade's Magic?
+:

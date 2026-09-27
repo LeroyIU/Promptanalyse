@@ -1,0 +1,19 @@
+Answer name entity.
+: sport Peter Bircumshaw play?
+: association football
+: producer Blue?
+: Birthday Massacre
+: father Brad Armstrong?
+: Bob Armstrong
+: director Chicken Party?
+: Tate Taylor
+: color Atlético Madrid?
+: red
+: religion Chad Varah?
+: Anglicanism
+: genre Believe?
+: hard rock
+: country Criuleni?
+: Moldova
+: capital Mayotte?
+:

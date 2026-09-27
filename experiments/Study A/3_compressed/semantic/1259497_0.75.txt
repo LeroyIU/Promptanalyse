@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+: Who screenwriter for Mud?
+: Who wrote script for Mud?
+: Jeff Nichols
+: What genre is The Congress?
+: Fans of what genre like The Congress?
+: documentary film
+: what city Tsugumi Higasayama born?
+: What city Tsugumi Higasayama from?
+: Saitama Prefecture
+: What color Fleetwood Town F. C. ?
+: What color Fleetwood Town F. C. associated with?
+: red
+: What capital of Quebec?
+: What capital city of Quebec?
+:

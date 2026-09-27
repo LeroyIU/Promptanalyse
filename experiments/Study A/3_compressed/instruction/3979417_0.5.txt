@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation.
+ name entity, further text.
+: sport?
+: hockey
+: color Fleetwood Town F. ?
+: red
+: genre Kirby 64: Crystal Shards?
+: platform game
+: Sayaka Ichii occupation?
+: actor
+: religion Ecclesiastical Statistics?
+:

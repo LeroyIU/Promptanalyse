@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: What capital of European Union?
+: City of Brussels
+: Who composer of Champion?
+: Drake
+: In what country is Berry?
+: United States of America
+: What sport does Los Angeles Galaxy play?
+: association football
+: Who director of First Time?
+:

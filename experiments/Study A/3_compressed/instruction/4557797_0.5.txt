@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity, further text.
+: mother George VI?
+: Mary Teck
+: genre Run World?
+: pop music
+: sport Israel Andrade play?
+: basketball
+: producer Rehab?
+: Timbaland
+: city Indians born?
+:

@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who was composer of Fire?
+ A: Jimi Hendrix
+: religion of Regis University?
+: Catholic Church
+: Who producer of Aag?
+: Raj Kapoor
+: capital of Yalutorovsky District?
+ A: Yalutorovsk
+: Who author of What I Was?
+ A:

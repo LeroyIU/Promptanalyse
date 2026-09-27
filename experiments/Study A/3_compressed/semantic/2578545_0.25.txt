@@ -1,0 +1,16 @@
+.
+: genre?
+:?
+: short story
+: Alva Orlandini?
+:?
+: politician
+: director?
+:?
+: James Whitmore Jr.
+: producer?
+:?
+: Jerome Hill
+:?
+:?
+:

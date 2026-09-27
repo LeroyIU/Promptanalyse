@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: What genre is Little Things?
+: traditional music
+ Q: what city Batman born?
+: Gotham City
+: What sport Alain Rakotondramanana play?
+: association football
+: Who screenwriter for The Deep End?
+: Scott McGehee
+ Q: capital of Hato Mayor Province?
+: Hato Mayor del Rey
+ Q: Who father of Archduchess Assunta of Austria?
+: Archduke Leopold Salvator of Austria
+: Robert Carson's occupation?
+: actor
+: religion of Andrew the Apostle?
+: Catholic Church
+: Who director of Slim?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Confidence?
+ A: Henry James
+ Q: What genre is Back to the Future?
+: comedy film
+: Who director of You and Me?
+ A: Ma Liwen
+: Augustine Steward's occupation?
+ A: politician
+: Who producer of Black Snake?
+: Russ Meyer
+: Who screenwriter for Mall?
+: Eric Bogosian
+: what country is Florencia?
+: Colombia
+: Who composer of After Hours?
+: Lou Reed
+: religion of Milica Hrebeljanović?
+ A:

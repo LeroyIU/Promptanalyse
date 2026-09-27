@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who father of Mohammad Ali Khan?
+ A: Karim Khan
+: Who director of The Affair?
+: Carl Colpaert
+ Q: What genre is Prototype?
+: science fiction film
+: what country Akshara School?
+: India
+: Who mother of Matilda of Scotland?
+:

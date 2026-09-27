@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Fire?
+: Who composed Fire?
+ A: Jimi Hendrix
+: What religion of Regis University?
+: Regis University's religion?
+: Catholic Church
+: Who producer of Aag?
+: Who produced work Aag?
+: Raj Kapoor
+: capital of Yalutorovsky District?
+: In what city government of Yalutorovsky District based?
+ A: Yalutorovsk
+: Who author of What I Was?
+: What I Was written by who?
+ A:

@@ -1,0 +1,16 @@
+entity.
+: country Stari Ras?
+:?
+:
+: genre?
+:?
+:
+: Raimonds Vilde?
+:?
+:
+: capital Curaçao?
+:?
+:
+: author Moreninha?
+:?
+:

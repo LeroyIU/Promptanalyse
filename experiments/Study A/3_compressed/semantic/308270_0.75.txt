@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who composer of Fascinating Rhythm?
+: Who composed Rhythm?
+ A: George Gershwin
+ Q: What religion of Jesus?
+: Jesus associated with what religion?
+: Judaism
+ Q: Robert Voisey's occupation?
+: What job Robert Voisey?
+: composer
+ Q: What genre is Our Time?
+: associated with what genre?
+: J-pop
+ Q: Who producer of The Gun?
+: Who produced The Gun?
+:

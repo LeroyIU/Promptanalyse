@@ -1,0 +1,11 @@
+Answer question name entity. explain
+: color Atlético Madrid?
+: red
+: author Task?
+: William Cowper
+: director Go Now?
+: Michael Winterbottom
+: screenwriter Flesh?
+: Nick Sagan
+: What genre Kite?
+:

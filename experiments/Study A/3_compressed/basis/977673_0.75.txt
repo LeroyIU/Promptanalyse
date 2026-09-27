@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: Who screenwriter for Gravity?
+ A: George Clooney
+: capital of Lower Saxony?
+: Hanover
+: What genre Picture This?
+: reality television
+ Q: what city Emily Hood Westacott born?
+: Brisbane
+: What sport Robert Braet play?
+ A:

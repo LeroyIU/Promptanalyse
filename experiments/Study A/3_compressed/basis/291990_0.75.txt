@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who author of Leaving Home?
+ A: David French
+: Who was director of Reef?
+: Robert Allan Ackerman
+ Q: What genre is Unknown?
+: mystery film
+: What color is York City F. C. ?
+: red
+: Who composer of Little Prince?
+:

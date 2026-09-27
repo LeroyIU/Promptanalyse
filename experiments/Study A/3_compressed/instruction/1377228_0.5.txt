@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name, further text.
+: city Zsuzsanna Németh born?
+: Budapest
+: father Alexander?
+: Polyperchon
+: religion Niccolò Marini?
+: Catholic Church
+: director Betrayed?
+: Frans Weisz
+: sport Siavash Yazdani play?
+:

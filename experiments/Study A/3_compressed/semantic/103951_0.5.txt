@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: Who father of Onela?
+: father who?
+: Ongentheow
+: Who screenwriter for On the Avenue?
+:?
+: Irving Berlin
+: Who composer of Thinking of You?
+:?
+: Katy Perry
+: religion of Marjorie Cameron?
+: religion?
+: Thelema
+: capital of Shire of Cook?
+: city?
+:

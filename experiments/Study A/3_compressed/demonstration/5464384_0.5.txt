@@ -1,0 +1,19 @@
+name entity.
+: genre Roper?
+: pop punk
+: capital McDowell County?
+: Welch
+: mother Prince Paul Yugoslavia?
+: Aurora Pavlovna Demidova
+: color Manchester United. ?
+: red
+: father Isaac Bowman?
+: George Bowman
+: sport Angela Maxwell?
+: figure skating
+: Eleanor Yule?
+: film director
+: city born?
+: Beijing
+: author Plus?
+:

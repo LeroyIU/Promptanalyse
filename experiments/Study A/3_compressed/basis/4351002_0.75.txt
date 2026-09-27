@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+ Q: Who mother of Florence Reed?
+ A: Isadore Rush
+: What color is chalk?
+: white
+: What sport does Bedworth United F. C. play?
+: association football
+: What religion of Paschal Triduum?
+: Christianity
+: Who author of Haunted?
+:

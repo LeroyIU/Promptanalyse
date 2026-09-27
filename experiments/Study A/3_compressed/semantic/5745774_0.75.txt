@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What religion of Joseph Merrick?
+: religion Joseph Merrick associated with?
+ A: Baptists
+ Q: Alan Huckle's occupation?
+: Alan Huckle earn living as?
+: diplomat
+ Q: Who mother of Emmanuel Théodose de La Tour d'Auvergne?
+: Which woman raised Emmanuel Théodose de La Tour'Auvergne?
+: Marie Anne Mancini
+ Q: Who screenwriter for The Candidate?
+: screenwriter The Candidate?
+: Elizabeth Sarnoff
+: Who composer of Shine?
+: Who music writer of Shine?
+ A:

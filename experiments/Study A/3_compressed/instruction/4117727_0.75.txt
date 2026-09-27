@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: What genre is Suits?
+: legal drama
+ Q: religion of Muhammad Qutb?
+: Sunni Islam
+: What sport Adam Bennett play?
+: ice hockey
+ Q: mother of Cornelia Otis Skinner?
+: Maud Durbin
+: father of Sydney Chaplin?
+ A:

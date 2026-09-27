@@ -1,0 +1,16 @@
+Answer question name entity. explain
+: composer Frozen?
+: Frozen composed who?
+: Christophe Beck
+: producer We Were Young?
+: produced We Were Young?
+: Binka Zhelyazkova
+: author Bel Canto?
+: written who?
+: Ann Patchett
+: sport Brunei Barracudas play?
+: sport?
+: basketball
+: screenwriter Prize?
+: Who wrote script Prize?
+:

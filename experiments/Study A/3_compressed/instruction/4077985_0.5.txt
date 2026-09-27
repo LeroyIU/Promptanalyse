@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ Give name entity, further text.
+: father Margaret England?
+: Edward I England
+: Joseph Weydemeyer's?
+: journalist
+: sport Germany national handball team play?
+: handball
+: producer The Detective?
+: Aaron Rosenberg
+: capital Voivodeship?
+:

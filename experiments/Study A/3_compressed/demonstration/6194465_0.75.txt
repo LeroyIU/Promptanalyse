@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who mother of Elizabeth II?
+: Queen Elizabeth The Queen Mother
+ Q: Who producer of Linger?
+: Johnnie To
+: Who composer of No Way Out?
+: Maurice Jarre
+ Q: Jorge Traverso's occupation?
+: journalist
+ Q: What color is White House?
+: white
+ Q: Who author of Go?
+: Kazuki Kaneshiro
+: Who director of Alone?
+: Parkpoom Wongpoom
+: capital of Itasca County?
+: Grand Rapids
+ Q: religion of William Peters?
+ A:

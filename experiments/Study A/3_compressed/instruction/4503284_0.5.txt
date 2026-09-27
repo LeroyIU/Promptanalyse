@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ entity name. No explanation required.
+ name, further text.
+: producer The Proposal?
+: Sandra Bullock
+: country Tvedes Bryggeri?
+: Denmark
+: mother Archduchess Maria Elisabeth Austria?
+: Maria Theresa Austria
+: city Jun Murai born?
+: Tokyo
+: Howard Fowles?
+:

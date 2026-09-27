@@ -1,0 +1,11 @@
+Answer question name entity.
+: color Exeter City. ?
+: red
+: screenwriter Divergent?
+: Vanessa Taylor
+: Shonali Bose's?
+: film director
+: sport Bernadette Szőcs?
+: table tennis
+: producer Somewhere?
+:

@@ -1,0 +1,11 @@
+.
+: capital?
+:
+: mother McCaffrey?
+:
+: Anjoma?
+:
+: religion?
+:
+: father Aun?
+:

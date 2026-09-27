@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What Shozaburo Nakamura's occupation?
+: What job Shozaburo Nakamura do?
+: politician
+: Who mother of Sydney Chaplin?
+: Which woman raised Sydney Chaplin?
+: Hannah Chaplin
+ Q: Who father of Jitendra Narayan?
+: Jitendra Narayan child of what man?
+: Nripendra Narayan
+: Who author of Kitty Pryde and Wolverine?
+: written by who?
+: Chris Claremont
+ Q: In what country Saint-Vincent-de-Salers?
+:-Vincent-de-Salers in what country?
+ A:

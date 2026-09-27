@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who father of Henry Fairfield Osborn, Jr. ?
+ A: Henry Fairfield Osborn
+: what city Travis Thomas born?
+ A: Washington
+: What sport Lukáš Bodeček play?
+: association football
+: Who director of Pirates of Malaysia?
+ A: Umberto Lenzi
+: George Birnie Esslemont's occupation?
+: politician
+: capital of Balqa Governorate?
+ A: Salt
+: what country Traverse City?
+: United States of America
+: Who composer of Paris?
+ A: Cole Porter
+: Who producer of Power?
+:

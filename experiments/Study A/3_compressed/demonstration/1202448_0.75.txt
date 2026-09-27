@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Ahead of Time?
+: Henry Kuttner
+: Who director of Rosa?
+: Joe Cheung
+ Q: what country Gornji Davidovići?
+: Bosnia and Herzegovina
+ Q: Who composer of Fame?
+: Michael Gore
+ Q: Frances Josephy's occupation?
+: journalist
+ Q: what city Charlie Davis born?
+: New York City
+ Q: What genre is Addicted to Beauty?
+: reality television
+: sport Kateřina Nash play?
+: cross-country skiing
+: capital of canton of Harnes?
+:

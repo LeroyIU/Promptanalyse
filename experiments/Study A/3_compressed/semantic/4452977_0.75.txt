@@ -1,0 +1,16 @@
+Answer question name entity only. not explain.
+: what city William Osler born?
+: William Osler from what city?
+: Ontario
+: What color York City F. C. ?
+: What color York City F. C. associated with?
+: red
+: religion of Trevor Mwamba?
+: Trevor Mwamba associated with what religion?
+: Anglicanism
+: What genre is Ace Frehley?
+: What genre Ace Frehley associated with?
+: hard rock
+: what country Goldasht, Sistan and Baluchestan?
+: Where is Goldasht, Sistan and Baluchestan?
+:

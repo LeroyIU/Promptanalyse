@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: Who was composer of Bunny?
+ A: Tom Waits
+: Who mother of Sean Penn?
+: Eileen Ryan
+: Who director of My Own Private Idaho?
+: Gus Van Sant
+: what city Antonio Calcagni born?
+ A: Recanati
+: Who father of Monthu?
+:

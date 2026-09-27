@@ -1,0 +1,13 @@
+Answer question name entity. explain
+ Reply entity name. No explanation required.
+ name entity answer, without further text.
+: color Atlético Madrid?
+: red
+: author Task?
+: William Cowper
+: director Go Now?
+: Michael Winterbottom
+: screenwriter Flesh?
+: Nick Sagan
+: What genre Kite?
+:

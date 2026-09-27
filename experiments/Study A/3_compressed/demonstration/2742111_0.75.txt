@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Joyce Tang's occupation?
+: actor
+: Who producer of The Cowboys?
+: Irving Ravetch
+: What color is ruby?
+: red
+: what city Germaine Aussey born?
+: Paris
+: Who author of Voyage d'Egypte et de Nubie?
+: Frederic Louis Norden
+: Who father of Iyasu V?
+: Mikael of Wollo
+: screenwriter for Daddy's Little Girls?
+: Tyler Perry
+: religion of Lutheran Theological Seminary at Philadelphia?
+: Evangelical Lutheran Church in America
+: What sport does Vitālijs Astafjevs play?
+:

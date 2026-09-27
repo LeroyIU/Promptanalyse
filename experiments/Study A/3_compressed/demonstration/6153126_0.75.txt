@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: Who author of Down?
+ A: Lawrence Miles
+: Who composer of Opera?
+: Brian Eno
+ Q: what country is Javar Tan?
+: Iran
+ Q: What genre is Slim Gaillard?
+: jazz
+: What capital of Wiltshire?
+: Trowbridge
+ Q: what city was Leena Peisa born?
+: Vantaa
+: Who director of My Man?
+: Kazuyoshi Kumakiri
+: What color is flag of Colorado?
+: red
+: What religion of Armenians?
+:

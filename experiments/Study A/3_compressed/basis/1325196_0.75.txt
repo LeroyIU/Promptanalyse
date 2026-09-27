@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: what city Paul Singer born?
+ A: Berlin
+: capital of Berry?
+ A: Bourges
+: what country Victory Monument in Netanya?
+ A: Israel
+ Q: Petros Efthymiou's occupation?
+ A: politician
+: Who director of April 18?
+ A:

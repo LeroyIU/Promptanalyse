@@ -1,0 +1,13 @@
+Answer question with name entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name entity answer, without further text.
+ Q: Who screenwriter for The Report?
+: Abbas Kiarostami
+: what city Joanna Elisabeth of Holstein-Gottorp born?
+: Gottorf Castle
+: Who mother of Queen Marie of Romania?
+: Grand Duchess Maria Alexandrovna of Russia
+: Who father of T. E. Lawrence?
+: Sir Thomas Chapman, 7th Baronet
+: Who author of Stand By Your Screen?
+:

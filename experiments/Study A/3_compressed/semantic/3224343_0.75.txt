@@ -1,0 +1,16 @@
+Answer question with name of entity only. not explain.
+ Q: What sport does Tranmere Rovers F. C. play?
+: Tranmere Rovers F. C. associated with what sport?
+: association football
+: What color is ruby?
+: What is ruby colored?
+: red
+: Who mother of Esau?
+: Esau child of what woman?
+: Rebecca
+: What religion of Muhammad Ali?
+: What religion Muhammad Ali associated with?
+: Nation of Islam
+: Who director of The Key?
+: Key directed by who?
+:

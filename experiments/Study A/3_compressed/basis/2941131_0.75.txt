@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Red?
+ A: Leslie Cheung
+: What genre is The City?
+: soap opera
+: father of Mohammed Omar Abdel-Rahman?
+ A: Omar Abdel-Rahman
+: Robert Florey's occupation?
+ A: screenwriter
+: capital of Amazonas?
+:

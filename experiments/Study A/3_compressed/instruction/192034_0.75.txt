@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+ Q: Who producer of Argo?
+: George Clooney
+: Who composer of Sunny?
+: Jerome Kern
+: Who director of Devotion?
+: Curtis Bernhardt
+: Who mother of Abraham Lincoln?
+: Nancy Hanks Lincoln
+: In what city was Damian Pettigrew born?
+:

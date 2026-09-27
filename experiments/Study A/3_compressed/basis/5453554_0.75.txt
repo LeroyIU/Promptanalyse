@@ -1,0 +1,11 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who producer of Bug?
+: William Castle
+ Q: Leona Detiège's occupation?
+: politician
+: religion of Claus Schenk Graf von Stauffenberg?
+: Catholic Church
+ Q: What sport Best play?
+: association football
+: Who director of Pilot?
+ A:

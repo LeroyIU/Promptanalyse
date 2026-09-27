@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What sport André Racicot play?
+ A: ice hockey
+: what country Mechanicsburg?
+: United States of America
+: What religion of Francis?
+: Catholic Church
+: What color Doncaster Rovers F. C. ?
+ A: red
+: Who composer of The Express?
+:

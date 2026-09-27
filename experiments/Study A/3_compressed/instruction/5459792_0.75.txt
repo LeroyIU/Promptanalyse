@@ -1,0 +1,13 @@
+Answer question with name of entity only. Do not explain.
+ Reply with entity name nothing else. No explanation required.
+ Give only name of entity as answer, without further text.
+: What sport Simon Tahamata play?
+: association football
+: Who director of Immunity Syndrome?
+: Joseph Pevney
+: What color is Coventry City F. C ?
+: sky blue
+: Who producer of Recovery?
+: Dr. Dre
+: Who author of Places I Never Meant to Be?
+:

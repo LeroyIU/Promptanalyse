@@ -1,0 +1,11 @@
+Answer question with name of entity only. not explain.
+ Q: What capital of Belarus?
+ A: Minsk
+: Who composer of Maria?
+: Leonard Bernstein
+: Who mother of Philotes?
+: Nyx
+: Who screenwriter for La Balance?
+: Bob Swaim
+: What sport does 1994–95 FIBA Women's European Champions Cup play?
+:

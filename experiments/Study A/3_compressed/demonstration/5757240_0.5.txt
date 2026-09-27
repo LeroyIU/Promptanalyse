@@ -1,0 +1,19 @@
+entity.
+: composer Frozen?
+: Christophe Beck
+: producer We Were Young?
+: Binka Zhelyazkova
+: author Bel Canto?
+: Ann Patchett
+: sport Brunei Barracudas?
+: basketball
+: genre Surgery?
+: noise rock
+: capital Kenya?
+: Nairobi
+: city Juan Landázuri Ricketts born?
+: Arequipa
+: Aim's?
+: disc jockey
+: screenwriter Prize?
+:

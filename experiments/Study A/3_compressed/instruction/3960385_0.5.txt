@@ -1,0 +1,13 @@
+Answer question name entity.
+ Reply entity name. No explanation required.
+ name entity, further text.
+: Who mother Carrie Brady?
+: Anna DiMera
+: country Fin?
+:
+: sport Zaur Ramazanov play?
+: association football
+: genre Southern Rock Opera?
+: alternative country
+: screenwriter Accused?
+:

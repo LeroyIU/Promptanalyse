@@ -1,0 +1,16 @@
+Answer question with name of entity only. Do not explain.
+ Q: What capital of Montserrat?
+: capital city of Montserrat is what?
+ A: Brades
+: Who author of Hagarism?
+: Hagarism written by who?
+: Patricia Crone
+ Q: Who composer of All Because of You?
+: Who music writer of All Because of You?
+: Avril Lavigne
+ Q: Who mother of Alexander the Great?
+: Alexander the Great child of what woman?
+: Olympias
+: Who producer of Life?
+: 'Life' produced by who?
+:

@@ -1,0 +1,19 @@
+Answer question with name of entity only. Do not explain.
+ Q: Who author of Closer?
+: Patrick Marber
+ Q: what country is Ittamalliyagoda?
+: Sri Lanka
+: Who screenwriter for A. I. Artificial Intelligence?
+: Ian Watson
+ Q: capital of Adyghe Autonomous Oblast?
+: Krasnodar
+: Who mother of Maria Alekseyevna of Russia?
+: Maria Miloslavskaya
+: religion of Lutheran Theological Seminary at Philadelphia?
+: Evangelical Lutheran Church in America
+ Q: Brian Eno's occupation?
+: record producer
+: what city Billy Carlson born?
+: San Diego
+: Who composer of Signs?
+:

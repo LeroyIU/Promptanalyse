@@ -1,0 +1,16 @@
+entity.
+: author Chelsea?
+:?
+: Davi Napoleon
+: capital?
+:?
+: Manila
+: composer?
+:?
+: Claudio Simonetti
+: producer?
+:?
+: Glyn Johns
+: father?
+:?
+:

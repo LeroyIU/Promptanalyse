@@ -1,0 +1,19 @@
+Answer question with name of entity only. not explain.
+ Q: What genre is Falcon Crest?
+: soap opera
+: What color is Fleetwood Town F. C. ?
+: red
+: Who director of Pirivom Santhippom?
+: Karu Pazhaniappan
+: Who mother of Margaret Douglas?
+: Margaret Tudor
+: what city Norbert Grund born?
+: Prague
+: What sport Jeffrey Aubynn play?
+: association football
+: what country is La Chapelle-en-Vercors?
+: France
+: Who screenwriter for Romance?
+: Edwin Justus Mayer
+: Who producer of Green Lantern?
+:

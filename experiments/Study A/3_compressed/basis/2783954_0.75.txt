@@ -1,0 +1,11 @@
+Answer question name of entity only. not explain.
+: What capital of Cagayan?
+ A: Tuguegarao
+: Who director of Scarf?
+: Ewald André Dupont
+: What color is A. C. Milan?
+: red
+: What genre is Férias Frustradas do Pica-Pau?
+: platform game
+: what country is Murray?
+ A:

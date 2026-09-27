@@ -1,0 +1,11 @@
+Answer question with name entity only. Do not explain.
+ Q: What color flag of Zimbabwe?
+ A: red
+: What sport Shahrul Azhar Ture play?
+: association football
+: Who composer of Time?
+: Jeff Daniels
+: Robert Jonckheere's occupation?
+: astronomer
+: Who producer of The Economics of Happiness?
+ A:
